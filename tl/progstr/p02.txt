@@ -1,0 +1,384 @@
+PROG:80015258	Confuse: 1 Foe
+PROG:80015268	Def Down: Foe Units
+PROG:80015280	Def Down: 1 Foe
+PROG:80015298	Atk Down: Foe Units
+PROG:800152b0	Atk Down: 1 Foe
+PROG:800152c8	SP -75%: 1 Foe
+PROG:800152e4	SP -50%: 1 Foe
+PROG:80015300	SP -25%: 1 Foe
+PROG:8001531c	Weather Ctrl
+PROG:8001532c	Special: 1 Foe HP Drain
+PROG:80015348	Spcl: Random HP Drain
+PROG:80015360	Wind: Foes, Medium
+PROG:8001537c	Wind: 1 Foe, Medium
+PROG:80015394	Water: Foes, Strong
+PROG:800153b0	Water: Foes, Medium
+PROG:800153cc	Water: Foes, Weak
+PROG:800153e8	Water: 1 Foe, Strong
+PROG:80015400	Water: 1 Foe, Medium
+PROG:80015418	Water: 1 Foe, Weak
+PROG:80015430	Earth: Foes, Strong
+PROG:8001544c	Earth: Foes, Medium
+PROG:80015468	Earth: Foes, Weak
+PROG:80015484	Earth: 1 Foe, Strong
+PROG:8001549c	Earth: 1 Foe, Medium
+PROG:800154b4	Earth: 1 Foe, Weak
+PROG:800154cc	Fire: Foes, Strong
+PROG:800154e8	Fire: Foes, Medium
+PROG:80015504	Fire: Foes, Weak
+PROG:80015520	Fire: 1 Foe, Strong
+PROG:80015538	Fire: 1 Foe, Medium
+PROG:80015550	Fire: 1 Foe, Weak
+PROG:80015574	No target in range.
+PROG:80015590	Can't use strategy.
+PROG:800155a8	No strategies available!
+PROG:800155c8	Wait here?
+PROG:800155e4	%s's %s can't equip %s.\nGive it anyway?
+PROG:80015610	You have no items!
+PROG:8001562c	Gave %s to %s.
+PROG:80015640	Inventory full. Couldn't give it.
+PROG:80015668	Discard %s?
+PROG:8001567c	Discarded %s.
+PROG:8001568c	Restores HP of units in range.
+PROG:800156b4	%s's army recovered HP!
+PROG:800156cc	No unit to restore.
+PROG:800156e8	No allied units in range.
+PROG:8001583c	Damage: {C6}%3u{C7} 
+PROG:80015854	Atk: %3u Def:%3u 
+PROG:8001586c	-
+PROG:80015890	-
+PROG:800158a4	-
+PROG:800158cc	-
+PROG:800158ec	%s took no damage.
+PROG:80015908	%s's strategy failed!
+PROG:80015c1c	-
+PROG:80015c30	-Retreated-
+PROG:80015c3c	Type
+PROG:80015c48	Items
+PROG:80015c54	Sort
+PROG:80015c60	 Officer Info  Ally/Foe
+PROG:80015c7c	End Sort
+PROG:80015c88	Sort by which item?
+PROG:80015ca4	No allied units in range.
+PROG:80015cc0	No enemy unit in range\nthat a strategy can hit.
+PROG:80015cec	No enemy units in attack range.
+PROG:80015d0c	Enemy unit.
+PROG:80015d1c	Can't select that unit.
+PROG:80015d38	Can't attack allies.
+PROG:80015d54	Out of range.
+PROG:80015d6c	Out of attack range.
+PROG:80015d88	No move
+PROG:80015d94	Heal - -
+PROG:80015e4c	-
+PROG:80015e6c	Out of movement range.\n...but you warp. Whoosh!
+PROG:80015ea4	A unit's in the way, pal!
+PROG:80015ec4	Out of movement range.
+PROG:80015edc	Not one of our units.\n\nView this unit's info?
+PROG:80015f10	You can't control this unit.\n\nView its info?
+PROG:80015f44	Can't order while confused!\n\nView this unit's info?
+PROG:80015f7c	This unit has finished its orders.\n\nView this unit's info?
+PROG:80015fb8	Set as Moved\n
+PROG:80016098	Difficulty
+PROG:800160a4	Type Chg
+PROG:800160b0	Max Stats
+PROG:800160bc	Level +5
+PROG:800160c8	VS ON/OFF
+PROG:800160d4	Control All
+PROG:800160e4	0 Player
+PROG:800160f0	HEX Win
+PROG:800160fc	Warp ON/OFF
+PROG:80016108	Win Cond
+PROG:80016114	Shrink
+PROG:80016120	Foe Ofcr
+PROG:8001612c	Foe List
+PROG:80016138	AllyOfcr
+PROG:80016144	AllyList
+PROG:80016150	Unmoved
+PROG:8001615c	End Turn
+PROG:80016168	Retreat
+PROG:80016174	 Load 
+PROG:80016180	Quit
+PROG:8001618c	<< Full Retreat >>\n\nBack to the battle's start.
+PROG:800161c4	End commands for all units?
+PROG:800161e8	View Chg
+PROG:800161f4	End Turn
+PROG:80016210	-
+PROG:80016230	Items
+PROG:8001623c	Strats
+PROG:80016248	-----
+PROG:80016254	Items
+PROG:80016260	Strats
+PROG:80016278	No units can act.\n\n%s
+PROG:800162c4	%s promoted to %s!
+PROG:800162dc	Warp OFF
+PROG:800162ec	Warp ON
+PROG:800162f8	Forced a HEX victory.
+PROG:80016318	Entering 0-player mode.
+PROG:80016330	You can now control all PLAYER units.
+PROG:80016360	VS Mode OFF
+PROG:80016374	VS Mode ON
+PROG:80016384	Funds set to {C6} 50,000 {C7}.
+PROG:800163a4	Kongming's lifespan set to MAX.
+PROG:800163c0	Kongming's lifespan set to 0.
+PROG:800163dc	Currently %s. Change it?
+PROG:800163f8	Set to %s.
+PROG:80016404	Can't Full Retreat now!
+PROG:80016424	Quit the game?
+PROG:8001643c	Enemy Phase
+PROG:8001644c	Leaving 0-player mode.
+PROG:80016464	Allied Phase
+PROG:80016474	The battle dragged on.\nRetreating.\n
+PROG:80016498	Turn %w  %s
+PROG:800164a8	Each surviving unit got\n{C5}%w{C7} bonus Exp points!
+PROG:800164ec	Turn %2d/%2d
+PROG:80016790	-
+PROG:80016ad8	-
+PROG:80016c34	No Memory Card inserted.
+PROG:80016c68	-
+PROG:80016c88	-
+PROG:80016cb0	-
+PROG:80016cd0	-
+PROG:80016cec	-
+PROG:80016d0c	%6u Turns  %4u:%1u%1u
+PROG:80016d28	Kongming
+PROG:80016d34	Saving to Memory Card %s.\nDo not remove the Memory Card.
+PROG:80016d94	Save complete.
+PROG:80016dac	Data 1
+PROG:80016db8	Data 2
+PROG:80016dc4	Data 3
+PROG:80016dd0	Data 4
+PROG:80016ddc	Data 5
+PROG:80016de8	Card was removed.
+PROG:80016e00	Overwrite it?
+PROG:80016e1c	Card 1
+PROG:80016e28	Card 2
+PROG:80016e34	Card %s
+PROG:80016e40	No Koumeiden data on Card %s.
+PROG:80016e68	Card %s lacks 3 free blocks.
+PROG:80016e8c	 save to
+PROG:80016e98	 load
+PROG:80016f70	Sort by which item?
+PROG:80016f8c	Items
+PROG:80016f98	Type
+PROG:80016fa4	Item Info
+PROG:80016fb0	------
+PROG:80016fc0	Equip/Items %u
+PROG:80016fd0	End Item Check
+PROG:80016fe4	Item Info
+PROG:80016ff4	Item Check
+PROG:80017004	Storehouse is empty.
+PROG:8001701c	----
+PROG:80017028	Str rose by %u.
+PROG:8001703c	Str can't go higher.
+PROG:80017058	Int rose by %u.
+PROG:8001706c	Int can't go higher.
+PROG:80017088	Ldr rose by %u.
+PROG:8001709c	Ldr can't go higher.
+PROG:800170b8	%s is now %s
+PROG:800170c8	Can't promote any further.
+PROG:800170e8	Raise its level first.
+PROG:8001710c	Can't use this in this class.
+PROG:80017130	This won't change the class.
+PROG:80017154	%s couldn't become %s
+PROG:8001716c	Can't use that item.
+PROG:80017184	Is this OK?
+PROG:80017510	Allied Units
+PROG:80017520	1 Ally
+PROG:8001752c	Enemy Units
+PROG:8001753c	1 Foe
+PROG:80017548	The strategy failed.
+PROG:80017558	Using %s to attack %s.
+PROG:8001756c	Used %s!
+PROG:8001757c	Attack %s with Wind.
+PROG:800175ac	Weather became %s.
+PROG:800175c0	Are you sure?
+PROG:800175d8	Reduce %s's SP.
+PROG:800175f0	%s's SP fell.
+PROG:80017604	Reduce %s's Attack.
+PROG:8001761c	Attack can't drop further.
+PROG:80017638	%s's Attack fell.
+PROG:8001764c	Reduce %s's Defense.
+PROG:80017664	Defense can't drop further.
+PROG:80017680	%s's Defense fell.
+PROG:80017694	Confuse %s.
+PROG:800176a8	Already confused.
+PROG:800176c0	%s is confused!
+PROG:800176d0	Drain %s's HP every turn.
+PROG:800176f4	%s's HP is draining away.
+PROG:80017714	Sharply cut one foe's attack speed.
+PROG:80017738	%s's attack speed plunged!
+PROG:80017750	Sharply cut one foe's movement.
+PROG:80017770	%s's movement plunged!
+PROG:80017788	Can't restore any more.
+PROG:800177a0	Restore %s's HP.
+PROG:800177bc	Restore %s's SP.
+PROG:800177d8	Can't use on supply units.
+PROG:800177f4	Raise %s's movement speed.
+PROG:8001780c	Cure %s's confusion.
+PROG:80017828	%s recovered from confusion.
+PROG:80017840	That unit isn't confused.
+PROG:8001785c	Cure %s's HP drain.
+PROG:80017880	%s recovered from HP drain.
+PROG:800178a0	Cure %s's attack speed loss.
+PROG:800178c4	%s's attack speed recovered.
+PROG:800178dc	Cure %s's movement loss.
+PROG:80017900	%s's movement recovered.
+PROG:80017918	Raise %s's Attack.
+PROG:80017930	Attack can't rise further.
+PROG:80017950	%s's Attack rose.
+PROG:80017968	Raise %s's Defense.
+PROG:80017984	Defense can't rise further.
+PROG:800179a4	%s's Defense rose.
+PROG:800179bc	Reduces damage from strategies.
+PROG:800179d8	%s takes less strategy damage.
+PROG:800179f4	Lets a unit that acted act again.
+PROG:80017a18	Can't use on your own unit.
+PROG:80017a34	%s can act again.
+PROG:80017a58	Promotes a unit.
+PROG:80017a74	Can't promote any further.
+PROG:80017a94	Level too low,\nso it can't promote.
+PROG:80017abc	%s promoted to %s.
+PROG:80017ad8	Seal %s's strategies.
+PROG:80017af0	%s's strategies were sealed.
+PROG:80017b0c	Restore %s's condition.
+PROG:80017b24	%s can use strategies again.
+PROG:80017b44	%s's strategy damage is normal.
+PROG:80017b60	%s's Attack returned to normal.
+PROG:80017b78	%s's Defense returned to normal.
+PROG:80017b90	That unit is in normal condition.
+PROG:80017ba8	Make %s retreat.
+PROG:80017bbc	%s's unit was wiped out!
+PROG:80017bd4	Strikes all enemy units.
+PROG:80017bf0	Promote %s's unit.
+PROG:80017c10	Level too low
+PROG:80017c24	Can't promote any further.
+PROG:80017c40	Can't use with this type!
+PROG:80017c60	Change class.
+PROG:80017c78	Change class?
+PROG:80017c94	%s changed class to %s.
+PROG:80017cb0	This won't change the type!
+PROG:80017cd4	Raise %s's max %s.
+PROG:80017cf0	%s's max %s is now %w.
+PROG:80017d08	This item can't be used!
+PROG:80017d28	Not enough SP!
+PROG:80017d40	%s used the %s ploy!
+PROG:80017f38	-
+PROG:800180d8	Tsubure Soft
+PROG:800180f8	Hearing this tale, the people took to saying, "A dead Kongming made a living Zhongda run."
+PROG:80018160	Genius!
+PROG:8001816c	Truly...
+PROG:8001817c	Kongming, what a fearsome man. To work even his own death into his scheme.
+PROG:800181c4	What have I done...? Did I flee in terror of a wooden figure of Kongming?
+PROG:80018214	I see.
+PROG:80018220	I have no reason to lie now. It is most likely the truth.
+PROG:80018264	Yes, sir. A captured Shu soldier said so.
+PROG:8001829c	Then that Kongming was...only a wooden puppet?
+PROG:800182d8	W-what?!
+PROG:800182ec	In August of 234 (Shu year Jianxing 12), Zhuge Liang breathed his last at Wuzhang Plains. He was 54.
+PROG:80018354	Prime Minister...
+PROG:80018360	(I'm coming to your side now.)
+PROG:80018380	(I am so sorry.)
+PROG:80018398	(I, Kongming, was never able to restore the Han house.)
+PROG:800183dc	(Lord Liu Bei...)
+PROG:800183ec	Ah, the star.
+PROG:800183fc	It will fall soon...
+PROG:80018414	Watch closely.
+PROG:80018428	When that star falls, I shall die.
+PROG:80018454	That is the star that governs my life.
+PROG:8001847c	Look at that star.
+PROG:80018498	Prime Minister, please pass judgment.
+PROG:800184b0	I beg your pardon. I am prepared to take responsibility.
+PROG:800184fc	Do not seek glory...
+PROG:80018518	All you had to do was hold your ground.
+PROG:80018540	No.
+PROG:8001854c	I told you to defend Jieting. Who told you to defeat Sima Yi?
+PROG:8001859c	Fool!
+PROG:800185ac	I meant to attack the low enemy camp from the high ground. I thought that would bring victory...
+PROG:80018604	I told you never to camp on the mountain.
+PROG:80018638	Ma Su, why did you ignore my orders?
+PROG:80018668	I will do my best to live up to your expectations.
+PROG:80018694	Serve Shu Han from now on. I am sure you will be my successor.
+PROG:800186f8	I have crossed battlefields for many years, but never have I seen such talent as yours.
+PROG:80018750	I, Jiang Wei, pledge my loyalty to Shu Han.
+PROG:80018778	I suppose this is Heaven's will.
+PROG:80018794	Jiang Wei, you fought well. Well? Would you consider serving Shu Han?
+PROG:800187e4	K-Kongming.
+PROG:800187f4	What am I to do?
+PROG:80018824	I cannot return to the castle like this.
+PROG:80018840	Your Majesty, please grant me leave for the Northern Expedition.
+PROG:80018874	We must fight Wei and win.
+PROG:800188ac	To break this deadlock, and to carry out the late emperor's will to restore the Han house,
+PROG:800188f4	And Shu Han is weaker than Wei or Wu.
+PROG:8001891c	The land is now divided into three: Wei, Wu, and us, Shu Han.
+PROG:8001895c	He passed away before his aims were fulfilled.
+PROG:80018980	The late emperor raised an army to save the people and restore the Han house, but...
+PROG:800189c8	Prime Minister Zhuge Liang humbly addresses Your Majesty.
+PROG:800189f8	Kongming had at last won Meng Huo's heart. The pacification of Nanman was complete.
+PROG:80018a40	Y-yes. Thank you...
+PROG:80018a6c	From now on, rule Nanman as a king who loves his people and peace.
+PROG:80018ab4	Meng Huo, you finally understand.
+PROG:80018adc	Kongming...no, Lord Kongming. Please forgive me.
+PROG:80018b14	Since ancient times, I have never heard of anyone fighting seven times and forgiving seven times.
+PROG:80018b5c	Meng Huo.
+PROG:80018b68	I was wrong. I was wrong! To think I was fighting such a man.
+PROG:80018bb4	That's right.
+PROG:80018bc0	You still mean to forgive me?
+PROG:80018bd8	In April of 223 (Shu year Zhangwu 3), Liu Xuande died at Baidi Castle. He was 63.
+PROG:80018c3c	Your Majesty!
+PROG:80018c48	Your Majesty!
+PROG:80018c54	Kongming, I leave the rest to you...
+PROG:80018c74	Your Majesty.
+PROG:80018c80	There is still Zhang Fei...
+PROG:80018c9c	Oh, Guan Yu...
+PROG:80018cb0	Thank you, Kong...ming...
+PROG:80018cd0	Please rest assured.
+PROG:80018ce4	Such kind words. Your Majesty, I will give my all to serve Liu Shan.
+PROG:80018d34	If you govern the country, the people will be happy.
+PROG:80018d6c	Your talent is ten times that of Cao Pi or Sun Quan.
+PROG:80018d9c	What?!
+PROG:80018da8	Kongming, become emperor yourself and work to restore the Han house.
+PROG:80018dec	And if he lacks the makings of an emperor...
+PROG:80018e14	Yes.
+PROG:80018e20	If he does have the makings of an emperor, then please assist him.
+PROG:80018e60	Kongming, I entrust my son Liu Shan to you.
+PROG:80018e8c	Your Majesty...
+PROG:80018e98	This is what is known as the Battle of Red Cliffs.
+PROG:80018ed4	Cao Cao's great fleet was burned to ashes.
+PROG:80018f14	The flames Huang Gai set rode the southeast wind and spread in an instant.
+PROG:80018f5c	What?! Fengchu's scheme has backfired here!
+PROG:80018f9c	It's no use. The ships are chained together, so they cannot scatter.
+PROG:80018fe4	Damn it, scatter the ships! Flee the burning ones!
+PROG:80019020	That's right, it was the Self-Injury Ploy. You fool, you only now realize it?
+PROG:80019060	What? Then your surrender was...?
+PROG:8001908c	Hahaha... Cao Cao, did you truly think I would surrender?
+PROG:800190d0	Heh heh heh, had enough?
+PROG:800190f4	What, you whelp!
+PROG:80019108	Curse you, old man!
+PROG:80019128	Ugh, he's strong.
+PROG:80019144	Ugh, no...
+PROG:80019154	Mine!
+PROG:80019164	Hm? What's this?
+PROG:80019178	Ugh...damn it.
+PROG:80019198	Got you!
+PROG:800191a8	I can't believe it. Is she really a woman?
+PROG:800191cc	I win.
+PROG:800191e0	Ugh, well done.
+PROG:800191f4	You're pathetic for a man.
+PROG:80019218	You little...
+PROG:80019228	That won't hit me.
+PROG:80019248	I win!
+PROG:8001925c	Don't let your guard down just because I'm a woman.
+PROG:80019288	A draw, huh...
+PROG:8001929c	What?!
+PROG:800192a8	Finishing blow!
+PROG:800192b8	Tch, he ran away.
+PROG:800192d8	Next, who's it going to be?
+PROG:800192ec	A tough one.
+PROG:80019300	He got away.
+PROG:80019314	Damn you...take this!
+PROG:80019330	Can you withstand Jiang Wei's spear?
+PROG:80019358	How's that? Had enough?
+PROG:80019374	Being a woman won't earn you mercy.
+PROG:80019398	Not bad. But he ran off.
+PROG:800193b8	He ran off...
+PROG:800193cc	Hmph, had enough?

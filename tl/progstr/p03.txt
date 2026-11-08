@@ -1,0 +1,492 @@
+PROG:800193ec	Damn you...
+PROG:800193fc	Think you can win with skill like that?
+PROG:80019424	I've captured the enemy general!
+PROG:8001943c	Too slow! Take that!
+PROG:80019458	What, he ran off on me?
+PROG:80019474	He really is skilled.
+PROG:8001948c	Not yet! I'm not done!
+PROG:800194a4	Jiang Wei, prepare yourself!
+PROG:800194b4	The victory is mine.
+PROG:800194c4	Tch, he got away.
+PROG:800194e0	Hmm, this one is strong.
+PROG:800194f8	I win.
+PROG:8001950c	Damn it, remember this!
+PROG:8001952c	Running away? That's not very manly.
+PROG:80019550	Th-This is too much for me.
+PROG:80019570	Can you take this glaive?
+PROG:80019594	Can you take this blow?
+PROG:800195b8	He's a tough one.
+PROG:800195d0	What, you ran away?
+PROG:800195e8	Tch, the coward ran.
+PROG:80019604	So he ran away.
+PROG:80019618	With skill like that, you can't beat Zhao Yun.
+PROG:80019644	Now then, who is next?
+PROG:8001965c	Can you withstand Zhao Yun's spear?
+PROG:8001967c	Ha ha, you picked the wrong opponent.
+PROG:800196a0	Whoa!
+PROG:800196ac	Too slow.
+PROG:800196b8	What?!
+PROG:800196c4	I see, you are no ordinary woman.
+PROG:800196ec	I've captured Meng Huo!
+PROG:80019704	...Magnificent.
+PROG:80019710	To think such a fighter would be in a place like this.
+PROG:80019744	He is not to be underestimated.
+PROG:8001975c	Hmph, you're quite good.
+PROG:80019778	What's the matter? Is that all your skill amounts to?
+PROG:800197a4	Change horses, you say? You're letting me go?
+PROG:800197d0	What kind of horse is that? Hurry and fetch another!
+PROG:80019800	Aaaaaah...
+PROG:80019814	Well, well, you're quite good.
+PROG:80019834	I see, he's not to be taken lightly.
+PROG:80019858	You there, youngster, fight Huang Zhong!
+PROG:80019880	Fool! You think you can match me?
+PROG:800198b4	Where is the enemy general? I will be your opponent.
+PROG:800198e0	You look like a famed officer. I request a duel.
+PROG:80019910	Come on, then! Zhurong, wife of Meng Huo, will fight you!
+PROG:8001994c	I am Meng Huo, king of the Nanman! Come on, bring it!
+PROG:80019980	I am Jiang Wei of Tianshui. I will be your opponent.
+PROG:800199b0	The name's Wei Yan! Come at me if you don't value your life!
+PROG:800199e8	I'm Zhang Bao, son of Zhang Fei. Come, fight me one on one!
+PROG:80019a20	I am Guan Xing, son of Guan Yu. Will no one duel me?
+PROG:80019a60	I'll be your opponent! Come on, fight!
+PROG:80019a88	You there, general! Zhao Yun of Changshan will face you.
+PROG:80019ab8	I am Guan Yu. Let us have a fair fight.
+PROG:80019ae4	Kongming's long struggle begins here.
+PROG:80019b24	Moved by Liu Bei's sincerity, Kongming finally resolved to leave his hermitage.
+PROG:80019b70	General...
+PROG:80019b7c	I beg you, for the sake of the Han house and the people, lend us your strength.
+PROG:80019bd0	I, Liu Bei, am deeply impressed.
+PROG:80019bf0	As expected of Kongming, known as the Sleeping Dragon. A magnificent strategy.
+PROG:80019c30	This is called the Plan of Three Divisions of the Realm.
+PROG:80019c54	The time when we can defeat Cao Cao.
+PROG:80019c74	Cao Cao to the north, Sun Quan to the east. Take Jing and Yi in the west and await heaven's time.
+PROG:80019cd0	Jing Province and Yi Province, you say?
+PROG:80019ce8	Then where should you take, General? Land held by neither Cao Cao nor Sun Quan: Jing and Yi Provinces.
+PROG:80019d58	And to its east lies Sun Quan. He too commands a mighty army.
+PROG:80019d9c	In the north of this land is your greatest enemy, General: Cao Cao.
+PROG:80019dd4	This is a map of the continent.
+PROG:80019df0	What is this?
+PROG:80019dfc	General, please look at this.
+PROG:80019e1c	You aimed for my headband on purpose? Terrifying skill.
+PROG:80019e58	Guan Yu, now I have repaid my debt.
+PROG:80019e84	Taste my arrow!
+PROG:80019ea0	Green is our army, blue is Sima Yi, red is Sun Quan's forces.
+PROG:80019ed4	Green is our army, blue is Cao Fang, red is Sun Quan's forces.\nWu is preparing to attack Wei in concert with us.
+PROG:80019f48	Green is our army, blue is Cao Fang, red is Sun Quan's forces.\nSima Yi purged Cao Shuang's faction and seized power. Wei's emperor is a puppet.
+PROG:80019fd4	Green is our army, blue is Cao Fang, red is Sun Quan's forces.
+PROG:8001a004	Green is our army, blue is Cao Fang, red is Sun Quan, purple is the Nanman.
+PROG:8001a044	Green is our army, blue is Cao Fang, red is Sun Quan's forces.\nCao Rui died of illness, having ordered Sima Yi and Cao Shuang to aid young Cao Fang.
+PROG:8001a0d0	Green is our army, blue is Cao Rui, red is Sun Quan's forces.\nCao Zhen's eldest son Cao Shuang is the new commander of the western front.
+PROG:8001a14c	Green is our army, blue is Cao Rui, red is Sun Quan's forces.\nCao Zhen died of illness; Sima Yi now commands the western front. Beware.
+PROG:8001a1d4	Yellow is our army, green is Liu Shan, blue is Cao Rui, red is Sun Quan's forces.
+PROG:8001a214	Green is our army, blue is Cao Rui, red is Sun Quan's forces.\nSadly, Cao Zhen and others retook the Longxi region you pacified, Chancellor.
+PROG:8001a2a0	Green is our army, blue is Cao Rui, red is Sun Quan's forces.\nSun Quan has taken the throne and declared independence. The state is named Wu.
+PROG:8001a318	Green is our army, blue is Cao Rui, red is Sun Quan's forces.
+PROG:8001a348	Green is our army, blue is Cao Rui, red is Sun Quan's forces.\nCao Pi died of illness in Wei and his son Cao Rui succeeded him as emperor.\nCao Pi entrusted Cao Rui to three ministers: Cao Zhen, Sima Yi and Chen Qun.
+PROG:8001a40c	Green is our army, blue is Cao Pi, red is Sun Quan, purple is the Nanman.
+PROG:8001a44c	Green is our army, blue is Cao Pi, red is Sun Quan's forces.
+PROG:8001a480	Green is our army, blue is Cao Pi, red is Sun Quan's forces.\nHuang Zhong, who fought hard at Yiling, has died of arrow wounds taken in battle.
+PROG:8001a50c	Green is our army, blue is Cao Pi, red is Sun Quan's forces.\nCao Pi, King of Wei after Cao Cao, usurped the Han throne and founded the Wei dynasty.\nRumor said Cao Pi killed Emperor Xian, but it was false. The emperor lives.\nFearing our retaliation, Sun Quan submitted to Cao Pi and was made King of Wu.
+PROG:8001a640	Green is our army, blue is Cao Cao, red is Sun Quan's forces.
+PROG:8001a670	Green is our army, blue is Cao Cao, red is Sun Quan's forces.\nGuan Yu took Xiangyang and is besieging Fan Castle, which should fall soon.\nCao Cao fears Guan Yu's momentum and is even considering moving the capital.
+PROG:8001a73c	Green is our army, blue is Cao Cao, red is Sun Quan's forces.\nCao Cao has pacified Hanzhong and been raised from Duke to King of Wei.\nSun Quan demanded Jing Province back. We made peace, ceding the east of the Xiang to Wu.
+PROG:8001a868	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Zhang Lu, yellow is Liu Zhang.\nCao Cao was made Duke of Wei and attacked Ruxu to subdue Sun Quan.\nXun Yu, who opposed Cao Cao becoming Duke, is said to have killed himself.\nCao Cao also sent Xiahou Yuan to defeat Ma Chao and fully pacify Liangzhou.\nMa Chao fled to Zhang Lu in Hanzhong.
+PROG:8001a9c4	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Zhang Lu, yellow is Ma Chao and Liu Zhang.\nNot visible on the map, but Sun Quan made Bu Zhi Governor of Jiao Province and took control of it.\nCao Cao also lured Ma Teng to Xuchang with a ruse and had him murdered.\nSo his son Ma Chao attacked Guanzhong but lost to Cao Cao.
+PROG:8001ab00	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Zhang Lu, yellow is Ma Teng and Liu Zhang.
+PROG:8001ab50	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Zhang Lu, yellow is Ma Teng and Liu Zhang.\nLiu Cong surrendered to Cao Cao, who gained nearly all of Jing Province without a fight.
+PROG:8001abf0	Blue is Cao Cao, red is Sun Quan, purple is Liu Qi, yellow is Ma Teng, Liu Zhang and Zhang Lu.
+PROG:8001ac3c	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Liu Cong, yellow is Ma Teng, Liu Zhang and Zhang Lu.
+PROG:8001ac90	Green is our army, blue is Cao Cao, red is Sun Quan, purple is Liu Biao, yellow is Ma Teng, Liu Zhang and Zhang Lu.
+PROG:8001ace4	Green is Liu Bei, blue is Cao Cao, red is Sun Quan, purple is Liu Biao, yellow is Ma Teng, Liu Zhang and Zhang Lu.
+PROG:800ac0d4	-
+PROG:800ac438	-
+PROG:800ac458	-
+PROG:800ac890	Memory Cards 1 and 2 are not set.\nYou cannot save like this.
+PROG:800ac8d0	Memory Card 1 is not set.
+PROG:800ac8f0	Memory Card 2 is not set.
+PROG:800ac910	Memory Cards 1 and 2 are not set.
+PROG:800ac980	Memory Cards 1 and 2 do not\nhave 3 free blocks.\nYou cannot save like this.
+PROG:800ac9c8	Memory Card 1 has no 3 free blocks.
+PROG:800ac9f0	Memory Card 2 has no 3 free blocks.
+PROG:800aca18	Memory Cards 1 and 2 are not\nformatted.\nYou cannot use them like this.
+PROG:800aca58	Memory Card 1 is not formatted.
+PROG:800aca7c	Memory Card 2 is not formatted.
+PROG:800acaa0	You cannot save like this.
+PROG:800acb00	Card %s will now be formatted.
+PROG:800acb20	Card %s is not formatted.\nFormat card %s?
+PROG:800acb5c	Card %s formatting complete.
+PROG:800acb7c	Card %s formatting failed.
+PROG:800acb9c	Card %s is not set.
+PROG:800acd5c	Unavailable
+PROG:800acd6c	Which card will you use?
+PROG:800acd90	Which slot do you want to%s?
+PROG:800acdb0	Checking the Memory Card...
+PROG:800acecc	This unit cannot do that.
+PROG:800ae1cc	-
+PROG:800dc77c	Xuchang
+PROG:800dc784	Xiangyang
+PROG:800dc794	Manual
+PROG:800dc79c	Cart
+PROG:800dc7a0	Horse
+PROG:800dc7a4	Buckler
+PROG:800dc7a8	Shield
+PROG:800dc7ac	Armor
+PROG:800dc7b0	Helm
+PROG:800dc7b4	Robe
+PROG:800dc7b8	Fan
+PROG:800dc7bc	Wagon
+PROG:800dc7c4	L.Cannon
+PROG:800dc7cc	M.Cannon
+PROG:800dc7d4	S.Cannon
+PROG:800dc7dc	Repeater
+PROG:800dc7e4	Xbow
+PROG:800dc7e8	Bow
+PROG:800dc7ec	Beast
+PROG:800dc7f0	Instr.
+PROG:800dc7f8	Short Wpn
+PROG:800dc800	Long Wpn
+PROG:800dc808	Heavy Wpn
+PROG:800dc810	Treasure
+PROG:800dc818	None
+PROG:800dc820	Atk
+PROG:800dc828	Int
+PROG:800dc830	Ldr
+PROG:800dc838	Hit
+PROG:800dc840	Item/%s
+PROG:800dc848	Usable
+PROG:800dc888	-
+PROG:800dc894	Equip
+PROG:800dc89c	2
+PROG:800dc8a0	1
+PROG:800dca68	,
+PROG:800dcab4	Sun Shangxiang
+PROG:800dcacc	Hermit
+PROG:800dcadc	Beauty
+PROG:800dcb5c	Empress Fu
+PROG:800dcb6c	Empress Zhang
+PROG:800dcb74	Illusionist
+PROG:800dcb7c	Snake Tamer
+PROG:800dcb84	Elephant Tamer
+PROG:800dcb94	Rattan Troops
+PROG:800dcbac	Supply Corps
+PROG:800dcbb4	Head
+PROG:800dcbc4	Tiger Tamer
+PROG:800dcbdc	Horse Archers
+PROG:800dcbe4	Chariot Corps
+PROG:800dcedc	Liang Qian
+PROG:800dcf84	Chen Zao
+PROG:800dcf9c	Qin Lang
+PROG:800dd344	Back
+PROG:800dd348	Purple
+PROG:800dd34c	Green
+PROG:800dd350	Red
+PROG:800dd354	Blue
+PROG:800dd358	Black
+PROG:800dd35c	None
+PROG:800dd364	Expert
+PROG:800dd36c	Medium
+PROG:800dd374	Beginner
+PROG:800dd37c	Sorrow
+PROG:800dd384	Joy
+PROG:800dd38c	Attack
+PROG:800dd394	Sortie
+PROG:800dd39c	General
+PROG:800dd3a4	Wu Army
+PROG:800dd3ac	Nanman Army
+PROG:800dd3b4	Wei III
+PROG:800dd3bc	Wei II
+PROG:800dd3c4	Wei I
+PROG:800dd3cc	Rumble
+PROG:800dd3d4	Thunder
+PROG:800dd3dc	Sword Hit
+PROG:800dd3e4	Attack D
+PROG:800dd3ec	Attack C
+PROG:800dd3f4	Attack A
+PROG:800dd3fc	Bomb
+PROG:800dd404	Full Heal
+PROG:800dd40c	Big Heal
+PROG:800dd414	Small Heal
+PROG:800dd41c	Buff
+PROG:800dd424	Confuse
+PROG:800dd42c	Rockfall
+PROG:800dd434	Band
+PROG:800dd43c	Whip
+PROG:800dd440	Impact
+PROG:800dd448	Retreat
+PROG:800dd458	OK
+PROG:800dd468	Sell
+PROG:800dd470	Buy
+PROG:800dd478	Config
+PROG:800dd480	Load
+PROG:800dd488	Save
+PROG:800dd490	Sort
+PROG:800dd498	View
+PROG:800dd4a0	Swap
+PROG:800dd4a8	Use
+PROG:800dd4b4	Spy
+PROG:800dd4bc	Officer
+PROG:800dd4c4	Info
+PROG:800dd4cc	Func.
+PROG:800dd4d4	Items
+PROG:800dd4dc	Equip
+PROG:800dd4f8	Sell $
+PROG:800dd510	Buy $
+PROG:800dd518	Yes
+PROG:800dd520	No
+PROG:800dd530	End
+PROG:800dd540	Exit
+PROG:800dd548	Leave
+PROG:800dd550	Stay
+PROG:800dd564	Unaligned
+PROG:800dd56c	Liu Bei
+PROG:800dd574	Indep.
+PROG:800dd57c	Tribes
+PROG:800dd584	Nanman
+PROG:800dd58c	Wu
+PROG:800dd590	Wei
+PROG:800dd594	Shu
+PROG:800dd598	Mounts
+PROG:800dd5a0	Armor
+PROG:800dd5a8	Weapons
+PROG:800dd5b0	Mov
+PROG:800dd5b8	Def
+PROG:800dd5c0	Atk
+PROG:800dd5c8	Exp
+PROG:800dd5d0	SP
+PROG:800dd5d8	HP
+PROG:800dd5e0	Ldr
+PROG:800dd5e8	Int
+PROG:800dd5f0	Str
+PROG:800dd5f8	Fire Ship
+PROG:800dd600	Warship
+PROG:800dd608	Great Ship
+PROG:800dd610	Illusionist
+PROG:800dd618	Elephant Tamer
+PROG:800dd620	Qiang Soldier
+PROG:800dd628	Rattan Troops
+PROG:800dd630	Emperor
+PROG:800dd638	Nanman Soldier
+PROG:800dd640	Band
+PROG:800dd648	Supply Corps
+PROG:800dd650	Ration Corps
+PROG:800dd658	Tiger Tamer
+PROG:800dd660	Martial Artist
+PROG:800dd668	Rebel
+PROG:800dd670	Bandit
+PROG:800dd678	Grand Strategist
+PROG:800dd680	Sage Strategist
+PROG:800dd688	Strategist
+PROG:800dd690	Outlaws
+PROG:800dd698	Crossbow Riders
+PROG:800dd6a0	Horse Archers
+PROG:800dd6a8	Thunder Cart
+PROG:800dd6b0	Heavy Cannon
+PROG:800dd6b8	Light Cannon
+PROG:800dd6c0	Grand Chariot
+PROG:800dd6c8	Heavy Chariot
+PROG:800dd6d0	Light Chariot
+PROG:800dd6d8	Royal Guard
+PROG:800dd6e0	Heavy Cavalry
+PROG:800dd6e8	Light Cavalry
+PROG:800dd6f0	Repeating Bows
+PROG:800dd6f8	Crossbowmen
+PROG:800dd700	Archers
+PROG:800dd708	Imperial Guard
+PROG:800dd710	Long Weapons
+PROG:800dd718	Short Weapons
+PROG:800dd720	Storehouse
+PROG:800dd728	Equip
+PROG:800dd730	Exit
+PROG:800dd738	Tent
+PROG:800dd740	House
+PROG:800dd748	Manor
+PROG:800dd750	Palace
+PROG:800dd758	Item Shop
+PROG:800dd760	Arms Shop
+PROG:800dd768	Tavern
+PROG:800dd770	Meeting Hall
+PROG:800dd778	Council Hall
+PROG:800dd784	-
+PROG:800dd788	-
+PROG:800dd78c	-
+PROG:800dd790	-
+PROG:800dd79c	-
+PROG:800dd7a0	Rematch
+PROG:800dd7b4	Zhuge Liang
+PROG:800dd7d8	Def
+PROG:800dd7e0	Atk
+PROG:800dd7f0	Both
+PROG:800dd7f8	Enemy
+PROG:800dd800	Ours
+PROG:800dd818	Move
+PROG:800dd820	Attack
+PROG:800dd828	Strat
+PROG:800dd830	%s %s
+PROG:800dd838	Wait
+PROG:800dd840	Info
+PROG:800dd848	Items
+PROG:800dd850	Strat
+PROG:800dd858	Attack
+PROG:800dd864	View
+PROG:800dd86c	Discard
+PROG:800dd874	Give
+PROG:800dd87c	Use
+PROG:800dd884	Phoenix Fall
+PROG:800dd88c	Rising Dragon
+PROG:800dd894	Promote
+PROG:800dd89c	Seal
+PROG:800dd8a4	Counter
+PROG:800dd8ac	Revert
+PROG:800dd8b4	Fortify
+PROG:800dd8bc	Harden
+PROG:800dd8c4	Inspire
+PROG:800dd8cc	Rally
+PROG:800dd8d4	Devise
+PROG:800dd8dc	Counsel
+PROG:800dd8e4	Advise
+PROG:800dd8ec	Haste
+PROG:800dd8f4	Heal
+PROG:800dd8fc	Great Transport
+PROG:800dd904	Transport
+PROG:800dd90c	Great Reinforce
+PROG:800dd914	Reinforce
+PROG:800dd91c	Full Supply
+PROG:800dd924	Great Supply
+PROG:800dd92c	Supply
+PROG:800dd934	Pin Down
+PROG:800dd93c	Restrain
+PROG:800dd944	Decoy
+PROG:800dd94c	False Report
+PROG:800dd954	Provoke
+PROG:800dd95c	Jeer
+PROG:800dd964	Menace
+PROG:800dd96c	Pressure
+PROG:800dd974	Intel
+PROG:800dd97c	Spy
+PROG:800dd984	Scout
+PROG:800dd98c	Omen
+PROG:800dd994	Summon Bolt
+PROG:800dd99c	Thunderbolt
+PROG:800dd9a4	Great Whirlwind
+PROG:800dd9ac	Whirlwind
+PROG:800dd9b4	Great Flood
+PROG:800dd9bc	Great Whirlpool
+PROG:800dd9c4	Great Torrent
+PROG:800dd9cc	Flood
+PROG:800dd9d4	Whirlpool
+PROG:800dd9dc	Torrent
+PROG:800dd9e4	Great Mist
+PROG:800dd9ec	Great Landslide
+PROG:800dd9f4	Great Rockfall
+PROG:800dd9fc	Mist
+PROG:800dda04	Landslide
+PROG:800dda0c	Rockfall
+PROG:800dda14	Great Hellfire
+PROG:800dda1c	Great Fire Dragon
+PROG:800dda24	Great Scorch
+PROG:800dda2c	Hellfire
+PROG:800dda34	Fire Dragon
+PROG:800dda3c	Scorch
+PROG:800dda64	Own
+PROG:800dda68	Foe
+PROG:800dda7c	OK!\n
+PROG:800dda84	Torrent
+PROG:800dda8c	Fire
+PROG:800dda90	Rocks
+PROG:800dda98	Wall
+PROG:800ddaa0	Cliff
+PROG:800ddaa4	River
+PROG:800ddaa8	Fence
+PROG:800ddaac	Gate
+PROG:800ddab4	House
+PROG:800ddab8	Pass
+PROG:800ddabc	Castle
+PROG:800ddac0	Vault
+PROG:800ddac8	Grain
+PROG:800ddad0	Camp
+PROG:800ddad8	Fort
+PROG:800ddadc	Village
+PROG:800ddae0	Bridge
+PROG:800ddae4	Inside
+PROG:800ddaec	Peaks
+PROG:800ddaf4	Barren
+PROG:800ddafc	Forest
+PROG:800ddb00	Grass
+PROG:800ddb08	Plain
+PROG:800ddb28	Zoom In
+PROG:800ddb30	Zoom Out
+PROG:800ddb38	Reset
+PROG:800ddb40	End
+PROG:800ddb74	-
+PROG:800ddb78	Equip
+PROG:800ddb8c	+%d
+PROG:800ddb94	Heal
+PROG:800ddba8	Rain
+PROG:800ddbac	Cloudy
+PROG:800ddbb0	Clear
+PROG:800ddbb4	Lifespan
+PROG:800ddbc4	Turn+5
+PROG:800ddbcc	Adv.
+PROG:800ddbd4	Mid
+PROG:800ddbdc	Beg.
+PROG:800ddbfc	Units
+PROG:800ddc04	Officer
+PROG:800ddc0c	Info
+PROG:800ddc14	Config
+PROG:800ddc1c	Retreat
+PROG:800ddc24	Discard
+PROG:800ddc2c	View
+PROG:800ddc34	Give
+PROG:800ddc3c	Use
+PROG:800ddc44	Attack
+PROG:800ddc4c	Wait
+PROG:800ddc54	Items
+PROG:800ddc5c	Strat
+PROG:800ddc64	None
+PROG:800ddca0	-
+PROG:800ddca4	+
+PROG:800ddca8	Weather %s
+PROG:800ddcf0	1
+PROG:800ddcf4	2
+PROG:800ddd00	0
+PROG:800ddd04	1
+PROG:800ddd08	2
+PROG:800ddd0c	3
+PROG:800ddd10	4
+PROG:800ddd14	5
+PROG:800ddd18	6
+PROG:800ddd1c	7
+PROG:800ddd20	8
+PROG:800ddd24	9
+PROG:800ddd28	:
+PROG:800ddd2c	-
+PROG:800ddd30	Unused
+PROG:800ddd38	Save
+PROG:800ddd40	Load
+PROG:800ddd5c	End
+PROG:800ddd68	-
+PROG:800ddd6c	Equip
+PROG:800ddd7c	Sort
+PROG:800ddd9c	Armor
+PROG:800ddda4	Mounts
+PROG:800dddac	Weapons
+PROG:800dddb8	Remove
+PROG:800dddc0	Storehouse
+PROG:800dddcc	Sort
+PROG:800dddd4	Yes
+PROG:800ddddc	No
+PROG:800ddde4	Water
+PROG:800dddec	Earth
+PROG:800dddf4	Fire
+PROG:800dddfc	SP
+PROG:800dde04	HP
+PROG:800dde0c	Int
+PROG:800dde14	Str
+PROG:800dde1c	Ldr
+PROG:800dde28	%s Ploy
+PROG:800dde30	Rain
+PROG:800dde38	Clear
+PROG:800dde48	-
+PROG:800dde4c	Attendant
+PROG:800dde74	Foe
+PROG:800dde7c	Officer

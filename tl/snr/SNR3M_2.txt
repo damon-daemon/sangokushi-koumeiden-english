@@ -1,0 +1,1467 @@
+@0
+3-2: The Battle of Jieting
+
+@1
+Act 2: The Battle of Jieting
+
+@2
+Nan'an: Council Hall
+
+@3.0
+Now then, let us move on to the remaining Tianshui Castle. Does anyone have a good plan?
+
+@4.0
+Prime Minister, lend me an army. I will take Tianshui and show you.
+
+@5.0
+I have an idea. Tianshui Castle can be won with a single arrow.
+
+@5.1
+With a single arrow... What kind of plan is that? Tell me.
+
+@5.2
+I was on friendly terms with Tianshui's officers Liang Xu and Yin Shang. So we send them a letter tied to an arrow.
+
+@5.3
+A letter on an arrow...?
+
+@6.0
+I would write something like, "The countries we serve have parted, but this too is fate in an age of chaos," and so on...\n\nI have made no promise with them to turn traitor. But what would Xiahou Mao and Ma Zun think? They would think the two were in league with us, and try to kill them.\n\nAnd if Liang Xu and Yin Shang learn they are to be killed...
+
+@6.1
+Rather than be killed for a crime they did not commit, they will side with us, you mean.
+
+@6.2
+Exactly. They will open the gates and welcome us in.
+
+@6.3
+I see, that is a fine plan. Jiang Wei, carry it out at once.
+
+@9
+Jiang Wei's plan succeeded. Suspected by Xiahou Mao and Ma Zun, and knowing their lives were in danger, Liang Xu and Yin Shang resolved to turn. They opened the gates and let the Shu army in.\n\nShocked by the sudden raid, Xiahou Mao and the others abandoned their army and fled. No one knows what became of them afterward...
+
+@12.0
+You have all heard by now... Xiahou Mao has been defeated.\n\nThe three commanderies of Nan'an, Anding and Tianshui have been taken by Shu as well. What should be done?
+
+@12.1
+As I feared... Lord Xiahou Mao was no match for them.
+
+@12.2
+Hmm...
+
+@13.0
+Your Majesty! Here, the task of meeting them should be given to a man with ample combat experience.
+
+@13.1
+...Quite so. Whom should We entrust it to?
+
+@13.2
+I recommend Lord Cao Zhen.
+
+@14.0
+What? B-but... I am not of the caliber to stand against Zhuge Liang...
+
+@15.0
+Lord Cao Zhen, this is a matter of national emergency.\n\nThere is no one in Wei with more combat experience than you. Only you, a member of the imperial house, can break through this crisis.
+
+@15.1
+I-I see. Indeed, this is a grave matter for Wei. Someone must save Wei.
+
+@15.2
+Then, Cao Zhen. Will you go to Chang'an?
+
+@16.0
+Yes. I, Cao Zhen, will face the Shu army with all the strength I have.
+
+@16.1
+We will make Wang Lang your strategist and Guo Huai your deputy commander.\n\nCao Zhen, We entrust the fate of Wei to you. We count on you.
+
+@17.0
+Yes, sir! Please await good news.
+
+@20.0
+Lord Cao Zhen. I hear the Shu army is at Nan'an now.
+
+@20.1
+I see. Then we take position at Mount Qi and face the Shu army. Guo Huai, turn the whole army toward Mount Qi.
+
+@21.0
+Lord Cao Zhen, I have a plan.\n\nWith my eloquence alone, I will make Kongming return to Chengdu.
+
+@21.1
+What! ...I see, you have some secret plan. That is reassuring.\n\nThen, Wang Lang, I leave it to you.
+
+@23
+Nan'an
+
+@24
+Go to the Council Hall in Nan'an
+
+@25
+Nan'an: Council Hall
+
+@26.0
+Prime Minister, it seems Wei has put forward Cao Zhen.\n\nThe Wei army under Cao Zhen has headed for Mount Qi.
+
+@26.1
+Oh... Cao Zhen. So Wei is finally serious. Then it will not go as it did with Xiahou Mao.
+
+@27.0
+Prime Minister, let us go to Mount Qi too.
+
+@27.1
+Yes, we will move our camp to Mount Qi as well. Advance to Mount Qi at once.
+
+@29
+Mount Qi: Shu Camp
+
+@30.0
+The Wei army has made camp near Mount Qi.\n\nAlso, the Wei strategist Wang Lang has sent the Prime Minister a letter.
+
+@30.1
+Oh, a letter.
+
+@31.0
+Here it is.
+
+@31.1
+Yes. Let me see...
+
+@32.0
+Oh... So Wang Lang challenges me to a debate.
+
+@33.0
+Ha ha ha, how amusing.\n\nIf it were Sima Yi, perhaps, but an old minister like Wang Lang is no match for me.\n\nVery well. I accept this challenge.
+
+@34.0
+But we cannot let our guard down. This letter may be a Wei trick too.\n\nThey may be trying to lull us and strike by surprise. It would be wiser to watch what they do first...
+
+@35.0
+Prime Minister. Please choose: accept Wang Lang's challenge, or watch what the enemy does.
+
+@36
+Choose whether to accept Wang Lang's challenge or not
+
+@37.0
+Wang Lang is quite a schemer. I think it better to see what he does.
+
+@38.0
+Petty tricks like that will not work on us.\n\nPlease accept Wang Lang's challenge.
+
+@39.0
+I cannot predict what Wang Lang is plotting. Let us ignore the challenge.
+
+@40.0
+It is as the Prime Minister says. An old minister like Wang Lang need not be feared.
+
+@41.0
+I think it better to see what the enemy does.
+
+@42.0
+How impertinent of Wang Lang. Let us accept the challenge.
+
+@43.0
+Wang Lang... he was the man who manipulated Lu Bu and assassinated Dong Zhuo, wasn't he?\n\nWhat!? That was Wang Yun? S-sorry...
+
+@44.0
+There is no need to fear a man like Wang Lang.
+
+@45.0
+The Prime Minister need not go out of his way to accept Wang Lang's challenge.
+
+@46.0
+What is Wang Lang's aim?
+
+@47.0
+Wang Lang is small fry. There is no need to fear him.
+
+@48.0
+Prime Minister, have you decided on a plan?
+
+@49
+Accept the challenge\nDo not rise to the bait
+
+@50.0
+Understood. Then the Prime Minister himself will stand at the front.
+
+@50.1
+Yes. I accept any man's challenge. Then, we march out!
+
+@51.0
+Understood. We will see what the enemy does.
+
+@51.1
+That means waiting for them to strike.
+
+@51.2
+I do not fear a man like Wang Lang, but it is better to be cautious anyway.
+
+@52.0
+I am Zhuge Liang, Prime Minister of Han and Marquis of Wuxiang. I have come to answer the challenge of Wang Lang, Minister of the Masses of Wei.\n\nWang Lang, where are you?
+
+@52.1
+I am Wang Lang, Minister of the Masses of Great Wei. I thank you for readily answering my challenge.\n\nI have several questions for Kongming, Prime Minister of Shu. Be sure to answer them.
+
+@53.0
+Wang Lang is a skilled talker. He means to beat the Prime Minister in debate and raise the army's morale.
+
+@53.1
+Then I ask Kongming a question.\n\nYou, who compare yourself to Guan Zhong and Yue Yi in talent... why do you fight a war with no just cause?
+
+@54.0
+Prime Minister, how will you answer?
+
+@55
+No cause needed vs rebels\nCause toward the Han\n...
+
+@56.0
+You clamor about "just cause," but I never knew that striking you "rebels" required one.
+
+@56.1
+Hmph, a petty state like yours calls our Great Wei rebels! Then, the next question.
+
+@57.0
+I cannot let it pass that I have no just cause.\n\nI fight on the edict of the Han Son of Heaven, to strike the rebels against the Great Han. I know nothing of a cause toward Wei, but toward the Han I have one.
+
+@57.1
+Grr... Then, the next question.
+
+@58.1
+What is it, Kongming? Can you not answer! Then the next question.
+
+@59.0
+In the past, Emperor Wu, Taizu, achieved the great work of pacifying this land, thrown into disorder by the Yellow Turbans and Dong Zhuo's rebellion.\n\nThis great work is recognized by all the people, and it is the pride of our Great Wei. Now, what do you make of this?
+
+@60.0
+Prime Minister, how will you answer?
+
+@61
+He only replaced Dong Zhuo\nCancelled by usurpation\n...
+
+@62.0
+What nonsense are you babbling!\n\nIn the end he only usurped in Dong Zhuo's place. The realm is still divided into Han, Wu and Wei, and tribes hold the frontiers.\n\nWhat great work of unifying the realm!
+
+@62.1
+Y-you... I ask you one last thing.
+
+@63.0
+Cao Cao did indeed have the merit of ending the chaos.\n\nBut that merit is cancelled out by the crime of usurpation.
+
+@63.1
+I see. So you say it would be fine if it were not usurpation. I ask you one last thing.
+
+@64.1
+You cannot answer? Well, never mind. I ask you one last thing.
+
+@65.0
+Our Great Wei has a million soldiers and more than a thousand famed generals.\n\nTo fight such an army is to defy the Way of Heaven.\n\nA man as wise as you must know that defying Heaven's Way is the road to ruin. Kongming, surrender gracefully.
+
+@66.0
+Prime Minister, how will you answer?
+
+@67
+Flatterers preach Heaven?\nI strike rebels regardless\n...
+
+@68.0
+How absurd. That a man lower than a beast should clamor so about the Way of Heaven.
+
+@68.1
+Wh-what! You call me, Minister of the Masses Wang Lang, lower than a beast!
+
+@68.2
+You were once the governor of Kuaiji under Han.\n\nA man who ate the Han's stipend and sided with rebel traitors acts lower than a beast, as far as the Han is concerned.\n\nNo matter how much a beast who sided with the traitors speaks of Heaven's Way, no one's heart will be moved! I cannot stop laughing!
+
+@69.0
+Even if it defies Heaven's Way, a man has a righteousness he must keep.\n\nAs long as there is righteousness, I will strike down the traitors! Wicked flatterers like you, I will punish myself!
+
+@71.0
+...I have nothing to say. I will only fight.
+
+@72.0
+As expected of Kongming... Even in debate, he was no opponent for me...\n\n...Uuugh!
+
+@73.0
+Ah! Lord Wang Lang! No good, he is dead.
+
+@74.0
+This is serious! The soldiers who heard that debate have lost their will to fight!
+
+@75.0
+Damn you, Kongming... I never thought I would lose a debate...\n\n...Gah!
+
+@76.0
+Ah! Lord Wang Lang! No good, he is dead.
+
+@77.0
+This is serious! The soldiers who heard that debate have lost their will to fight!
+
+@78.0
+Damn you, Kongming... I never thought I would lose a debate...\n\n...Gah!
+
+@79.0
+Ah! Lord Wang Lang! No good, he is dead.
+
+@80.0
+This is serious! The soldiers who heard that debate have lost their will to fight!
+
+@81.0
+Damn you, Kongming... I never thought I would lose a debate...\n\n...Gah!
+
+@82.0
+Ah! Lord Wang Lang! No good, he is dead.
+
+@83.0
+This is serious! The soldiers who heard that debate have lost their will to fight!
+
+@84.0
+Damn you, Kongming! How dare you say such things to me...\n\n...Uh, uuugh!
+
+@85.0
+Lord Wang Lang collapsed from agitation. He is being treated at the rear now.
+
+@86.0
+Damn you, Kongming! How dare you say such things to me...\n\n...Uh, uuugh!
+
+@87.0
+Lord Wang Lang collapsed from agitation. He is being treated at the rear now.
+
+@88.0
+What is it, Kongming! Have you nothing to say!
+
+@88.1
+...Wang Lang, I have kept silent and listened, and you have spoken nothing but what suits you.\n\nThe Prime Minister is appalled at your worthless talk and has no wish to answer.
+
+@88.2
+Wh-what! He has no wish to answer my questions!
+
+@88.3
+Of course! Whatever a flatterer like you says is useless!\n\nGo think about lining your pockets in the court, flatterer! Do not babble nonsense on a battlefield where lives are at stake, you lowborn wretch!
+
+@88.4
+Y-you, Jiang Wei...! You traitor...! Gah!
+
+@89.0
+Ah! Lord Wang Lang! No good, he is dead.
+
+@90.0
+This is serious! The soldiers who heard that debate have lost their will to fight!
+
+@91.0
+Damn! Avenge Wang Lang! Scatter the Shu army!
+
+@91.1
+We go too!
+
+@91.2
+The enemy is desperate too. Face the Wei army with all your strength!
+
+@92
+1. Cao Zhen retreats
+
+@93.0
+Did you think you could take the blow of Zhao Yun's spear, a man like you!
+
+@95.0
+I have slain the enemy officer Cao Zun!
+
+@97.0
+You are no opponent for me!
+
+@99.0
+Not yet! Who is next!
+
+@101.0
+Ngh, this will not do! All forces retreat!
+
+@101.1
+Cao Zhen has fled. Victory is ours!
+
+@102
+Obtained 1700 gold!
+
+@103
+Obtained 1200 gold!
+
+@104
+Obtained 1000 gold!
+
+@105
+Obtained 800 gold!
+
+@106
+Obtained 600 gold!
+
+@107
+Obtained 400 gold!
+
+@108
+Obtained 800 gold!
+
+@109.0
+Lord Wang Lang, it seems there was no reply from Kongming.
+
+@110.0
+Hmm... He means to settle it in battle to the end.
+
+@111.0
+Well, it cannot be helped. Very well, order Wang Lang's army in the east and Cao Zun's army in the west to sortie.
+
+@112.0
+Report. The Wei army has divided into three forces and taken position.\n\nIt seems Wang Lang's army in the east has begun to move first.
+
+@113
+1. Cao Zhen retreats
+
+@114.0
+Did you think you could take the blow of Zhao Yun's spear, a man like you!
+
+@116.0
+I have slain the enemy officer! A great achievement!
+
+@117
+Liao Hua leveled up!
+
+@118.0
+You are no opponent for me!
+
+@120.0
+Phew, that was a tough opponent.
+
+@121
+Wang Ping leveled up!
+
+@122.0
+It seems Lord Wang Lang's unit has begun to move. Good, our army sorties too!
+
+@123.0
+Ngh, this will not do! All forces retreat!
+
+@123.1
+Cao Zhen has fled. Victory is ours!
+
+@124
+Obtained 1000 gold!
+
+@125
+Cao Zhen's army was routed and could no longer hold its camp at Mount Qi. To block the Shu pursuit, Cao Zhen entered Chencang Castle, north of Mount Qi.\n\nIf Chencang fell to Shu, the old capital Chang'an would be in danger.
+
+@126
+Chencang
+
+@127
+Chencang: Council Hall
+
+@128.0
+Defeated again... Guo Huai, what should we do now?\n\n...Do you have a good idea?
+
+@129.0
+Lord Cao Zhen. Why not ask the Qiang for help?
+
+@129.1
+...The Qiang? You say to ask the Qiang to lend a hand?
+
+@129.2
+The Shu army is now camped at Mount Qi, and behind it lies the Xiqiang Kingdom.\n\nXiqiang has had trade relations with us since the days of Emperor Wu, Taizu, and I hear its army is strong.
+
+@129.3
+I see... Have Xiqiang strike the Shu army from behind.
+
+@129.4
+Yes. If they and our army catch the Shu army in a pincer, even Kongming...
+
+@130.0
+Yes, that is good. Then send an envoy at once.
+
+@132
+Xiqiang Kingdom: Camp
+
+@133.0
+All of you. Wei has asked us to strike the Shu army from behind.\n\nWei and our country are friendly and we owe them favors, so we can hardly refuse. We will strike the Shu army's rear and repay Wei.
+
+@133.1
+Shu soldiers are no match for my chariot corps. Show the Shu army the difference in strength! All forces, sortie!
+
+@134
+Mount Qi
+
+@135
+Go to the camp at Mount Qi
+
+@136
+Mount Qi: Shu Camp
+
+@137.0
+Prime Minister, this is serious. The Xiqiang army is pressing toward Xiping Pass, behind our army.
+
+@137.1
+What! The Xiqiang army... Cao Zhen must have stirred up the Xiqiang people.\n\nAt this rate we will be hit from both sides. Let us go to Xiping Pass before the Wei army notices.
+
+@138.0
+I know something of Xiqiang.\n\nXiqiang originally swore loyalty to the Han court, but after Cao Cao became prime minister, it grew close to Cao Cao and is now pro-Wei.
+
+@138.2
+Also, the Xiqiang army's main strength is its chariot corps.\n\nIts force cannot be taken lightly. Some countermeasure will be needed.
+
+@138.3
+Oh, chariots. What should we do about them?
+
+@139
+Decide on a plan
+
+@140.0
+To avoid being struck from both sides by Wei and Xiqiang, let us leave Xiping Pass and force a quick battle.
+
+@141.0
+I am for the quick battle. There is no time to dig pits.
+
+@142.0
+I agree with Master Jiang Wei's plan.
+
+@143.0
+I think the plan of luring the chariot corps into pitfalls is better.
+
+@144.0
+Chariots, is it. They look quite strong.
+
+@145.0
+Either way, we must hurry.
+
+@146.0
+Prime Minister. Which plan will you choose?
+
+@147.0
+There is something to both plans. The decision is the Prime Minister's own.
+
+@148.0
+I hear the Qiang chariot corps is very mobile.
+
+@149.0
+Prime Minister, prepare to march before deciding the plan!
+
+@150.0
+What do you think? My plan...
+
+@151.0
+Have you decided on a plan?
+
+@152
+Drop the enemy in pits\nLeave the pass and fight
+
+@153.0
+...Understood. We will drop the chariot corps into pits.
+
+@153.1
+Yes. Now, we need decoys to lure them in...
+
+@154.0
+Please give that task to us.
+
+@154.1
+We will surely make the chariot corps fall into the pits.
+
+@154.2
+Let us give the Xiqiang soldiers a fright. Leave it to us!
+
+@155.0
+Good. Then I leave it to you. Do it well.
+
+@157.0
+Understood. We will leave Xiping Pass and fight.
+
+@157.1
+Jiang Wei's plan is indeed safer, but this time we have no time.\n\nMa Su, I adopt your plan. The whole army heads for Xiping Pass! Prepare at once!
+
+@158.0
+The Xiqiang troops have split in two.\n\nWest of us is the Qiang general Yue Ji, and behind him is Xiqiang's prime minister, Ya Dan.
+
+@158.1
+Ha, that is the Shu vanguard. I'll scatter them!
+
+@158.2
+Ma Dai, Guan Xing, Zhang Bao. Lead Yue Ji to the front of Xiping Pass.
+
+@158.4
+That Kongming of Shu is the man even Lord Cao Cao had trouble with. I would rather not fight him.
+
+@158.5
+Prime Minister Ya Dan, do not say such timid things. It will dull the soldiers' morale.
+
+@159
+1. Ya Dan retreats
+
+@160.0
+Damn, retreat! Aah! D-damn!!
+
+@160.1
+Prime Minister, it seems Xiqiang's prime minister Ya Dan has been captured.
+
+@161.0
+Ma Dai has been defeated... Luring them in may have become difficult.
+
+@162.0
+What is it, young whelp? Don't run! Fight Yue Ji!
+
+@162.1
+S-strong... It cannot be helped, retreat.
+
+@163.0
+A tough opponent, but I somehow won... Huh?
+
+@163.2
+I-it was a woman...?
+
+@164
+Jiang Wei leveled up!
+
+@165.0
+I win! I'll finish you off! ...Huh?
+
+@165.2
+So you were a woman... But I cannot let you go.
+
+@167.0
+Go! Xiping Pass is right before us! Advance, advance... whoa!\n\nD-damn! Is this a pitfall!?
+
+@167.1
+Report. The enemy general Yue Ji has fallen into a pit.
+
+@168.0
+Damn it! Nobody told me the Shu army was this strong!
+
+@169.0
+Now there is no worry at our back.
+
+@170
+Obtained 1400 gold!
+
+@171.0
+Good, now! All forces, give chase!
+
+@171.1
+Grr... Insolent, crush them!
+
+@172.0
+That was a tough opponent.
+
+@174.0
+A tough opponent, but I somehow won... Huh?
+
+@174.2
+I-it was a woman...?
+
+@175
+Jiang Wei leveled up!
+
+@176.0
+I win! I'll finish you off! ...Huh?
+
+@176.2
+So you were a woman... But I cannot let you go.
+
+@178.0
+Damn, retreat! Aah! D-damn!
+
+@178.1
+Prime Minister, it seems Xiqiang's prime minister Ya Dan has been captured.
+
+@179.0
+Now there is no worry at our back.
+
+@181.0
+The Xiqiang unit has appeared.
+
+@181.1
+The enemy is mostly chariots. A hard fight seems certain.
+
+@181.2
+That Kongming of Shu is the man even Lord Cao Cao had trouble with. I would rather not fight him.
+
+@181.3
+Prime Minister Ya Dan, do not say such timid things. It will dull the soldiers' morale.
+
+@182
+1. Ya Dan retreats\n2. Occupy the northwest fort
+
+@183.0
+Damn, retreat! Aah! D-damn!
+
+@183.1
+Prime Minister, it seems Xiqiang's prime minister Ya Dan has been captured.
+
+@184.0
+That was a tough opponent.
+
+@186.0
+A tough opponent, but I somehow won... Huh?
+
+@186.2
+I-it was a woman...?
+
+@187
+Jiang Wei leveled up!
+
+@188.0
+I win! I'll finish you off! ...Huh?
+
+@188.2
+So you were a woman... But I cannot let you go.
+
+@190.0
+Now there is no worry at our back.
+
+@192
+Xiping Pass: Shu Camp
+
+@193.0
+You are being deceived by Cao Rui of Wei.\n\nThe Emperor of our Han court is the rightful Son of Heaven.
+
+@193.1
+What... We had heard that the throne was abdicated from Han to Wei.
+
+@194.0
+Then Wei is a rebel that committed usurpation... Hmm...
+
+@196.0
+We were about to side with traitors...
+
+@196.1
+Just so.\n\nIf you do not side with Wei, we have no reason to fight you. Now, return home. And be sure to tell your king, Che Liji.
+
+@196.2
+What! Then you forgive us?
+
+@197.0
+What a generous man... I am moved.\n\nAs a token of thanks, please accept this.
+
+@198.0
+We, the people of Xiqiang, swear loyalty from now on to Shu... no, to the Han court.\n\n...Then we take our leave.
+
+@199.0
+What is it? You may go home too.
+
+@199.1
+Master Kongming, I have a request. I want to work as a member of the Han army too.
+
+@199.2
+What...!?
+
+@199.3
+I want to fight to restore the Han house.\n\nI will never be a burden. Please, I beg you!
+
+@199.4
+...B-but.
+
+@199.5
+Prime Minister. Would you not permit it?
+
+@199.6
+To fight Wei from here on, we need as many good officers as we can get.
+
+@199.7
+...Very well. You may fight for us as well.
+
+@199.8
+Th-thank you!
+
+@200
+Chencang: Council Hall
+
+@201.0
+Beaten by Kongming once again...
+
+@202.0
+Lord Cao Zhen. Let us ask His Majesty for his judgment.
+
+@202.1
+There is nothing else. Then we send an envoy to Luoyang.
+
+@204.0
+...So Cao Zhen was beaten too...
+
+@205.0
+If it has come to this, Your Majesty should march out in person and rouse the morale of the whole army.\n\nThere is nothing else. At this rate we will only let the Shu rabble get above themselves.
+
+@205.1
+No. I oppose that.
+
+@207.0
+With respect, Lord Cao Zhen was not enough for Kongming from the start.\n\nIf anything should happen to Your Majesty there, it would touch the very survival of Wei.\n\nThe only way is to raise a famed general hidden in the wilds and set him against Kongming.
+
+@207.1
+A famed general hidden in the wilds? Who do you mean?
+
+@208.0
+A man Your Majesty knows well. Sima Yi.
+
+@208.1
+Sima Yi!? But... Sima Yi was suspected of rebellion...
+
+@208.2
+I believe that the rumor that Sima Yi plotted rebellion was a scheme of Shu or Wu.
+
+@208.3
+So that was it... We wronged Sima Yi.\n\nHe must resent Us. Will he come?
+
+@208.4
+Sima Yi is by nature a man who worries for the country. If an imperial decree is sent, he will surely rush to answer it.
+
+@208.5
+I see. Then send an imperial decree to Sima Yi.
+
+@210
+Xiangyang: Sima Yi's Residence
+
+@211.0
+Have you heard? They say Kongming has scattered Xiahou Mao and Cao Zhen and keeps advancing on Wei.\n\nAt this rate Wei is in danger. ...Ah, if only I were not confined to my home... I would rush there at once.
+
+@211.1
+Father. There is no need to worry so much.
+
+@211.2
+That is right. Surely a summons from the Emperor will come soon.
+
+@211.3
+Would that be so... Hm? Has someone come?
+
+@212.0
+You are Lord Sima Yi, I take it. I am an imperial envoy sent from Luoyang.
+
+@212.1
+What! An imperial envoy!
+
+@212.2
+Yes. An edict from the Emperor. He wishes Lord Sima Yi to serve in the campaign to subdue the Shu army.
+
+@213.1
+Will you accept?
+
+@214.0
+Yes, sir. I humbly accept this great charge. I will rush to the capital at once.
+
+@214.1
+Lord Sima Yi, I am counting on you. Now, excuse me.
+
+@215.0
+I never imagined an imperial envoy would come.
+
+@215.1
+Father. It was just as we said.
+
+@215.2
+Yes. Let us prepare to march at once. We must be as quick as we can.
+
+@215.3
+It is all right. Preparations are already complete.
+
+@216.1
+Considering the situation between Wei and Shu now, we thought a summons would surely come.
+
+@216.2
+So we made preparations so that we could march at any time. We can march out right now.
+
+@217.0
+...Sons of mine, yet admirable. To read this far ahead...
+
+@217.1
+Father, this is no time to be impressed. Let us hurry.
+
+@217.2
+Quite so. Then let us set out for Luoyang.
+
+@219.0
+Forgive my lateness. Sima Yi has arrived.
+
+@219.1
+...Sima Yi. Forgive Us for being swayed by a rumor from another country and banishing you.
+
+@219.2
+I trusted that one day you would understand.
+
+@219.3
+...Forgive Us. Now, Sima Yi, will you fight for Us?
+
+@219.4
+Of course. I am a subject of Wei. I will gladly fight Shu.
+
+@220.0
+...Your Majesty, I have a request. I would like to take Zhang He along. Would that be acceptable?
+
+@220.1
+You are the only one We can rely on now. Do as you see fit.
+
+@221.0
+Thank you. Then I set out for Chang'an at once.
+
+@222
+Go to the camp at Mount Qi
+
+@223
+Mount Qi
+
+@224
+Mount Qi: Shu Camp
+
+@225.0
+Prime Minister! This is serious!!
+
+@225.1
+Ma Su. Why such a pale face?
+
+@225.2
+By the Wei emperor's decree, Sima Yi has become commander in chief of the force meeting the Han army.
+
+@225.3
+What! ...I see, so Sima Yi is finally coming. Now comes the crucial moment.
+
+@228.0
+Lord Cao Zhen, thank you for your labors. I have come with reinforcements.
+
+@228.1
+Sima Yi, you came well. I... cannot beat Kongming. I entrust you with full authority.
+
+@229.0
+Those are undeserved words.
+
+@229.1
+So, Sima Yi. Do you have a plan?
+
+@229.2
+Kongming is a hero of this age. Defeating him will not be easy.\n\nLord Cao Zhen, please strengthen the defense of Mei Castle, the gateway to Chang'an.
+
+@229.3
+Yes... That is fine, but what will you do?
+
+@229.4
+West of the Qinling Mountains there is a highland called Jieting. Zhang He and I will go to this Jieting.
+
+@229.5
+...Jieting? That place is just a mountain, isn't it?
+
+@229.6
+No. Jieting is the supply route when Shu advances. It is, so to speak, Shu's throat.\n\nIf we take Jieting, the road for hauling the Shu army's food is cut. Transport from the Hanzhong side becomes practically impossible.\n\nThen Kongming will have no choice but to fall back to Hanzhong.
+
+@229.7
+...Jieting. I did not even understand its importance. No, it is a splendid plan indeed.
+
+@230.0
+But our opponent is Kongming. We must secure Jieting before Kongming notices.\n\nWe set out for Jieting now. Excuse me.
+
+@231.0
+...To make such a judgment right on arrival... So there is a difference in caliber between Sima Yi and me...
+
+@232.0
+Seize Jieting before the Shu army! All forces, hurry!
+
+@233.0
+Then we head for Mei Castle.
+
+@234
+Mount Qi
+
+@235
+Go to the camp at Mount Qi
+
+@236
+Mount Qi: Shu Camp
+
+@237.0
+Prime Minister, Sima Yi has begun to march toward Jieting.
+
+@237.1
+What! Jieting! Hmm... As expected of Sima Yi.
+
+@237.2
+Prime Minister, what is it about Jieting? Please explain.
+
+@237.3
+...Ma Su, you do not understand? Jieting is our Shu army's throat.\n\nIt is the key point that links our supply line. As expected of Sima Yi, he noticed our army's weakness lies at Jieting.\n\nWe must strengthen its defense at once.
+
+@237.4
+Prime Minister. Please order me to defend Jieting.
+
+@237.5
+Oh, Ma Su. You say you will go?
+
+@238.0
+Key point though it is, the Prime Minister, Lord Zhao Yun and Lord Ma Chao cannot leave Mount Qi.\n\nPlease send me to Jieting.
+
+@238.1
+True... Zhao Yun and Ma Chao cannot be sent, and Jiang Wei is not yet used to the army.\n\nAny man will not do. Very well, I leave it to Ma Su. Take Wang Ping with you as deputy.
+
+@239.0
+Key point though it is, the Prime Minister and General Zhao cannot leave Mount Qi.\n\nPlease send me to Jieting.
+
+@239.1
+True... Zhao Yun cannot be sent, and Jiang Wei is not yet used to the army.\n\nAny man will not do. Very well, I leave it to Ma Su. Take Wang Ping with you as deputy.
+
+@240.0
+Ma Su, I count on you, truly.\n\nWhether Jieting can be held decides the outcome of this whole war.
+
+@240.1
+Leave it to me. I will surely live up to your expectations.\n\nNow, Prime Minister, please prepare to march out too.
+
+@242.0
+Regrettably, as Ma Su says, I cannot leave here...
+
+@243.0
+If Jieting is taken, it is a grave matter. Let us march out at once.
+
+@244.0
+I would not mind going to Jieting myself...
+
+@245.0
+Supply from Hanzhong seems quite difficult, the roads being so steep.
+
+@246.0
+Jieting is in danger. Let us hurry.
+
+@247.0
+Master Ma Su volunteering for the defense himself. How eager.
+
+@248.0
+Master Wang Ping is a careful man. With him as deputy there is no cause to worry.
+
+@249.0
+The deputy's duty is to assist the commander. I will do my best.
+
+@250.0
+Sima Yi is coming out... This will be no easy matter.
+
+@251.0
+Prime Minister, are you ready?
+
+@252.0
+With Master Ma Su's talent, holding off Sima Yi should be easy.
+
+@253.0
+Are you ready to march out?
+
+@254.0
+Prime Minister, the mountain road at Jieting is narrow.\n\nIf we make camp on this road, it will be hard for the enemy to break in.
+
+@254.1
+As expected of Zhao Yun, that is right.\n\nMa Su, make camp on the mountain road at Jieting and block the Wei army's advance.
+
+@254.2
+Yes. Then I will march out at once.
+
+@254.3
+Wang Ping, I count on you as well. Assist Ma Su.
+
+@255.1
+Prime Minister, what is the matter?
+
+@255.2
+Ma Su is certainly a capable man. But he is still young and has little combat experience.\n\nI feel he does not properly grasp how important defending Jieting is.
+
+@256.0
+(The late emperor said: "Ma Su always says more than his ability supports. He must not be given important duties.")\n\n(N-no. However much the late emperor said... but if he fails...!)
+
+@257.0
+This must be Jieting. Hmm... Good. Move the troops up the mountain.
+
+@257.1
+Master Ma Su. Have you forgotten the Prime Minister's order to make camp on the mountain road and defend it?
+
+@257.2
+I have my own thoughts on it. You are only a deputy, you speak too much!
+
+@257.3
+But on this terrain, if we are surrounded and cut off from water, it is over!
+
+@257.4
+In that case, we only need to charge down from the mountain with momentum, don't we?\n\nHonestly, what timid talk.
+
+@257.5
+...Understood. Then I will act separately.
+
+@257.6
+You say you will not follow my orders! Never mind, do as you please.
+
+@258.0
+What on earth... What is Master Ma Su in such a hurry for?\n\nI must inform the Prime Minister as soon as possible...
+
+@258.1
+I must win... I will not lose to a newcomer like that!
+
+@259.0
+Hm, as expected of Kongming. So he did set his eyes on Jieting.\n\nBut it is hopeless if the general he sent is a fool. Camping on the summit! Surround the mountain and kill Ma Su!
+
+@259.2
+If we hold Jieting, we can cut the Shu supply line! Be careful!\n\nSima Shi, I leave the rest to you. Cut Shu's ambition down on this ground!
+
+@259.3
+Yes, sir! Father, leave it to me!
+
+@260.0
+Oh, so the enemy has surrounded us! Attack from above with momentum!
+
+@260.1
+N-n-no good! The enemy's encirclement is perfect.
+
+@260.2
+Wh-what...!
+
+@260.3
+The enemy's formation is flawless. Charging down now would be suicide.
+
+@260.4
+Hmm... It cannot be helped. When we see an opening, we will escape to the fort in the southwest.
+
+@261
+1. Ma Su enters the southwest fort\n2. Destroy the enemy units
+
+@262.0
+Go! Do not let Ma Su escape!
+
+@262.1
+Damn you, Sima Yi's son! Get out of my way!
+
+@263.0
+What is it, running away again!
+
+@263.1
+Heh heh heh, Jieting has already fallen. I have no wish to die a dog's death in a won battle.
+
+@264.0
+Ah, wait!! Zhang He!
+
+@266.0
+Phew... I wonder if the commander in chief is all right...
+
+@267
+Wang Ping leveled up!
+
+@268.0
+A formidable foe... but until I rescue the commander in chief, I must fight.
+
+@269
+Wang Ping leveled up!
+
+@270.0
+Haa, haa... I... I saved my life at least...
+
+@270.1
+In the end, Jieting could not be held. I did warn you.
+
+@271.0
+I managed to drive them off.
+
+@271.1
+It was a hard fight... but I am glad you are safe.
+
+@271.2
+...It was as you said, Master Wang Ping. I let a little knowledge go to my head, and I...
+
+@271.3
+...It is past now.\n\nMore importantly, until the Prime Minister arrives, let us make camp on the road and strengthen the defense.
+
+@272.0
+Where is Master Ma Su!?
+
+@272.1
+Th-that is... we do not know where he is...
+
+@272.2
+...I see. Then I, the deputy, will give the orders. Retreat. Tell the whole army to retreat!
+
+@272.3
+Y-yes, sir!
+
+@273.0
+Jieting has fallen. Now Shu cannot advance any further. Ha ha ha ha!
+
+@274.0
+Jieting has fallen. Now Shu cannot advance any further. Ha ha ha ha!
+
+@275.0
+Damn that Ma Su! To think he would get the better of me!
+
+@276
+Jieting: Wei Camp
+
+@277.0
+Jieting is taken. The Shu army's supply line has been cut.\n\nKongming will probably begin to withdraw.
+
+@277.1
+Then shall we pursue?
+
+@277.2
+Yes. Zhang He! Sortie to Mount Qi.
+
+@277.4
+Let us have Lord Cao Zhen at Mei Castle attack Mount Qi as well.
+
+@278
+Mount Qi: Shu Camp
+
+@279.0
+Prime Minister, this is serious! Master Ma Su has suffered a great defeat at Jieting!
+
+@279.1
+What! Did the Wei army break through that mountain road!
+
+@279.2
+No... Master Ma Su made camp on the mountain. The Wei army surrounded it, and then...
+
+@279.3
+O-on the mountain... He made camp on the mountain... ...Ma Su... you fool.\n\nThank you for the report... You may go.
+
+@279.4
+Sir. Excuse me.
+
+@280.0
+The supply line is cut. At this rate our provisions will not last. We have no choice but to fall back to Hanzhong...\n\nChang'an was one step away... Regrettable.
+
+@281.0
+Prime Minister! Cao Zhen from Mei Castle and Zhang He from Jieting have come surging toward Mount Qi!
+
+@281.1
+As expected of Sima Yi, a swift response. Have the whole army prepare for a general retreat. Our army... has already lost.\n\nAll that remains is to keep the damage to a minimum and withdraw...
+
+@281.2
+Yes, sir! I will relay it to the whole army at once.
+
+@282.0
+Zhao Yun, lead an army and withdraw by the Xiegu Road.\n\nIf Hanzhong is attacked from the Xiegu Road, it is in danger.\n\nBut if you take the Xiegu Road, you will surely be pursued from Mei Castle. ...Be very careful.
+
+@282.1
+...Yes, sir. Even if I die... no, I will surely live and make the retreat succeed.
+
+@282.2
+Zhao Yun... forgive me. I count on you!
+
+@283.0
+Finish Kongming off! All forces, advance!
+
+@284.0
+We now retreat to Yangping Pass. Be very careful of enemy pursuit.
+
+@285.0
+It seems the Prime Minister has begun to retreat as well. Good, we too fall back to Yangping Pass!
+
+@286.0
+Pursue the Shu army! Whoever fells Zhao Yun will be made an officer!
+
+@286.1
+Yeah!
+
+@287
+1. Kongming, Zhao Yun retreat south\n2. Destroy the enemy units
+
+@288.0
+Don't let the Shu army escape! Crush them!
+
+@289.0
+I am Ma Dai, General Who Calms the North of Han! You picked the wrong opponent!
+
+@291.0
+Out of my way! Do you not know Zhao Yun of Changshan!
+
+@293.0
+Oh, Prime Minister! You are safe.
+
+@293.1
+Zhao Yun, how are things on your side?
+
+@293.2
+As you see. First, let us hurry the retreat.
+
+@294.0
+Zhao Yun's army has not arrived yet... I hope he gets here safely.
+
+@295.0
+The Prime Minister's army has not come yet. I hope he is safe...
+
+@296.0
+We somehow drove them back. Now, retreat while we can.
+
+@297.0
+What. Zhao Yun is wounded!
+
+@297.1
+Fortunately it is only a hurt left elbow, they say... Is he all right?
+
+@297.2
+This is Zhao Yun. I think there is no need to worry... but...
+
+@298.0
+Prime Minister, you are safe.
+
+@298.1
+I am glad Zhao Yun is safe too. At Yangping Pass we should be able to hold off Wei's large army.
+
+@301.0
+Your Majesty, I have just returned.\n\nI have retaken the three commanderies of Nan'an, Anding and Tianshui that Shu had taken, and driven the Shu army back to Hanzhong.
+
+@301.1
+Sima Yi, you did well. We thank you from the heart.
+
+@301.2
+Yes, sir, thank you.\n\nThat said, I wish to attack Hanzhong once more. The Shu army has suffered a great defeat and its morale has fallen. Now is the chance to destroy Kongming...\n\n...no, to destroy Shu.
+
+@301.3
+Yes... so it is.
+
+@301.4
+Please wait. It is true that we dealt the Shu army considerable damage.\n\nBut our army is worn out too. Now that the Shu army has withdrawn, I think we should use the chance to build up strength.
+
+@301.5
+Sima Yi. What do you think of Hua Xin's words?
+
+@301.6
+If we are to pursue, now is the perfect chance... but there is something to what Lord Hua Xin says.
+
+@301.7
+I see. Then We will give up pursuing the Shu army. ...Sima Yi, rest well.
+
+@301.8
+Those are undeserved words.
+
+@302
+Hanzhong
+
+@304.0
+Prime Minister, do not lose heart...\n\nThis is not the end of everything.
+
+@304.1
+Comfort is unnecessary. One step, just one step more... and Chang'an would have been within reach.
+
+@305.0
+More importantly, Zhao Yun. Is your wound all right?
+
+@305.1
+It hurts a little, but it is nothing. Compared with the pain of the soldiers...
+
+@306.0
+Though I received the duty of deputy... I have no excuse.
+
+@306.1
+Wang Ping... Tell me what happened at Jieting without hiding anything.
+
+@307.0
+Yes. Master Ma Su ignored the Prime Minister's orders and made camp on the summit, not on the mountain road.
+
+@307.1
+Did you not remonstrate with him? That is the duty of a deputy.
+
+@307.2
+Of course I remonstrated. Master Ma Su would not listen to my remonstrance.\n\nAs a result we were surrounded by the Wei army... and what followed you have surely heard already.\n\n...That is all.
+
+@307.3
+I see. ...Return to your seat.
+
+@308.0
+...............\n\nMa Dai... Bring Ma Su here.
+
+@309
+Decide Ma Su's punishment
+
+@310.0
+Ma Su's crime is not light, but... he is too valuable a man to cut down.
+
+@311.0
+There are few with talent like Ma Su's. I oppose his execution.
+
+@312.0
+Victory and defeat are the common lot of soldiers. I ask for a lenient measure.
+
+@313.0
+To pin the guilt for the defeat on Master Ma Su alone is...
+
+@314.0
+If Master Ma Su is cut down, it only benefits Wei.
+
+@315.0
+It was certainly a great defeat, but...
+
+@316.0
+It is not the guilt of Master Ma Su alone.
+
+@317.0
+I leave the punishment to the Prime Minister.\n\nBut please also think of the soldiers who died.
+
+@318.0
+A valuable man, but... it cannot be helped.
+
+@319.0
+Punishment should be avoided.
+
+@320.0
+We need men of talent now. Please make the punishment a mild one.
+
+@321.0
+...Prime Minister, please pass judgment.
+
+@322
+Execute Ma Su\nPardon Ma Su
+
+@323.0
+Ma Su... your crime is grave...\n\n...............\n\nThe sentence is death!
+
+@323.1
+...Yes, sir. Prime Minister, I will not forget your guidance until I die.\n\nThis is farewell. Thank you for everything...
+
+@323.2
+Ah...
+
+@323.3
+Prime Minister...
+
+@324.0
+Prime Minister... Ma Su did commit the crime of defying orders and bringing a great defeat.\n\nBut they say victory and defeat are the common lot of soldiers. Is this punishment... a little too heavy?
+
+@324.1
+Military law must not be disturbed.\n\nIf I pardon Ma Su, discipline in the army will exist in name only. That... that will not do.
+
+@324.2
+But Master Ma Su is a valuable man. Now we need every man we can get. And yet...
+
+@324.3
+That very feeling is the root of disorder in military law.\n\nIf crimes are forgiven out of regret or friendship, the army can no longer be moved.\n\nIt is my own fault that I failed to see Ma Su's true nature. He was capable as a staff officer, but as a commander... ...No, I will say no more.
+
+@324.5
+Ma Su, your death will not be wasted. Your death keeps the army's discipline.\n\nForgive me... Uuugh... uh... uuh...
+
+@325.0
+Ma Su, your crime is hard to forgive.\n\nThere may be generals who even hate you. ...A little of that feeling is in me too.
+
+@325.2
+But your talent is a pity to lose. It would be truly a pity to let you simply die.\n\n...Your life I will take into my keeping.\n\nMa Su, you will not atone for your crime with death, but live and atone for it through your service from now on.
+
+@325.4
+Understood?
+
+@325.5
+Y-you... You say you will pardon a fool like me...?\n\nThank you... I will not forget the Prime Minister's kindness even in death.\n\nI will surely atone for this crime. ...Surely...
+
+@326.0
+Very well, we head for Jieting.
+
+@327
+Jieting: Shu Camp
+
+@328.0
+Ma Su, Wang Ping. You defended Jieting well.
+
+@328.1
+Yes, sir. Thank you.
+
+@328.2
+But... Ma Su, I hear you struggled because you did not follow my instructions.
+
+@328.3
+Yes, sir. I have no excuse.
+
+@328.4
+This time, your merit in defending Jieting will cancel out that crime.\n\nBut take care that this never happens again! Understood?
+
+@329.0
+The commanderies of Longxi have become Han territory as well, and Jieting is secured.\n\nAt last the time has come to aim for Chang'an. The immediate objective is to take Chencang.
+
+@329.1
+Then, Prime Minister. Will you march out at once?
+
+@329.2
+No. Our provisions are running thin after the long encampment, and Sima Yi's movements concern me too.\n\nWhile we watch the Wei army, we will wait for provisions to be replenished from Hanzhong.\n\nAll of you must be tired from battle after battle. While we wait for the provisions, take a little rest, brief though it will be.
+

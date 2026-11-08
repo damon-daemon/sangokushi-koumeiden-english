@@ -1,0 +1,1098 @@
+@0
+4-1: Battle of Chencang
+
+@1
+Chapter 4: Northern Campaigns II
+
+@2
+Act 1: Battle of Chencang
+
+@3
+Wei Capital: Luoyang
+
+@5.0
+We have driven the Shu army back for now, but they will surely attack again. We must strengthen the defense of Yong Province. Sima Yi, do you have any good ideas?
+
+@6.0
+I hear the Shu army is holding Jieting, but it will start marching again before long. Sima Yi, where will they strike next?
+
+@7.0
+Knowing Kongming, he will take a different road this time. He is cautious, so he will find the Ziwu Valley too dangerous and avoid it. I expect he will come through the Jigu Road toward Chencang.
+
+@7.1
+You say we should reinforce Chencang. Very well, I will have Hao Zhao defend it. Sima Yi, will that do?
+
+@7.2
+Lord Hao Zhao is a brave general of superior wit, and I hear he excels at defensive warfare. He will see it through.
+
+@8.0
+I expect they will head for Chencang.
+
+@8.1
+Chencang... Hao Zhao is stationed there as garrison commander, but... Sima Yi, will it hold?
+
+@8.2
+Lord Hao Zhao is a brave general of superior wit, and I hear he excels at defensive warfare. He will hold it. If the Shu army attacks Chencang, we can follow as the rear guard and send reinforcements.
+
+@9.0
+Your Majesty, our defenses against Shu are now complete. Why not invade Wu at this point?
+
+@9.1
+Oh, Wu? Do you have a good plan?
+
+@9.2
+Yes. A man of Wu named Zhou Fang has long been writing to say he wishes to defect to Wei. Now he has sent me a plan to defeat Wu from within. Let us use it to destroy Wu.
+
+@9.3
+Hmm... If it is true, it is a perfect opportunity. Sima Yi, what do you think?
+
+@9.4
+It does seem somewhat suspicious. But it would be a waste to let the chance slip. Why not first march in three columns with a large army? Then a few tricks would do us no harm.
+
+@9.5
+Very well. I appoint Cao Xiu as commander in chief. Jia Kui, Man Chong and the others will each lead a force with him against Wu.
+
+@10.0
+Yes, Your Majesty. Await word of our victory.
+
+@11.0
+March to Shiting! Give Wu a good scare!
+
+@13.0
+A message has just come from Zhou Fang. Wei has finally moved, marching under Cao Xiu as commander in chief.
+
+@14.0
+Ah. Then Zhou Fang has done well.
+
+@14.1
+Yes. He says he has lured Cao Xiu all the way to Shiting. This is our chance. Lu Xun, I leave the command to you. Take Zhu Huan, Quan Zong and Zhuge Jin with you. Crush Cao Xiu's army!
+
+@15.0
+At once, my lord. Let us teach the Wei army how fearsome Wu can be.
+
+@16.0
+Now is the time to strike Wei! The whole army sorties to Shiting!
+
+@17
+Shiting: Wei Camp
+
+@18.0
+Lord Cao Xiu!
+
+@18.1
+Jia Kui, why the panic? We are about to defeat Wu.
+
+@18.2
+This is no time for that!
+
+@19.0
+Zhou Fang has vanished!
+
+@19.1
+What? Zhou Fang has vanished...!? Surely he is only out on patrol?
+
+@19.2
+They say he has not been seen since last night! His attendants are gone too!
+
+@20.0
+Lord Cao Xiu, this is dire! The Wu army is swarming in on us all at once!
+
+@21.0
+W-what...! Curse you, Zhou Fang! You tricked me!
+
+@22
+Lured to Shiting by Zhou Fang's scheme, Cao Xiu's army was struck by a sudden assault of the Wu troops under Lu Xun and others. Shiting was ill suited for deploying a large force, and the Wei troops, thrown into confusion by the surprise attack, could not use their numbers and fled in utter defeat.
+
+@23
+Thanks to Jia Kui's quick thinking, Cao Xiu managed to return to Luoyang. But he was so ashamed of the great defeat that he spent his days in gloom, and the anguish brought on illness: a malignant boil formed on his back. His condition quickly worsened, and Cao Xiu died despite all treatment.
+
+@24
+Jieting: Shu Camp
+
+@25.0
+Prime Minister, Lord Jiang Wan and Lord Fei Yi have arrived from Chengdu.
+
+@26.0
+His Majesty has sent us to assist you, Prime Minister.
+
+@27.0
+We left affairs in Chengdu to Lord Dong Yun and Lord Guo Youzhi. Please rest assured.
+
+@28.0
+Good. It is reassuring that you have come. I count on you both.
+
+@28.1
+By the way, Prime Minister, do you know that Cao Xiu of Wei suffered a great defeat at the hands of Wu?
+
+@28.2
+Yes, the Battle of Shiting, was it not? I have heard.
+
+@28.3
+This is a rare chance. Let us resume the march now and destroy Wei.
+
+@28.4
+...Indeed. Then let us send an envoy to His Majesty to announce that we are advancing again.
+
+@29.0
+Jiang Wei, please arrange the envoy.
+
+@31.0
+(Of course. If we are sending an envoy to Chengdu...)
+
+@32.0
+Prime Minister, do you have any message for your wife? I can have the envoy carry it.
+
+@32.1
+Hm? Let me think... Nothing in particular comes to mind.
+
+@32.2
+Perhaps some word on raising your son? Lord Zhuge Zhan must be old enough to read and write by now.
+
+@32.3
+Zhan... Yes, I suppose...
+
+@33
+Shu Base: Hanzhong
+
+@34
+Hanzhong: Residence
+
+@35.0
+Prime Minister, Lord Jiang Wan and Lord Fei Yi have arrived from Chengdu.
+
+@36.0
+His Majesty has sent us to assist you, Prime Minister.
+
+@37.0
+We left affairs in Chengdu to Lord Dong Yun and Lord Guo Youzhi. Please rest assured.
+
+@38.0
+Good. It is reassuring that you have come. I count on you both.
+
+@39.0
+We are at your service, Prime Minister.
+
+@40.0
+We will surely make the Northern Campaign a success.
+
+@41.0
+By the way, Prime Minister, do you know that Cao Xiu of Wei suffered a great defeat at the hands of Wu?
+
+@41.1
+Yes, the Battle of Shiting, was it not? I heard it just now.
+
+@41.2
+This is a rare chance. Let us attack Wei now and avenge Jieting.
+
+@41.3
+...Indeed. Then let us send an envoy to His Majesty. We march on the Northern Campaign once more.
+
+@42.0
+Jiang Wei, please arrange the envoy.
+
+@44.0
+(Of course. If we are sending an envoy to Chengdu...)
+
+@45.0
+Prime Minister, do you have any message for your wife? I can have the envoy carry it.
+
+@45.1
+Hm? Let me think... Nothing in particular comes to mind.
+
+@45.2
+Perhaps some word on raising your son? Lord Zhuge Zhan must be old enough to read and write by now.
+
+@45.3
+Zhan... Yes, I suppose...
+
+@46
+Ask Jiang Wei to pass on a message about raising the child
+
+@47
+Study the art of war.\nLearn swordplay.\nLearn horsemanship.\nLet him grow up freely.
+
+@48.0
+Study the art of war, is it? Understood. I will pass it on.
+
+@49.0
+Learn swordplay, is it? He may become a famed general like Lord Zhao Yun. Understood. I will pass it on.
+
+@50.0
+Learn horsemanship, is it? I am sure he will do well. Understood. I will pass it on.
+
+@51.0
+Yes. He is still young, so letting him learn freely is best. Understood. I will pass it on.
+
+@52.0
+Then, Jiang Wei, please arrange the envoy.
+
+@53.0
+Jiang Wan, Fei Yi, gather the generals. We will hold a council on resuming the march.
+
+@54.0
+Then, Jiang Wei, please arrange the envoy.
+
+@55.0
+Prime Minister, let us tell everyone that the Northern Campaign resumes.
+
+@55.1
+Yes. Then let us go to the Council Hall.
+
+@56
+Jieting: Shu Camp
+
+@57.0
+I hear Wei fought our ally Wu at Shiting and was badly beaten. Wei must have concentrated its forces toward Wu. We will use this chance to resume our march.
+
+@57.1
+Ah, at last we march again! My arm itches for battle.
+
+@57.2
+Prime Minister, where are we headed this time?
+
+@58.0
+Chencang. We will take Chencang Castle as a foothold for taking Chang'an.
+
+@60.0
+I hear Wei fought our ally Wu at Shiting and was badly beaten.\n\nWei must have concentrated its forces toward Wu. We will use this chance to resume the Northern Campaign.
+
+@60.1
+Ah, the Northern Campaign again! My arm itches for battle.
+
+@60.2
+Then, Prime Minister, are we going to Jieting again?
+
+@62.0
+No. Jieting is a key point only when we hold the three commanderies of Nan'an, Anding and Tianshui. In the present situation it is not so important.
+
+@62.1
+I see. Then where are we going?
+
+@62.2
+This time we will take the Jigu Road.
+
+@62.3
+Then we are going to Chencang?
+
+@62.4
+Exactly. We will take Chencang Castle as a foothold for the Northern Campaign.
+
+@63.1
+...Ugh!!
+
+@64.0
+Zhao Yun! What is it!?
+
+@64.1
+Lord Zhao Yun!
+
+@64.2
+General Zhao!
+
+@65.0
+It is nothing. I just felt a little dizzy.
+
+@65.1
+Do not overdo it. Zhao Yun, you will stay in Hanzhong. You should rest a while.
+
+@65.2
+To restore the Han house, I cannot lie down for something like this.
+
+@65.3
+When you recover, I will surely give you the vanguard of the Northern Campaign. So rest this time. That is an order from your Prime Minister.
+
+@65.5
+(Zhao Yun is at an age where he may be called an old general now. His fatigue has not yet passed.)\n\n(The weariness of the last defeat...)
+
+@68.0
+As you have already heard, the Shu army has invaded again.
+
+@69.0
+As you have already heard, the Shu army has resumed its march.
+
+@70.0
+As Sima Yi predicted, they have gone to Chencang Castle.
+
+@70.1
+Ah. As expected of Lord Sima Yi, what keen insight.
+
+@70.2
+While Hao Zhao holds off the Shu army, we should send a relief force to Chencang Castle.
+
+@71.0
+Your Majesty, I have a request.
+
+@71.1
+Oh, Cao Zhen. What is it?
+
+@71.2
+I wish to wipe away the disgrace of my last defeat. Please send me to relieve Chencang. This time I have found a man named Wang Shuang.
+
+@71.3
+Wang Shuang? What manner of man is he?
+
+@71.4
+He is a fierce warrior among warriors who wields a great glaive of sixty jin. ...Wang Shuang, come forward.
+
+@72.0
+I am Wang Shuang, style name Ziquan, a retainer of Lord Cao Zhen.
+
+@72.1
+Oh... I see. He looks formidable indeed.
+
+@72.2
+Yes. With him, the Shu generals are no match for us. This time I will surely give Kongming a scare.
+
+@72.3
+Very well. Cao Zhen, go to the relief at once.
+
+@72.4
+Thank you for granting my request. Guo Huai, Wang Shuang! We march!
+
+@73
+Chencang: Shu Position
+
+@74
+Arriving at Chencang, Kongming sent an envoy to the garrison commander Hao Zhao urging surrender, but Hao Zhao refused. Kongming ordered a general assault. Hao Zhao withstood the fierce Shu attacks for twenty days, and Chencang showed no sign of falling.
+
+@75.0
+Report! A Wei relief force under Cao Zhen and Guo Huai has appeared from the direction of Chang'an!
+
+@75.1
+Cao Zhen? I see... It cannot be helped. We call off the attack on Chencang for now.
+
+@76.0
+What!? You mean to withdraw without taking even one small castle like Chencang? How faint-hearted!
+
+@77.0
+Indeed, that seems a bit too passive...
+
+@78.0
+No, that is not so. If Cao Zhen learns that we have given up the siege, he will surely pursue us. When the enemy pursues, we turn about and strike back.
+
+@79.0
+...I see. That is a plan that takes courage.
+
+@79.1
+Then, Prime Minister, where shall we turn to?
+
+@80.0
+We either feign a retreat to Hanzhong or feign a move toward Mount Qi. It will be one of the two.
+
+@80.1
+Then please decide which way we go. When you have decided, tell me.
+
+@81
+Choose whether to return to Hanzhong or advance to Mount Qi
+
+@82.0
+I hear there is a fierce general named Wang Shuang in the Wei army. I would very much like to fight him.
+
+@83.0
+Even if it is a feint, retreat does not suit me. Let us go to Mount Qi and prepare for a decisive battle.
+
+@84.0
+Let us return to Hanzhong. That is the surer way.
+
+@85.0
+Mount Qi is an important position. I think we should go there.
+
+@86.1
+Ma Su, do not hold back. Give us your opinion.
+
+@86.2
+...Let us go to Mount Qi.
+
+@87.0
+Either way, we will end up being pursued by the enemy.
+
+@88.0
+I think a retreat to Hanzhong would be easier for the Wei army to believe.
+
+@89.0
+Let us go to Mount Qi.
+
+@90.0
+A retreat to Hanzhong would not be difficult. I think it better than going to Mount Qi.
+
+@91.0
+Let us go to Mount Qi and crush the Wei army there.
+
+@92.0
+Considering the aim of luring them out, returning to Hanzhong seems better.
+
+@93.0
+Both the Hanzhong plan and the Mount Qi plan have their strengths and weaknesses, so the choice is hard. I favor going to Mount Qi, though...
+
+@94.0
+I think advancing to Mount Qi is the better plan.
+
+@95.0
+Prime Minister, have you decided which way we go?
+
+@96
+Feign a return to Hanzhong\nFeign a move to Mount Qi
+
+@97.0
+So we are to make it look like a retreat to Hanzhong.
+
+@97.1
+Yes. The whole army turns toward Hanzhong.
+
+@98.0
+Understood. So we are to make it look like we turn toward Mount Qi.
+
+@98.1
+Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I count on you.
+
+@98.2
+Rest assured. I will take down this Wang Shuang or whatever his name is.
+
+@98.3
+We turn toward Mount Qi! The whole army, prepare!
+
+@99.0
+I hear there is a fierce general named Wang Shuang in the Wei army. I would very much like to fight him.
+
+@100.0
+Even if it is a feint, retreat does not suit me. Let us go to Mount Qi and prepare for a decisive battle.
+
+@101.0
+Let us return to Hanzhong. That is the surer way.
+
+@102.0
+Mount Qi is an important position. I think we should go there.
+
+@103.0
+I think we should go to Mount Qi. If we fall back to Hanzhong, we give up Longxi.
+
+@104.0
+Either way, we will end up being pursued by the enemy.
+
+@105.0
+I think a retreat to Hanzhong would be easier for the Wei army to believe.
+
+@106.0
+Let us go to Mount Qi.
+
+@107.0
+A retreat to Hanzhong would not be difficult. I think it better than going to Mount Qi.
+
+@108.0
+Let us go to Mount Qi and crush the Wei army there.
+
+@109.0
+Considering the aim of luring them out, returning to Hanzhong seems better.
+
+@110.0
+Both the Hanzhong plan and the Mount Qi plan have their strengths and weaknesses, so the choice is hard. I favor going to Mount Qi, though...
+
+@111.0
+I think advancing to Mount Qi is the better plan.
+
+@112.0
+Prime Minister, have you decided which way we go?
+
+@113
+Feign a return to Hanzhong\nFeign a move to Mount Qi
+
+@114.0
+So we are to make it look like a retreat to Hanzhong.
+
+@114.1
+Yes. The whole army turns toward Hanzhong.
+
+@115.0
+Understood. So we are to make it look like we turn toward Mount Qi.
+
+@115.1
+Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I count on you.
+
+@115.2
+Rest assured. I will take down this Wang Shuang or whatever his name is.
+
+@115.3
+We turn toward Mount Qi! The whole army, prepare!
+
+@116.0
+Is that Cao Zhen's force? It seems quite large.
+
+@117.0
+What is the Shu army doing?
+
+@117.1
+The Shu army is withdrawing. They seem to be pulling back to Hanzhong.
+
+@117.2
+To feign a retreat to Hanzhong, we head for the fort in the south.
+
+@117.3
+Prime Minister, there are two forts in the south. Which one?
+
+@117.4
+The one farther east.
+
+@118.0
+The Wei army will pursue us sooner or later. We will defeat them piece by piece.
+
+@119
+1. Kongming enters the south fort 2. Annihilate the enemy units
+
+@120.0
+If we get through this side road, we can hit the flank of the retreating Shu army!
+
+@120.1
+As I thought... Some troops did come through the side road.
+
+@121.0
+Wa ha ha ha! What's the matter, what's the matter!
+
+@121.1
+I-I'm no match for this! Pull back...
+
+@122.0
+Hm...? Y-you are... Jiang Wei!
+
+@122.1
+The Prime Minister foresaw that you would come! Prepare yourself, Fei Yao!
+
+@123.0
+Waaah!
+
+@123.1
+Had enough?
+
+@124
+Jiang Wei leveled up!
+
+@125.0
+Ugh...
+
+@125.1
+Hmph! There is no general anywhere who can match Wei Yan!
+
+@126
+Wei Yan leveled up!
+
+@127.0
+It seems Wei reinforcements have come too. Let us withdraw for now.
+
+@128.0
+We have beaten back Cao Zhen, but our army's provisions will not last. We fall back to Mount Qi for now...
+
+@129.0
+It seems we have managed to settle this. Let us withdraw for now.
+
+@130.0
+In time... there will be another chance to take Chencang.
+
+@132.0
+We will go through the side road of Jigu and come out at Mount Qi. Cao Zhen would never imagine we would turn our army around.\n\nWei Yan, hold off the pursuit of Wang Shuang and the rest until we have beaten Cao Zhen.
+
+@132.1
+I will hold Wang Shuang off. Leave it to me.
+
+@133
+1. Cao Zhen retreats
+
+@134.0
+Prime Minister, enemy reinforcements have appeared. Their banner reads "Zhang He."
+
+@134.1
+Advance! Drive the Shu army back to Hanzhong!
+
+@135.0
+Wa ha ha ha! What's the matter, what's the matter!
+
+@135.1
+I-I'm no match for this! Pull back...
+
+@136.0
+Ugh...
+
+@136.1
+Hmph! There is no general anywhere who can match Wei Yan!
+
+@138.0
+Curse you, Kongming... Feigning a turn and then striking at us.
+
+@138.1
+Lord Cao Zhen, it is dangerous. Please retreat quickly.
+
+@138.2
+Kongming has outwitted me yet again...
+
+@139.0
+Damn it, have you still not captured Kongming!?
+
+@139.1
+W-well...
+
+@139.2
+Without him, the Shu army is nothing but a rabble! Capture him without fail!
+
+@140.0
+...Have you captured Kongming?
+
+@140.1
+N-no. Not yet.
+
+@140.2
+(Even with such a huge army, we cannot catch him...)
+
+@141.0
+We have beaten back Cao Zhen, but our army's provisions will not last. We fall back to Mount Qi for now...
+
+@142.0
+In time... there will be another chance to take Chencang.
+
+@144
+Chencang
+
+@146.0
+Ah... Kongming has outwitted me again.
+
+@147.0
+And I have even lost Wang Shuang...
+
+@148.0
+Ugh...
+
+@149.0
+Ah! Lord Cao Zhen! Are you all right!?
+
+@150.0
+Lord Cao Zhen! Lord Cao Zhen!!
+
+@151.0
+It is nothing, do not worry. Guo Huai, and Zhang He, Sun Li, Hao Zhao... I entrust you with the defense of Chang'an. I am... tired now...\n\nI will return to Luoyang. ...I want to rest a little.
+
+@151.1
+Lord Cao Zhen...
+
+@152
+Jianye: Palace
+
+@153.0
+My lord, the war between Shu and Wei drags on, and both countries are worn out. We are allied with Shu, so now is the time to raise an army to attack Wei.
+
+@154.0
+Yes. Now it would not be at all difficult to defeat Wei.
+
+@155.0
+Mm. You are quite right. I know that, but...
+
+@156.0
+You still seem undecided. Then let us set the talk of war aside for now.\n\nMy lord, now that both Shu and Wei are weakened, is the time. Why not take the imperial throne?
+
+@157.0
+The imperial throne, hm... But if I take the throne, neither Wei nor Shu will take it kindly. Especially since we are allied with Shu, would our relations with Shu not turn bad?
+
+@158.0
+The alliance with Shu is certainly necessary. But the ruler of Shu, Liu Shan, holds the imperial throne. My lord holds only a kingship... We cannot be on equal terms like this.\n\nMy lord must take the throne and stand on equal footing with both Shu and Wei.
+
+@159.0
+(True, if things go on like this, the day will come when I must bow to Shu or Wei. In that case...)\n\nVery well. To live up to your expectations, I will proclaim myself emperor.
+
+@160.0
+Ah, you have decided. Then we shall begin preparing for the enthronement ceremony.
+
+@161
+In the eighth year of Huangwu in Wu (229 AD), Sun Quan took the imperial throne. With this, Wei, Wu and Shu each had an emperor. To preserve the Shu-Wu alliance, Kongming chose to tacitly accept Sun Quan's enthronement and strengthen the alliance.
+
+@162
+Hanzhong
+
+@164.0
+(So Sun Quan has called himself emperor... For the Han, in terms of diplomatic strategy, there is nothing to do but tacitly accept it.)\n\n(Wei is also worn out from fighting us and cannot take a hard line against Wu.)\n\n(...Sun Quan, you are quite something.)
+
+@165.0
+Oh, Jiang Wei. Has something happened?
+
+@165.1
+According to our spies' report, Cao Zhen has returned to Luoyang. They say it is from mental strain.
+
+@165.2
+Mental strain... I see.
+
+@165.3
+Also, important information has come from the spy we sent to Chencang. According to it, Hao Zhao, who defends Chencang, has fallen ill and is in critical condition.
+
+@165.4
+That is a rare chance. We must sortie to Chencang at once.\n\nJiang Wei, gather the generals in the Council Hall. I will come right away.
+
+@167
+Go to the Council Hall in Hanzhong
+
+@169.0
+You have all heard the news. Hao Zhao of Chencang has fallen ill.
+
+@169.1
+Prime Minister, this is our chance. We should attack Chencang now.
+
+@169.2
+Yes, Wei Yan is right. We go to take Chencang.
+
+@169.3
+This time I will take Chencang Castle without fail.
+
+@169.4
+However, going with a large army takes time to prepare.\n\nDuring that time the castle's defenses may be strengthened.\n\nA surprise attack would be preferable then, but that would mean fighting with a small elite force.\n\nEach has its strengths and weaknesses. It is a difficult question.
+
+@169.5
+Indeed... It is hard to say either way.
+
+@169.6
+Prime Minister. Please decide the plan: a surprise attack with a small elite force, or going with a large army.
+
+@170
+Decide the plan
+
+@171.0
+Last time we could not win even with a large army. Let us attack with a small elite force.
+
+@172.0
+Chencang is a small castle and its commander is ill. If we attack with a large army, we can take it in no time.
+
+@173.0
+It is rare for a castle's commander to fall ill. So as not to lose this chance, a surprise attack!
+
+@174.0
+Hao Zhao is skilled at commanding troops. Chencang without him would be nothing.
+
+@175.0
+If they strengthen the castle's defenses it will be the same as last time. Let us make a surprise attack with a small elite force.
+
+@176.0
+Let us strike at the Wei army's weak point with a surprise attack by a small elite force.
+
+@177.0
+It is difficult. I cannot say which is better.
+
+@178.0
+...A swift battle seems best.
+
+@179.0
+With a large army, a small castle like Chencang will fall quickly.
+
+@180.0
+Leading a large army is also a plan. But it is for the Prime Minister to decide.
+
+@181.0
+In any case we need to go to Chencang. This is our chance.
+
+@182.0
+Once Wei learns the castle's commander is ill, they will surely take some measure. We must act before Wei gets the first move.
+
+@183.0
+Prime Minister, have you decided on the plan?
+
+@184
+Raid with elite troops\nAttack with a large army
+
+@185.0
+Understood. A surprise attack with a small elite force.
+
+@186.0
+Wei Yan! Jiang Wei! Make your preparations within three days and head for Chencang Castle. Begin preparing at once! Is that clear?
+
+@187.1
+Then we will begin preparations.
+
+@188.0
+Now then... We set out at once!
+
+@188.1
+What!? Are Lord Wei Yan and Lord Jiang Wei not the vanguard!?
+
+@188.2
+They are, so to speak, decoys to lull the enemy. That is also why I set the deadline of three days.
+
+@188.3
+I-I see... A true lightning strategy.
+
+@188.4
+Then let us depart at once.
+
+@189.0
+Understood. We go to Chencang with a large army.
+
+@190.0
+Yes. This time we will take Chencang without fail.
+
+@191.0
+Everyone, begin preparing to sortie!
+
+@192.0
+Wei Yan and Jiang Wei are attacking? Are they the only two generals? What of Kongming?
+
+@192.1
+He is still stationed at Hanzhong. Wei Yan, Jiang Wei and the others are expected in two or three days.
+
+@192.2
+Kongming thinks I am a sick man and takes me lightly... Well, no matter. I will show him.
+
+@193.0
+The whole army sorties! This time we will take Chencang!
+
+@194
+Mount Qi
+
+@195
+Mount Qi: Kongming's Residence
+
+@196.0
+(So Sun Quan has called himself emperor... For the Han, in terms of diplomatic strategy, there is nothing to do but tacitly accept it.)\n\n(Wei is also worn out from fighting us and cannot take a hard line against Wu.)\n\n(...Sun Quan, you are quite something.)
+
+@197.0
+Oh, Jiang Wei. Has something happened?
+
+@197.1
+According to our spies' report, Cao Zhen has returned to Luoyang. They say it is from mental strain.
+
+@197.2
+Mental strain... I see.
+
+@197.3
+Also, important information has come from the spy we sent to Chencang. According to it, Hao Zhao, who defends Chencang, has fallen ill and is in critical condition.
+
+@197.4
+That is a rare chance. We must sortie to Chencang at once.\n\nJiang Wei, gather the generals in the camp. I will come right away.
+
+@199
+Go to the camp at Mount Qi
+
+@200
+Mount Qi, camp
+
+@201.0
+You have all heard the news. Hao Zhao of Chencang has fallen ill.
+
+@201.1
+Prime Minister, this is our chance. We should attack Chencang now.
+
+@201.2
+Yes, Wei Yan is right. We go to take Chencang.
+
+@201.3
+This time I will take Chencang Castle without fail.
+
+@201.4
+However, going with a large army takes time to prepare.\n\nDuring that time the castle's defenses may be strengthened.\n\nA surprise attack would be preferable then, but that would mean fighting with a small elite force.\n\nEach has its strengths and weaknesses. It is a difficult question.
+
+@201.5
+Indeed... It is hard to say either way.
+
+@201.6
+Prime Minister. Please decide the plan: a surprise attack with a small elite force, or going with a large army.
+
+@202
+Decide the plan
+
+@203.0
+Last time we could not win even with a large army. Let us attack with a small elite force.
+
+@204.0
+Chencang is a small castle and its commander is ill. If we attack with a large army, we can take it in no time.
+
+@205.0
+It is rare for a castle's commander to fall ill. So as not to lose this chance, a surprise attack!
+
+@206.0
+Hao Zhao is skilled at commanding troops. Chencang without him would be nothing.
+
+@207.0
+If they strengthen the castle's defenses it will be the same as last time. Let us make a surprise attack with a small elite force.
+
+@208.0
+Let us strike at the Wei army's weak point with a surprise attack by a small elite force.
+
+@209.0
+It is difficult. I cannot say which is better.
+
+@210.0
+A swift battle seems best...
+
+@211.0
+With a large army, a small castle like Chencang will fall quickly.
+
+@212.0
+Leading a large army is also a plan. But it is for the Prime Minister to decide.
+
+@213.0
+In any case we need to go to Chencang. This is our chance.
+
+@214.0
+Once Wei learns the castle's commander is ill, they will surely take some measure. We must act before Wei gets the first move.
+
+@215.0
+Prime Minister, have you decided on the plan?
+
+@216
+Raid with elite troops\nAttack with a large army
+
+@217.0
+Understood. A surprise attack with a small elite force.
+
+@218.0
+Wei Yan! Jiang Wei! Make your preparations within three days and head for Chencang Castle. Begin preparing at once! Is that clear?
+
+@219.1
+Then we will begin preparations.
+
+@220.0
+Now then... We set out at once!
+
+@220.1
+What!? Are Lord Wei Yan and Lord Jiang Wei not the vanguard!?
+
+@220.2
+They are, so to speak, decoys to lull the enemy. That is also why I set the deadline of three days.
+
+@220.3
+I-I see... A true lightning strategy.
+
+@220.4
+Then let us depart at once.
+
+@221.0
+Understood. We go to Chencang with a large army.
+
+@222.0
+Yes. This time we will take Chencang without fail.
+
+@223.0
+Everyone, begin preparing to sortie!
+
+@224.0
+Wei Yan and Jiang Wei are attacking? Are they the only two generals? What of Kongming?
+
+@224.1
+He is still stationed at Hanzhong. Wei Yan, Jiang Wei and the others are expected in two or three days.
+
+@224.2
+Kongming thinks I am a sick man and takes me lightly... Well, no matter. I will show him.
+
+@225.0
+The whole army sorties! This time we will take Chencang!
+
+@226.0
+There is a commotion at the castle gate... What on earth is it?
+
+@226.1
+Disaster! Shu spies have opened the castle gate! And Shu troops are pouring in outside the castle!
+
+@226.2
+What! Were the Shu army not supposed to arrive in two or three days!?
+
+@227.0
+Good. The whole army, storm Chencang Castle! Capture the enemy general Hao Zhao!
+
+@228
+1. Defeat Hao Zhao
+
+@229.0
+Cough, cough!
+
+@229.1
+Lord Hao Zhao! Are you all right!?
+
+@229.2
+Y-yes...
+
+@230.0
+...Cough, cough! Ugh, hack!!
+
+@230.1
+Lord Hao Zhao! Are you all right!?
+
+@231.0
+N-not yet. I cannot... fall yet...
+
+@232.0
+...As expected of Kongming. He saw our weakness and forced a swift battle...\n\nUgh... Gah! ...It seems... this is the end...
+
+@232.1
+L-Lord Hao Zhao!
+
+@232.3
+...Ah. He has already... breathed his last.
+
+@233.0
+...As expected of Kongming. He saw our weakness and forced a swift battle...\n\nMy fortune in arms... seems to end here. Gah!!
+
+@233.1
+Lord Hao Zhao!
+
+@233.3
+...Ah. He has already... passed away.
+
+@234.0
+Damn! Chencang has already fallen... With this small force, retaking Chencang will be hard... Turn back!
+
+@235.0
+Something is odd about Chencang. ...What is that?
+
+@235.1
+What! Chencang Castle has already fallen!
+
+@235.2
+W-what... Lightning speed indeed.
+
+@235.3
+...What means did the Prime Minister use!?
+
+@235.4
+You have finally arrived. Both Wei Yan and Jiang Wei are late.
+
+@236.0
+...I see, so Hao Zhao is dead.\n\nHe was an enemy general, but his loyalty, wisdom and courage were admirable. See that Hao Zhao is given an honorable burial.
+
+@238.0
+Report. A large Shu army is heading for Chencang.
+
+@238.1
+Curse you, Kongming... So he has learned that I am gravely ill.\n\nThis is where I will die. I will hold it to the end!
+
+@239
+1. Defeat Hao Zhao
+
+@240.0
+Chencang Castle has not yet fallen... It seems we made it in time. But as it stands, its fall is certain. Follow me! Drive the Shu army back!
+
+@240.1
+That is... Zhang He's force. Wei is quick to act.
+
+@241.0
+As expected of Wei Yan, he is formidable. Let us retreat for now.
+
+@241.1
+Curse you! Are you running away!?
+
+@243.0
+...As expected of Kongming. The moment he learned I was ill, he attacked at once.\n\nUgh! ...This is... the end... Gah!!
+
+@243.1
+Lord Hao Zhao!
+
+@243.3
+...Ah. He has already... passed away.
+
+@244.0
+...As expected of Kongming. The moment he learned I was ill, he attacked at once...\n\nUgh! ...This is... the end... Gah!!
+
+@244.1
+L-Lord Hao Zhao!
+
+@244.3
+...It is no use. He has already... passed away.
+
+@245.0
+Chencang Castle is ours now.
+
+@245.1
+Yes. We have finally taken it...
+
+@246.0
+I see, so Hao Zhao is dead.\n\nHe was an enemy general, but his loyalty, wisdom and courage were admirable. See that Hao Zhao is given an honorable burial.
+

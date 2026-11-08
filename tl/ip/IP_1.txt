@@ -1,0 +1,168 @@
+@0
+I wonder what lies beyond this country? Mister, do you know?
+
+@1
+Lord Ma Chao's gallant figure... How wonderful.
+
+@2
+The more battles you fight, the stronger you become. A duel is excellent experience.
+
+@3
+Please take the best care of yourself. If you retreat, the whole army is defeated.
+
+@4
+They say Liu Bang, the Han founder, became King of Hanzhong in this land and then took the realm.\n\nIn that sense, isn't this a lucky place?
+
+@5
+Your body doesn't look very sturdy.\n\nPlease take good care of yourself.
+
+@6
+Are you using items properly in battle? Don't rush, fight slowly and steadily.
+
+@7
+You look really strong, mister! I'm going to fight when I grow up!
+
+@8
+Fire strategies do more damage in the order Scorch, Fire Dragon, Hellfire, and their range grows too.
+
+@9
+Lord Zhang Lu could use sorcery, but they say Zhuge Liang of Shu can too?
+
+@10
+Lord Ma Chao must be bitter that Cao Cao killed his father.
+
+@11
+I wonder how Lord Zhang Lu is doing...
+
+@12
+Don't forget to promote your units. Especially the cavalry.
+
+@13
+Hanzhong is the gateway to Shu. It's an important stronghold.
+
+@14
+If a battle looks like a long one, send out Ration Corps units, which can restore HP.
+
+@15
+They say the higher a general's intelligence, the harder it is for strategies to affect him.
+
+@16
+Hello, Master Kongming.
+
+@17
+I wonder how Lord Liu Zhang is doing now.
+
+@18
+Seeds: should you use them on a general with low stats, or on one with high stats to raise them even further? That's the thing to think over.
+
+@19
+Depending on the battlefield, enemy reinforcements may appear in unexpected places. You must always stay alert.
+
+@20
+I hope peace comes soon.
+
+@21
+Let the unit you want to grow deliver the finishing blow. That's the basics, isn't it?
+
+@22
+There are people among the enemy who would become your allies. It's important not only to fight but to win them over.
+
+@23
+They say bandits can be promoted to Outlaws at level 15 or higher.
+
+@24
+You folks are strong. But are there even stronger people out there?
+
+@25
+It is very important to attack from a position where the enemy cannot counterattack, so as to take less damage.
+
+@26
+When I grow up, I'll become a soldier and beat Wei!
+
+@27
+My father says enemies can't attack Shu because it's surrounded by mountains.
+
+@28
+Wei, Wu and Shu stand as three kingdoms, but how long will it stay this way?
+
+@29
+It would be wise to check the enemy units' information at the start of a battle.
+
+@30
+I mean to serve Shu myself someday.
+
+@31
+Is Lord Ma Su a favorite of Master Kongming? What does he see in him, I wonder?
+
+@32
+Lord Guan Yu, the righteous general, is like a god to us.
+
+@33
+Shu is quite a pleasant country to live in.
+
+@34
+Short weapon units, light cavalry and the like can be promoted at level 15 or higher.\n\nRemember that well.
+
+@35
+Is your unit strong? If you rely only on other units, you'll regret it later.
+
+@36
+Wei too seems to be steadily building up its strength.
+
+@37
+Beyond this point lies untamed land. Please be careful.
+
+@38
+I sense some unfathomable power in you.
+
+@39
+Preparing before battle is important. Don't forget to exchange items, too.
+
+@40
+Meng Huo, the Nanman king, has a younger brother named Meng You.
+
+@41
+Not all weapons only raise attack. Some have other effects too.
+
+@42
+They say Meng Huo, the great king of the Nanman, can't stand up to his wife Zhurong.
+
+@43
+When I grow up, I'll ride across battlefields like Lady Zhurong!
+
+@44
+It's hot around here, so we harvest plenty of crops.
+
+@45
+There are so many wild beasts around here, we can't even hunt in peace.
+
+@46
+They say farther south there are generals who ride elephants!?
+
+@47
+On battlefields with many forests and mountains, you should build your force around infantry units and Bandits.
+
+@48
+Have you run out of medicine? Luckily there's an item shop here, so you should restock.
+
+@49
+Have you visited the item shop? When you reach a new town, take a look at the item shop first.
+
+@50
+Each unit has advantages and disadvantages depending on terrain.\n\nWhen forming your force, send out more units that suit the terrain of the battlefield.
+
+@51
+The number of items you can carry is limited. Think before you go to the battlefield and decide what to carry.
+
+@52
+Do you visit the treasure houses on the battlefield? You can get things there that the weapon shop and item shop don't sell.
+
+@53
+I was called here by the great king Meng Huo, but Lady Zhurong sent me away.
+
+@54
+The road ahead looks rough, so I think I'll turn back here.
+
+@55
+If you were trampled by an elephant, a man wouldn't stand a chance.
+

@@ -1,0 +1,594 @@
+@0
+2-4: Pacifying the Nanman
+
+@1
+Act 4: Pacifying the Nanman
+
+@2
+Panshe Valley: Wuge Camp
+
+@3.0
+Lord Meng Huo, thank you for coming. Lord Dailai told me everything.\n\nWe are all people of the Nanman. I will gladly lend my strength.
+
+@3.1
+That is a great help!
+
+@3.2
+Pah, my Rattan Armor Army has no rival. I will show you its power at once.\n\nFirst we meet the Shu army at Taohua Water. Come, let us sortie together.
+
+@4.0
+Come, let us give the Shu army a taste of pain!
+
+@5
+Yinkeng Cave
+
+@6
+Go to the Yinkeng Council Hall
+
+@8.0
+Prime Minister, have you heard? Meng Huo seems to have fled to a land called Wuge.\n\nWu Tugu, the king of Wuge, is pressing toward Taohua Water, south of Yinkeng Cave.
+
+@9.0
+Prime Minister, rumor has it that Wu Tugu is a monster of a man, twelve feet tall.
+
+@9.1
+Twelve feet?! Even Lord Guan Yu or Lu Bu barely topped nine!
+
+@9.2
+Furthermore, the soldiers of Wuge are called the Rattan Armor Army. They soak rattan vines in oil and dry them...\n\nand wear them as armor and helmets, they say. This rattan armor is light, and it is said that neither blades nor arrows go through it.
+
+@10.0
+Armor that neither blades nor arrows can pierce? That sounds worth testing.
+
+@11.0
+Prime Minister. Please let me go scout Taohua Water.
+
+@11.1
+...Even for you, Lord Ma Chao, one unit alone is far too dangerous.
+
+@12.0
+Then I will go as well.
+
+@12.1
+Then I leave it to you two. But if you sense danger, return at once.
+
+@13.0
+Let us go, Ma Dai.
+
+@15.0
+...Armor that neither blades nor arrows can pierce. Can such armor really exist?
+
+@16.0
+A formidable enemy. My arm itches for the fight.
+
+@17.0
+If neither blades nor arrows go through, does that mean it has no weakness at all?
+
+@18.0
+Will the two units of Lord Ma Chao and Lord Ma Dai be enough...?
+
+@19.0
+Prime Minister, prepare to march.
+
+@20.0
+If you are set on attacking, I think it would be best to go with the whole army.
+
+@21.0
+Armor that neither blades nor arrows can pierce... Surely it has some weakness?
+
+@22.0
+If it truly stops blades and arrows, I would like our army to adopt it.
+
+@23.0
+I am still worried about the two of them. Let us send a unit in case something happens.\n\nShall we form a unit?
+
+@24.0
+Now, what are these rumored rattan soldiers like...
+
+@25.0
+I have a bad feeling. Let us hurry.
+
+@26
+1. Wu Tugu's retreat
+
+@27.0
+Hm... There is no sign of the Rattan Armor Army.\n\nAll right. Let us go to that village and ask the villagers.
+
+@28.0
+Oh, Lord Ma Chao.
+
+@28.1
+I heard the Rattan Armor Army of Wuge had pressed in, so I came to scout...
+
+@28.2
+Yes. The Wuge units did cross Taohua Water and set up camp west of this village.
+
+@28.3
+But three days ago they suddenly pulled out.
+
+@28.4
+What! Pulled out?!
+
+@28.6
+Why?
+
+@28.7
+I do not know the reason... They even left their provisions and supplies behind.
+
+@28.9
+Then I am sorry to ask, but would you take us to where the Wuge army camped?
+
+@28.10
+Yes, gladly.
+
+@28.11
+Ma Dai, you stay here. I will go see the remains of the camp.
+
+@28.12
+Yes. But will you be all right alone?
+
+@28.13
+Ha ha, the Rattan Armor Army is no longer at Taohua Water. I will be fine alone.
+
+@29.0
+So this is where the enemy camped. It does not look like it...
+
+@29.1
+Hm? Where did that villager go?
+
+@29.2
+Heh heh heh...
+
+@30
+The Rattan Armor Army appeared!
+
+@31.0
+Heh heh heh! So, Ma Chao, you fell for it!
+
+@31.1
+D-damn!
+
+@31.2
+W-what! They had hidden troops in the forest!
+
+@31.3
+Th-this is bad! Ma Chao is cut off! The whole army, rescue Ma Chao at once!
+
+@32.0
+As expected of the hero of Changban. I will lose today.\n\nNext time I will bring many more troops!
+
+@32.1
+...We managed to win.
+
+@35.0
+Gah. I... I am done for...
+
+@35.1
+N-no!
+
+@36
+Ma Chao retreats, badly wounded.
+
+@37.0
+Ma Chao is down. Further fighting is pointless! The whole army, retreat!
+
+@38
+The enemy appeared!
+
+@39.0
+What! They had placed an ambush here too!
+
+@40.0
+I lose today, but next time I will bring many more troops!
+
+@40.1
+...We managed to win.
+
+@42.0
+The Rattan Armor Army is fearsome...
+
+@43.0
+Oh, swimming the river in full armor. They must be confident swimmers.
+
+@43.1
+Ah, so that is the Shu army. Play with them a little.
+
+@44
+Wu Tugu's retreat
+
+@45.0
+Why does my spear have no effect?
+
+@45.1
+Ha ha ha, my rattan armor is invincible!
+
+@45.2
+Mmm, so this is rattan armor!
+
+@46.0
+Our weapons seem to have no effect. Fall back to the southeast fort for now!
+
+@47
+Wei Yan flees to the southeast fort.
+
+@48.0
+Armor that neither blades nor arrows can pierce... I must report to the Prime Minister.
+
+@49.0
+I lose today, but next time I will bring many more troops!
+
+@49.1
+We managed to win. But what do we do about that armor that neither blades nor arrows can pierce?\n\nI must report to the Prime Minister.
+
+@51.0
+...I have a report.\n\nLord Ma Chao's wounds worsened on the way back from Taohua Water... and he has died.
+
+@51.1
+M-Ma Chao... Ma Chao... is dead...
+
+@52.0
+I-it cannot be. Lord Ma Chao...
+
+@52.1
+That Ma Chao of the brocade robe... Is he really dead in a place like this...
+
+@53.0
+Prime Minister, we have no way to deal with that Rattan Armor Army.\n\nThe soldiers are tired too. Would it not be better to cut short the Nanman campaign?
+
+@53.1
+No, we must not give up here.\n\nThis Nanman campaign will decide the fate of the Han court from now on. Understand this, all of you.
+
+@53.2
+...We believe in you, Prime Minister.\n\nIf you say so, we too will fight until death.
+
+@53.3
+...I am sorry, everyone...\n\nLu Kai, you said the land where Wu Tugu and the Rattan Armor Army have made camp is Panshe Valley? What is the terrain of Panshe Valley like?
+
+@53.4
+Panshe Valley has cliffs on both sides, and the road is narrow, so a large army cannot pass at once.
+
+@53.5
+Hm... Good. We shall plant gunpowder there.\n\nIf we lure the Rattan Armor Army in and set it alight, the armor, dried with oil as it is, will surely burn.
+
+@54.0
+This is revenge for Ma Chao... I will have Wu Tugu's head without fail!
+
+@55.0
+We lure the Rattan Armor Army deep into the valley. The whole army, fall back.
+
+@55.1
+Good, pursue them! Drive the Shu army out of the Nanman!
+
+@56
+1. Destroy Wu Tugu
+
+@57.0
+Our task is to lure the enemy. We fall back here.
+
+@58.0
+Do not let the Shu army escape! Make them bleed!
+
+@59.0
+What is this place? There are many boxes lying here!\n\nFood? What on earth is this...!
+
+@60.0
+Wh-what! F-f-fire?! Damn!!\n\nA-argh! The rattan armor, the rattan armor is burning!\n\nAaaaaaaah!!!
+
+@61.0
+Wh-what! The Rattan Armor Army... Wu Tugu...!\n\nA battle to avenge Wu Tugu! Fight to the death!
+
+@62.0
+Wh-why... My Rattan Armor Army... defeated... Guh!!
+
+@63.0
+A battle to avenge Wu Tugu! Defeat the Shu army!
+
+@64
+1. Destroy Meng Huo
+
+@66.0
+We have captured Meng Huo, King of the Nanman!
+
+@68.0
+Prime Minister! We have captured Meng Huo!
+
+@69.0
+Meng Huo...
+
+@72.1
+What is the matter, Meng Huo? You lack your usual spirit. Without it, even I find this unsatisfying.\n\nCome, you will challenge us again, will you not? Go home.\n\nGo home, regroup your army, and challenge us to one more battle.
+
+@73
+Yinkeng Cave: Shu Position
+
+@74.0
+Meng Huo, I leave the Nanman to you.
+
+@74.1
+Yes, leave it to me.\n\nPrime Minister... it grieves me to part, but here we say farewell.
+
+@75.0
+Prime Minister!
+
+@76.0
+Prime Minister, this is a small gift from the Nanman. Please, accept it.
+
+@77
+Got 10000 gold!
+
+@78.0
+I will gladly accept your feelings. Meng Huo, then, farewell.
+
+@78.1
+Yes. Please do not forget us.\n\nIf anything happens, do call on us. Wherever it may be, we will rush to your side.
+
+@79
+Yinkeng Cave: Shu Position
+
+@80.0
+Meng Huo, I leave the Nanman to you.
+
+@80.1
+Yes, leave it to me.
+
+@81.0
+Prime Minister, this is a small gift from the Nanman. Please, accept it.
+
+@83.0
+I will gladly accept your feelings. Meng Huo, then, farewell.
+
+@83.1
+Yes. Please do not forget us.\n\nIf anything happens, do call on us.
+
+@85
+Meng Huo and his men vanished.
+
+@86.0
+They no longer have the strength to defy me. Now, we return to Chengdu.
+
+@89.0
+Welcome home, dear.
+
+@89.1
+We have not seen each other for some time... I am sorry.
+
+@90.0
+Not at all, I had this child with me.
+
+@90.1
+That baby... is my child?
+
+@90.2
+Yes, dear. Take a good look.
+
+@91.0
+Babu.
+
+@91.2
+Well? How does it feel, this first meeting of father and child?
+
+@91.3
+...Strange. I am to be someone's father... I could never have imagined it.
+
+@91.4
+This child looks very much like you.\n\nI am sure he will grow up to be a man like you.
+
+@91.6
+Dear, how would you like this child to grow up?
+
+@91.7
+Hm? You ask me so suddenly...
+
+@91.8
+No, you must answer me, without fail. I will wait.
+
+@92
+Think how you want Zhuge Zhan to grow up
+
+@93.0
+He is the Prime Minister's son. Surely he will be a bright child.
+
+@94.0
+He will surely become a man of both letters and arms.
+
+@95.0
+Congratulations, Prime Minister.
+
+@96.0
+Congratulations, Prime Minister.
+
+@97.0
+What a healthy child.
+
+@98.0
+If he is the Prime Minister's child, he will become a fine man.
+
+@99.0
+Whatever else, it is a happy occasion.
+
+@100.0
+I look forward to the child's future.
+
+@101.0
+He has a bright face.
+
+@102.0
+My, how joyous.
+
+@103.0
+He will surely grow up splendidly.
+
+@104.0
+Your son will surely achieve great things.
+
+@105.0
+The baby is so cute!
+
+@106.0
+He looks just like Master Kongming!
+
+@107.0
+Have you decided on your answer?
+
+@108
+Like his father, Kongming\nBenevolent like Liu Bei\nValiant like Zhao Yun\nLet him grow up freely
+
+@109.0
+Well, as a father... I would like him to grow up looking at me.
+
+@109.1
+Yes. He will surely become like you.
+
+@110.0
+The late emperor was a man of benevolence. I would like him to follow that example.
+
+@111.0
+He may not equal His Majesty, but I would like him to grow up a man of benevolence.
+
+@112.0
+Yes. I am sure he will.
+
+@113.0
+I have crossed battlefields for many years, but I have yet to see a general greater than Zhao Yun.\n\nI would like him to become like that.
+
+@113.1
+Yes. I am sure he will.
+
+@114.0
+He has only just been born. There is no need to hurry.\n\nI want to let him grow up freely and openly.
+
+@114.1
+Yes. That is best.
+
+@116.0
+Your Majesty. The Nanman campaign is over, and I have returned.
+
+@117.0
+Well done. ...Prime Minister, do not overwork yourself.\n\nThe Han court exists only because of you.
+
+@118.0
+Well done. ...Kongming, do not overwork yourself.
+
+@118.1
+Your Majesty... Thank you.
+
+@119.0
+Cough, cough.
+
+@120.0
+...Guh!
+
+@121.0
+Your Majesty!
+
+@122.0
+Am I getting old... Lately my body has been...
+
+@123.0
+Your Majesty!!
+
+@124
+Chengdu: Liu Bei's Residence
+
+@125.0
+Your Majesty, how do you feel?
+
+@125.1
+Ah, Kongming. We do not have long...
+
+@125.2
+Your Majesty, what are you saying!
+
+@125.3
+Kongming... before I met you, We... no, I was a wandering general who could not even hold a base.\n\nThat I became the master of a country and rose to the imperial throne, I owe it all to you...
+
+@126.0
+Your Majesty...
+
+@126.1
+I set out to save this age of chaos and to restore the Han court, but...\n\nhalfway through that ambition, I must part from you all.
+
+@126.2
+Your Majesty, how can you speak so weakly!
+
+@126.3
+Ah... Guan Yu... Zhang Fei...\n\nForgive me... It seems I can no longer keep our Oath of the Peach Garden...
+
+@127.0
+(Brother...)
+
+@128.0
+Ugh... Brother!
+
+@128.1
+What is it, Zhang Fei? The hero of Changban Bridge, weeping like a child...\n\nGuan Yu, you too... do not weep...
+
+@128.2
+Y-yes...
+
+@128.3
+B-brother, I am sorry... I will not cry any more...
+
+@129.0
+Sigh... I am a little tired...\n\nForgive me, but would you leave Liu Shan and Kongming here with me and step out...
+
+@131.0
+Ma Su was just there, was he not? ...Kongming, what do you think of Ma Su?
+
+@131.1
+I would call him one of the finest talents the Han court can boast.\n\nThere is much to hear in what he says, and it is sound.
+
+@131.2
+I see... That is what you think. But...\n\nHe always says more than his abilities warrant. He must not be given too weighty a post.\n\n...Kongming, bear this in mind.
+
+@131.3
+Yes...
+
+@132.0
+Kongming... I have one last request.\n\nYour talent is ten times that of Cao Pi. You will surely bring peace to the nation and accomplish the great task of restoring the Han court.\n\nIf Liu Shan proves worth assisting, I would have you assist him. If he lacks the talent... then you should take this country yourself.
+
+@133.0
+Your Majesty, to think you would trust me so much...\n\nI will serve as your loyal subject as ever, and exert myself until death to realize your ambition.
+
+@133.1
+I count on you... Kongming...
+
+@134.0
+Yes...
+
+@134.1
+Liu Shan...
+
+@135.1
+You... plan all matters with the Prime Minister, and serve him as you would a father...
+
+@135.2
+Y-yes. Father... Father...?
+
+@135.5
+Your Majesty!!
+
+@136
+In the autumn of the third year of Zhangwu in Shu-Han (223 AD), Liu Bei ended his life at Chengdu. He was sixty-three.\n\nKongming at once carried out the enthronement of the crown prince, Liu Shan, who was seventeen years old at the time.
+
+@139.0
+Xin Pi, how is His Majesty's condition?
+
+@140.0
+There is no sign of improvement at all.\n\nThe physicians say they are doing all they can...
+
+@141.1
+They say Shu has pacified the Nanman, and lately one thing after another has gone badly for our Wei...
+
+@141.2
+Grand Tutor Zhong, you should not say such things so lightly.\n\nWhat if it reached His Majesty's ears on his sickbed?
+
+@141.3
+...Forgive me, that was careless. I will take care.
+
+@142.0
+Terrible news! His Majesty's condition has suddenly changed!\n\nPlease come at once!
+
+@143.1
+Good, let us go at once!
+

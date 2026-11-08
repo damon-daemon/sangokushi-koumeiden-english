@@ -1,0 +1,150 @@
+@0
+All troops, retreat at once!
+
+@1
+Is this the fault of my own lack of virtue...?
+
+@2
+Brother, forgive me...
+
+@3
+Damn! It wasn't supposed to go like this!
+
+@4
+My tactics and my martial arts are still immature.
+
+@5
+My tactics, defeated...? Impossible...
+
+@6
+Damn, this is the end. Forgive me, I failed my mission!
+
+@7
+Lies! There's no way I could lose!
+
+@8
+Father, forgive me...
+
+@9
+Sorry, Pops! I lost!
+
+@10
+Ugh... What a bitter defeat...
+
+@11
+Hmm, my command must have been flawed.
+
+@12
+Ah... How careless! Retreating for now...
+
+@13
+Next time I show no mercy. I'll have his head!
+
+@14
+Hmm... We will pull back for now.
+
+@15
+Damn! Falling back is unavoidable... Retreat!!
+
+@16
+Father, forgive your unworthy son.
+
+@17
+Curse you! How dare you do this!
+
+@18
+Fall back to the rear at once!
+
+@19
+Argh, pull out!
+
+@20
+How can I ever face Father...?
+
+@21
+At this rate we'll be wiped out! Pull back!
+
+@22
+It can't be helped. Let us pull back for now.
+
+@23
+How careless!
+
+@24
+Back! Fighting on is pointless!
+
+@25
+It has come to this. Retreat is unavoidable.
+
+@26
+Oh no, this is bad! Retreat!
+
+@27
+Retreat! Retreat!
+
+@28
+We will lose at this rate. Withdraw!
+
+@29
+It wasn't supposed to be like this...
+
+@30
+Eek! I'm so sorry. Retreating...
+
+@31
+Now we have no choice but to retreat.
+
+@32
+...Withdraw!
+
+@33
+...Retreat!
+
+@34
+I thought no one could beat me with a glaive...
+
+@35
+Ah! Damn!
+
+@36
+Withdraw at once, and beware of pursuit!
+
+@37
+Curses, it's hopeless!
+
+@38
+We're no match for them. Back, back!
+
+@39
+Father, please forgive me...
+
+@40
+Damn it! You'll regret this!
+
+@41
+Ugh... Me, caught off guard? Retreat!
+
+@42
+Ah, this wasn't supposed to happen...
+
+@43
+Hmph, this is it... We retreat!
+
+@44
+Hm, not good. Fall back for now!
+
+@45
+Grraaah! I won't accept losing like this!
+
+@46
+No good, get back! Back!
+
+@47
+Eek! You'll remember this!
+
+@48
+Grrr...
+
+@49
+I haven't lost yet!
+

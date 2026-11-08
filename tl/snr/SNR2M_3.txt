@@ -1,0 +1,1014 @@
+@0
+2-3: Battle for the Nanman Capital
+
+@1
+Act 3: Battle for the Nanman Capital
+
+@5.0
+Prime Minister, the Nanman army has vanished from the Lu River. What could it mean?
+
+@6.0
+They have probably withdrawn... but why they withdrew is the question.\n\n...Lu Kai. What lies beyond this point?
+
+@7.0
+Ahead lies the Xi'er River. Why not advance as far as the Xi'er River first?
+
+@7.1
+Yes, so we shall.
+
+@8.0
+Prime Minister, shall I go ahead and scout the movements of Meng Huo and his men?
+
+@8.1
+Please do.
+
+@9.0
+Yes. Then I will set out ahead of you.
+
+@10
+Head for the Xi'er River
+
+@11.0
+Then let us leave for the Xi'er River as soon as we are ready.
+
+@12.0
+Let us leave for the Xi'er River.
+
+@13.0
+Then let us set out for the Xi'er River as well.
+
+@14.0
+What kind of place is the Xi'er River?
+
+@15.0
+Has Meng Huo not already fled?
+
+@16.0
+Where could Meng Huo have gone?
+
+@17.0
+Might Meng Huo have fled all the way to Yinkeng Cave?
+
+@18.0
+At the Xi'er River, stationing troops is easy. Let us leave at once.
+
+@19.0
+Let us go to the Xi'er River.
+
+@20.0
+Prime Minister, let us go as far as the Xi'er River.
+
+@21
+Xi'er River: Shu Camp
+
+@22.0
+Prime Minister, I have learned of Meng Huo's movements.\n\nMeng Huo has pulled his army back to his stronghold, Yinkeng Cave. He means to gather soldiers there and try again.
+
+@23
+Yinkeng Cave
+
+@25.0
+Listen, everyone. Kongming's great Shu army has come to attack us.\n\nKongming means to drive us natives out and build the Shu capital right here at Yinkeng Cave.\n\nThey use tricks, and they are tough. But they are not used to the climate and land here.\n\nThe Shu soldiers must be badly worn out. If we join forces, the Shu army is nothing to fear!
+
+@26.0
+Brother! The Shu men have attacked as far as the Xi'er River.
+
+@26.1
+Oh, have they?
+
+@27.0
+Everyone, now is the time to show them the might of the Nanman! Drive the Shu men back!
+
+@28
+Xi'er River
+
+@29
+Go to the camp at Xi'er River
+
+@30
+Xi'er River: Shu Camp
+
+@31.0
+Prime Minister, the Nanman army is pressing in on the Xi'er River. What shall we do?
+
+@32.0
+Prime Minister, I think we should meet them here.\n\nBeyond the Xi'er River, the land is like a back garden to the Nanman. Advancing would only put our army at a disadvantage.
+
+@32.1
+I see. If we are to meet them here, what stratagems can we use at the Xi'er River...
+
+@32.2
+Indeed. For defense, an ambush is the usual choice. A fire attack would also be effective.
+
+@32.3
+Yes, those two are the basics. An ambush, or a fire attack...
+
+@33.0
+When you have decided on a plan, please tell me.
+
+@34
+Tell Ma Su the plan
+
+@35.0
+Considering the preparations, I believe an ambush is best.
+
+@36.0
+A fire attack would be more effective.
+
+@37.0
+I favor the ambush.
+
+@38.0
+I believe a fire attack is best.
+
+@39.0
+Our army is now on the north bank of the Xi'er River.
+
+@40.0
+The north and south banks of the Xi'er River are joined by a floating bridge.
+
+@41.0
+Meng Huo never learns, does he?
+
+@42.0
+Beyond the Xi'er River, it is no exaggeration to call it Meng Huo's back garden.
+
+@43.0
+The geography around here is bewildering.
+
+@44.0
+If only Meng Huo would submit from the heart soon.
+
+@45.0
+Have you decided on a plan?
+
+@46
+Use an ambush.\nUse a fire attack.
+
+@47.0
+Zhao Yun. Go to the south bank and hide your troops.\n\nMa Chao, Wei Yan, Ma Dai, Wang Ping, Guan Xing, Guan Suo: you will follow Zhao Yun.\n\nWhen Meng Huo starts to cross the floating bridge, strike the Nanman army from behind.
+
+@48.0
+Yes, sir! Leave it to us.
+
+@49.0
+Then we march!
+
+@50.0
+We shall use a fire attack. Do not neglect the preparations!
+
+@51.0
+Then we march!
+
+@52.0
+So you have come at last, Meng Huo. I have been waiting.
+
+@52.1
+Kongming fled to the north bank, did he? After him!
+
+@53
+1. Meng Huo's retreat
+
+@54.0
+He is Meng Huo's brother, and a fair fighter... but he is no match for Zhao Yun!
+
+@56.0
+Meng Huo, are you ready?
+
+@56.1
+Our Prime Minister sees through your every move!
+
+@56.2
+Damn! Call off the attack on the north bank! We run to the village at the southern edge!
+
+@57.0
+Kongming... Next time I will not lose!
+
+@58.0
+You have captured Meng Huo. Good, well done.
+
+@60.0
+So you have come at last, Meng Huo. I have been waiting.
+
+@60.1
+Kongming fled to the north bank, did he? After him!
+
+@61.0
+Wh-what! What happened?!
+
+@61.1
+Brother! This is Kongming's fire attack! Our retreat is cut off!
+
+@61.2
+Wh-whaaat! Another of Kongming's schemes!
+
+@61.3
+Good. Capture Meng Huo before the fire dies out.
+
+@61.4
+Damn it! Kongming...!
+
+@62
+1. Meng Huo's retreat
+
+@63.0
+He is Meng Huo's brother, and a fair fighter... but he is no match for Zhao Yun!
+
+@65.0
+Damn! The fire is slowly dying. We must hurry.
+
+@66.0
+Hm? Isn't the fire going out little by little?
+
+@67.0
+Good, once the fire is all out, we run! We retreat toward the southeast village!
+
+@68.0
+Good, it is all out! Retreat!
+
+@68.1
+Damn. Capture Meng Huo quickly!
+
+@69.0
+Kongming...! Next time I will not lose!
+
+@70.0
+You have captured Meng Huo. Good, well done.
+
+@72
+Xi'er River: Shu Camp
+
+@73.0
+Come on, hurry up and walk.
+
+@74.0
+Well, Meng Huo. Are you ready to submit by now?
+
+@75.0
+I will not surrender even if I die. Fight me once more.
+
+@75.1
+Meng Huo. You can make no more excuses.
+
+@75.2
+No, these are no excuses! I lost only to your tricks.\n\nI did not lose in strength. Kongming, just one more time! Fight me!
+
+@75.3
+......Untie his ropes.
+
+@76.0
+Does this man still not understand? There is no way he can beat the Prime Minister.
+
+@77.0
+Then come and challenge us again.
+
+@77.1
+...I thank you for letting me go. But next time I will win for certain!
+
+@78.0
+He is as stubborn as ever. Does he still not understand?
+
+@78.1
+Who knows... We shall see.
+
+@79
+Kunming: Highway
+
+@80.0
+Say, brother... We cannot beat Kongming after all. Let us just surrender.
+
+@81.0
+Wh-what are you saying! Since when did you go so soft?
+
+@82.0
+Soft? What do you mean! Then do you still have some good idea, brother?
+
+@83.0
+I... I am thinking about that right now. You think about it too, You.
+
+@84.0
+...All right. Hmm...
+
+@85.0
+...Ah, I know.
+
+@86.0
+What is it? Have you come up with a good idea?!
+
+@87.0
+Look, King Duosi of Tulong Cave! They say he is the wisest man in the Nanman.\n\nSet a wise man against a wise man. Let us ask King Duosi to help us.
+
+@88.0
+King Duosi, of course! Good, let us go to Tulong Cave at once!
+
+@89
+Tulong Cave: Nanman Camp
+
+@90.0
+King of the Nanman, welcome. It seems you have been having a hard time.
+
+@91.0
+Y-yes. King Duosi, right to the point...
+
+@91.1
+It is about the Shu army? Then there is no need to worry.
+
+@91.2
+I see, then... what?!
+
+@91.3
+You see, there are two roads to Tulong Cave.\n\nOne is the safe northeast road you came by. The other is the northwest road...
+
+@91.4
+The northwest road?
+
+@91.5
+It has poisonous springs and is full of foul vapors. Even we cannot go near it. A terrible road.\n\nI have just ordered my men to block the northeast road, so the Shu army has no choice but to take the northwest road.
+
+@91.6
+I see! Then the Shu army...
+
+@91.7
+Exactly. They will breathe the vapors and suffer.\n\nAnd if we attack them then, even the elite Shu army will be helpless.
+
+@92.0
+I see! As expected of King Duosi, the wisest man in the Nanman. This time we can beat Kongming!
+
+@93
+Xi'er River
+
+@94
+Go to the camp at Xi'er River
+
+@95
+Xi'er River: Shu Camp
+
+@96.0
+Prime Minister. It seems Meng Huo has fled into a place called Tulong Cave.
+
+@96.1
+Tulong Cave? Lu Kai, do you know anything about Tulong Cave?
+
+@97.0
+To reach Tulong Cave from here, there are two roads, northeast and northwest.\n\nBut it seems the Nanman army has blocked the northeast road. Clearing it would take several days.\n\nThe northwest road has not been sealed off, but we have no information and do not know what kind of road it is.
+
+@97.1
+Hmm... The northeast road or the northwest road, which should we take?
+
+@98.0
+When you have decided which road to take, please tell me.
+
+@99
+Choose the northeast road or the northwest road.
+
+@100.0
+Only the northwest road is open. There may be a trap there. I think the northeast road is better.
+
+@101.0
+Taking the northeast road would cost a great deal of time to open it up.\n\nLet us press on quickly by the northwest road.
+
+@102.0
+It is suspicious that only the northwest road is passable. Let us cut open the northeast road.
+
+@103.0
+Cutting open the northeast road would take time and get us nowhere.\n\nI know there is some danger, but let us take the northwest road...
+
+@104.0
+Why did they not block the northwest road? Could it really be a trap?
+
+@105.0
+Why did they close the northeast road? It makes no sense.
+
+@106.0
+Which is better? I cannot say.
+
+@107.0
+They say someone known as "the wisest man in the Nanman" lives in Tulong Cave...
+
+@108.0
+What will you do, Prime Minister?
+
+@109.0
+Would it not be time to withdraw to Chengdu by now?
+
+@110.0
+Prime Minister, have you decided which road to take?
+
+@111
+Take the northeast road.\nTake the northwest road.
+
+@112.0
+Understood. Then we take the northeast road.
+
+@112.1
+Yes. Let us cut the road open.
+
+@113.0
+Understood. Then we take the northwest road.
+
+@113.1
+There must be some kind of trap. Advance with caution.
+
+@114.0
+What on earth is there in Tulong Cave?
+
+@115.0
+King of the Nanman, the Shu army seems to have cut open the northeast road we blocked.
+
+@115.1
+What!
+
+@115.2
+This place is not suited to defense. Let us abandon this fort.
+
+@115.3
+Hmph, it cannot be helped. We pass through the poison springs and retreat to the northwest village... Damn Kongming!
+
+@115.4
+Capture Meng Huo! Do not let him escape!
+
+@116
+1. Meng Huo's retreat
+
+@117.0
+I wish to ask the Prime Minister of Shu something. Why does Shu send troops against the Nanman?
+
+@117.1
+Hm... What is your name?
+
+@117.2
+Yang Feng of Yinye Cave. Prime Minister, I ask for your answer.
+
+@117.3
+Because Meng Huo will not submit to the Han court and rebels again and again. There is no other reason.
+
+@117.4
+I see... so it is Meng Huo's doing. Very well. I, Yang Feng, will cooperate with you, Prime Minister.
+
+@119.0
+Grr. Shu, sending troops to such a remote land...
+
+@119.1
+He was an honorable man for a Nanman general...
+
+@120
+Zhang Bao leveled up!
+
+@121.0
+Kongming...! I will not forget this treatment!
+
+@122.0
+Good, we pass through the springs!
+
+@122.1
+Wait, King of the Nanman! If we pass here now, we will be hit by the poison vapors of the springs too!
+
+@122.2
+Damn it! What a mess!
+
+@122.3
+But... the Shu army is almost on us!
+
+@122.4
+The vapors will fade in a little while. Let us wait until then.
+
+@123.0
+The vapors seem to have vanished! We pass through the poison springs!
+
+@125.0
+Caught again, Meng Huo. You are truly a tenacious man.
+
+@127.0
+King of the Nanman. The Shu army seems to have chosen the northwest road. Victory is ours now.
+
+@127.1
+I see! They chose the northwest road. Let Kongming suffer in the poison springs.
+
+@127.2
+Come, King of the Nanman. Let us drink wine and wait for the Shu army to be wiped out.
+
+@127.3
+Yes. This is the end of Kongming. Ha ha ha!
+
+@128.0
+We cannot know what will happen. Advance with care.
+
+@129
+1. Meng Huo's retreat
+
+@130.0
+The poison vapors from the springs seem to have gone. It may differ with the time of day.
+
+@130.1
+Good, we advance!
+
+@131.0
+These springs are poisonous! Units that passed near the springs have been hurt by the poison.\n\nPrime Minister, it is dangerous to go on like this. Please, a countermeasure!
+
+@131.1
+Mmm... So that is why they blocked the northeast road!\n\nLu Kai, is there any way out of this?!
+
+@131.2
+In the southwest village, I hear a hermit named Wan'an lives.\n\nPerhaps he knows something about these poison springs.
+
+@131.3
+The southwest village. Good, let us go there.
+
+@132.0
+Pardon me, but is Master Wan'an here?
+
+@132.1
+The villagers call me that, though...\n\nOh? Could you be the Prime Minister of Shu... of the Han?
+
+@132.2
+Yes. I am Zhuge Liang. In truth, we are troubled by the poison vapors from the four springs.\n\nDo you know anything about those springs?
+
+@132.3
+Right about now, a great deal of poison vapor comes off those springs.\n\nTo reach the east side of the springs without being poisoned, you must go through the forest to the south.
+
+@132.5
+But if you wait a little longer, the vapors should weaken.
+
+@133.0
+I see. Thank you for your instruction. By the way, you are...
+
+@133.1
+In truth, I am Meng Huo's elder brother, Meng Jie.
+
+@133.2
+What?! Meng Huo's brother?!
+
+@133.3
+I deeply apologize for the trouble my brothers have caused you.\n\nI have warned them, but they ignore the words of a recluse...
+
+@133.4
+I see... So you are Meng Huo's...
+
+@133.5
+Take care as you go on. There are many places with poison vapors.
+
+@134.0
+The Shu army has appeared.
+
+@134.1
+They came through that road! ...What a thing.\n\nTruly the wisdom of a god... We cannot fight a great army here. What shall we do, King of the Nanman?
+
+@134.2
+It cannot be helped! Retreat to the northeast village!
+
+@135.0
+I wish to ask the Prime Minister of Shu something. Why does Shu send troops against the Nanman?
+
+@135.1
+Hm... What is your name?
+
+@135.2
+Yang Feng of Yinye Cave. Prime Minister, I ask for your answer.
+
+@135.3
+Because Meng Huo will not submit to the Han court and rebels again and again. There is no other reason.
+
+@135.4
+I see... so it is Meng Huo's doing. Very well. I, Yang Feng, will cooperate with you, Prime Minister.
+
+@137.0
+Grr. Shu, sending troops to such a remote land...
+
+@137.1
+He was an honorable man for a Nanman general...
+
+@138
+Zhang Bao leveled up!
+
+@139.0
+Kongming...! I will not forget this treatment!
+
+@141.0
+Caught again, Meng Huo. You are truly a tenacious man.
+
+@143
+Tulong Cave: Shu Camp
+
+@144.0
+You are a persistent lot. After losing so many times, do you still mean to fight?
+
+@145.0
+Well, Meng Huo? Do you still not give up? You have no strength left to fight.
+
+@145.1
+That is not so. I still have my land at Yinkeng Cave.\n\nIf I lose at Yinkeng Cave, I will surrender. How is that?
+
+@145.2
+...Very well. Then we will fight one more battle wherever you like. Go and prepare at once.
+
+@145.3
+Hmph! This time I will win!
+
+@145.4
+If you lose this time, I will not forgive you either. Remember that.
+
+@147.0
+Hmm... To think we would lose a battle at Tulong Cave.
+
+@148.0
+Damn it! Why can we not beat Kongming!\n\nWe have fought this much, and never won once!
+
+@149.0
+...Lord Meng Huo. Why not borrow the strength of King Mulu here?\n\nKing Mulu has an army that uses elephants, tigers and venomous snakes. Surely that army could win...
+
+@150.0
+Oh, King Mulu. Even Kongming has surely never fought beasts.
+
+@151.0
+But King Mulu and I do not get along very well. Will he cooperate?
+
+@151.1
+He should. If you explain the threat of the Shu army, King Mulu will cooperate.
+
+@152.0
+Good, Dailai! Go to King Mulu at once.
+
+@154.0
+Until King Mulu arrives, we must somehow hold this place.\n\nKing Duosi, will you defend Sanjiang Castle? We will defend here.
+
+@154.1
+Understood. I have no cave to return to now anyway...
+
+@155.0
+...I am sorry, King Duosi. I must be a plague god to you.
+
+@155.1
+...Do not worry about it. Then I will go to Sanjiang Castle.
+
+@156
+Tulong Cave
+
+@157
+Go to the camp at Tulong Cave
+
+@158
+Tulong Cave: Shu Camp
+
+@159.0
+Lu Kai, what are the Nanman army's movements?
+
+@160.0
+Before Yinkeng Cave there is a castle called Sanjiang Castle.\n\nIt seems King Duosi has gone there.
+
+@160.1
+I see. Then we will take Sanjiang Castle first. The whole army, prepare to march.
+
+@161.0
+First we take Sanjiang Castle.
+
+@162.0
+King Duosi! I count on you until King Mulu arrives!
+
+@162.1
+Understood. Leave this place to me.
+
+@163
+1. Destroy King Duosi
+
+@164.0
+To lose... in a place like this...! Gah!
+
+@165.0
+What! King Duosi is dead...!\n\nForgive me... King Duosi!\n\nIs there no one who will take command in King Duosi's place?\n\n......\n\nIs there truly no one?!
+
+@165.1
+What a hopeless bunch of men. I will go.
+
+@166.0
+Hm?! That general... is a woman?!
+
+@166.1
+My name is Zhurong! I am the wife of Meng Huo, King of the Nanman!\n\nIf you do not value your lives, come and get me!
+
+@167
+1. Zhurong's retreat
+
+@169.0
+What's this, the Shu generals are nothing much! Now you are my prisoner!
+
+@169.1
+Ugh... a blunder... To lose to a woman...!
+
+@170.0
+Nothing much! Are you really a general? Well, you are my prisoner anyway!
+
+@170.1
+...I cannot believe it. Is she really a woman??
+
+@170.2
+Shut up!
+
+@171.0
+What skill! I can hardly believe she is a woman...
+
+@171.1
+......Leave me alone!
+
+@171.2
+Wh-what! My wife has been captured?!
+
+@173.0
+We have captured the enemy general!\n\nBut what a remarkable woman. Among all the strong foes I have met, she is in the top ten...
+
+@173.1
+......And you think that is praise?
+
+@173.2
+Wh-what! My wife has been captured?!
+
+@175.0
+This is going poorly. We had better pull back and try again.
+
+@176.0
+Well, this much will do for now. Let's go home.
+
+@177.0
+Are you Meng Huo's wife?
+
+@177.1
+That's right! Can't you see?!
+
+@179.0
+Prime Minister, Lord Zhang Ni has been taken prisoner by the Nanman army.
+
+@179.1
+Hm... I see.
+
+@179.2
+This is Meng Huo we are talking about. He may have killed him already!
+
+@179.3
+Meng Huo will want to show that he has some largeness of spirit too. His life is probably safe.
+
+@180.0
+Prime Minister, Lord Ma Zhong has been taken prisoner by the Nanman army.
+
+@180.1
+Hmm... I see.
+
+@180.2
+This is Meng Huo we are talking about. He may have killed him already!
+
+@180.3
+Meng Huo will want to show that he has some largeness of spirit too. His life is probably safe.
+
+@181.0
+Prime Minister, Lord Zhang Ni and Lord Ma Zhong have been taken prisoner by the Nanman army.
+
+@181.2
+This is Meng Huo we are talking about. Might he have killed both of them already?!
+
+@181.3
+Meng Huo will want to show that he has some largeness of spirit too. Their lives are probably safe.
+
+@182
+Tulong Cave: Shu Camp
+
+@183.0
+H-hey! That hurts! Isn't this rope too tight?
+
+@183.1
+Quiet. What a strong-willed woman. Come, the Prime Minister is waiting.
+
+@184.0
+Are you Zhurong?
+
+@185.0
+...That's right! What about it?!
+
+@185.1
+You are Meng Huo's wife. Would you tell Meng Huo from your side to surrender?
+
+@186.0
+Not a chance! Besides, this is our land! We will never hand it over to you!
+
+@186.1
+I see. Do you intend to submit...
+
+@186.2
+Of course not.
+
+@186.3
+Sigh... ...Then you may go home.
+
+@186.4
+What? I can go home?! ...I really will go, you know?
+
+@186.5
+Go home without hesitation. Zhao Yun, untie her.
+
+@187.0
+...W-well, then, I'm going home. I really am going!
+
+@189.0
+It is good that you came back safely... But did Kongming let you go, as I thought?
+
+@189.1
+Yes. Why would he do that? It's common sense to kill prisoners right away.
+
+@189.2
+...Perhaps that is the very reason Kongming is invading the Nanman.
+
+@189.3
+......?
+
+@190.0
+What about the two prisoners we took? Did you kill them already?
+
+@190.1
+No, they are only in a cell. ...I do not feel like killing them.
+
+@191.0
+What about the man we took prisoner? Did you kill him already?
+
+@191.1
+No, he is only in a cell. ...I do not feel like killing him.
+
+@192.0
+What about the man we took prisoner? Did you kill him already?
+
+@192.1
+No, he is only in a cell. ...I do not feel like killing him.
+
+@193.0
+And King Duosi is gone too... I feel so down.
+
+@193.1
+Yes... Losing this much, even I am discouraged.
+
+@194.0
+Lord Meng Huo, I have brought King Mulu.
+
+@195.0
+Hey, hey, what is the matter? Such a gloomy face on you.\n\nAnd you the King of the Nanman... Is this Kongming really so formidable?
+
+@196.0
+Yes... King Duosi has been beaten too.
+
+@197.0
+Meng Huo, where is your usual spirit? Now that I am here, you can relax.\n\nMy army is full of fierce beasts. However strong the Shu army is, it cannot fight beasts.\n\nCome, cheer up! It is pitiful for one who should be my worthy rival!
+
+@198.0
+Y-you are right. All right! Then we fight once more!
+
+@199
+Tulong Cave
+
+@200
+Go to the camp at Tulong Cave
+
+@201
+Tulong Cave: Shu Camp
+
+@202.0
+Prime Minister... It seems Meng Huo has asked King Mulu, Lord of Bana Cave, for reinforcements.\n\nThis is bad.
+
+@202.1
+Bad? Why? Explain to me.
+
+@202.2
+Yes. King Mulu rides an elephant and uses sorcery to call up wind and rain.\n\nI hear his troops also command beasts, elephants, tigers and venomous snakes, and set them upon the enemy.\n\nI do not think an ordinary army could possibly face them...
+
+@202.3
+I see...
+
+@203.0
+If you are going to march, please tell me.
+
+@204
+Tell Ma Su we march
+
+@205.0
+I have been on battlefields for many years, but this is the first I have heard of an army that uses wild beasts.
+
+@206.0
+How shall I put it... As expected of the Nanman.
+
+@207.0
+I fear neither tigers nor snakes... but what about the soldiers?
+
+@208.0
+A fearsome enemy indeed.
+
+@209.0
+What an outrageous army.
+
+@210.0
+Elephants...? What kind of army is that?
+
+@211.0
+Even against wild beasts, I will fight.
+
+@212.0
+They are not an enemy we can match.
+
+@213.0
+When I served Wei, I once saw elephants sent as a gift from Wu, but...
+
+@214.0
+To tell the truth, I am afraid of snakes.
+
+@215.0
+Prime Minister, shall we march?
+
+@216.0
+Now we attack the Nanman stronghold. They say the enemy has a beast corps as well. Do not let your guard down!
+
+@217.0
+King Mulu, I count on you!
+
+@217.1
+Ha ha ha, leave it to me! I will make the Shu army learn the power of our beast corps.
+
+@218.0
+Is that the beast corps?
+
+@218.1
+Eek! Snakes! Snakes are coming out!
+
+@218.2
+What is that white animal? It is far bigger than a bear!
+
+@218.3
+An elephant? That monster is an elephant?!
+
+@218.4
+The soldiers are terrified. We are at a disadvantage like this!
+
+@218.5
+Hmm...
+
+@219
+1. Meng Huo's retreat
+
+@220.0
+A general riding an elephant...
+
+@221
+Guan Suo leveled up!
+
+@222.0
+What, King Mulu has been defeated?! ...Is this the end? We run to the western village...
+
+@223.0
+What, King Mulu has been defeated?! ...Is this the end? We run to the western village...
+
+@224.0
+They have taken even our stronghold at last. I will win Yinkeng Cave back without fail.
+
+@225.0
+Zhang Ni, who was taken prisoner, has just returned.
+
+@226.0
+I was taken prisoner in the earlier battle. Ma Zhong has just returned.
+
+@227.0
+I see, you have captured Meng Huo.
+
+@230.0
+I am truly impressed by your guts. Quite admirable.\n\nCome, the Prime Minister is waiting.
+
+@231.0
+Well, Meng Huo? Are you ready to submit now?
+
+@231.2
+You are Zhurong, I believe. And you?
+
+@231.4
+Meng You, Dailai. And you two?
+
+@231.7
+......I see. You are still not ready to submit.\n\n...Very well. Come at us once more. I will be waiting.
+
+@232
+Riverside
+
+@233.0
+Sigh... This time I thought we would win...
+
+@234.0
+Brother, pull yourself together. If you are so weak-willed... what are we to do?
+
+@235.0
+But... I cannot think of anywhere else to go...
+
+@236.0
+There is one.
+
+@237.0
+What! You still have somewhere?!
+
+@237.1
+Southeast of here is a land called Wuge, ruled by Wu Tugu.\n\nI hear the Rattan Armor Army of Wuge are agile in body and mind, and so tough that neither arrows nor blades can hurt them.
+
+@238.0
+Arrows and blades have no effect? That's amazing! Brother, there is still hope!
+
+@239.0
+Yes! Then let us go to Wuge at once!
+

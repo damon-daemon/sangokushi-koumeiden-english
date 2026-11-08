@@ -1,0 +1,1089 @@
+@0
+F-3: Restoring the Han House
+
+@1
+Act 3: Restoring the Han House
+
+@3.0
+Father. What will you do now?
+
+@3.1
+Let me think... First we must nip the seeds of unrest. For now, Chang'an.
+
+@3.2
+Chang'an? But Chang'an is still part of our Wei...
+
+@4.0
+That is not what I mean. I mean Xiahou Ba.\n\nCao Shuang and Xiahou Ba have been kin since the days of Emperor Wu, Lord Cao Cao. What is more, they were friends. If he hears that Cao Shuang is dead, Xiahou Ba may rebel, whatever the others do.
+
+@4.1
+I see. Then, while there is still time...
+
+@4.2
+Yes. Send a messenger ordering Xiahou Ba to return to Luoyang. When he arrives in Luoyang, seize him at once and cut him down.
+
+@4.3
+Then I will send the letter right away.
+
+@7.0
+Prime Minister, you have done well. The alliance with Wu is restored, so only Wei remains as our enemy.
+
+@7.1
+Yes. As soon as preparations are complete, I will resume the Northern Campaign at once.
+
+@7.2
+Good. But there is no need to rush. Go home today and take your ease.
+
+@9
+Return to your own home
+
+@10.0
+You have done well. Go home and take your ease.
+
+@11.0
+Thank you for your efforts. Please rest from your fatigue at home.
+
+@12.0
+So the threat from Wu is gone for now.
+
+@13.0
+Please, go to your home.
+
+@14.0
+Please get some rest.
+
+@16.0
+Ah, Prime Minister. I heard you had returned home, so I came to visit.
+
+@17
+Talk with Jiang Wei
+
+@18.0
+Lord Jiang Wei has something to tell you. Please hear him.
+
+@19.0
+Dear, please listen to what Lord Jiang Wei has to say.
+
+@20.0
+Jiang Wei, what is it?
+
+@20.1
+Something has happened in Wei. Sima Yi and his sons rebelled, executed Cao Shuang, and seized real power in Wei.
+
+@20.2
+Remarkable. Sima Yi has done something quite bold.
+
+@20.3
+In any case, this is an opportunity. It seems we will be fighting Sima Yi again.
+
+@20.4
+Sima Yi... A formidable enemy.
+
+@20.5
+Yes. We cannot take him lightly.
+
+@20.6
+(Sima Yi... rebelled... The Cao family that took the realm from the Liu house has now lost it to the Sima family...)\n\n(Come to think of it, what has become of the Han emperor... the Duke of Shanyang? Right after Cao Pi usurped the throne, there were rumors that he had died. They were only rumors...)\n\n(Since then his whereabouts are said to be unknown. Some say he was exiled to the frontier, others that he is confined in Luoyang...)
+
+@21.1
+...It is nothing. Jiang Wei, gather all the generals in the Council Hall at once.
+
+@21.2
+Prime Minister, you will resume the Northern Campaign! Understood.
+
+@22.0
+...Zhan, what are you doing? You are to take part as well.
+
+@22.1
+What! You will take me with you?
+
+@22.2
+Of course. You are a full man now. Do your best for the Han court.
+
+@22.3
+Thank you, sir! Then I will go to the Council Hall ahead of you!
+
+@24.0
+Dear, please go to the Council Hall.
+
+@26.0
+Now, we resume the Northern Campaign. We will join the troops left at Mei Castle on the front line and attack Chang'an.\n\nAll generals, go to Mei Castle at once. I will follow shortly.
+
+@28.0
+Meng Huo, thank you for your service. You and your people may return to the Nanman. You should not leave your country unattended for long.
+
+@29.0
+What are you saying?! The war to restore the Han court is only now beginning... And you tell me to go home?
+
+@29.1
+We left the Nanman in the care of Meng You, Dailai, and Lord Meng Jie. Prime Minister, please do not worry.
+
+@30.0
+Prime Minister! Please take us with you!
+
+@30.1
+Thank you. Then I will have you come along.
+
+@32.0
+(There is no more worry on the Wu front. Soon the restoration of the Han court, the late Emperor's long-cherished wish, will be accomplished.)\n\n(We must destroy Wei and confirm the safety of the Han emperor... the Duke of Shanyang.)
+
+@33.0
+...I must prepare to march as well.
+
+@35.0
+Dear...
+
+@35.1
+What is it? To come all the way here.
+
+@35.2
+Dear... Please come home safely. That is all I ask. When I am alone, I cannot help feeling uneasy...
+
+@35.3
+I understand. For your sake, I will surely return. ...Together with Zhan.
+
+@35.5
+Now go home. Do not worry too much.
+
+@36
+Go to the Council Hall at Mei Castle
+
+@37
+Mei Castle: Council Hall
+
+@38.0
+Generals who guarded Mei Castle, thank you for your service. Now we resume the campaign to take Chang'an.
+
+@39.0
+The ones defending Chang'an now are Guo Huai and Xiahou Ba. As for this Xiahou Ba... I hear he is a relative of Cao Shuang, who was just killed by treachery.
+
+@39.1
+I see. There may be an opening to exploit there.
+
+@39.2
+Then please prepare to march. When you are ready, tell me.
+
+@41.0
+Once we take Chang'an, Luoyang will be right before our eyes.
+
+@42.0
+Let us attack Chang'an at once.
+
+@43.0
+Chang'an is a sturdy castle. But its drinking water is a problem, so it is not well suited to a siege.
+
+@44.0
+I once took Chang'an myself, together with Lord Ma Chao.
+
+@45.0
+At last the day has come to recover the old capital.
+
+@46.0
+Guo Huai is not especially brave. But he is very experienced, and we cannot let our guard down.
+
+@47.0
+Xiahou Ba is the eldest son of the famed Xiahou Yuan, and is said to have inherited his valor.
+
+@48.0
+Chang'an, is it? How nostalgic.
+
+@49.0
+Supplies as far as Mei Castle are complete. You can advance with an easy mind.
+
+@50.0
+Chang'an is a very large castle. We must not let our guard down.
+
+@51.0
+Chang'an is a large castle, much broader than Chengdu.
+
+@52.0
+Father. Please assign me to the vanguard.
+
+@53.0
+I have never seen a castle as big as Chang'an.
+
+@54.0
+It is quite cold here compared with the Nanman.
+
+@55.0
+Prime Minister, are you ready to march?
+
+@56.0
+Yes. Then the whole army marches on Chang'an!
+
+@57.0
+Advance on Chang'an!
+
+@59.0
+(Who would have thought Sima Yi would seize power? Well, it seems Cao Shuang went too far himself...)\n\n(I am a relative of Cao Shuang, so the wind will surely blow hard against me. What shall I do...)
+
+@60.0
+Lord Xiahou Ba. A letter has arrived from Luoyang.
+
+@60.1
+What? Show me.
+
+@61.1
+Yes, thank you. You may go.
+
+@62.0
+What?! Return to Luoyang for a promotion?! I have no merit that deserves a promotion now! Why now...! I see, this is Sima Yi's doing!\n\nIf I go back to Luoyang I will be killed. But if I do not, I defy an imperial order. This is...
+
+@63.0
+Xiahou Ba!
+
+@63.1
+O-oh, Lord Guo Huai.
+
+@63.2
+What are you doing, reading letters at your leisure?! The Shu army is upon us!
+
+@63.3
+What! The Shu army...? The Shu army has attacked?
+
+@63.4
+Yes! Prepare to sortie at once!
+
+@64.0
+Y-yes, sir!
+
+@65.0
+So they have come at last. Very well, Chang'an is a sturdy castle. We will drive them back from here.
+
+@65.2
+Xiahou Ba, what is wrong? You seem rather listless.
+
+@65.3
+No... It is nothing.
+
+@66
+1. Guo Huai retreats
+
+@67.0
+Good, set the fires! Burn everything to ashes!
+
+@68.0
+Set the fires! I do not care if a few of our own are caught in them!
+
+@69.0
+Lord Guo Huai, I have come to your aid! Kongming, prepare yourself!
+
+@70.0
+Damn... I made a mistake.
+
+@70.1
+I have captured the enemy general Xiahou Ba!
+
+@72.0
+Ah!
+
+@72.1
+I have captured the enemy general Xiahou Ba!
+
+@74.0
+Ugh, I let my guard down.
+
+@74.1
+I have captured the enemy general Xiahou Ba!
+
+@76.0
+Oh, is that Kongming? If I take his head, Shu is finished!
+
+@76.1
+Xiahou Ba. Did you think Kongming would appear before a brave general with no preparation?
+
+@76.2
+What... Whoa! My horse's legs! Damn, a rope was stretched under our feet. ...Careless.
+
+@76.3
+I, Kongming, have taken Xiahou Yuan's son Xiahou Ba alive.
+
+@78.0
+It cannot be helped... I, Guo Huai, will take responsibility. We abandon Chang'an! The whole army, withdraw!
+
+@79.0
+At last... we have taken back Chang'an.
+
+@82.0
+Retreat! Fall back to Hangu Pass!
+
+@85.0
+Report! Our army has been defeated at Chang'an!
+
+@85.1
+What! And what of our army?
+
+@85.2
+Guo Huai and the remaining troops have escaped to Hangu Pass.
+
+@85.3
+L-Luoyang itself is in danger!
+
+@86.0
+Sima Yi, what should we do?!
+
+@87.0
+Let us send my sons Shi and Zhao to Hangu Pass. Then Your Majesty may rest easy.
+
+@87.1
+I-I see.
+
+@88.0
+Sima Shi, Sima Zhao! Go to Hangu Pass at once!
+
+@89.0
+Sima Yi... With such a force, are you truly sure? Can they stop the Shu army?
+
+@90.0
+Well... Then why not send Deng Ai and Zhong Hui as well? Those two are young, but quite capable generals. They will be a help to Your Majesty.
+
+@90.1
+Yes, I understand. Let us do that.
+
+@91.0
+Deng Ai, Zhong Hui. You also go to Hangu Pass!
+
+@92.0
+Stop the Shu army at Hangu Pass! Hurry!
+
+@93
+Hangu Pass
+
+@94
+Hangu Pass: Wei Camp
+
+@95.0
+The Shu army is elite, and its morale is high from taking Chang'an. It would be unwise to meet them head on.\n\nSo we will circle behind the Shu army and cut their line of communication.
+
+@95.1
+I see, that is a good plan. But how?
+
+@95.2
+Between Hangu Pass and Chang'an lies Mount Hua. If we go around through there, we can get behind the Shu army.\n\nThat would isolate Chang'an. Even Kongming cannot fight once his link to the rear is cut.
+
+@95.3
+Good, we will go with that plan. Now, the whole army marches to Mount Hua!
+
+@96.0
+Strike the Shu army's rear! To Mount Hua!
+
+@99.0
+So, Xiahou Ba. You say you will submit to the Han court.
+
+@99.1
+Yes. Until now I had sworn loyalty to Wei. But because of the Cao Shuang affair, Sima Yi has come to loathe me, and I could not keep myself safe.
+
+@99.2
+It is Sima Yi we are talking about. That is quite possible.
+
+@99.3
+I am a warrior too. Rather than die in a scheme... even if I must bow my knee to my father's killer, I want to die on the battlefield.
+
+@99.4
+An honest man... Very well, I accept your submission. Rest until the next march.
+
+@100.0
+Prime Minister. Sima Shi and the Wei army have entered Hangu Pass.
+
+@100.1
+They have come. They must be desperate, having lost Chang'an.
+
+@101.0
+Prime Minister. Sima Shi and Sima Zhao are Sima Yi's sons. I hear they use stratagems no worse than their father's. I cannot imagine they will simply attack Chang'an. Please be careful.
+
+@101.1
+Hmm... Then, Jiang Wei, how do you read Sima Shi's move?
+
+@101.2
+If it were me, I would go around through Mount Hua, between Chang'an and Hangu Pass... and strike our rear to throw us into confusion. Sima Shi is likely the same.
+
+@101.3
+Mount Hua... Indeed, that is possible. Then we should surround the enemy army at Mount Hua.
+
+@101.4
+We could also deploy the whole army west of Mount Hua and meet them there. Prime Minister, once you have decided on a plan, please tell me.
+
+@102
+Choose whether to deploy the whole army west of Mount Hua, or to surround the enemy from east and west of Mount Hua.
+
+@103.0
+I believe it is best to deploy the whole army west of Mount Hua and attack with everything.
+
+@104.0
+I think it would be best to surround the enemy from east and west of Mount Hua.
+
+@105.0
+Would deploying the whole army not make it easier to hold off the Wei army?
+
+@106.0
+I think a siege would be more advantageous to our army.
+
+@107.0
+If Mount Hua is breached, it is a grave matter. Let us defend it with the whole army.
+
+@108.0
+At Mount Hua, infantry and bandits will do better than cavalry.
+
+@109.0
+Sima Shi and Sima Zhao are both sharp. We need to be very careful.
+
+@110.0
+I think surrounding them would be best.
+
+@111.0
+It is indeed quite likely that the Wei army will come through Mount Hua.
+
+@112.0
+The psychological effect of taking Chang'an is considerable.
+
+@113.0
+A difficult choice.
+
+@114.0
+I think surrounding them from east and west would be more advantageous for attacking.
+
+@115.0
+W-well, difficult matters are beyond me...
+
+@116.0
+Which plan will you choose?
+
+@118
+Deploy west of Mount Hua\nSurround from both sides
+
+@119.0
+Understood. We deploy the whole army west of Mount Hua.
+
+@119.1
+Yes. We cannot afford to be isolated in Chang'an. Now, we march!
+
+@120.0
+Understood. We surround the enemy from east and west of Mount Hua.
+
+@120.1
+Yes. Let us surround the Wei army while its guard is down. Now, we march!
+
+@121.0
+Chang'an was the capital of the Former Han, and it is an important stronghold, one of the five capitals of Wei. We must retake it at all costs.
+
+@122.0
+Let us march day and night with lightly armed troops and cut the Shu army's line of communication.
+
+@123.0
+As I thought, Sima Shi is coming through Mount Hua. If he breaks through here, our army will be cut off. Intercept the Wei army!
+
+@124
+1. Sima Shi retreats\n2. 30 turns pass
+
+@125.0
+Advance! If we cross Mount Hua, we can cut off the Shu army at Chang'an!
+
+@126.0
+What are you dawdling for! Crush the Shu army!
+
+@127.0
+Is a strike on Chang'an impossible...?! Then go after Kongming! Attack him!
+
+@127.1
+The Wei army seems to be targeting you, Prime Minister. Please be careful.
+
+@128.0
+You are good, but not yet good enough!
+
+@128.1
+Damn! Ugh, retreat!
+
+@130.0
+Did you think a brat like you could beat Meng Huo, king of the Nanman?!
+
+@130.1
+Curse you, Meng Huo... Remember this!
+
+@132.0
+Damn, we failed! Pull out!
+
+@133.0
+Damn, we failed! Pull out!
+
+@134.0
+We managed to weather that somehow.
+
+@137.0
+Chang'an was the capital of the Former Han, and it is an important stronghold, one of the five capitals of Wei. We must retake it at all costs.
+
+@137.1
+Let us march day and night with lightly armed troops and cut the Shu army's line of communication.
+
+@137.2
+As I thought, Sima Shi is coming through Mount Hua. If he breaks through here, our army will be cut off. Intercept the Wei army!
+
+@138
+1. Sima Shi retreats\n2. 30 turns pass
+
+@139.0
+Advance! If we cross Mount Hua, we can cut off the Shu army at Chang'an!
+
+@140.0
+What are you dawdling for! Crush the Shu army!
+
+@141.0
+Is a strike on Chang'an impossible...?! Then go after Kongming! Attack him!
+
+@141.1
+The Wei army seems to be targeting you, Prime Minister. Please be careful.
+
+@142.0
+You are good, but not yet good enough!
+
+@142.1
+Damn! Ugh, retreat!
+
+@144.0
+Did you think a brat like you could beat Meng Huo, king of the Nanman?!
+
+@144.1
+Curse you, Meng Huo... Remember this!
+
+@146.0
+Damn, we failed! Pull out!
+
+@147.0
+Damn, we failed! Pull out!
+
+@148.0
+We managed to weather that somehow.
+
+@151.0
+Tch! Retreat to Hangu Pass!
+
+@152
+Defeated by Kongming at Mount Hua, Sima Shi gave up on cutting Chang'an's supply line and retreated to Hangu Pass.\n\nThe pass was built in the Former Han and counted among the eight great passes of the Later Han. It is an enormous pass, and it also connects Luoyang and Chang'an.
+
+@153.0
+The Wei army has retreated to Hangu Pass. Let us return to Chang'an once and work out a plan.
+
+@155
+Enter the Council Hall in Chang'an
+
+@157.0
+Now then... Does anyone have an opinion on how to take Hangu Pass?
+
+@158.0
+Sima Shi and Sima Zhao are both cautious by nature. It would be hard to lure them out of Hangu Pass to fight.
+
+@158.2
+And a frontal assault on that great pass would cost us heavily.
+
+@158.3
+That is true. What shall we do, then?
+
+@158.4
+When Sima Shi withdrew to Hangu Pass earlier, I slipped several spies in among his troops. We could use those spies to set fires inside the pass.\n\nWith the fires throwing the pass into confusion, we have them open the gate and charge in. What do you think?
+
+@158.5
+I see, that is a good plan. Does anyone else have an opinion?
+
+@159.0
+It seems not. Then we will use Jiang Wei's plan.\n\nWe must not let the matter of the spies be noticed. We march at once!
+
+@160.0
+Advance on Hangu Pass!
+
+@161.1
+Xiahou Ba. Do you have a plan?
+
+@161.2
+I have Wei banners and tally tokens. We can use them to pass ourselves off as Wei reinforcements. However wary they may be, with banners and tallies the gate will open easily.\n\nHow about attacking at that moment?
+
+@161.3
+Hmm, that is also a good plan. Either of the two will do.
+
+@161.4
+Prime Minister, once you have decided on a plan, please tell me.
+
+@162
+Choose whether to use the spies, or to pose as Wei troops.
+
+@163.0
+If we use the spies to set fires, the pass will be in confusion and easier to take. I recommend Jiang Wei's plan.
+
+@164.0
+If we disguise ourselves as Wei troops, we do not even need the spies, and it is safe. I recommend Xiahou Ba's plan.
+
+@165.0
+Setting fires is a good plan. I recommend Jiang Wei's plan.
+
+@166.0
+Both are fine plans. Prime Minister, please choose.
+
+@167.0
+The key is whether Sima Shi and the others know of Lord Xiahou Ba's submission.
+
+@168.0
+Disguising ourselves as Wei troops is a good plan. I recommend Xiahou Ba's plan.
+
+@169.0
+As expected of Lord Jiang Wei, he is quick to prepare. Why not leave it to him?
+
+@170.0
+Why not let Lord Xiahou Ba earn some merit here?
+
+@171.0
+If we start fires, then when we want to use the pass for our own defense, it will be somewhat...
+
+@172.0
+Using the tally tokens is a brilliant idea, but will it really work...?
+
+@173.0
+Lord Xiahou Ba and Lord Jiang Wei are both seasoned, famed generals. I think the two plans are equally good.
+
+@174.0
+I am good at fire attacks, so I favor Lord Jiang Wei's plan.
+
+@175.0
+I feel it would work better to go in disguise.
+
+@176.0
+Prime Minister, what about my plan? I do not think it is a bad one.
+
+@178
+Use spies to open the gate\nPose as Wei troops
+
+@179.0
+Understood. We use the spies to have the gate opened.
+
+@179.1
+Yes, we will use your plan. Now, the whole army marches on Hangu Pass!
+
+@180.0
+Understood. We disguise ourselves as Wei troops and have them open the gate.
+
+@180.1
+Yes, we will use Xiahou Ba's plan. This time, let us save his face. Now, the whole army marches on Hangu Pass!
+
+@181.0
+Advance on Hangu Pass!
+
+@182.0
+So they have come this far at last. But Hangu Pass is the great gateway of the realm. Even Kongming can do nothing about it.
+
+@182.1
+If we hold firm, they will tire themselves out. Then we strike.
+
+@183.1
+What! A fire at a time like this!
+
+@184.0
+It seems to have worked. A fire has broken out near the gate.
+
+@184.1
+Good, the whole army advance! The capital, Luoyang, is right before our eyes!
+
+@185
+1. Sima Zhao retreats\n2. Capture the northern fort
+
+@186.0
+Now! Crush the Shu army!
+
+@186.1
+It looks like an enemy ambush!
+
+@186.2
+As expected of Sima Yi's son. He leaves nothing to chance...
+
+@187.0
+By Lord Sima Yi's order, I have come to the rescue! Kongming, prepare yourself!
+
+@187.1
+Wei reinforcements from the Luoyang side! That is Zhang He's banner...
+
+@187.2
+Do not flinch!
+
+@188.0
+S-so that is Jiang Wei... Even better than the rumors.
+
+@189.0
+Deng Ai, a formidable fighter. We are not unscathed either. Let us pull back here.
+
+@190.0
+Who is this woman?! To wound me, Zhang He!
+
+@190.1
+Wait! You are a man, and you would run away?!
+
+@192.0
+Wa ha ha ha! You are still green.
+
+@192.1
+Damn, remember this.
+
+@194.0
+So you are Sima Yi's son?! I am Zhang Bao, son of Zhang Fei, and I will be your opponent!
+
+@194.1
+Hmph, a rough brute... Come at me!
+
+@195.0
+What, is it all talk? I will laugh at your father Sima Yi!
+
+@196.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@196.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@196.2
+If we abandon this place, Luoyang's d-defenses...
+
+@196.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@198.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@198.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@198.2
+If we abandon this place, Luoyang's d-defenses...
+
+@198.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@199.0
+We have broken through Hangu Pass. The victory is ours.
+
+@200.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@200.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@200.2
+If we abandon this place, Luoyang's d-defenses...
+
+@200.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@201.0
+Even Hangu Pass, the great pass that lives in history, has fallen into our hands.
+
+@201.1
+Yes. Now only Luoyang remains.
+
+@204.0
+The gate seems to be open... What is going on?
+
+@204.1
+I-it is said that stragglers from Chang'an have come back.
+
+@204.2
+In this hour of crisis, having more soldiers is a good thing.
+
+@204.3
+The gate is open... Charge! Take Hangu Pass!
+
+@204.4
+W-whoa! It is the Shu army!
+
+@205.0
+T-terrible news! The traitor Xiahou Ba pretended to be one of us and had the gate opened!
+
+@205.1
+Wh-what! Damn you, Xiahou Ba!
+
+@206
+1. Sima Zhao retreats\n2. Capture the northern fort
+
+@207.0
+On my honor as Zhang He, I will hold Hangu Pass!
+
+@208.0
+We have no fallback left! Do not let the Shu army into Hangu Pass!
+
+@209.0
+S-so that is Jiang Wei... Even better than the rumors.
+
+@210.0
+Deng Ai, a formidable fighter. We are not unscathed either. Let us pull back here.
+
+@211.0
+Wa ha ha ha! You are still green.
+
+@211.1
+Damn, remember this.
+
+@213.0
+Hmph, it is you! So you were alive. But this is the end for you!
+
+@213.1
+Prime Minister... I could not make proper atonement. I am sorry...
+
+@214.0
+I see... Ma Su has been killed... Just one step short of Luoyang. Poor man...
+
+@215.0
+Do not let Ma Su's death be in vain! Take Hangu Pass at all costs!
+
+@216.0
+So you are Sima Zhao! I am Guan Suo, son of Guan Yu! Fight me fairly!
+
+@216.1
+Hmph, a rough brute... Come at me!
+
+@217.0
+What is wrong! Is that all?!
+
+@218.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@218.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@218.2
+If we abandon this place, Luoyang's d-defenses...
+
+@218.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@220.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@220.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@220.2
+If we abandon this place, Luoyang's d-defenses...
+
+@220.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@221.0
+We have broken through Hangu Pass. The victory is ours.
+
+@222.0
+Damn, retreat! Abandon Hangu Pass! The whole army retreats!
+
+@222.1
+Lord Sima Zhao! Are you abandoning Hangu Pass?!
+
+@222.2
+If we abandon this place, Luoyang's d-defenses...
+
+@222.3
+Rebuilding the army comes first! Fall back to Luoyang!
+
+@223.0
+Even Hangu Pass, the great pass that lives in history, has fallen into our hands.
+
+@223.1
+Yes. Now only Luoyang remains.
+
+@226
+Defeated at Hangu Pass, Sima Zhao and the Wei army retreated to Luoyang.\n\nHangu Pass was the greatest pass guarding Luoyang from enemies in the west. Its loss meant that the fate of Luoyang now hung by a thread.
+
+@227
+Hangu Pass
+
+@228
+Enter the camp at Hangu Pass
+
+@229
+Hangu Pass: Shu Camp
+
+@230.0
+Is everyone here? Then... we advance on Luoyang. Does anyone have an opinion on the matter?
+
+@231.0
+Prime Minister. Why not send a call for surrender to the Wei emperor, Cao Fang? Of course, we would guarantee his life and some rank and property if he surrenders.
+
+@231.1
+Oh? Explain in a little more detail.
+
+@231.2
+Now that Hangu Pass is lost, morale among Wei's officers and men must be at rock bottom. Only Sima Yi and a very few generals are still spirited.\n\nSima Yi probably intends to challenge us to one last decisive battle. I can tell from the state of Luoyang.
+
+@231.3
+Indeed, Luoyang's movements have become ominous.
+
+@231.4
+But if the emperor surrenders, Sima Yi will have no reason to fight.
+
+@231.5
+Hmm... Whether it succeeds or not, that is an interesting idea. Jiang Wei, send an envoy to Luoyang at once.
+
+@235.0
+Your Majesty. I hear a letter has arrived from Kongming.
+
+@235.1
+Y-yes.
+
+@235.2
+What does Kongming say? Does he mean to challenge us to a final battle...?
+
+@235.3
+No... Kongming urges Us to surrender.
+
+@236.0
+Wh-what!
+
+@236.1
+S-Sima Yi. Calm yourself.
+
+@237.0
+Y-yes, Your Majesty. Forgive my lapse.
+
+@237.1
+He says that if We surrender, he will guarantee Our life and the status of Duke of Wei.
+
+@237.2
+Grrr... Kongming, using petty tricks!
+
+@237.3
+Tell me, Sima Yi... Your sons could not beat Kongming either. Besides, We do not like fighting. Perhaps it would be better to surrender here...
+
+@238.0
+What are you saying, Your Majesty! If you are so weak-willed, it will affect the troops' morale!
+
+@238.1
+...Y-yes.
+
+@239.0
+You must not trust a mere scrap of paper. Kongming is a schemer. We will fight Kongming here at Luoyang.\n\nAnd if the worst comes, we will move north and try to rise again. That is the only way now.
+
+@239.1
+Is that the only way? Is there truly no other?
+
+@239.2
+Yes. The only road left for Your Majesty otherwise is death.
+
+@239.3
+Death... ...I understand. Sima Yi, We will follow you.
+
+@240.0
+Thank you for hearing me, Your Majesty. Then, if you will excuse me...
+
+@241.0
+...\n\nSo many people are dying... for Our sake...
+
+@242
+Hangu Pass
+
+@243
+Hangu Pass: Shu Camp
+
+@244.0
+Jiang Wei. Is there no reply from Luoyang?
+
+@245.0
+None at all.
+
+@246.0
+Prime Minister, if we give Wei any more time, they will regain their strength.
+
+@247.0
+True... Wei Yan is right. Is a decisive battle the only way after all...? ...Very well.
+
+@247.1
+Prime Minister. Then, at last...
+
+@247.2
+Yes. We attack... Luoyang.
+
+@247.3
+Prime Minister, please make your preparations to march.
+
+@249.0
+Luoyang... To tell the truth, this is my first time in Luoyang. The late Emperor's long-cherished wish, the restoration of the Han court... I intend to stake my life on seeing it realized.
+
+@250.0
+Back when I was still in Jing Province, I was a nameless unit commander. It was after I came to serve the late Emperor that I was first allowed to distinguish myself as a general. Today I mean to fight for the late Emperor.
+
+@251.0
+My father, Ma Teng, was killed by Cao Cao. Now the one holed up in Luoyang is Cao Cao's descendant. I hold no personal grudge against Cao Fang... but today I will avenge my father's bitter end.
+
+@252.0
+Come to think of it, it is as though I have been fighting for this day. Even if I die in battle here today, I have no regrets.
+
+@253.0
+I want to defeat Wei and console my father's spirit. Father... please watch over us.
+
+@254.0
+I want to defeat Wei and fulfill my father's long-cherished wish. Father... please watch over us.
+
+@255.0
+Defeating Wei and restoring the Han house was the long-cherished wish of the late Emperor, General Zhang, and my father. In my father's stead, I want to fulfill it.
+
+@256.0
+I intend to take Luoyang and console my father's spirit. I think of nothing beyond that.
+
+@257.0
+I intend to take Luoyang and fulfill my father's long-cherished wish. I think of nothing beyond that.
+
+@258.0
+After losing Jieting through my blunder, I had resigned myself to losing my life. That I was not only spared but have come as far as Luoyang... I have nothing left to regret.
+
+@259.0
+At last we have reached Luoyang, the old capital of the Han... My brother Ma Liang would surely be glad...\n\nThis will probably be the last battle... Let us accomplish the restoration of the Han court with our own hands!
+
+@260.0
+Honestly, I am amazed that we have come this far. There is no more room for hesitation. Let us defeat Wei and restore the Han court.
+
+@261.0
+When the late Emperor passed away, our Han's strength was not even a sixth of Wei's. That we have now come to the point of defeating Wei is wonderful.
+
+@262.0
+Father. I am proud to be your son. I will fight with all my might so as not to stain your name.
+
+@263.0
+I am a happy man to serve at the Prime Minister's side. If my strength can be of use, please use it to the full.
+
+@264.0
+Master Kongming, once the Han court is restored, the Nanman will surely become more peaceful too. I mean to fight not only for the Han house, but for the Nanman as well.
+
+@265.0
+To be honest, my feelings are mixed. Lord Cao Fang is a wise man, so I thought he would accept the earlier call for surrender...\n\nI intend to do my utmost as a Han general... but I cannot cut down Lord Cao Fang. Please forgive me.
+
+@266.0
+Prime Minister, are you ready to march?
+
+@267.0
+Generals, this will probably be the final decisive battle. Fight with all your strength and leave no regrets. The whole army marches on Luoyang!
+
+@268.0
+Luoyang, is it...
+
+@270.0
+Your Majesty, report! The Shu army at Hangu Pass has finally begun its march on Luoyang!
+
+@270.1
+I see. Very well, in accordance with the Shu-Wu alliance, Our Wu will also take the field at once! Our target is Wei's secondary capital, Xuchang! Together with Shu we will defeat Wei and restore the Han court!
+
+@272.0
+Dear... What are you doing now, I wonder...
+
+@273.0
+My lady!
+
+@274.0
+Has something happened?
+
+@274.1
+Good news. The Han army led by the Prime Minister has finally set out for Luoyang!
+
+@274.2
+I see... Thank you for telling me.
+
+@274.3
+...? You seem low in spirits. Are you not feeling well?
+
+@274.4
+R-really? That is not so.
+
+@274.5
+Is that so? ...Then, if you will excuse me.
+
+@275.0
+Dear... Zhan... Please, be safe.
+

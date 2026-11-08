@@ -1,0 +1,1404 @@
+@0
+Wu Stronghold: Chaisang
+
+@1
+Chaisang: Council Hall
+
+@2.0
+These are the senior ministers of Wu.\n\nMy lord will join us shortly.
+
+@3.0
+We meet for the first time. I am Zhuge Liang.
+
+@4.0
+Ah, Master Kongming. You have come a long way from Jiangxia. A wearisome journey, I imagine.
+
+@4.1
+When my lord commands, I would pass through fire and water.
+
+@4.2
+Quite so, quite so.\n\n...And I hear you have come to urge us to fight Cao Cao's army?
+
+@4.3
+Yes. That is why I am here.
+
+@4.4
+Hmm... Then I should like to take this chance to ask you a few things. If I may...?
+
+@5.0
+Please, ask me anything.\n\n(I hear Zhang Zhao and the other civil officials favor surrender. They mean to bury me in questions and send me packing...)\n\n(But I cannot back down here!)\n\n(If I cannot set Wu against Cao Cao, my army has no future!)
+
+@6
+Speak with the Wu ministers
+
+@7.0
+Most of the civil officials, Zhang Zhao and the others, say we should surrender to Cao Cao.\n\nMe? Oh, I disagree.
+
+@8.0
+I think we should fight, but when I consider the difference in strength with Cao Cao's army, I find myself...
+
+@8.1
+Find yourself troubled, I see.
+
+@8.2
+Exactly so.
+
+@9.0
+I intend to fight.
+
+@9.1
+As expected of Gan Ning, the fiercest general of Wu. A splendid opinion.
+
+@9.2
+Hm.
+
+@10.0
+Serve Cao Cao? Never! I fight for Wu... no, for Lord Sun Quan, and nothing else!
+
+@10.1
+Admirable. You are the very picture of a loyal retainer.
+
+@10.2
+...Flattery will get you nothing.
+
+@11.0
+Grrr...
+
+@12.0
+Cao Cao's army is mighty. Can you truly defeat it?
+
+@12.1
+With my strategies, it will be no great matter.
+
+@12.2
+Yet the Battle of Changbanpo, if I recall, came after you entered Liu Bei's service. I hear you suffered a crushing defeat at Cao Cao's hands there.\n\nSurely that makes your claims hard to credit?
+
+@13.0
+Cao Cao has a million men, and our army has a few tens of thousands. To demand victory in such a situation is to speak as one who knows nothing of the art of war.
+
+@13.1
+Hmph!
+
+@13.2
+Even so, we struck Cao Cao's great host hard at Bowangpo and Xinye. That was because my strategies succeeded. And more than that...\n\nEven after Cao Cao's pursuit, we still hold tens of thousands of troops and face Cao Cao's army at Jiangxia.
+
+@13.3
+...
+
+@13.4
+Wu, by contrast, is a great state with fertile land and one hundred thousand elite troops.\n\nAdd strategy to that strength, and defeating Cao Cao would be no great matter.\n\nIf, with such national power, you have thought of nothing but surrender and devised no plan at all... then there is nothing more to discuss.
+
+@13.5
+Grrr...
+
+@14.0
+Ugh...
+
+@15.0
+Cao Cao's army numbers a million. Our own is a hundred thousand, and Liu Bei's no more than a few tens of thousands.\n\nSuch a difference in numbers cannot be helped. What do you make of it?
+
+@15.1
+Cao Cao's million may be, but most of them are soldiers who once served enemy armies. Their morale must be low.\n\nTo fear such a rabble...
+
+@15.2
+Hahaha! You were beaten by that very rabble, yet you dare say such things!
+
+@15.3
+Even my lord could not destroy a million men with a few tens of thousands. That is why he waits at Jiangxia for the moment Heaven grants. I see no reason to blame him.
+
+@15.4
+...
+
+@15.5
+Wu has one hundred thousand troops. Use the Yangtze, a natural fortress, and that strength should grow ten, even twenty fold.\n\nAnd yet you would throw it all away at a single letter from Cao Cao. It is laughable!\n\nYou have no right to laugh at my lord!
+
+@15.6
+Ugh...
+
+@16.0
+Hmm...
+
+@17.0
+The Han dynasty's fortunes are already spent. One can see it from the fact that Cao Cao holds most of the realm.\n\nCao Cao has Heaven's timing. Defying him means certain defeat.\n\nWhy must we fight a battle we know we will lose?
+
+@17.1
+How can you say such a thing?!\n\nIt is because man knows loyalty and righteousness that he can be the master of all creatures.\n\nIf fortune and Heaven's timing are your reasons, would you accept the ruin of your own lord as well?
+
+@17.2
+No, that is not what I...
+
+@17.3
+Then would you betray your lord Sun Quan, too, if fortune demanded it? Would you or would you not?
+
+@17.5
+Shameless, that is what you are. You are not worth speaking to!
+
+@17.6
+Hmm...
+
+@18.0
+...Tch.
+
+@19.0
+Cao Cao is a descendant of Cao Shen, a meritorious minister of the Han. Liu Bei, on the other hand, claims the blood of the Han house, but there is no firm proof.\n\nAll we know is that he was poor in his youth.\n\nIs it not rather unreasonable, then, to set him against Cao Cao?
+
+@19.1
+It is true that Cao Cao's ancestor was a meritorious servant of the Han house.\n\nBut Cao Cao takes advantage of the rank he inherited from that ancestor, and abuses the authority of the Han house for his own ambition.\n\nThat is a betrayal of the Han house, and a slight to his own ancestor. It deserves no praise.
+
+@19.3
+My lord, by contrast, never forgot his loyalty to the Han house even in poverty.\n\nIn the Yellow Turban Rebellion he led a righteous army and showed that loyalty.\n\nWhen one does great deeds and shows loyalty, whether one was poor or not does not matter.\n\nHow childish.
+
+@19.4
+...Tch.
+
+@20.0
+Hmm...
+
+@21.0
+Master Kongming, are you not hoping that Cao Cao and Wu will destroy each other?\n\nIf they did, the one to profit most would be Liu Bei.\n\nWell, well, a clever scheme indeed.
+
+@21.1
+Frankly, I do not think that if Cao Cao fought you, you would destroy each other.\n\nCao Cao would be the one left standing.
+
+@21.2
+What?!
+
+@21.3
+You have never fought Cao Cao's army. I must say that puts you at an overwhelming disadvantage.\n\nCan you tell what strategy and tactics Cao Cao will use?
+
+@21.4
+N-no...
+
+@21.5
+Only when Wu's fine army joins our army's wealth of experience will we have a chance against Cao Cao.\n\nAs long as there are men like you who understand nothing, victory will never come into view.
+
+@21.6
+Hmm...
+
+@22.0
+That is enough!
+
+@23.0
+You pelt a guest, who has come all the way from Jiangxia, with question after question...\n\nThis is rude! Do you mean to spread word that Wu is a land without manners?!
+
+@24.0
+Huang Gai, that will do. Zhang Zhao and the others spoke out of concern for Wu.
+
+@25.0
+...Yes, my lord.
+
+@26.0
+...Zhang Zhao. I wish to speak frankly with Master Kongming. Leave us.
+
+@26.1
+...Understood.
+
+@27.0
+We meet for the first time. I am Zhuge Liang, strategist to Liu Bei.
+
+@27.1
+Indeed. I am Sun Quan. My retainers were discourteous just now.
+
+@28.0
+No, not at all.
+
+@28.1
+Come, Master Kongming. Now we can talk more easily.\n\nTell me frankly how we should counter Cao Cao.
+
+@29
+Speak with Sun Quan
+
+@30.0
+Please, do not mind me. Speak with Lord Sun Quan.
+
+@31.0
+Master Kongming, can we win against Cao Cao?\n\nI hear his army numbers a million.
+
+@31.1
+We can win. Cao Cao's army is vast, to be sure, but that very size gives it many weaknesses.
+
+@31.2
+Oh? I would very much like to hear them.
+
+@31.3
+First, his supply lines. He is far from his home base and his supply lines are stretched to the limit. With so great an army, supply is a huge undertaking.\n\nCut those lines and Cao Cao's army will starve and destroy itself.
+
+@31.4
+Yes. True enough.
+
+@31.5
+Second, Wu has the advantage of the Yangtze. As the saying goes, "boats in the south, horses in the north." Cao Cao's soldiers were raised in the north and are unused to naval war.\n\nWu, on the other hand, has a powerful navy. Use it well and you can drive Cao Cao back on the river.
+
+@31.6
+Yes, yes.
+
+@31.7
+Further, though they call it a million men, only about 150,000 are Cao Cao's own troops. The rest are men who served Yuan Shao or Liu Biao.\n\nThe former troops of Liu Biao have only just submitted, and are of no use.
+
+@31.8
+I see...
+
+@31.9
+In numbers, Cao Cao does have the advantage. But inside, his army is a castle of sand. The waters of the Yangtze will wash it away with ease.
+
+@32.0
+Yes. Hearing this has set my mind at ease. It is as if a weight has lifted from my chest.\n\nMaster Kongming, I will discuss the rest thoroughly with Lu Su and the others.
+
+@32.1
+I am honored that you understand. The rest depends only on Your Excellency's decision.
+
+@32.2
+You must be tired today. Lu Su, show Master Kongming to a guest room.
+
+@33.0
+Yes, my lord.
+
+@33.1
+...Ah. Have you met Zhuge Jin yet?
+
+@33.2
+No.
+
+@33.3
+I see. Zhuge Jin serves us well here. You should go see him.\n\nYour brother came to Wu seven or eight years ago now, did he not? You must not have seen each other for a while.
+
+@33.4
+That is so.
+
+@33.5
+Zhuge Jin is in this castle. I recommend it as well. Please do go and see him.
+
+@33.6
+Thank you. If you will excuse me, then.
+
+@33.7
+This way, Master Kongming.
+
+@34
+Chaisang: Inside the City
+
+@35
+Look for Zhuge Jin
+
+@36
+Chaisang: Assembly Hall
+
+@37.0
+Ah, my brother is here. He looks well.
+
+@38
+Speak with Zhuge Jin
+
+@39.0
+Brother.
+
+@39.1
+...Hm? Oh, Kongming! Is that you, Kongming?! What are you doing here?
+
+@39.2
+I came to Wu as an envoy of Lord Liu Bei. I now serve him as his strategist.
+
+@39.3
+I see. ...Yes, you have grown into a fine man.
+
+@39.4
+So have you, Brother. I hear you are doing great things as a senior minister of Wu.
+
+@39.5
+Oh, I still have far to go. I do not have a talent like yours.
+
+@39.6
+What are you saying?
+
+@40.0
+Ah, Master Kongming. So this is where you are.
+
+@41.0
+Why, Lu Su. What is it?
+
+@41.1
+Zhou Yu has just arrived at the Council Hall.\n\nI am sorry to interrupt your reunion with your brother, but please come to the Council Hall at once.
+
+@41.2
+I see. Understood. I will come right away.
+
+@42.0
+Well then, Brother. Let us meet again.
+
+@42.1
+Yes... There is much I want to talk about. Until later.
+
+@42.2
+Then, if you will excuse me...
+
+@43
+Go to the Chaisang Council Hall
+
+@44.0
+I am sorry to interrupt your reunion with your brother, but please come to the Council Hall at once.
+
+@44.1
+Understood. I will come right away.
+
+@45.0
+There is much I want to talk about. We will meet again later.
+
+@46
+Chaisang: Council Hall
+
+@47.0
+So, Zhou Yu. You say we should surrender?
+
+@48.0
+Yes. Cao Cao's army is, in a word, a menace.\n\nRather than expose Wu to the flames of war, I believe surrender is better for Wu.
+
+@49.0
+Hmm...\n\n\nOh? Ah, Master Kongming. You have come.
+
+@50.0
+...Kongming?
+
+@51
+Speak with Zhou Yu and the others
+
+@52.0
+Master Kongming, this is Zhou Yu, the finest strategist of Wu.\n\nZhou Yu says we should surrender.
+
+@53.0
+As I thought, Master Zhou understands. Surrender is the best course.
+
+@54.0
+Master Kongming, that is Zhou Yu over there. He has been a pillar of Wu since Sun Ce's day.\n\nUnfortunately, it seems Zhou Yu favors surrender...
+
+@55.0
+With the strength of our navy, Cao Cao's army is nothing to us.
+
+@56.0
+How can this be! Even Zhou Yu is thinking of surrender?
+
+@57.0
+I thought Zhou Yu, at least, would understand...
+
+@58.0
+Surrender and live? Cao Cao is not that soft!
+
+@59.0
+Zhou Yu is right. Surrender is the wise course.
+
+@60.0
+To stay alive, surrender is best. It cannot be helped, but...
+
+@61.0
+We urge surrender only out of concern for the state.
+
+@62.0
+As Zhou Yu says, we should surrender here.
+
+@63.0
+We meet for the first time. I am Zhuge Liang, styled Kongming.
+
+@63.1
+Oh, so you are Master Kongming. I have heard many rumors about you.
+
+@63.3
+My lord has told me about you. They say you came to urge war with Cao Cao.
+
+@63.4
+Yes. That is so.
+
+@63.5
+I see. A pity, then. My view differs somewhat.\n\nFor Wu, surrender is best.\n\nI am sorry for Liu Bei, but if one thinks only of Wu, this is the best course.
+
+@63.6
+I see... By the way, Zhou Yu, there is a way to send Cao Cao home without surrendering. Shall I tell you?
+
+@64.0
+What?! There is such a way?!
+
+@65.0
+What?! Send Cao Cao home without surrendering?!
+
+@66.0
+As if it were that easy!
+
+@67.0
+I do not know what it is, but it may be worth hearing. Please, tell me.
+
+@67.1
+I hear that Cao Cao has long wanted to take two certain women.
+
+@67.2
+That sounds like Cao Cao.
+
+@67.3
+His son Cao Zhi even wrote a poem about taking these women and rising to the highest station. And I am told both of them are here in Wu.
+
+@67.4
+Hmm. I see... And what are the names of these two women?
+
+@67.5
+Yes. If I recall, the elder sister is Da Qiao and the younger is Xiao Qiao.
+
+@68.0
+Wh-what?!
+
+@68.1
+What...!
+
+@68.2
+...!
+
+@68.3
+If you find these sisters and send them to Cao Cao, he will surely be delighted.\n\nWu would be safe.
+
+@69.0
+That wretched Cao Cao... What is he thinking...
+
+@70.0
+...? Is something the matter?
+
+@71.0
+I will not allow it! He means to make my... my wife his own?!
+
+@72.0
+Master Kongming... perhaps you did not know.\n\nDa Qiao is the wife of our late lord, Sun Ce.
+
+@72.1
+And Xiao Qiao, I will have you know, is the wife of this very Zhou Yu!
+
+@73.0
+I see... Though I did not know, I have offered you an outrageous folly.
+
+@74.0
+No... Master Kongming has taught me something valuable.\n\nI, Zhou Yu, will never serve such a shameless man!
+
+@74.1
+Zhou Yu...
+
+@75.0
+My lord, I have made up my mind.\n\nEven if it costs me my life, I will defeat Cao Cao without fail!\n\nI beg you, give me the order to defeat Cao Cao!
+
+@75.1
+Yes!
+
+@76.0
+Zhou Yu. I appoint you Commander in Chief. Go and defeat Cao Cao!
+
+@77.0
+I humbly accept the command!
+
+@78.0
+Zhou Yu, take my sword with you.\n\nHear me, all of you: as long as this sword is held, treat Zhou Yu's orders as my own!
+
+@79.0
+Ah, the decisive battle!
+
+@80.0
+I will take that Cao Cao alive, I swear it!
+
+@81.0
+Then everyone, we march at once! We will meet Cao Cao at Red Cliffs!
+
+@81.1
+Yes, sir!
+
+@82
+Speak with Lu Su
+
+@83.0
+I hesitate no longer. I will challenge Cao Cao to a decisive battle!
+
+@84.0
+Even Zhou Yu... But if it is my lord's will, it cannot be helped.
+
+@85.0
+Master Kongming, please do come to Red Cliffs as well. Wu's navy is stationed there.\n\nPlease lend your strength to Zhou Yu.
+
+@85.1
+Understood. Then let us go.
+
+@85.2
+Then I must make my preparations.
+
+@86
+Go to the camp at Red Cliffs
+
+@87.0
+Master Kongming, I ask you too: please help Zhou Yu at Red Cliffs.
+
+@88.0
+Since it has come to this, there is nothing for it. Master Kongming, I trust you to do your best for Wu.
+
+@89
+Red Cliffs: Camp
+
+@90.0
+Ah, Master Kongming. Thank you for troubling yourself to come all the way to Red Cliffs.\n\nI will have many things to ask you from now on. I count on you when the time comes.
+
+@91.0
+Of course. For Wu and for my lord, I do not mind such hardship.
+
+@92.0
+Master Kongming, we have prepared a residence for you here at Red Cliffs.\n\nPlease use it as you wish.
+
+@92.1
+Thank you.
+
+@92.2
+Then let us go to the residence at once.
+
+@93
+Go to the residence at Red Cliffs
+
+@94.0
+Battle will not come right away. Please rest at the residence.
+
+@95.0
+Once you step outside, you will easily find the residence.
+
+@96
+Red Cliffs: Residence
+
+@97.0
+If you need anything, please tell me.
+
+@97.1
+Thank you.
+
+@97.2
+Then, if you will excuse me.
+
+@98
+Cao Cao's Base: Jiangling
+
+@99
+Jiangling: Council Hall
+
+@100.0
+Well? Still no reply from Wu?
+
+@101.0
+None. The letter should have reached them.
+
+@102.0
+Damn Wu! Do they take us for fools?!
+
+@103.0
+Prime Minister, we cannot hold back any longer. Let us march on Wu.
+
+@104.0
+Yes! It is time to march and make Wu feel our strength!
+
+@105.0
+...Very well, we march! The whole army will attack and destroy Wu!
+
+@106.0
+The whole army, march for Red Cliffs!
+
+@107
+Red Cliffs: Residence
+
+@108.0
+Now then... I have no particular business. Perhaps I will take a walk outside.
+
+@109
+Look around Red Cliffs
+
+@110
+Red Cliffs: Assembly Hall
+
+@111.0
+This is the assembly hall. ...Oh?\n\nIs that not Brother Pang Tong over there? No mistake, it is Brother Pang Tong.
+
+@112.0
+Brother Pang Tong!
+
+@112.1
+Ah, Kongming!
+
+@112.2
+I had heard you were in Wu, but to meet you in a place like this!
+
+@113.0
+Yes, Zhou Yu invited me. I have been imposing on him for a while now.
+
+@113.2
+Kongming, have you seen Cao Cao's fleet yet? It is a great fleet like none I have ever seen.
+
+@114.0
+I heard you had come to Red Cliffs, so I thought I would come and see.
+
+@114.2
+I saw Cao Cao's army on my way here. It is a great fleet like none I have ever seen.
+
+@115.0
+Oh? As expected of Cao Cao.
+
+@115.1
+My, so calm. You have already noticed, have you not? ...Cao Cao's fatal weakness.
+
+@116.0
+Heh heh, so have you, Brother Pang Tong. Yes, Cao Cao's army has a great weakness.
+
+@116.1
+Even that great fleet... no, because it is a great fleet, a fire attack would finish it in a moment. If the fire attack succeeds, Wu's victory is certain, but...
+
+@116.2
+What is it? Does something trouble you?
+
+@116.3
+Yes, the wind... It is winter. The winter wind blows from the northwest, from Cao Cao's army toward Wu's. If we set the fire, it will spread toward Wu's ships instead.\n\nThe wind's direction is the one thing nothing can be done about.
+
+@116.4
+Yes. It troubles me as well.
+
+@116.5
+(Come to think of it... at this time of year, a southeast wind blows for two or three days. ...Now, when was it? Soon, I believe...)
+
+@117.0
+What is it, Kongming? Do you have some idea?
+
+@117.1
+Well... yes. But never mind that for now.\n\nMore to the point, Brother Pang Tong, would you serve my lord? If you came to us, you would surely be a greater asset than I.
+
+@117.2
+Ha ha ha! What a thing to say out of nowhere. Who is greater than you, I ask?
+
+@117.3
+My lord has few men of strategy under him. I wanted Xu Shu to stay as well...\n\nWell, come to us if the mood takes you.
+
+@117.4
+Yes, I will. ...By the way, I am thinking of going to Cao Cao's camp.
+
+@117.5
+What did you say?
+
+@117.6
+Oh, I mean to chain Cao Cao's ships together before the fire attack.
+
+@117.7
+Ah, the Chain Stratagem!
+
+@117.8
+It will help you, too. And if Xu Shu is in Cao Cao's camp, I must get him out.\n\nBefore Red Cliffs becomes a sea of fire...
+
+@117.9
+Yes, indeed. Then take care.
+
+@117.10
+Yes, thank you. I will go at once. Until we meet again, Kongming.
+
+@118.0
+I never thought I would see Brother Pang Tong here. The Chain Stratagem, is it...\n\n(It will cause trouble if I leave the residence empty too long. I had better go back.)
+
+@119
+Return to the Red Cliffs residence
+
+@120
+Red Cliffs: Residence
+
+@121.0
+Ah, Master Kongming. Where have you been? I have been looking for you.
+
+@122.0
+Lu Su, what is the matter?
+
+@122.1
+Zhou Yu would like you to come. Would you be so kind as to go to the camp?
+
+@122.2
+Zhou Yu... Understood. Let us go at once.
+
+@123
+Go to the camp at Red Cliffs
+
+@124.0
+Zhou Yu would like you to come. Please go to the camp.
+
+@125
+Red Cliffs: Camp
+
+@126.0
+Ah, Master Kongming. I have been waiting for you.
+
+@127.0
+You wished to see me about something? What is it?
+
+@127.1
+It concerns the battle. I have been working out a plan to break Cao Cao's great army...
+
+@127.2
+And have you found a good one?
+
+@127.3
+...Yes. I did come up with one.
+
+@127.4
+I see. In fact I have one as well.
+
+@127.5
+You too, Master Kongming? Could it be... a fire attack?
+
+@127.6
+Yes. Which means you, too, Zhou Yu...
+
+@127.7
+Yes. A fire attack is surely best. But it is winter now. The winter winds blow from the north and west, and in this season we are downwind.\n\nI doubt Cao Cao will wait until spring...
+
+@127.8
+I see. If that is what troubles you, I can change the direction of the wind.
+
+@128.0
+What?!
+
+@129.0
+What?! You can do that?!
+
+@129.1
+Yes. First, please prepare an altar. I will pray there.
+
+@129.2
+Pray?! You mean to say that can change the wind?
+
+@129.3
+Yes. Leave it to me.
+
+@129.4
+...Very well. I will have an altar built at once.\n\nIt was good to hear this today. ...Master Kongming, I count on you.
+
+@130.0
+Yes. Then, if you will excuse me.
+
+@131.0
+Zhou Yu... can Master Kongming truly change the wind?
+
+@131.1
+I do not know... But if it is true, my plan will succeed.\n\nStill... Kongming is a frightening man. Strategy alone is one thing, but to change the wind? He is no better than a sorcerer!\n\nWould it not serve Wu best to do away with him now, while we have the chance?
+
+@132.0
+What?! W-well, he may be a somewhat unfathomable person, but...
+
+@133.0
+But if we kill Master Kongming here and now, we will make an enemy of Liu Bei as well.\n\nWould that not be bad for Wu?
+
+@133.1
+Hm... True, you are right.
+
+@134.0
+But... Kongming is a dangerous man all the same. If a chance comes...
+
+@135.0
+...Zhou Yu. I have a secret matter to discuss. May I?
+
+@136.0
+Then we shall excuse ourselves.
+
+@137.0
+Well then.
+
+@138.0
+Now, Huang Gai, what is this secret matter?
+
+@138.1
+A good idea has come to me for breaking Cao Cao's army.
+
+@138.2
+And what is it?
+
+@138.3
+Cao Cao has a huge fleet. Wu's navy is elite, but against such numbers our chances are slim.\n\nSo rather than meet him head on, would it not be better to burn that fleet with fire?
+
+@138.4
+Ah, so you think so too, Huang Gai! I have been thinking the same.
+
+@138.5
+Oh! You as well, Zhou Yu?
+
+@138.6
+Yes. Only... how to set the fire is the great problem.\n\nI have been agonizing over whom to ask to do it...
+
+@138.7
+I see. Let me do it. Leave it to me.
+
+@139.0
+What?! But to give such a dangerous mission to an old general...
+
+@139.1
+Nonsense. This body has served Wu for three generations. For Wu, I do not fear death.
+
+@140.0
+So, in practice, what must be done?\n\nYou are the finest strategist in Wu, Zhou Yu. You must already have a plan.
+
+@140.1
+Yes. You pretend to be a defector from Wu, enter Cao Cao's camp, and set the fire. Caught off guard, Cao Cao's army will fall into great confusion. But Cao Cao is a shrewd man.\n\nIf we merely send a man, he may see through a false defection.
+
+@141.0
+To make Cao Cao trust you, you will have to suffer pain... Even so, are you willing?
+
+@141.1
+Yes. I do not fear any hardship. Leave it to me.
+
+@142.0
+Then I ask this of you. From now on...
+
+@142.1
+Yes, yes. I see...
+
+@143
+Huang Gai insulted Zhou Yu before the generals, and Zhou Yu had Huang Gai flogged. Resenting the punishment, Huang Gai sent Cao Cao a letter offering to surrender. Cao Cao was doubtful at first, but when his spies told him of the flogging, he believed the defection. Of course, the surrender was a sham.
+
+@144
+Zhou Yu built the Seven Star Altar on Mount Nanping and asked Kongming to pray. He did not think prayer would really raise a wind, but without a southeast wind the fire attack could not succeed.\n\nOne day passed, then two... and on the night of the third day, the southeast wind finally blew.
+
+@145.0
+The southeast wind seems to have come.\n\nNow, I should leave before Zhou Yu takes my life. If I go to the pier on the east side, the escort from Jiangxia should be there...
+
+@145.1
+What?! A southeast wind?! Can it be...
+
+@145.2
+What is this... It is winter...
+
+@145.3
+(He commands the wind at will... Who is that man? Is Kongming a god, or a demon...?)\n\n(If that man is left alive, he will surely bring disaster to Wu!)\n\nXu Sheng! As Commander in Chief I order you: bring me Kongming's head!
+
+@145.4
+Zhou Yu! What are you doing...
+
+@145.5
+If I do not kill that man, he will sow seeds of ruin for the future of Wu!
+
+@145.6
+Understood. The Commander's orders! Strike down Kongming!
+
+@146
+1. Kongming flees to the pier
+
+@147.0
+Master, sorry to keep you waiting. I have come to bring you home.
+
+@147.1
+Ah, Zhao Yun. Well done to come.
+
+@148.0
+Zhao Yun, well done to come. Had you been late, Zhou Yu would have killed me.
+
+@148.1
+What?!
+
+@148.2
+Now, the southeast wind has blown. Not that I made it blow... Zhou Yu, do your best.
+
+@149.0
+The Wu pursuit was nothing much, was it?
+
+@149.1
+Perhaps Lu Su arranged something. He is a gentle man...
+
+@149.2
+I cannot say.
+
+@149.3
+Now, the southeast wind has blown. Not that I made it blow... Zhou Yu, do your best.
+
+@150
+Obtained 1000 gold!
+
+@151.0
+Let us leave the fighting on the water to Wu's army.
+
+@151.1
+Yes. We are poor at naval war.
+
+@151.2
+We will pursue Cao Cao by land.
+
+@152.0
+I see... So Kongming got away.
+
+@152.1
+That being so, we should put everything into annihilating Cao Cao's army.
+
+@152.2
+Yes... true.
+
+@152.3
+Commander, give us our orders!
+
+@152.4
+Now, with the southeast wind blowing over the river, the time has come for Wu to win!\n\nHuang Gai! Lead the fire ships and set Cao Cao's fleet gloriously ablaze!
+
+@152.5
+Yes, sir!!
+
+@152.6
+All generals, move as I direct! Cao Cao, you will pay!
+
+@153.0
+Wu's fleet is approaching. Its banner reads "Vanguard Huang Gai."
+
+@153.1
+Prime Minister Cao, it is Huang Gai! I have come leading the Wu forces!
+
+@153.2
+Ah, Huang Gai indeed. To bring so great a force!\n\nWith such a host surrendering, even Zhou Yu can do nothing.\n\nHa ha ha!!
+
+@153.3
+That is certainly so... Wh-what is that?! Prime Minister, this is terrible!
+
+@153.4
+Hm? What is it, Cheng Yu? You are making a racket.
+
+@153.5
+From Huang Gai's ships... from the ships, fire...!!
+
+@154
+Jiangxia
+
+@155
+Jiangxia: Council Hall
+
+@156.0
+Ah, Kongming. Zhao Yun has just told me. It seems it was hard going in Wu.
+
+@156.1
+No, it was nothing. More importantly, my lord.
+
+@156.2
+Yes, I know. I hear Wu's fire attack succeeded. Now is the chance to strike Cao Cao.\n\nThe preparations to march are done. Kongming, command our operations from here.
+
+@157.0
+Yes, my lord.
+
+@158.0
+Cao Cao's army has been weakened by Wu's fire attack. Its morale has fallen, and even Cao Cao is in no state to fight properly.\n\nWe should strike with the full strength of our army.
+
+@159.0
+All right! I will crush Cao Cao!
+
+@159.1
+That is the spirit. Zhang Fei, rampage to your heart's content.
+
+@160.0
+My arm is itching. Let us sortie at once.
+
+@161.0
+No. Guan Yu, I ask you to guard Jiangxia.
+
+@162.0
+Wh-what?! Strategist, you tell me to stay behind and mind the house?!
+
+@162.1
+Kongming, what do you mean? Liu Qi is in Jiangxia to defend it. There is no problem.
+
+@163.0
+Then let me explain.\n\n\nWhen Xuzhou fell, Guan Yu once surrendered to Cao Cao.
+
+@164.0
+But Kongming... that was...
+
+@164.1
+Yes. It was an unavoidable choice to protect your wives. I understand that too.\n\nBut Guan Yu is a man of deep righteousness. How ruthless could he be toward a man to whom he once owed a favor?
+
+@165.0
+Hmm...
+
+@165.1
+Considering that, I have asked him to guard Jiangxia this time.
+
+@166.0
+Strategist, that is needless worry!\n\nIt is true that I received a favor from Cao Cao then. But before leaving him I slew the two generals Yan Liang and Wen Chou, and repaid his kindness.
+
+@167.0
+I would never let Cao Cao go now! Please, give me orders to march as well!
+
+@167.1
+Hmm... What should I do? Kongming, what do you think?
+
+@168
+Send Guan Yu out.\nLeave Guan Yu at Jiangxia.
+
+@169.0
+Understood. Then Guan Yu, please lay an ambush on the Huarong Road.
+
+@169.1
+The Huarong Road...?
+
+@169.2
+Yes. Cao Cao will surely pass along the Huarong Road, leading his defeated army...\n\nGuan Yu, I ask you most firmly not to let Cao Cao slip away!
+
+@170.0
+Yes, understood.
+
+@170.1
+If you let Cao Cao escape, you will be dealt with under military law.\n\n...Do you accept that?
+
+@170.2
+...Yes.
+
+@171.0
+...Very well, then we march!
+
+@172.0
+...How could this be...\n\n\nTo suffer such a defeat. I never imagined it.
+
+@172.1
+Now that it has come to this, it cannot be helped.
+
+@172.2
+For now, let us fall back to Jiangling and regroup!
+
+@172.3
+Before the pursuers arrive. Come, quickly!
+
+@172.4
+...Yes, you are right.
+
+@173
+1. Pursue Cao Cao
+
+@174.0
+No, we cannot neglect the defense of Jiangxia.\n\nIt is not the defeated Cao Cao but Wu, Zhou Yu, who may attack Jiangxia.
+
+@174.1
+True... They say Zhou Yu tried to take Kongming's life as well.
+
+@174.2
+If we lose Jiangxia, this time we will truly be destroyed.\n\nWith only the few troops we leave behind, Guan Yu is the only one who can hold Jiangxia against Zhou Yu.
+
+@175.0
+...Understood. If that is the situation, I gladly accept.\n\nI will await good news at Jiangxia.
+
+@176.0
+Brother, don't look so gloomy. The Strategist is not being spiteful.
+
+@176.1
+...Yes.
+
+@176.2
+Very well, then we march!
+
+@177.0
+...How could this be...\n\n\nTo suffer such a defeat. I never imagined it.
+
+@177.1
+Now that it has come to this, it cannot be helped.
+
+@177.2
+For now, let us fall back to Jiangling and regroup.
+
+@177.3
+Before the pursuers arrive. Come, quickly!
+
+@177.4
+...Yes, you are right.
+
+@178
+1. Pursue Cao Cao
+
+@179.0
+Can we not go faster?! At this rate we cannot escape!
+
+@179.1
+The men are exhausted. This is the limit!
+
+@179.2
+Tch...!
+
+@180.0
+Prime Minister, are you all right?!
+
+@180.1
+Oh! Yu Jin and Yue Jin!
+
+@180.2
+We have gathered the defeated troops. We will hold off Liu Bei's army.
+
+@181.0
+Prime Minister, be at ease.
+
+@181.1
+Cao Hong and Xu Huang! We have gathered the intact troops and come to your aid!
+
+@181.2
+Ah... With this, my life is saved.
+
+@182.1
+I will have my revenge for this humiliation! Zhou Yu! Kongming! Remember this!!
+
+@183.0
+Damn them!
+
+@183.1
+Prime Minister! Are you all right?!
+
+@183.2
+Yes, somehow... More to the point, we must flee from here quickly.\n\nI will have my revenge for this humiliation! Zhou Yu! Kongming! Remember this!!
+
+@184.0
+Phew... What is this place called?
+
+@184.1
+They say it is the Huarong Road. If we have come this far, we should be safe.
+
+@184.2
+Heh heh... Ha ha ha. Neither Zhou Yu nor Kongming is much, after all.
+
+@184.3
+What are you saying? With respect, our army has been crushed and we are fugitives. This is no time to laugh...
+
+@184.4
+Yes, we are fugitives. But once back at Xiangyang, we can reorganize the army. Their threat is not gone, you see. Ha ha ha!
+
+@184.5
+...Indeed.
+
+@184.6
+If troops lay in ambush here, we would have no choice but to be captured. Their planning is still lax.
+
+@185.0
+Prime Minister Cao... It has been a long time.
+
+@185.1
+G-Guan Yu! Kongming, as expected... He had an ambush ready...
+
+@185.2
+By my lord's order, I have come to take your life, Prime Minister.
+
+@185.3
+...Cheng Yu. What should I do? I do not want to die yet.
+
+@185.4
+...Guan Yu is a warrior of deep righteousness. If you remind him of his old debt, he will let you go.
+
+@185.5
+Prime Minister, are you prepared?
+
+@185.6
+Guan Yu... This time, I am beaten. Liu Bei seems to have found himself a fine strategist.
+
+@185.7
+......
+
+@185.8
+Guan Yu... will you let me go? Remember my past kindness.
+
+@185.9
+...That I cannot do.\n\n\nThe debt I owed you, Prime Minister, I already repaid by slaying the two generals Yan Liang and Wen Chou.
+
+@185.10
+...I know it is an unreasonable request.\n\nBut I no longer have the strength left to fight you. My life lies in your hands... I beg you...
+
+@185.11
+(...)\n\n\n(...No.)\n\n\n(I cannot cut down this wretched, defeated man.)
+
+@185.12
+...Withdraw!
+
+@185.13
+Oh, Guan Yu! I am grateful. My thanks...
+
+@187.0
+Zhang Liao, damn him, he got away...
+
+@188
+Zhao Yun gained a level!
+
+@189.0
+Tch! He got away. Well, no matter. Next time we meet, I will take him down for sure!
+
+@190
+Zhang Fei gained a level!
+
+@191
+Obtained 500 gold!
+
+@192.0
+A complete defeat... We retreat to Xiangyang.
+
+@193
+Jiangxia
+
+@194
+Jiangxia: Council Hall
+
+@195.0
+Well done, everyone. It is a pity we let Cao Cao slip away, but...
+
+@195.1
+It cannot be helped. This too is Heaven's will. The chance to defeat him will come in time. There is no need to dwell on it.
+
+@195.2
+Yes. That is true.
+
+@196.0
+By the way... Guan Yu. By what strategy did Cao Cao shake off your pursuit?\n\nBy my calculation, Cao Cao should not have had the strength to fight you.
+
+@197.0
+I will make no excuses. I was swayed by old feelings... and let Cao Cao go.
+
+@197.2
+It was as you said, Strategist. Seeing Cao Cao's pitiful state, I could not bring myself to cut him down...
+
+@197.3
+For that reason alone, you let Cao Cao go...?
+
+@197.4
+...The fault is entirely mine. Strategist, please punish me under military law.
+
+@198.0
+Very well. ...In accordance with military law, I sentence Guan Yu to death.
+
+@199.0
+!!!
+
+@200.0
+K-Kongming! Wait a moment!
+
+@201.0
+Even if it is my lord's command, I cannot bend military law. If military law is neglected, the soldiers will never follow us.
+
+@202.0
+I know that. But Guan Yu, Zhang Fei, and I swore to die together for the Han house.
+
+@203.0
+If Guan Yu dies, then I and Zhang Fei cannot go on living either.
+
+@204.0
+I know Guan Yu has done wrong.\n\nWhat if his fault were offset by his merit in a later battle? Could you grant him a reprieve until then?
+
+@204.1
+...If my lord goes so far, I will grant Guan Yu a reprieve.
+
+@205.0
+Guan Yu, you heard it. Some day, perform merit in battle that atones for this fault, and live up to my lord's expectations.
+
+@206.0
+...Yes. Thank you.
+
+@207.0
+By the way, Strategist. Cao Cao never came to the Huarong Road. What happened?
+
+@207.1
+Ah, Guan Yu... My apologies.\n\nCao Cao's army was weaker than expected, and was shattered before it reached the Huarong Road.
+
+@207.2
+I see.
+
+@207.3
+The rumor is that Cao Cao slipped away disguised among the common soldiers.
+
+@207.4
+Then it cannot be helped. Understood.\n\n(But if Cao Cao had appeared on the Huarong Road... could I have cut him down? ...Perhaps not.)
+
+@208.0
+Guan Yu, thank you for guarding the rear.\n\nBecause you protected our back, we were able to fight with peace of mind.
+
+@209.0
+Thank you. The troops left in the castle will be glad to hear it.
+
+@210.0
+Yes. A war is never won by frontal battle alone. ...You understand that, Zhang Fei.
+
+@211.0
+Why say that to me, Brother?!
+
+@211.1
+Ha ha ha, sorry, sorry.
+
+@212.0
+You all did well today. Let us hold a victory feast!
+
+@213.0
+All right, I've been waiting for this! Come on, everyone, let's celebrate the victory!
+
+@214.0
+Zhang Fei really comes alive at a feast.
+
+@215
+Chaisang
+
+@216
+Chaisang: Council Hall
+
+@217.0
+Zhou Yu, and all of you, you fought well. Cao Cao has surely learned his lesson.
+
+@218.0
+So, Zhou Yu. How does Cao Cao's army look now?
+
+@218.1
+Cao Cao seems to have fled into Xiangyang.
+
+@218.2
+I see. A great victory for our army, then.
+
+@218.3
+No, it is not yet decided. ...Jing Province. Now that Cao Cao's army is weakened, only when we take Jing Province can we call it a victory.
+
+@218.4
+Jing Province...
+
+@218.5
+If we take Jing Province, Wu will gain a foothold toward the realm.
+
+@218.6
+Yes. The fighting looks set to go on. Zhou Yu, I rely on you hereafter as well.
+
+@219.0
+Yes, my lord!
+
+@219.1
+(...But Liu Bei must be after Jing Province too. And Kongming... He is dangerous. I must not lose to him!)
+
+@221.0
+......\n\n\nBecause of me, I let so many of my men die...
+
+@221.1
+True... Red Cliffs was bitter. But you are alive, Prime Minister. It is not over yet.
+
+@221.2
+Cao Ren is right. Let us rebuild the army and march south again.
+
+@221.3
+Yes... you are right. First we must hurry to recover our national strength.\n\nI shall return to Xuchang. Cao Ren, you go to Jiangling. Jiangling is the keystone of Jing Province.\n\nWhen I am gone from Jing Province, Liu Bei and Sun Quan will surely move. I count on you.
+
+@222.0
+Yes, sir. Leave it to me.
+
+@223.0
+I leave Xiahou Dun at this Xiangyang. Xiahou Dun, I count on you.
+
+@224.0
+Yes, sir! No matter what great army comes, I will hold it to the death.
+
+@225.0
+The rest of you return to Xuchang with me. Prepare to depart at once.
+
+@226.0
+Hold Jiangling to the death!
+
+@227.0
+Now, we withdraw to Xuchang. ...I will never forget this bitterness.
+
+@230.0
+Your Majesty. Concerning Prime Minister Cao, who marched to Red Cliffs...
+
+@230.1
+What of him? Do you mean he has finally defeated Liu Bei?
+
+@230.2
+No.\n\n\nI hear he suffered a crushing defeat from a fire attack by the allied forces of Liu Bei and Sun Quan.
+
+@230.3
+I see... Understood. You may withdraw.
+
+@230.4
+Yes, Your Majesty.
+
+@231.0
+So... Liu Bei defeated Cao Cao.
+
+@232.0
+He still fights for Us. For Us, a mere puppet of Cao Cao. Liu Bei, forgive Us...
+

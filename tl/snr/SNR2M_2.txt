@@ -1,0 +1,933 @@
+@0
+2-2: Meng Huo, Nanman King
+
+@1
+Act 2: Meng Huo, Nanman King
+
+@2
+Yongchang: Southern Yi Province
+
+@5.0
+Prime Minister, a messenger came from Chengdu just now. I have reports for you.
+
+@5.1
+Oh, is that so.
+
+@5.2
+The first is sad news. My brother... Liang... has died. Of illness, they say.
+
+@5.3
+What, Ma Liang... ...I see. We have lost a precious man.
+
+@5.4
+The other is happy news. Your wife has given birth.
+
+@5.5
+What!
+
+@6.0
+Prime Minister, congratulations.
+
+@7.0
+Y-yes. So, the child is born...
+
+@7.1
+...On another matter, you are to subdue the Nanman this time, Prime Minister.
+
+@7.2
+That is so. Unless this is accomplished, there will be no peace for the Han court.
+
+@7.3
+No campaign against the Nanman has ever succeeded. Even when pacified, they rebel again soon after.\n\nThey say attacking the heart is the best policy, attacking cities the worst. I think the first thing is to win their hearts.
+
+@7.4
+...You are right. Only when we bring the barbarians to submit from the heart will the Nanman campaign be truly accomplished.
+
+@7.6
+Ma Su, gather the generals in the Council Hall. We march at once.
+
+@9.0
+...He is sharp indeed. He has grasped the true aim of this Nanman campaign.\n\n"Attacking the heart is the best policy," then...
+
+@10.0
+Everyone is here, it seems. Now we march south to subdue Meng Huo.\n\nOur immediate objective is Wuxi Peak.
+
+@11.0
+Prime Minister, I have a request. Please give me the vanguard.
+
+@12.0
+I ask too. Please leave it to General Zhao and me.
+
+@13.0
+Please wait. You two do not yet know the Nanman land well. The barbarian land is full of poison swamps and nests of poisonous snakes.\n\nIt is a terrible land that people ignorant of its geography cannot even enter.
+
+@13.1
+...Lu Kai is right. I value your spirit, but hold back this time.
+
+@14.0
+Yes, understood. ...It is a pity.
+
+@15.0
+Then we march tomorrow morning. Everyone, be ready.
+
+@16
+And the next morning...
+
+@18.0
+Prime Minister, this is terrible! Lord Zhao Yun and Lord Wei Yan have set out for Wuxi Peak!
+
+@18.1
+What? I see, they have gone ahead of us...\n\nThere is an unwritten rule that going ahead is overlooked if one achieves merit.
+
+@18.2
+Prime Minister, either call Lord Zhao Yun and Wei Yan back in haste, or ignore them and advance... Please choose one.
+
+@19
+Choose whether to overlook the rash advance or call them back
+
+@20.0
+They are not men to fall into danger. I think it is fine to ignore them.
+
+@21.0
+Pushing in deep in a hurry for merit is dangerous. Prime Minister, let us call them back at once.
+
+@22.0
+I hear Meng Huo has many units suited to fighting in forests.
+
+@23.0
+Lord Zhao Yun and Lord Wei Yan are fierce generals, the pride of our Han court. There is no need to panic.
+
+@24.0
+Let us follow the two generals quickly too.
+
+@25.0
+The barbarian land is dangerous. However strong the generals are, they are at a great disadvantage against the Nanman climate.
+
+@26.0
+Most of Wuxi Peak seems to be forest. Fighting in such land is probably unfavorable for cavalry.
+
+@27.0
+Those two need no worry.
+
+@28.0
+Prime Minister, have you decided?
+
+@29
+Overlook the rash advance.\n\nRecall Zhao Yun, Wei Yan.
+
+@30.0
+You will ignore the two and advance. Then let us set out.
+
+@31.0
+You will call the two back. Then we will hurry after them.
+
+@32
+Some time later...
+
+@33.0
+...I was in a hurry, not wanting to lose to the young ones... I invited Wei Yan and went ahead...
+
+@33.1
+...I know the crime of going ahead. I will accept any punishment.
+
+@33.2
+No... That spirit of yours is just what this war needs. I will not punish you. ...Now, let us march again.
+
+@34.0
+But is it really all right? Going ahead like that...
+
+@34.1
+What is it, Wei Yan? That is not like you.\n\nI, Zhao Yun, will take the responsibility. Do not worry. I cannot lose to the young ones! Let us win merit!
+
+@35.0
+Zhao Yun and Wei Yan are far ahead. They are truly a trouble.
+
+@35.1
+Listen! Whoever captures Zhuge Liang will be made chief of the three caves!
+
+@35.2
+Yes!
+
+@35.3
+Yes!
+
+@35.4
+Yes!
+
+@37.0
+I, Zhao Yun, have slain Jinhuan Sanjie, the Nanman cave chief!
+
+@39.0
+Prime Minister, we have captured the Nanman cave chief, Dong Tuna.
+
+@39.1
+I see... Now, what shall I do?
+
+@39.2
+I am ready. Cut off my head quickly.
+
+@40.0
+Prime Minister, will you execute Dong Tuna?
+
+@41.0
+It cannot be helped... Execute Dong Tuna.
+
+@41.1
+Yes. Come!
+
+@41.2
+Ngh... ...Gyaah!!
+
+@42.0
+What is it, Zhuge Liang? Cut off my head quickly!
+
+@42.1
+Dong Tuna. I have not come to wipe out the Nanman people.\n\nIf you will no longer side with Meng Huo, you may go home.
+
+@42.2
+...I may go home?
+
+@42.4
+...I am grateful.
+
+@43
+Obtained 1500 gold!
+
+@44.0
+So the Nanman king has come out at last. He looks truly fierce.
+
+@44.1
+Damn you, Zhuge Liang! I will avenge Dong Tuna!
+
+@45.0
+So the Nanman king has come out at last. He looks truly fierce.
+
+@45.1
+I will show you the strength of the Nanman soldiers. Prepare yourself, Zhuge Liang or whatever you are!
+
+@46.0
+Hm? Is that... the banner of our Han court!?
+
+@46.1
+Ah, Prime Minister! By His Majesty's order we have come as reinforcements. We are Zhang Ni and Ma Zhong.
+
+@46.2
+His Majesty was concerned for your safety, Prime Minister, and sent us. We ask for your guidance.
+
+@47
+Zhang Ni and Ma Zhong joined!
+
+@48
+Obtained 1500 gold!
+
+@49.0
+They are good. This is an even fight.
+
+@49.1
+As expected of Shu's elite. They are strong.
+
+@50.0
+Good, the victory is ours.
+
+@52.0
+Attack!
+
+@52.1
+Whoever captures Zhuge Liang will be made chief of the three caves.
+
+@52.3
+Yes!
+
+@52.4
+Yes!
+
+@54.0
+I, Zhao Yun, have slain Jinhuan Sanjie, marshal of the first Nanman cave!
+
+@56.0
+Prime Minister, we have captured Dong Tuna.
+
+@56.1
+I see... Now, what shall I do?
+
+@57.0
+Shall I execute Dong Tuna...?
+
+@58.0
+Execute Dong Tuna.
+
+@58.2
+Urgh.
+
+@59.0
+Dong Tuna, I do not wish to shed much blood. You may go home.
+
+@60
+Obtained 1500 gold!
+
+@61.0
+How dare you kill Dong Tuna!! Is that your true nature!?\n\nDamn you, Zhuge Liang! Prepare yourself!!
+
+@62.0
+Shu army! I will show you the strength of my soldiers!
+
+@63.0
+Prime Minister, by His Majesty's order we have rushed here as reinforcements. We are Zhang Ni and Ma Zhong.
+
+@63.1
+Please use us too.
+
+@64
+Obtained 1500 gold!
+
+@65.0
+A draw.
+
+@66.0
+Good, the victory is ours.
+
+@67
+Obtained 700 gold!
+
+@68
+Wuxi Peak: Shu Camp
+
+@69.0
+Hmph! So you are Kongming. You are just a scholar!!
+
+@69.1
+Meng Huo. Why did you join hands with Wei and help Yong Kai's rebellion?
+
+@70.0
+The late Emperor surely repaid you well enough.
+
+@70.1
+What are you saying! The land of Shu was originally mine and Liu Zhang's. What late Emperor! Don't make me laugh.
+
+@71.0
+His Majesty surely repays you well enough.
+
+@71.1
+What are you saying! The land of Shu was originally mine and Liu Zhang's. What His Majesty! Don't make me laugh.
+
+@72.0
+You! Do you insult the late Emperor!
+
+@73.0
+You! Do you insult His Majesty!
+
+@74.0
+...Zhao Yun, calm yourself.
+
+@75.0
+Do not side with Wei, the traitors. Meng Huo, ...will you not swear loyalty to our Han court?
+
+@75.1
+Shut up! The Nanman are the Nanman. Whatever country I join is up to me, the Nanman king!\n\nI lost today because we fought in a place with a road this narrow. If we had fought somewhere a bit wider, I would have won.
+
+@75.2
+Hm... That is interesting.
+
+@75.3
+What is interesting! You talk as if you were making a fool of me!
+
+@75.4
+Then if I give you another chance, you say you can beat my army next time?
+
+@75.5
+Yes! Of course!
+
+@76.0
+Very well, Meng Huo. I will give you the chance. Rebuild your army and come at us.
+
+@76.1
+What!? R-really!?
+
+@77.0
+Really. A Prime Minister of the Han does not lie. ...Ma Dai, untie his ropes.
+
+@78.1
+Now, go home. We will be waiting.
+
+@78.2
+Hmph! Acting as if you were doing me a favor...
+
+@79.0
+Listen, Zhuge Liang! This will not move my heart.
+
+@80.0
+I will make you regret not killing me! Be ready!
+
+@81.0
+...Prime Minister, why did you let Meng Huo go?\n\nIf you had executed Meng Huo, the Nanman campaign would have been over.
+
+@81.1
+It would be easy to execute Meng Huo now. But to pacify the Nanman we must bring someone like Meng Huo to submit.\n\nIt is to make Meng Huo follow us from the heart. I want all of you to understand.
+
+@82
+Lu River: Nanman Camp
+
+@83.0
+Brother!
+
+@84.0
+I heard you were captured by the Shu army... How did you manage to escape?
+
+@85.0
+I broke out of the cage. Then I knocked down a few Shu soldiers and snatched a horse.
+
+@85.1
+Oh, that is amazing. As expected of my brother.
+
+@85.2
+(...How could I tell them Kongming let me go!)
+
+@86.0
+Anyway, while I was captured I took a good look at the Shu army. They were worn out by the heat of the Nanman land.
+
+@87.0
+So here is what we do. We build a sturdy fortress on the far bank of the Lu River and drag the war out.\n\nWhen they are exhausted by the heat, we pick the fight, and we will surely win!
+
+@88.0
+Build a camp at the Lu River! We drag this out!
+
+@89.0
+We pursue Meng Huo. Let us advance to the Lu River.
+
+@90
+Lu River
+
+@91
+Go to the camp at the Lu River
+
+@92
+Lu River: Shu Camp
+
+@93.0
+Prime Minister, Meng Huo has built a strong fortress on the far bank of the Lu River and holds it.
+
+@94.0
+A fortress... A plan to wait for my army to wear out in the heat. Meng Huo is using his head after all.
+
+@95.0
+Prime Minister, across the Lu River there is a place called Jiashan Gorge. It is a key point for the Nanman army's food supply.\n\nIf we raid the supply units at Jiashan Gorge and starve them out... the Nanman army will quickly run short of food, and in time they will sally out of the fortress.
+
+@95.1
+I see, a fine plan. Then let us march to Jiashan Gorge at once.
+
+@96.0
+If we raid the enemy's ration units, Meng Huo will move. That is when we strike.
+
+@97.0
+C-captain! A Shu army has appeared behind us!
+
+@97.1
+Damn! They are after the food! Run to the western fort!
+
+@98
+1. Annihilate the supply units
+
+@99
+The Nanman soldiers retreated.
+
+@100
+The ration unit retreated.
+
+@101
+The ration unit retreated.
+
+@102
+The ration unit retreated.
+
+@103
+The ration unit retreated.
+
+@104.0
+What! The supply units were raided!?\n\nAt this rate we will starve. ...Dong Tuna!
+
+@104.1
+Yes.
+
+@104.2
+Go and scatter them. Win back the disgrace of last time!
+
+@104.3
+Brother, isn't a disgrace something to wipe away, not win back...?
+
+@104.4
+S-shut up! Just go!
+
+@105.0
+Enemy reinforcements. Who is their commander?
+
+@105.1
+It seems to be Dong Tuna and Mang Yachang.
+
+@105.2
+I see... Dong Tuna.
+
+@106
+1. Dong Tuna retreats
+
+@108.0
+Dong Tuna, captured again. This is the second time.
+
+@108.2
+You truly never learn. Well, no matter. I will overlook it just once more. You may go home.
+
+@108.3
+L-Lord Kongming... I am grateful...
+
+@109
+Obtained 700 gold!
+
+@110.0
+Small fry, have you learned your lesson!
+
+@112.0
+Dong Tuna! You were spared by the Prime Minister, and still you mean to turn your blade on him!
+
+@112.1
+...Grr!
+
+@112.2
+Have you forgotten the favor you received from the Prime Minister! Does the Nanman have no word for gratitude!
+
+@112.3
+...Damn, the whole army retreats!
+
+@115.0
+Dong Tuna, captured again. This is the second time.
+
+@115.2
+You truly never learn. Well, no matter. I will overlook it just once more. You may go home.
+
+@115.3
+L-Lord Kongming... I am grateful...
+
+@116
+Obtained 700 gold!
+
+@117.0
+If we raid the enemy's ration units, Meng Huo will move. That is when we strike.
+
+@118.0
+C-captain! A Shu army has appeared behind us!
+
+@118.1
+Damn! They are after the food! Run to the western fort!
+
+@119
+1. Annihilate the supply units
+
+@120
+The Nanman soldiers retreated.
+
+@121
+The ration unit retreated.
+
+@122
+The ration unit retreated.
+
+@123
+The ration unit retreated.
+
+@124
+The ration unit retreated.
+
+@125.0
+What! The supply units were raided!?\n\nAt this rate we will starve. ...Younger brother!
+
+@125.1
+Brother, what is it?
+
+@125.2
+Go and scatter them. I count on you!
+
+@126.0
+Enemy reinforcements. Who is their commander?
+
+@126.1
+It seems to be Meng You and Mang Yachang.
+
+@126.2
+Meng You? A relative of Meng Huo?
+
+@129.0
+Small fry, have you learned your lesson!
+
+@131.0
+It seems the reinforcements are scattered.
+
+@132.0
+Sorry. The Shu army beat me.
+
+@132.1
+Hmm. They are no easy match. ...Let us work out a plan.
+
+@133
+Obtained 700 gold!
+
+@134
+Lu River: Nanman Camp
+
+@135.0
+Dong Tuna! And you let them take the food and came back with your tail between your legs!
+
+@136.0
+...But, Lord Meng Huo.
+
+@136.1
+What!?
+
+@136.2
+Kongming is a man even Wei and Wu respect. We are no match for him. Here, it would be better to surrender...
+
+@137.0
+Wh-what! You, so you have a divided heart!\n\nI will not stand for it! Dong Tuna, as punishment for saying such a thing, you get a hundred strokes of the rod!
+
+@137.1
+...Wh-what...
+
+@138.0
+Lord Meng Huo...
+
+@139.0
+Take him away!
+
+@140.0
+Ugh...
+
+@141
+Lu River: Nanman Position
+
+@142.0
+Lord Dong Tuna... Are you all right?
+
+@142.1
+...I only said what I thought... By comparison, Kongming was a fine man. Lord Meng Huo... no, Meng Huo, is nothing like him.
+
+@142.3
+It is because Meng Huo was dazzled by titles and gifts and raised a revolt in the first place that it has come to this. ...I have decided.\n\nThis time, I will kill Meng Huo and surrender to Kongming. I will let Kongming govern the Nanman land.
+
+@142.4
+What!
+
+@143.0
+...Shh, not so loud.\n\nMore to the point, what do you say? Will you agree?
+
+@143.1
+Yes. We think the same. Kongming is more reassuring than Meng Huo.
+
+@143.2
+Good. Then we capture Meng Huo.
+
+@145
+Lu River: Shu Position
+
+@146
+Lu River: Shu Camp
+
+@147.0
+Lord Kongming, I have brought you Meng Huo. Please inspect him.
+
+@148.0
+Damn it, Dong Tuna! You were in contact with them all along! Traitor!
+
+@149.0
+That is not so.\n\nI captured you because I thought Lord Kongming could bring peace to the Nanman land.
+
+@149.1
+...Tch! Anyone can say anything with his mouth!
+
+@150.0
+Dong Tuna, well done. Your merit will be richly rewarded later. For now, return to your own territory.
+
+@152.0
+Now, Meng Huo. Captured again.
+
+@152.1
+Ugh...
+
+@152.2
+Well? Will you submit to the Han court?
+
+@152.3
+I did not lose to you. I was betrayed by my own side. I beg you! Give me one more chance!
+
+@152.4
+...You still do not mean to give up.
+
+@152.5
+I cannot accept this as it is. Let me go back and work out my tactics! Let me fight fair and square!\n\nIf I lose next time, I will accept it as the king of the Nanman.
+
+@152.6
+Very well, you may go. Wang Ping, untie his ropes.
+
+@153.0
+Damn it, just you wait!
+
+@154
+Lu River: Nanman Position
+
+@155.0
+Dear!
+
+@156.0
+Dear! How did you get back?
+
+@156.1
+Brother, weren't you captured by Kongming...?
+
+@156.2
+I was captured, true. I almost got killed, but no Kongming could kill me!\n\nI raged through their camp, cut down their soldiers, and came back.
+
+@156.3
+As expected of my brother.
+
+@156.4
+(How could I tell them they let me go!)
+
+@156.5
+But what will you do now?
+
+@156.6
+Hmm, they are no easy match. Let us work out a plan.
+
+@157
+Lu River: Nanman Camp
+
+@158.0
+...Dear. A plan, you say, but do you have a good idea?
+
+@158.1
+Yes, one. It seems Kongming wants us Nanman to surrender. We use that.\n\nWe offer a false surrender from our side. Then Kongming lets his guard down, and we immediately attack with the whole army at once.\n\nThey will be off guard, so they will be easy to beat. What a plan, isn't it?
+
+@159.0
+As expected of my brother. Then I will send an envoy at once.
+
+@159.1
+Good. And don't forget to send treasure with him. Say it is proof of our surrender.
+
+@160
+Lu River
+
+@161
+Go to the camp at the Lu River
+
+@162
+Lu River: Shu Camp
+
+@163.0
+...That is how it is. Lord Meng Huo says he wishes to surrender.
+
+@163.1
+I see, I understand well. ...I am glad of the Nanman king's feelings. I will give my answer later, so withdraw and wait.
+
+@165.0
+...Ma Su. What do you think of that?
+
+@166.0
+It is false. He feigns surrender and waits for our army to let its guard down. That is probably it...
+
+@166.1
+Yes, I thought so too.
+
+@166.2
+We could cut down the envoy here, but we could also turn it around and lure Meng Huo out. Prime Minister, what will you do?
+
+@166.3
+I see. Let me think a little.
+
+@167
+Think how to respond to Meng Huo's plan
+
+@168.0
+Let us lure Meng Huo out and capture him with ambushes set beforehand.
+
+@169.0
+I favor the straightforward way. Let us simply cut down the Nanman envoy.
+
+@170.0
+Let us cut down the envoy.
+
+@171.0
+I hear the Nanman soldiers cross palisades without trouble. Prime Minister, be careful.
+
+@172.0
+I think luring him out will be more effective.
+
+@173.0
+I agree with my brother. It would be better to lure him out.
+
+@174.0
+It is difficult. I cannot decide.
+
+@175.0
+In front of our position a plain spreads out, and the Lu River flows through it.
+
+@176.0
+The Nanman soldiers are off guard. Let us lure them out.
+
+@177.0
+Prime Minister, have you decided?
+
+@178
+Pretend to fall for it.\n\nCut down the envoy.
+
+@179.0
+Wei Yan, cut down the envoy! Teach them that petty tricks do not work.
+
+@180
+Lu River: Nanman Camp
+
+@181.0
+...The envoy's head was sent back from the Shu camp, together with the treasure we gave him. It seems Brother's plan was seen through.
+
+@181.1
+Damn! And I thought it was a good plan!
+
+@181.2
+Dear, what will you do?
+
+@181.3
+...Good, we pull back for now. We retreat to Yinkeng Cave.\n\nThen we lure the Shu army deep into the Nanman land. We gather every cave chief of the Nanman and give battle there.
+
+@182.0
+Then let us work out the plan. How shall we place the ambushers?
+
+@183
+Troops inside camp only.\n\nAmbush outside the camp.
+
+@184.0
+Understood. We will place units only inside the camp and draw Meng Huo and his men in.
+
+@185.0
+Understood. We place units inside the camp to draw Meng Huo in...\n\nand set an ambush outside the camp to capture Meng Huo.
+
+@186.0
+Prime Minister, we four will lie in ambush and cut off Meng Huo's retreat.
+
+@186.1
+Good. Zhao Yun, Wei Yan, Guan Xing, Zhang Bao. Ambush outside the camp.
+
+@186.2
+Yes! We will surely bring Meng Huo back.
+
+@187.0
+Meng Huo. I had already read your thinking.
+
+@187.1
+Damn, an ambush! They were hiding in the camp. ...And I thought it was a good plan.\n\n...There was a boat at the riverside village. Retreat there!
+
+@187.2
+All units, pursue Meng Huo. Meng Huo will run into the village. Get there ahead of him!
+
+@188
+1. Capture Meng Huo
+
+@189.0
+Looks like I win!
+
+@191.0
+Lord Meng Huo! Quickly, flee to the western village!
+
+@191.1
+Reinforcements! Dailai, I owe you!
+
+@192.0
+Kongming! How dare you see through my plan! Remember this!
+
+@193.0
+D-damn! Let go! Let go, I say!
+
+@195.0
+Meng Huo... Captured again.
+
+@196.0
+Meng Huo got away. Perhaps I was a little careless at the end.
+
+@198.0
+Meng Huo. I had already read your thinking.
+
+@198.1
+Damn, an ambush! They were hiding in the camp. ...And I thought it was a good plan.\n\n...There was a boat at the riverside village. Retreat there!
+
+@199.0
+All units, pursue Meng Huo. Meng Huo will run into the village.\n\nLure Meng Huo close to the village. There we catch him between us and the troops lying in ambush outside the camp!
+
+@200
+1. Capture Meng Huo
+
+@201.0
+Looks like I win!
+
+@203.0
+Ha ha ha! I was waiting for you, Meng Huo!
+
+@203.1
+Gah, an ambush!
+
+@203.2
+Exactly! Surrender quietly! Ha ha ha!
+
+@204.0
+Lord Meng Huo! Quickly, flee to the western village!
+
+@204.1
+Reinforcements! Dailai, I owe you!
+
+@205.0
+Kongming! How dare you see through my plan! Remember this!
+
+@207.0
+Meng Huo... Captured again.
+
+@208.0
+Meng Huo got away. Perhaps I was a little careless at the end.
+
+@211.0
+Come on, walk!
+
+@211.1
+...Damn.
+
+@212.0
+Meng Huo. You must have nothing left to regret. I will take your head.
+
+@212.1
+W-wait!
+
+@212.2
+What is it?
+
+@212.3
+True, my plan was seen through. I admit that honorably.\n\nBut we have not yet clashed head on. I am still not convinced. I beg you! I want a proper fight. Let me go!
+
+@212.4
+Very well. Then do as you like.
+
+@213.0
+You never learn. Do the Nanman have no shame?
+
+@213.1
+...Gr!
+
+@214.0
+Next time I will win! Remember this!
+
+@216.0
+But... Brother's plan was seen through completely.
+
+@216.1
+S-sometimes these things happen. I was just unlucky.
+
+@217.0
+Dear, what will you do now?
+
+@217.1
+...For now, we retreat to Yinkeng Cave.\n\nThen we lure the Shu army deep into the Nanman land. We gather every cave chief of the Nanman and give battle there.
+
+@218
+Meng Huo and the Nanman army withdrew to their base, Yinkeng Cave.\n\nThey had finally realized that Kongming's Shu army was not to be taken lightly. Meng Huo resolved to face Kongming with all his strength.
+

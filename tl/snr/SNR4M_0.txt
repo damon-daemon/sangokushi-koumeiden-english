@@ -1,0 +1,546 @@
+@0
+Having taken Chencang, Kongming expected a Wei counterattack and secretly moved his army to Mount Qi, where he built a camp and waited.\n\nMeanwhile, the news that "Chencang has fallen" was carried to Chang'an by Zhang He.
+
+@1
+Having taken Chencang, Kongming promptly moved his army to Mount Qi. By building a camp there, he showed that he was again eyeing Nan'an, Anding and Tianshui. Meanwhile, the news that "Chencang has fallen" was carried as far as Chang'an by Zhang He.
+
+@2
+Wei Base: Chang'an
+
+@4.0
+Chencang has been taken by the Shu army? This is a grave matter.
+
+@4.1
+There is not a moment to lose. We must request reinforcements from His Majesty at once.
+
+@5.0
+With Kongming as the enemy, I fear this force alone is not enough. Lord Guo Huai, let us request reinforcements.
+
+@5.1
+Yes... Let us send an envoy to Luoyang.
+
+@8.0
+Your Majesty, Chencang has been taken by the Shu army! Lord Guo Huai requests reinforcements!
+
+@8.1
+What! Chencang has fallen! Then we must send reinforcements urgently.
+
+@8.2
+But... Commander in Chief Cao Zhen is bedridden, and he holds the commander's seal...
+
+@8.3
+In this emergency, the seal hardly matters. Sima Yi, I appoint you acting commander in chief. Go to Chang'an.
+
+@9.0
+Yes, Your Majesty. I will sortie at once.
+
+@10.0
+Ah, I made it in time. Sima Yi, I came because I have business with you.
+
+@10.1
+Lord Cao Zhen! Is your health all right?
+
+@10.2
+I heard that Chencang has fallen. I cannot talk of illness. Sima Yi, I came to hand you the commander's seal.
+
+@10.3
+Cao Zhen...
+
+@10.4
+The one I can entrust the command to... The only one who can save Wei is you. I count on you.
+
+@11.0
+Yes. I humbly accept the seal. I will surely live up to your expectations.
+
+@13.0
+Lord Sima Yi. We have been waiting for you.
+
+@13.1
+He is our commander, so he must have a secret plan to defeat Shu. Now, please give us our orders.
+
+@14.0
+...\n\nI will state this operation's plan. First, the whole army moves to Mount Qi.
+
+@14.1
+Mount Qi, sir?
+
+@14.2
+However, once we arrive, no one is to sortie under any circumstances. We will wait for the Shu army to move.
+
+@16.0
+T-then, Commander... are you saying we will not fight the enemy!
+
+@16.1
+That is right. Holding the defense with all we have is this operation's plan.
+
+@17.0
+But... With that plan, we cannot win.
+
+@17.1
+Victory is not only a matter of defeating the enemy on the battlefield.\n\nThe Shu army has difficulty transporting food, so it cannot adopt a long-term strategy. If we draw it into a war of attrition, its food will run out and they will withdraw.
+
+@17.3
+The Shu army's withdrawal: that is, in other words, victory for Wei.
+
+@17.4
+W-well, that is true, but... Even so...
+
+@17.5
+This is an order from your commander. No one sorties.
+
+@17.6
+Understood. If the Commander goes so far as to say so, we will follow his orders.
+
+@18.0
+Mount Qi is the base that links the Shu Northern Campaign army to the Shu homeland. Even if they took Chencang, if we hold Mount Qi, the Shu army has no choice but to withdraw. The whole army will make a surprise attack on Mount Qi.
+
+@19.0
+Grr... To be unable to sortie with the enemy right before our eyes...
+
+@19.1
+Lord Zhang He, please do not get so worked up. We have no choice but to follow the Commander's thinking.
+
+@19.2
+I know. I know, but... Damn it!
+
+@20
+Go to the camp at Mount Qi
+
+@23.0
+Prime Minister, I have gone to see the enemy's movements.
+
+@23.1
+Ah, well done. How is the Wei army moving? Was there any sign they would attack?
+
+@24.0
+No, the enemy is holding its defenses. I cannot sense even a sign of a sortie. It seems they intend to drag this into a war of attrition.
+
+@24.1
+Hmm... Then we cannot move either.\n\nSima Yi has seen through that our army's weakness lies in provisions. He is indeed a fearsome man.
+
+@26.0
+Prime Minister, at this rate our army's provisions will run out... What shall we do?
+
+@26.1
+Yes... As we are, our provisions will not last and we will destroy ourselves. Here, let us bait Sima Yi.\n\nWe will break camp and make it look like we are retreating to Hanzhong.
+
+@26.2
+To lure them out... is that it?
+
+@26.3
+Yes. We strike when Sima Yi and the Wei army give chase. This is all we can do.
+
+@27.0
+Luring out the enemy is fine, but how will we deploy our troops?
+
+@27.1
+Deployment... Either we surround the Wei army with an ambush, or we meet them in a head-on decisive battle by the book.
+
+@27.2
+An ambush or a head-on battle... A difficult choice.
+
+@28.0
+Then, when you have decided the plan, please tell me.
+
+@29
+Decide: ambush or head-on battle
+
+@30.0
+Let us set an ambush and surround the enemy. I think that would be more effective.
+
+@31.0
+A head-on battle is just what I want. I will beat the Wei army to a pulp.
+
+@32.0
+Fighting head-on is too dangerous. Let us strike the Wei army with an ambush.
+
+@33.0
+Even if we surround them, it means nothing if they break through the encirclement.
+
+@34.0
+Taking a defensive stance with a large army. As expected of Sima Yi... is that it?
+
+@35.0
+In a battle, the side being pursued is at a disadvantage. Do you dare to do that...?
+
+@36.0
+If we set an ambush, even Sima Yi will have no countermove.
+
+@37.0
+The enemy commander in chief is Sima Yi. They say Guo Huai, Zhang He, Sun Li, Dai Ling and others are also there.
+
+@38.0
+Are our arms and equipment fully prepared?
+
+@39.0
+I hear the enemy units are mainly cavalry.
+
+@40.0
+They say the enemy has many cavalry, especially mounted archer units.
+
+@41.0
+Please give me a chance to distinguish myself too.
+
+@42.0
+Sometimes an unexpected general does unexpected work.
+
+@43.0
+...The encirclement plan would be good.
+
+@44.0
+Prime Minister, have you decided on the plan?
+
+@45
+Ambush and surround them\nMeet them head-on
+
+@46.0
+So we set an ambush and surround the enemy.
+
+@46.1
+Yes. Surrounding them seems best.
+
+@47.0
+Prime Minister. In that case, I would like to raid the enemy camp as a detached force. The enemy camp will be thinly held because they are pursuing us. If we strike there, we can win a great victory.
+
+@47.1
+That is a fine idea. Then take someone along as your lieutenant.
+
+@48.0
+Prime Minister, please assign the lieutenant's role to me.
+
+@48.1
+Then I order you two. Once our army has surrounded the enemy, raid the enemy camp.
+
+@48.3
+We will surely make it succeed.
+
+@49.0
+Understood. So we defend against the enemy head-on.
+
+@49.1
+Yes. The Wei force is larger than ours. An ambush cannot withstand that momentum. Attacking head-on by the book gives us a better chance of winning.
+
+@49.2
+Then let us get moving at once.
+
+@50
+Mount Qi: Wei Camp
+
+@51.0
+Commander, the Shu army has broken camp entirely and begun moving toward Hanzhong.
+
+@51.1
+...What?
+
+@52.0
+Commander, have the Shu army's provisions run out? Perhaps something sudden has happened in the Shu homeland and they had to retreat. Now is the chance to pursue! Please order me to pursue!
+
+@52.1
+...No pursuit. This is Kongming's trap.
+
+@52.2
+This is Kongming's trap...!?
+
+@52.3
+By my investigation, the Shu army is indeed short of provisions. Even so, they should still have a few months' margin.\n\nEven if they needed to retreat, the Kongming I know would never make such a childish retreat that we could see through it at once!
+
+@53.0
+But Commander! With such timidity, even winnable battles cannot be won. If we pursue here and deal the Shu army a heavy blow, Wei will have nothing to fear for the time being!
+
+@54.0
+That is right! Are you going to let this perfect chance slip away!? And if we face the enemy and do not fight at all, it will hurt the morale of our officers and men!
+
+@55.0
+Commander, if the pursuit fails, I will take all responsibility. Please, please give the order to pursue!
+
+@55.1
+Very well. If you go that far, we will pursue. The whole army, chase the Shu army at once!
+
+@56.0
+Ah! Leave it to me!
+
+@57.0
+March to Mount Qi without letting the Shu army notice.
+
+@58.0
+What! The Shu army is already at Mount Qi... Kongming is fearsome indeed! In that case it is a war of attrition. No one sorties under any circumstances. We wait for the Shu army to move!
+
+@58.1
+T-then are you saying we will not fight the enemy!
+
+@58.2
+That is right. We hold the defense with all we have.
+
+@58.3
+But... Then we cannot win.
+
+@58.4
+Victory is not only a matter of defeating the enemy on the battlefield.\n\nThe Shu army has difficulty transporting food, so it cannot adopt a long-term strategy. If we draw it into a war of attrition, its food will run out and they will withdraw.
+
+@59
+Go to the camp at Mount Qi
+
+@62.0
+Prime Minister, I have gone to see the enemy's movements.
+
+@62.1
+Ah, well done. How is the Wei army moving? Was there any sign they would attack?
+
+@63.0
+No, the enemy is holding its defenses. I cannot sense even a sign of a sortie. It seems they intend to drag this into a war of attrition.
+
+@63.1
+Hmm... Then we cannot move either.\n\nSima Yi has seen through that our army's weakness lies in provisions. He is indeed a fearsome man.
+
+@65.0
+Prime Minister, at this rate our army's provisions will run out... What shall we do?
+
+@65.1
+Yes... As we are, our provisions will not last and we will destroy ourselves. Here, let us bait Sima Yi.\n\nWe will break camp and make it look like we are retreating to Hanzhong.
+
+@65.2
+To lure them out... is that it?
+
+@65.3
+Yes. We strike when Sima Yi and the Wei army give chase. This is all we can do.
+
+@66.0
+Luring out the enemy is fine, but how will we deploy our troops?
+
+@66.1
+Deployment... Either we surround the Wei army with an ambush, or we meet them in a head-on decisive battle by the book.
+
+@66.2
+An ambush or a head-on battle... A difficult choice.
+
+@67.0
+Then, when you have decided the plan, please tell me.
+
+@68
+Decide: ambush or head-on battle
+
+@69.0
+Let us set an ambush and surround the enemy. I think that would be more effective.
+
+@70.0
+A head-on battle is just what I want. I will beat the Wei army to a pulp.
+
+@71.0
+Fighting head-on is too dangerous. Let us strike the Wei army with an ambush.
+
+@72.0
+Even if we surround them, it means nothing if they break through the encirclement.
+
+@73.0
+Taking a defensive stance with a large army. As expected of Sima Yi... is that it?
+
+@74.0
+In a battle, the side being pursued is at a disadvantage. Do you dare to do that...?
+
+@75.0
+If we set an ambush, even Sima Yi will have no countermove.
+
+@76.0
+The enemy commander in chief is Sima Yi. They say Guo Huai, Zhang He, Sun Li, Dai Ling and others are also there.
+
+@77.0
+Are our arms and equipment fully prepared?
+
+@78.0
+I hear the enemy units are mainly cavalry.
+
+@79.0
+They say the enemy has many cavalry, especially mounted archer units.
+
+@80.0
+Please give me a chance to distinguish myself too.
+
+@81.0
+Sometimes an unexpected general does unexpected work.
+
+@82.0
+...The encirclement plan would be good.
+
+@83.0
+Prime Minister, have you decided on the plan?
+
+@84
+Ambush and surround them\nMeet them head-on
+
+@85.0
+So we set an ambush and surround the enemy.
+
+@85.1
+Yes. Surrounding them seems best.
+
+@86.0
+Prime Minister. In that case, I would like to raid the enemy camp as a detached force. The enemy camp will be thinly held because they are pursuing us. If we strike there, we can win a great victory.
+
+@86.1
+That is a fine idea. Then take someone along as your lieutenant.
+
+@87.0
+Prime Minister, please assign the lieutenant's role to me.
+
+@87.1
+Then I order you two. Once our army has surrounded the enemy, raid the enemy camp.
+
+@87.3
+We will surely make it succeed.
+
+@88.0
+Understood. So we defend against the enemy head-on.
+
+@88.1
+Yes. The Wei force is larger than ours. An ambush cannot withstand that momentum. Attacking head-on by the book gives us a better chance of winning.
+
+@88.2
+Then let us get moving at once.
+
+@96.0
+As expected, they pursue... When Jiang Wei and the others move will be the key.
+
+@96.1
+Damn, Zhang He, who went ahead, is surrounded by the Shu army! The whole army, go to the rescue at once!
+
+@96.2
+Zhang He, you are already surrounded. If you value your life, surrender!
+
+@96.3
+Ugh, just a little longer! Everyone, hold on until the Commander's army arrives!
+
+@97
+1. Sima Yi retreats 2. Capture the northeast fort
+
+@98.0
+It cannot be helped... We settle this another day!
+
+@98.1
+Curse you! Letting such prey get away...
+
+@99
+Ma Zhong leveled up!
+
+@100.0
+...Oh! The fort really is empty.
+
+@100.1
+That fort is Wei's main camp! Seize it and cut off the enemy's line of retreat!
+
+@100.2
+What! I see! Kongming's aim is to take the fort and cut off our retreat!? Damn, about face! Turn back!
+
+@101.0
+With their retreat cut off, the Wei army is in confusion from the sudden about-face. Now is the time to pursue!
+
+@102.0
+If you fight ready to die, even the fiercest general is nothing to fear!
+
+@102.1
+Tch! It cannot be helped. We pull back here...
+
+@104.0
+Ah, you have taken the fort. Now we have cut off their retreat.
+
+@105.0
+Kongming has outwitted me... The whole army, retreat!
+
+@106.0
+To think Kongming's aim was this fort... One truly cannot let one's guard down.
+
+@107.0
+...Good. The victory is ours!
+
+@110
+Obtained 400 gold!
+
+@111.0
+Do not let a single Shu soldier escape! After them! Pursue!
+
+@111.1
+If we occupy the northeast fort, which is the enemy's line of retreat, Sima Yi will withdraw his troops...\n\nHowever large the army, a force mainly of cavalry cannot cross the forest. Defeat the Wei army piece by piece! Do not allow the enemy to pursue!
+
+@112
+1. Sima Yi retreats 2. Capture the northeast fort
+
+@113.0
+Do not fall behind Zhang He! We sortie too!
+
+@114.0
+It cannot be helped... We settle this another day!
+
+@114.1
+Curse you! Letting such prey get away...
+
+@115
+Ma Zhong leveled up!
+
+@116.0
+If you fight ready to die, even the fiercest general is nothing to fear!
+
+@116.1
+Tch! It cannot be helped. We pull back here...
+
+@118.0
+Ah, you have taken the fort. Now we have cut off their retreat.
+
+@119.0
+Kongming has outwitted me... The whole army, retreat!
+
+@120.0
+...Good. The victory is ours!
+
+@123
+Obtained 400 gold!
+
+@124.0
+...R-retreat! Retreat! Fall back to Chang'an!
+
+@127.0
+Prime Minister. The Wei army seems to have retreated to Chang'an.
+
+@128.0
+Prime Minister, let us march on Chang'an in one stroke.
+
+@129.0
+...Prime Minister? Are you not unwell? Your complexion is poor as well. You should not push yourself too hard...
+
+@129.1
+No, I am fine... This is no time to talk of such things. Do not worry needlessly.
+
+@130.0
+I-I see. Forgive my impertinence.
+
+@131.0
+Then... To Chang'an... we...
+
+@132.0
+Prime Minister, let us march on Chang'an in one stroke.
+
+@132.1
+Yes. Let us do that... Hm?
+
+@133.0
+Report. General Zhao Zilong, who was recuperating in Hanzhong... despite all treatment, passed away the other day...
+
+@133.1
+W-what! ...Zhao Yun, Zhao Yun is dead... you say!
+
+@133.2
+...Yes. He had been declining with age, but the wounds from the last Northern Campaign seem to have taken their toll...
+
+@134.0
+Zhao Yun is dead...\n\nIt is as if I, no, the Han, had lost an arm... What a thing to happen... Ahh...!
+
+@135.0
+Ah! Prime Minister!
+
+@136.0
+Prime Minister! Please, hold on!
+
+@137
+Kongming collapsed. The grueling labors of the Southern and Northern campaigns had left his body badly exhausted. Just short of reaching Chang'an, the Shu army gave up the Northern Campaign and withdrew to Hanzhong. Kongming, who had been staying in Hanzhong, was to return to Chengdu.
+
+@138
+Kongming collapsed. It was from the exhaustion of the Northern Campaign's grueling labors and the shock to his heart at Zhao Yun's death. Just short of reaching Chang'an, the Shu army gave up the Northern Campaign and withdrew to Hanzhong. Kongming, who had been staying in Hanzhong, was to return to Chengdu.
+

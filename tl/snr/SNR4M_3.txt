@@ -1,0 +1,1455 @@
+@1
+4-3: Battle of Wuzhang Plains
+
+@2
+Act 3: Battle of Wuzhang Plains
+
+@4.0
+Your Majesty. What grave matter made you order me home?
+
+@4.1
+N-no, it is nothing...\n\n...\n\n...\n\nI had not seen the Prime Minister in a while, so I ordered him back for a short stay. There is no particular... reason.
+
+@5.0
+Your Majesty, is that truly what you feel? Is the truth not that someone slandered me to you?
+
+@5.1
+...\n\n...\n\nForgive me... You are right. I heard the rumor that you plot rebellion, and in my doubt and fear I called you back.
+
+@6.0
+I thought as much...
+
+@6.1
+But now that I have met you, my doubts are gone. Calling you back was my mistake.
+
+@6.2
+Your Majesty, I beg you never again to be swayed by slander.
+
+@7.0
+And the rest of you: do not believe rumors so lightly and lead His Majesty astray.
+
+@7.1
+Y-yes... We are very sorry.
+
+@8.0
+Prime Minister, forgive me. At any rate, go home and rest at ease.
+
+@9.0
+Yes, Your Majesty. I will do so.
+
+@9.1
+Your wife and son must have felt ashamed because of the rumor. Tell them We apologize.
+
+@11.0
+Prime Minister, forgive me. At any rate, go home and rest at ease.
+
+@12.0
+It is because we were not vigilant enough. Please forgive us.
+
+@13.0
+Quelling such rumors and cracking down on them is our duty, and yet... We are sorry.
+
+@14.0
+I do wish His Majesty would be a little calmer.
+
+@15.0
+When I think about it, the Prime Minister could never have plotted rebellion.
+
+@16.0
+Who spread such a rumor? Could it have been someone from Shu itself?
+
+@17.0
+We will take care that this never happens again.
+
+@19.0
+Welcome home, dear. That strange rumor must have been hard on you.
+
+@20
+Talk with family
+
+@21.0
+Welcome home, Father.
+
+@22.0
+Dear... You will be going on another Northern Campaign soon, won't you?
+
+@22.1
+No. The repeated campaigns have exhausted our nation, and we must restore its strength. For a while I will devote myself to domestic affairs. We will not resume the campaigns right away.
+
+@22.2
+Oh, is that so!
+
+@22.3
+I am sorry for the hardship I have caused you. From now on I intend to spend as much time as I can with you and Zhan.
+
+@22.4
+Zhan has been lonely too. As his father, please talk with him.
+
+@23
+Talk with Zhuge Zhan
+
+@24.0
+Zhan has been lonely too. As his father, please talk with him.
+
+@25.0
+Zhan, how are you? Are you working hard?
+
+@25.1
+Yes! I want to be just like you, Father.
+
+@25.2
+I see. Like me...
+
+@25.3
+Father, what should I study to become like you? Please tell me, Father!
+
+@25.4
+Let me see... Well, I will think about it a little.
+
+@25.5
+Okay! I will be waiting.
+
+@26
+Tell Zhuge Zhan what he should study
+
+@27.0
+Dear, please think it over carefully.
+
+@28.0
+Father, have you decided what I should do?
+
+@29
+Study strategy.\nStudy swordsmanship.\nStudy horsemanship.\nStudy freely.
+
+@30.0
+I should study strategy? Then may I read the books on war that we have at home?
+
+@30.1
+Yes. Read whatever interests you, Zhan.
+
+@30.2
+Got it. I will work hard.
+
+@31.0
+I should study swordsmanship? Then I will ask someone good to teach me.
+
+@31.1
+Yes, that would be best. Do not overdo it and get hurt.\n\n(Come to think of it, Xu Shu was a master swordsman... I wonder how he is faring in Wei now?)
+
+@31.2
+Got it. I will work hard.
+
+@32.0
+I should study horsemanship? We have a few horses at home.
+
+@32.1
+Yes. Ride whichever horse you like, Zhan.
+
+@32.2
+Got it. I will work hard.
+
+@33.0
+Freely? I can do what I like? Yes! I will work hard.
+
+@34.0
+Prime Minister, forgive the interruption while you rest. Master Jiang Wei says he has urgent business. Please come to the council hall.
+
+@36.0
+Dear, please go to the council hall at once.
+
+@37.0
+Father, have a safe trip.
+
+@38.0
+Please come to the council hall.
+
+@40.0
+Prime Minister, we have learned something serious. The rumor that you plot rebellion was a stratagem of Wei.
+
+@40.1
+I see. As I thought...
+
+@40.2
+(It was probably Sima Yi's doing.)\n\n(No one but Sima Yi would think of such a thing...)
+
+@40.3
+Prime Minister, is something wrong?
+
+@40.4
+No, it is nothing.
+
+@41.0
+I have something to tell you all. The repeated Northern Campaigns have exhausted our nation. The rumor of my rebellion spread most likely for that reason.
+
+@41.1
+Indeed... If the state were sound, such a rumor would not have spread.
+
+@41.2
+To restore our strength, I will suspend the Northern Campaigns for a time and put all our effort into domestic development.
+
+@42.0
+You say for a time, but how long will that be?
+
+@42.1
+Three years. If we take longer, Wei will grow stronger than it is now.
+
+@43.0
+You say for a time, but how long will that be?
+
+@43.1
+Three years. If we take longer, Wei will grow stronger than it is now.
+
+@44.0
+Three years, then...
+
+@47.0
+Your Majesty, the Shu army has withdrawn.
+
+@47.2
+In my view, Shu's strength is drained by the repeated wars. Kongming will not attack our country for some time.
+
+@47.3
+Hmm. How long is some time?
+
+@47.4
+By my estimate, probably... two to three years.
+
+@48.0
+Your Majesty, if Lord Sima Yi's words are true, now is the chance to strike Shu. I beg you, let me avenge my late father, Cao Zhen.
+
+@48.1
+I see... Sima Yi, Cao Shuang says this. What do you think?
+
+@48.2
+With respect, Wei too cannot deny that the wars with Shu have weakened us. I understand Lord Cao Shuang's feelings, but now we should also build up our strength.
+
+@48.3
+So we should. Cao Shuang, once our strength is restored, We shall borrow your power.
+
+@51.0
+Jiang Wan, and Fei Yi.
+
+@52.0
+I want you two to lead the people and work on building up Chengdu.
+
+@53.1
+We will begin at once.
+
+@54.0
+Ma Su.
+
+@55.0
+Use your talent for domestic affairs to assist Jiang Wan and Fei Yi.
+
+@57.0
+Wei Yan, and Jiang Wei.
+
+@58.0
+I want you to train the soldiers. Forge the Han army into an elite force.
+
+@59.0
+Yes, sir. We will build an elite force that surpasses Wei and Wu.
+
+@59.1
+I will assist Lord Wei Yan and instruct the soldiers.
+
+@60.0
+The rest of you, fulfill your own duties as well.
+
+@61
+Chengdu: Assembly Hall
+
+@62.0
+We will make Chengdu a city that is not inferior to Luoyang or Jianye.
+
+@62.1
+We must make Chengdu a safe and prosperous city.
+
+@63.0
+It is for His Majesty and for the Prime Minister. Let us all do our best.
+
+@64.0
+For Master Kongming, this old man will gladly lend a hand.
+
+@64.1
+I will work hard at my trade too. I will stock good goods and sell them.
+
+@64.2
+Let us make this a city where everyone is happy to live.
+
+@66.0
+To defeat Wei! Let us train hard again today!
+
+@66.1
+Do not lose to Wei or Wu! Everyone, do your best!
+
+@66.2
+All right! We will do our best for the general and the Han dynasty!
+
+@66.3
+We will make them say that we are the strongest army of the three kingdoms!
+
+@68.0
+How is business? Is it going well?
+
+@69.0
+Yes! And lately the city is safe, so there are no more thefts of goods.
+
+@69.1
+I see. That is good to hear.
+
+@70.0
+How is it? Has this city become a better place to live?
+
+@71.0
+Yes. The people are kind, and I live without any hardship. All thanks to you, Master Kongming.
+
+@71.1
+No, it is because everyone in the city worked hard that it became like this. Please take good care of yourself.
+
+@71.2
+Your words are too kind. Thank you.
+
+@72.0
+You are a traveler, I see. How do you find this city?
+
+@73.0
+It is a wonderful city. Not even Xuchang or Jianye were this fine.
+
+@73.1
+If you like it here, please stay as long as you wish.
+
+@73.2
+Yes, I will.
+
+@74.0
+Thank you for your service. Keep up the good work.
+
+@75.0
+Compared to the Prime Minister's toil, my work is nothing... I will work even harder. Lord Prime Minister, please take care of your health.
+
+@75.1
+Yes, thank you.
+
+@76
+Thus, over three years Shu's strength grew greatly.\n\nShu was the smallest of the three kingdoms, but through Kongming's governance and the people's hard work, it once again had the strength to mount a Northern Campaign.
+
+@79.0
+Where is Zhan? I do not see him.
+
+@79.1
+Oh, he is with Master Jiang Wei.
+
+@79.2
+Hm? With Jiang Wei?
+
+@79.3
+Yes. Lately Master Jiang Wei has been Zhan's teacher.
+
+@79.4
+Oh... Is that so.
+
+@80.0
+I am home! Oh, Father!
+
+@81.0
+Welcome back, Zhan.
+
+@81.1
+Good timing. I just came back with Master Jiang Wei.
+
+@81.2
+Oh, Jiang Wei is here too.
+
+@82.0
+Come in, Master Jiang Wei! Father is here too.
+
+@83.0
+Then, just for a moment... Pardon the intrusion.
+
+@84.0
+I heard about it. Jiang Wei, I am told you are Zhan's teacher.
+
+@85.0
+Yes, in fact I am. I still have not enough talent to teach others, though...
+
+@85.1
+Not at all. I can leave him to you with confidence.
+
+@86.0
+Father, Master Jiang Wei has taught me many things. Martial arts, strategy, and more.
+
+@87.0
+Jiang Wei, as his father, let me thank you. Thank you.
+
+@88.0
+N-no, it is nothing...\n\nMore than that, he is truly the Prime Minister's son. He learns quickly and is rewarding to teach. I look forward to his future.
+
+@88.1
+I see. By the way, how is the training of the troops I left to you and Wei Yan?
+
+@88.2
+Rest assured. We have forged an elite force that will not lose to Wei. Lord Wei Yan seems to be well respected by the soldiers.
+
+@88.3
+I see. Our strength and our army are both full, and the time is ripe. Now is the time to attack Wei.
+
+@89.0
+Oh! Then...
+
+@90.0
+Jiang Wei, gather the generals in the council hall. We resume the Northern Campaigns.
+
+@91.0
+Yes, sir! At once!
+
+@93.0
+You are going to the council hall, are you not? Go, dear.
+
+@94.0
+When I am a little older, I want to go on the Northern Campaign with you, Father.
+
+@94.1
+(With me, is it...)
+
+@96.0
+Everyone is here, I see. Our nation's strength has been restored over these three years. We now resume the Northern Campaigns. Generals, prepare to march.
+
+@97.0
+That is well and good... Prime Minister, are you in good health?
+
+@98.0
+Indeed. For these three years you worked without rest, did you not?
+
+@99.0
+Prime Minister, I have read the heavens: the north, that is Wei, has a flourishing aura. Many ill omens have also appeared.\n\nThe cypress in the palace wept aloud, and thousands of birds fell into the Han River at once...
+
+@99.2
+These are all signs of misfortune. Would it not be better to refrain from the campaign and watch for a while?
+
+@99.3
+No. Even with many ill omens, the Northern Campaigns must be accomplished. Repaying the late emperor's kindness is my duty and my responsibility. I cannot yield on this.
+
+@100.0
+...I spoke out of turn. Please forgive me.
+
+@100.1
+No, I am glad of your concern. Thank you.
+
+@101.0
+Then we march to Mount Qi. This time, I will surely take Chang'an!
+
+@103.0
+Your Majesty, I depart for the Northern Campaign. Please await good news.
+
+@103.1
+Prime Minister... Take good care of your health.
+
+@103.2
+Thank you for your counsel.
+
+@104.0
+Have a safe trip, dear.
+
+@104.1
+Yes. I am sorry... I will be leaving home again.
+
+@104.2
+No, please do not mind. As long as you are safe... Zhan and I will wait for your return.
+
+@105.0
+Father, have a safe trip.
+
+@106.0
+I would like to be by your side and watch you grow, but that cannot be. Zhan, study hard even when your father is away. Do not trouble your mother. Grow up to be a fine man.
+
+@107.0
+All forces, march!
+
+@108.0
+Dear... Please be safe...
+
+@109.0
+All forces, advance to Mount Qi.
+
+@111.0
+I hear Shu has moved again. Sima Yi, do you have a plan?
+
+@112.0
+Rest assured, Your Majesty. I read the heavens, and fortune lies with Wei. For Shu I saw ill omens.\n\nKongming surely knows this. For him to ignore it and attack anyway is nothing but recklessness.
+
+@112.2
+Kongming must be anxious. Leave it to me. I will make Kongming pay for this.
+
+@113.0
+That is reassuring. Oh yes, take these men with you.
+
+@114.0
+They are the sons of Xiahou Yuan: Xiahou Ba, Xiahou Wei, Xiahou Hui, and Xiahou He. All four have great talent hidden within. Take them with you as your subordinate generals.
+
+@115.0
+We four will give our all for Wei. Commander in Chief, we look forward to working with you.
+
+@116.0
+Your Majesty, thank you for your consideration. Then I will march at once.
+
+@116.1
+Yes, I am counting on you. I rely on you.
+
+@118.0
+We march! Our destination is the banks of the Wei River, north of Mount Qi!
+
+@121.0
+Prime Minister, the Wei army has encamped on the Wei River. They are split into two forces, on the south bank and the north bank.
+
+@121.1
+I see. Unless we break the Wei army at the Wei River, we cannot advance to Chang'an. All forces, march to the Wei River.
+
+@122.0
+Prime Minister, what is our plan?
+
+@122.1
+Hm. Jiang Wei, which is thinner, the north bank or the south?
+
+@122.2
+Yes. There seem to be fewer troops on the north bank. But I cannot tell which camp Sima Yi is in.
+
+@122.3
+The north bank is thin... Should we split our army and pincer them from the north and south banks? Or attack only the north bank?
+
+@122.4
+Prime Minister, when you decide on a plan, please tell me.
+
+@123
+Choose a plan and tell Jiang Wei
+
+@124.0
+Rather than divide our force, we should attack the north bank with the whole army.
+
+@125.0
+Would it not be better to split the force in two and attack?
+
+@126.0
+A few days ago, I hear, Sima Yi was on the north bank.
+
+@127.0
+Yesterday, I hear, Sima Yi was in the camp on the south bank.
+
+@128.0
+The north bank seems thin. It would be best to attack there.
+
+@129.0
+I do not understand why they have split their army.
+
+@130.0
+We should attack the north bank with the whole army.
+
+@131.0
+Is there a reason they are split between the north and south banks?
+
+@132.0
+The north and south banks can be crossed by several floating bridges.
+
+@133.0
+The Wei army seems to use the floating bridges to keep in contact between the two banks.
+
+@134.0
+Prime Minister, are our weapons and equipment fully ready?
+
+@135.0
+Could it be...? Is Sima Yi trying to lure us in?
+
+@137
+Attack the north bank.\nSplit to both banks.
+
+@138.0
+Understood. We attack the Wei army from the north bank. Let us march at once.
+
+@139.0
+Understood. We split between the north and south banks. Let us march at once.
+
+@140.0
+All right, all forces march. This time I will surely advance to Chang'an!
+
+@141.0
+March to the Wei River! All forces, follow me!
+
+@142.0
+Sima Yi is on the south bank. The camp on the north bank seems empty.
+
+@142.1
+Good. Seize the Wei camp on the north bank and cut their lines of communication.
+
+@143.0
+A large Shu army has appeared. They are heading for the north bank camp.
+
+@143.1
+Tell Xiahou Wei to lead troops to the north bank.
+
+@143.2
+We should head for the north bank too. With so few men, they cannot hold the camp.
+
+@143.3
+No... not yet. There is no need to hurry.
+
+@144
+1. Allies enter the northeast camp\n2. Annihilate the enemy units
+
+@145.0
+They fell into the Commander in Chief's trap! Strike the Shu army's flank!
+
+@145.1
+What, an ambush! Then a surprise attack is impossible... Call off the operation and fall back to the southwest fort.
+
+@145.2
+Good, Kongming has fallen for my plan! All forces, pursue Kongming!
+
+@146
+1. Kongming enters the southwest fort\n2. Annihilate the enemy units
+
+@148.0
+Heh heh, have you learned your lesson?
+
+@148.1
+Curse you... Aaargh!
+
+@149.0
+Hmph, you fool!
+
+@149.1
+Damn... Aaargh!
+
+@150.0
+Prime Minister, our forces have broken into the enemy camp.
+
+@150.1
+I see... But holding the camp will be difficult. Tell all forces to retreat.
+
+@151.0
+That was a poor battle. To think Sima Yi read my plan...
+
+@152.0
+Phew... That was a hard fight.
+
+@153.0
+All right, we go on the offensive. Bring out the ambush!
+
+@154.0
+What, an ambush! Then a surprise attack is impossible... Call off the operation and head for the southwest fort.
+
+@154.1
+Good, Kongming has fallen for my plan! All forces, pursue Kongming!
+
+@155
+1. Kongming enters the southwest fort\n2. Annihilate the enemy units
+
+@157.0
+We withdraw for now. We must regroup the army...
+
+@159
+Obtained 300 gold!
+
+@160
+Obtained 300 gold!
+
+@161.0
+The surprise attack in two forces was a great success. We advanced to the enemy camp's doorstep with hardly any losses.
+
+@161.1
+It is going too well... This is Sima Yi we are facing. There may be a trap.
+
+@161.2
+Heh heh, Kongming. This is where you die!
+
+@162.0
+Now! Attack all at once, bring down Kongming!
+
+@162.1
+Prime Minister, this is bad! We are surrounded!
+
+@162.2
+Our plan was read... Call off the operation. All forces, fall back to the southwest fort.
+
+@163
+1. Sima Yi retreats\n2. Kongming enters the southwest fort
+
+@164.0
+Heh heh, have you learned your lesson?
+
+@164.1
+Curse you... Aaargh!
+
+@165.0
+Hmph, you fool!
+
+@165.1
+Damn... Aaargh!
+
+@166.0
+That was a poor battle. To think Sima Yi read my plan...
+
+@167.0
+D-damn! I let my guard down... and a great fish was in the net.\n\nThere is no help for it, all forces retreat!
+
+@168.0
+Phew... That was a hard fight.
+
+@169.0
+We withdraw for now. We must regroup the army...
+
+@173.0
+We won, but... Sima Yi is proving tougher than I expected.
+
+@174.0
+A complete defeat... Sima Yi is proving tougher than I expected.
+
+@175.0
+Losing Lord Wu Ban was also a heavy blow.
+
+@175.1
+It cannot be helped. We will go by way of Hulu Valley to Wuzhang Plains.
+
+@176.1
+It cannot be helped. We will go by way of Hulu Valley to Wuzhang Plains.
+
+@177.0
+...Prime Minister, I have something to say.
+
+@177.1
+What is it, Wei Yan?
+
+@177.2
+I have long been dissatisfied with your strategy. Why will you not rush through Ziwu Valley and strike Chang'an directly? Our army is short of provisions, and it is plain that a war of attrition is against us. Even if we go to Wuzhang Plains, if they drag it into a long siege, victory will be hard. I must ask! Can your strategy truly take Chang'an?
+
+@178.0
+Prime Minister! Answer me!
+
+@179.0
+...Lord Wei Yan, stop.
+
+@180.0
+Guan Xing? I am not asking you! I am asking the Prime Minister.
+
+@181.0
+Lord Wei Yan seems angry about this defeat. But no one wins every battle. A forecast can miss.
+
+@182.0
+Lord Wei Yan seems dissatisfied with this campaign. But things do not always go as planned. A forecast can miss.
+
+@183.0
+You too have been in danger on the battlefield and were saved by Lord Huang Zhong and Lord Zhao Yun. At a time like this, we should be helping the Prime Minister. And yet you...
+
+@184.0
+He is right. We must not lay this defeat on the Prime Minister alone. It is our own lack of strength that should be questioned. Wei Yan, your attitude breeds disorder. Hold your tongue!
+
+@184.1
+I do not need you to tell me that!
+
+@185.0
+He is right. We must not lay this hard fight on the Prime Minister alone. It is our own lack of strength that should be questioned. Wei Yan, your attitude breeds disorder. Hold your tongue!
+
+@185.1
+I do not need you to tell me that!
+
+@186.0
+...Prime Minister, please forgive me for speaking so rashly in my anger.
+
+@187.0
+...Does anyone have an opinion?
+
+@188.0
+If we pass through Hulu Valley, the Wei army will pursue us. Why not lure them into the valley and attack with fire?
+
+@189.0
+But preparing a fire attack will take time, and our march will slow. Hulu Valley has a narrow entrance, so a large army cannot pass at once. We can use this terrain to block the pursuit... and then, at the right moment, march on to Wuzhang Plains. What of that?
+
+@189.1
+True, that also has merit. Which should we choose...
+
+@189.2
+Then, once you decide on a plan, please tell me.
+
+@190
+Choose: set a trap in Hulu Valley, or march on as is
+
+@191.0
+Let us lure them into Hulu Valley and attack with fire.
+
+@192.0
+If we are passing through Hulu Valley, it would be better to march straight on.
+
+@193.0
+If we block the entrance of Hulu Valley, there will be almost no way out. It is a perfect place for a fire attack.
+
+@194.0
+A large army could not march through narrow Hulu Valley all at once.
+
+@195.0
+Once we pass through Hulu Valley, we will reach Wuzhang Plains.
+
+@196.0
+The question is whether Sima Yi will come as far as Hulu Valley.
+
+@197.0
+With a fire attack, even a large army would not survive.
+
+@198.0
+A fire attack takes too long to prepare. Let us march straight on.
+
+@199.0
+Still, wanting a sudden strike through Ziwu Valley is selfish of Wei Yan.
+
+@200.0
+I think Lord Wei Yan's plan for a sudden strike through Ziwu Valley has some merit, but...
+
+@201.0
+With a fire attack, the weather is a worry.
+
+@202.0
+I support the fire attack.
+
+@203.0
+Prime Minister, have you made your decision?
+
+@204
+Fire attack in the valley\nFight on as we march
+
+@205.0
+We lure them into Hulu Valley and attack with fire, then.
+
+@206.0
+Yes. I will try your plan. Wei Yan, I leave the task of luring Sima Yi to you. ...I am counting on you.
+
+@206.1
+...Understood. I will carry out the mission splendidly.
+
+@206.2
+Then we march!
+
+@207.0
+We march while ambushing at Hulu Valley, then.
+
+@207.1
+We must seize Wuzhang Plains as quickly as possible. We cannot spend time on an ambush. Now, we march!
+
+@209.0
+Report. The Shu army seems to be heading for Hulu Valley.
+
+@209.1
+What, Hulu Valley?! They mean to go from Hulu Valley to Wuzhang Plains. Impudent... Very well, pursue the Shu army! Now is the time to take Kongming's head!
+
+@210.0
+Then we march to Hulu Valley.
+
+@211.0
+Do not let the Shu army escape! Finish off Kongming!
+
+@212.0
+So Sima Yi has chased after us. And with no idea it is a trap. Now, I will run.
+
+@212.1
+Wait! Wei Yan, fight me fair and square!
+
+@213.0
+Tch, he got away... Hm? This terrain... Damn! If they set fire here, our army will be wiped out! Flee! Get out of this valley quickly!
+
+@214.0
+Ah! Fire from over there!
+
+@215.0
+Sima Yi is caught in the trap. All forces, capture Sima Yi!
+
+@217.0
+Zhao Yun is too much for me... Curse it!
+
+@218.0
+Ah! ...Damn. He got away.
+
+@220.0
+Tch, Ma Dai is tough... All right, now!
+
+@221.0
+Wait! Sima Yi! Do not run!
+
+@223.0
+Run, quickly! At this rate the Shu army will attack us!
+
+@223.1
+It is no use, the soldiers are terrified of the flames!
+
+@223.2
+Grr...
+
+@224.0
+Guo Huai's troops have appeared.
+
+@224.1
+It cannot be helped. Meet them in turn.
+
+@225.0
+Huff, huff... Did I somehow get away...
+
+@226.0
+Ugh, Kongming... What a terrifying man.
+
+@227.0
+So this is the terrifying man Father has been fighting...
+
+@228.0
+Oh, it has begun to rain... The fire in the valley... is going out...
+
+@229.0
+But to plant gunpowder in a valley and try to burn up an army... Kongming is fearsome. I was never a match for him after all...
+
+@230.0
+Damn, I let my guard down... Curse it, now!
+
+@230.1
+Sima Yi seems to have fled.
+
+@234
+Obtained 300 gold!
+
+@235.0
+Prime Minister, the Wei army did pursue us.
+
+@235.1
+The road in Hulu Valley is narrow, and even a large army cannot pass at once. Defeat them one by one and block the pursuit.
+
+@235.2
+Father, Kongming has deployed troops in Hulu Valley.
+
+@235.3
+Heh heh, we are a great army. Even Kongming cannot hold us off. All forces advance and capture Kongming!
+
+@237.0
+Kongming is in Hulu Valley! Capture Kongming!
+
+@237.1
+Prime Minister, Guo Huai's troops have appeared! It looks like a force centered on chariots.
+
+@237.2
+Hm... From the look of it, more reinforcements will come. It would be wise to think about when to pull back.
+
+@238
+1. Sima Yi retreats\n2. Move Kongming to the north fort
+
+@240.0
+Ah, we finally caught up.
+
+@240.1
+Kongming, we will not let you escape!
+
+@241.0
+As expected of Wei Yan, we are no match for him.
+
+@242.0
+Tch! He ran away.
+
+@244.0
+Hmm, his skill is all they say. We are no match for him.
+
+@245.0
+As expected of Xiahou Yuan's eldest son. His skill was considerable.
+
+@247.0
+Wait! Wait, Sima Yi! Leave your head here!
+
+@247.1
+Beaten by the likes of Liao Hua... I let my guard down. We pull back.
+
+@248.0
+Curse you, Sima Yi! Where did you run to! Come out! Come out, I say!
+
+@250.0
+As expected of Kongming, his defenses are perfect... We will retreat here.
+
+@251.0
+The time is right. All forces, pull back.
+
+@251.1
+If Kongming has gone to Wuzhang Plains, we must also strengthen our defenses. Let us return.
+
+@252.0
+Good. We head for Wuzhang Plains.
+
+@256.0
+If the Shu army goes to Wuzhang Plains, there is no point in defending here. We will pull our troops back to Mei Castle.
+
+@257.0
+We will camp at Wuzhang Plains and look for an opening in the Wei army. All forces, head for Wuzhang Plains!
+
+@258
+The Shu army advanced to Wuzhang Plains. Lying midway between Chencang and Mei Castle, these hills are an ideal place to camp an army.\n\nMeanwhile, the Wei army under Sima Yi entered Mei Castle and reorganized.
+
+@259
+Wuzhang Plains
+
+@260
+Wuzhang Plains: Shu Camp
+
+@261.0
+Now that we have reached Wuzhang Plains, the distance to Chang'an is much shorter.
+
+@261.1
+Yes. At last Chang'an is within our reach.
+
+@261.2
+If we can take Chang'an, the capital Luoyang will be close behind.
+
+@262.0
+Prime Minister, the repeated hard battles have worn out the officers and men. How about holding a banquet once?
+
+@262.1
+No. The Wei army, Sima Yi, is still strong. Until we defeat him, we cannot let down our guard. This is no time for a banquet.
+
+@262.3
+Still, I cannot ignore that the officers and men are tired. See that they get enough rest. I am a little tired myself. Forgive me, I will rest first.
+
+@265.0
+Prime Minister! What is wrong?!
+
+@266.0
+No, the Prime Minister has collapsed again! A doctor! Call a doctor!
+
+@267
+Mei Castle
+
+@268
+Near Mei Castle: Wei River Bank
+
+@269.0
+Hmm... Is there no secret plan to defeat the Shu army...
+
+@270.0
+If only Kongming were not there, the Shu army could be crushed with ease...
+
+@271.0
+Hm? That is... Kongming's general star. Its glow is strangely faint. Could it be...? Is Kongming's life running out?! Damn, I cannot stay here.
+
+@272
+Mei Castle: Camp
+
+@273.0
+Father, there is grave news.
+
+@273.1
+Grave news? Do you mean Kongming has collapsed?
+
+@273.2
+Y-yes, exactly! How did you know?
+
+@273.3
+I was just looking at the sky, and the glow of Kongming's general star had grown faint. That is how I knew.
+
+@273.4
+Then this is simple. Father, let us march at once.
+
+@273.5
+No... Wait, wait.
+
+@273.6
+Why? If Kongming has fallen, the Shu army is...
+
+@273.7
+This may be... a stratagem of Kongming's to lure out our army.
+
+@273.8
+But even Kongming cannot control the glow of a general star.
+
+@273.9
+No, no, wait. That man Kongming, there is no telling what he will do. Listen, we hold off on marching for now.
+
+@275
+Wuzhang Plains: Shu Camp
+
+@276.0
+Now that the Prime Minister has fallen, what should we do...
+
+@277.0
+Even though the Prime Minister has fallen, we have already advanced to Wuzhang Plains. We should not retreat here. Is it not carrying on the Prime Minister's will to march on toward Chang'an?
+
+@278.0
+No, that is not so. It was only because the Prime Minister was with us that we could advance as far as Wuzhang Plains. Now that he is gone, going any farther is impossible.
+
+@279.0
+Besides, Sima Yi is still alive on the enemy side. The Prime Minister is the only one who can fight Sima Yi.
+
+@279.1
+Hmph. The likes of Sima Yi are no trouble for me alone. Cowards can hurry back to Shu.
+
+@280.0
+What did you say, Wei Yan! Do you mean to insult me?!
+
+@281.0
+Both of you, stop quarreling. I am all right.
+
+@282.0
+Oh, Prime Minister!
+
+@283.0
+Prime Minister! In your condition...
+
+@283.1
+No need to worry about me. We continue the council.
+
+@284.0
+Prime Minister, in your condition it seems hard to advance any farther. Why not withdraw to Hanzhong for now?
+
+@284.1
+No, we have come all the way to Wuzhang Plains. As Wei Yan says, we should press on. If we retreat now, we give Wei a chance to revive.
+
+@284.3
+Until the Northern Campaigns succeed, I will not return to Hanzhong, whatever becomes of me. The Northern Campaigns are not my concern alone. They are the late emperor's... last wish.
+
+@285.0
+The late emperor's...
+
+@286.0
+Now, even if we advance, we must defeat Sima Yi, who is in Mei Castle. Attacking Mei Castle ourselves would gain us nothing. So we will lure Sima Yi out to Wuzhang Plains.
+
+@286.1
+But Sima Yi is a cautious man. How shall we lure him out?
+
+@286.2
+Simple. We will say that I, Zhuge Liang, have died.
+
+@286.3
+W-what... That is most ill-omened.
+
+@286.4
+If he learns I am dead, Sima Yi will let down his guard. He will probably pursue us all at once. That is when we strike. Jiang Wan, raise the mourning banners. Say that I have died, and feign a retreat to Hanzhong.
+
+@287
+Near Mei Castle: Wei River Bank
+
+@288.0
+Th-that is...!\n\nThe general star of Kongming... has fallen! Is Kongming dead?!
+
+@289.0
+But... this is Kongming we are talking about. He may be feigning death to lure out Sima Yi. I must think carefully... If he is truly dead, it is the perfect chance to pursue, but...
+
+@290
+Mei Castle: Wei Camp
+
+@291.0
+Commander in Chief, something has happened in the Shu army. They have begun to retreat! What does this mean?
+
+@292.0
+Truly?! Then the fall of Kongming's general star was no lie!
+
+@293.0
+Father! Kongming's general star has fallen, you say?!
+
+@293.1
+Yes! That is the flame of Kongming's life. Heaven itself has told us of Kongming's death.
+
+@293.2
+Then the Shu army is retreating because Kongming is dead?!
+
+@293.3
+Exactly! We must not let this chance slip.
+
+@294.0
+All forces, pursue the Shu army at once! A Shu army without Kongming is no more than a swarm of ants!
+
+@296.0
+Ha ha ha, advance, advance! A Shu army without Kongming is no enemy!
+
+@297.0
+There is only one reason the Shu army would withdraw! Kongming is dead! A Shu army without Kongming is nothing to fear! All forces, pursue at once!
+
+@297.1
+Commander in Chief, Kongming's death has not yet been confirmed. Please be a little more cautious...
+
+@297.2
+What are you saying! Can you not see this is a once-in-a-thousand-years chance?!
+
+@297.3
+General Jiang, Sima Yi has marched out. It is a pursuit by the whole Wei army.
+
+@297.4
+Good, we return inside the camp for now. Come, Sima Yi, chase us. ...Feel the Prime Minister's secret plan!
+
+@299.0
+Advance, advance! Crush the Shu army!
+
+@299.1
+What is it, Sima Yi... Hurry up and chase us.
+
+@300.0
+Father, the Shu army's movements are unnatural. Should we not halt the pursuit for now?
+
+@300.1
+What nonsense is this? Can you not see we are close to wiping out the Shu army?!
+
+@301.0
+F-Father! Could that be...?!
+
+@301.1
+Hm...?\n\n...\n\n!!!\n\nWh-wh-what! Th-that cannot be...!
+
+@302.0
+Father, pressing the pursuit further is dangerous. Should we not pull back soon?
+
+@302.1
+Yes... Hm? Zhao, what is it?
+
+@302.2
+F-Father...! That, that figure there...!
+
+@303.0
+Ha ha ha. ...You took the bait, Sima Yi.
+
+@303.1
+Impossible...?! It cannot be...
+
+@303.2
+...Unless I did this, you would never come out of your camp.
+
+@303.3
+Sima Yi has fallen for the Prime Minister's plan! Now, counterattack!
+
+@303.4
+Feigning death to lure out my army... What a man... Kongming. Fall back! Pull back to Mei Castle!
+
+@305.0
+What is it, Sima Yi! The commander of the Wei army running away! Are you that afraid of the Prime Minister?!
+
+@305.1
+Damn, be quiet!
+
+@306.0
+...He ran.
+
+@308.0
+What, what is this! He, he is... alive...
+
+@309.0
+Huff, huff... My head seems to still be on... I got away. What is this... He was alive...
+
+@310.0
+All forces, retreat to Mei Castle! Do not fall into Kongming's trap!
+
+@312
+Obtained 750 gold!
+
+@313
+Obtained 750 gold!
+
+@315.0
+Once again... outwitted by Kongming. Kongming is fearsome...
+
+@316
+Wuzhang Plains: Camp
+
+@317.0
+Jiang Wei, it seems I do not have long left.
+
+@317.1
+Prime Minister, no!
+
+@317.2
+No, one cannot defy the mandate of Heaven. Listen closely to what I tell you now.
+
+@317.3
+...Y-yes.
+
+@317.4
+After my death, gather the troops and retreat to Hanzhong. You will command the army. When Sima Yi learns we have withdrawn, he will surely pursue. At that time, push out my wooden statue.
+
+@317.5
+A wooden statue...?
+
+@317.6
+Yes. Knowing such a day would come, I had one made in advance.
+
+@317.7
+Then... you have known your own lifespan that well...
+
+@317.8
+It is my own body. I know it best.
+
+@317.10
+If you push out that statue, Sima Yi will think I am still alive. He will think he has fallen into my plan, lose his nerve, and flee. Listen, carry this out without fail. Then the whole army can return safely to Hanzhong.
+
+@317.11
+Y-yes... I will carry it out without fail.
+
+@317.12
+Now, gather the generals in the camp.
+
+@319
+Wuzhang Plains: Camp
+
+@320.0
+Prime Minister, please open your eyes! Prime Minister!
+
+@321.0
+Why... Why did Heaven not grant the Prime Minister a little more life!
+
+@322.0
+Prime Minister... How bitter this must be for you...
+
+@323.0
+Then, as the Prime Minister's will commands...\n\n...\n\nLet us withdraw the whole army to Hanzhong.
+
+@325
+Near Mei Castle: Wei River Bank
+
+@326.0
+Th-that is...!\n\nThe general star of Kongming... has fallen! Is Kongming dead?!
+
+@327.0
+But... this is Kongming we are talking about. He may be feigning death to lure out Sima Yi. I must think carefully... If he is truly dead, it is the perfect chance to pursue, but...
+
+@328
+Mei Castle: Wei Camp
+
+@329.0
+Commander in Chief, something has happened in the Shu army. They have begun to retreat! What does this mean?
+
+@330.0
+Truly?! Then the fall of Kongming's general star was no lie!
+
+@331.0
+Father! Kongming's general star has fallen, you say?!
+
+@331.1
+Yes! That is the flame of Kongming's life. Heaven itself has told us of Kongming's death.
+
+@331.2
+Then the Shu army is retreating because Kongming is dead?!
+
+@331.3
+Exactly! We must not let this chance slip.
+
+@332.0
+All forces, pursue the Shu army at once! A Shu army without Kongming is now no more than a swarm of ants!
+
+@334.0
+Ha ha ha, advance, advance! A Shu army without Kongming is no enemy!
+
+@335.0
+There is only one reason the Shu army would withdraw! Kongming is dead! A Shu army without Kongming is a mere rabble! All forces, pursue at once!
+
+@335.1
+Father, even if the Shu army is withdrawing, they cannot be without a guard against pursuit. Please be a little more cautious.
+
+@335.2
+With Kongming gone, there is no officer in Shu who would think of that. Do not worry, pursue!
+
+@335.3
+General Jiang, Sima Yi has marched out.
+
+@335.4
+Good, we return inside the camp for now. Come, Sima Yi, chase us. The Prime Minister's final secret plan... I will make it succeed without fail!
+
+@337.0
+A Shu army without Kongming is nothing to fear! Advance, advance! Crush the Shu army utterly!
+
+@337.1
+Sima Yi... ...Hurry up and chase us.
+
+@338.0
+Commander in Chief, the Shu army's movements are unnatural. Should we not halt the pursuit and see how things stand...
+
+@338.1
+Fool who knows no strategy! Can you not see we are close to wiping out the Shu army?!
+
+@339.0
+Father! There is a figure on that mountain... Could that be...?!
+
+@339.1
+A figure...? Wh-wh-what! Th-that cannot be...!
+
+@340.0
+Father, the art of war says, "Do not pursue a retreating army too deep and be wounded." The pursuit has been enough. Please pull back.
+
+@340.1
+Yes... Hm? Zhao, what is it?
+
+@340.2
+Father...! That figure on the mountain...!
+
+@341.1
+Could it be...?! It cannot be...
+
+@341.2
+Sima Yi! You have fallen for the Prime Minister's plan! The Prime Minister saw through your every move long ago. Now, counterattack!
+
+@341.3
+Feigning death to lure out my army... What a man... Kongming. Fall back! Pull back to Mei Castle!
+
+@342.0
+What is it, Sima Yi! The commander of Wei running away! Are you that afraid of the Prime Minister?!
+
+@342.1
+Damn, be quiet!
+
+@343.0
+You will not escape! Wait! Wait, I say!
+
+@345.0
+What is this... He, he was alive...
+
+@346.0
+Huff, huff... My head seems to still be on... I got away. What is this... He was alive...
+
+@347.0
+It is over... Now, retreat swiftly to Hanzhong.
+
+@348
+Mei Castle: Wei Camp
+
+@350.0
+Now that the Prime Minister has passed away, returning to Chengdu seems best.
+
+@350.1
+Yes. This retreat succeeded only because the Prime Minister laid the plan for it. We alone could not have shaken off Sima Yi's pursuit.
+
+@350.2
+Indeed. Let us return to Chengdu.
+
+@351.0
+Prime Minister... Your will, the restoration of the Han... I will carry it on. I am young and untalented, but... please watch over me.
+
+@353.0
+Mother, Father is surely fighting Wei right now, is he not?
+
+@353.1
+Yes. I hope that is so...
+
+@354.0
+Are you the wife of Prime Minister Zhuge? I am a messenger from Hanzhong. I have brought a letter from Master Jiang Wei.
+
+@355.0
+Yes... Thank you for your trouble.
+
+@356.0
+...Then, excuse me.
+
+@357.0
+From Master Jiang Wei? Mother, what does it say?
+
+@358.0
+...! No! He is...!
+
+@359.0
+Mother, what is wrong? Mother!
+
+@359.1
+Oh... No, no...
+
+@360.0
+Mother! What on earth has happened?!
+
+@361
+In autumn, the eighth month of the twelfth year of Jianxing in Shu Han (234 AD), Prime Minister Zhuge Liang ended his life at Wuzhang Plains. He was fifty-four.\n\nAfterward, Jiang Wan, Fei Yi, Jiang Wei and others carried on Kongming's will and kept Shu Han alive.
+
+@362
+Yet their talents could never match Kongming's. The Northern Campaigns never succeeded. Shu Han was destroyed by Wei, and Wei in turn was destroyed by Sima Yi's grandson Sima Yan, becoming the new state of "Jin." Wu too would be conquered by Jin...
+
+@363
+"The tendency of the realm: long united, it must divide; long divided, it must unite."\n\n- From Romance of the Three Kingdoms -
+

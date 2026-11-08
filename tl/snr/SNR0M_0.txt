@@ -1,0 +1,1560 @@
+@0
+Watch the prologue.\nSkip the prologue.
+
+@1
+1-1: Kongming Leaves His Hut
+
+@2
+Chapter 1: The Three Kingdoms Stand
+
+@3
+Act 1: Kongming Leaves His Hut
+
+@4
+It was the end of the second century. The Yellow Turban Rebellion and the tyranny of Dong Zhuo followed one upon the other; the authority of the Han collapsed, and ambitious warlords rose.\n\nOne of these warlords, Cao Cao, took Emperor Xian under his protection and expanded his power. In the fifth year of Jian'an (200 AD), he crushed Yuan Shao, master of the north, at the Battle of Guandu.
+
+@5
+Over the next seven years Cao Cao pacified the north, then turned his eyes south to Jing Province. There, Cao Cao's bitter rival Liu Bei was living at Xinye as a guest general of Liu Biao, Governor of Jing.\n\nCao Cao sent his officer Cao Ren to destroy Liu Bei. But Ren suffered a crushing defeat before the brilliant strategies of Xu Shu, Liu Bei's newly appointed advisor.
+
+@6
+1-1: Kongming Leaves His Hut
+
+@7
+Xuchang: Seat of Emperor Xian
+
+@8
+Xuchang: Palace
+
+@9.0
+Liu Bei of Xinye is a traitor who has raised the banner of rebellion against the court.\n\nOnly the other day he attacked the troops I sent under Cao Ren, and he grows ever more arrogant.
+
+@9.1
+...I see.
+
+@9.2
+Your Majesty, what shall we do?
+
+@9.3
+Liu Bei is an imperial uncle... I think of him as my own kin. Do not press him too hard...
+
+@10.0
+What are you saying?! Your Majesty's attitude is exactly what makes Liu Bei so presumptuous!
+
+@11.0
+Indeed! Imperial Uncle or not, that man is a traitor.
+
+@12.0
+Your Majesty! I beg you, grant us the imperial edict to subdue Liu Bei!
+
+@13.0
+Very well... Cao Cao, do as you see fit.
+
+@14.0
+Yes, Your Majesty! I have received your command to subdue Liu Bei.\n\nWith your leave, Your Majesty, I take my departure.
+
+@15
+Cao Cao's Base: Xuchang
+
+@16
+Xuchang: Council Hall
+
+@17.0
+Even so, that thirty thousand men under the veteran Cao Ren should be crushed by two thousand of Liu Bei's... Liu Bei is hardly a gifted commander.\n\nThey say a man called Shan Fu has become his strategist. Who on earth is this Shan Fu?
+
+@18.0
+My lord, I know who Shan Fu really is.
+
+@18.1
+Oh, Cheng Yu. You know him?
+
+@18.2
+"Shan Fu" is an assumed name. His true name is Xu Shu, style name Yuanzhi.
+
+@18.3
+Hm. And what sort of man is this Shan Fu... no, Xu Shu?
+
+@18.4
+He was once a swordsman and a chivalrous man. He avenged a friend, was caught by the officials, and was rescued by his comrades. He fled and wandered the land under a false name.\n\nLater, moved by some inner call, he put away the sword, devoted himself to study, and is said to have mastered the military arts of every age and land.
+
+@18.5
+What a pity... It is as if Liu Bei has been given wings.
+
+@19.0
+If you wish, my lord, I can devise a scheme to draw Xu Shu to us.
+
+@19.1
+Oh? And what is this scheme?
+
+@19.2
+Xu Shu is a devoted son. His father seems to have died early, but his mother is still living, old now.\n\nIf we take her and have her write a letter summoning him, Xu Shu will surely come. And if she refuses, we need only forge the letter.
+
+@20.0
+Hm... an excellent plan. Carry it out at once, Cheng Yu.
+
+@21.0
+Yes, my lord.
+
+@22
+Outskirts of Xinye
+
+@23.0
+My aim was to achieve the founding of a royal house with you, General Liu. But now that Cao Cao holds my old mother, my mind is in turmoil and I can no longer be of use to you.\n\nI cannot even repay the great favor you showed me. Please forgive me for leaving...
+
+@24.0
+Say no more, Xu Shu... The love between parent and child outweighs all else. Do not trouble yourself.
+
+@25.0
+General Liu... Thank you.\n\nEven if I am placed in Cao Cao's service, I will never offer him a single plan.
+
+@26.0
+Parting from you here is painful, Xu Shu... Take care of yourself.
+
+@26.1
+Yes... Then, with your leave.
+
+@27.0
+He has gone... Our army needs his wisdom...
+
+@27.1
+He was truly a man worthy of the name of strategist.
+
+@28.0
+Hey! Brother! Strategist Xu is coming back!
+
+@29.0
+What?!
+
+@29.1
+So he is. What can be the matter?
+
+@29.2
+Can it be... that he has decided to come back to us?
+
+@30.0
+Xu Shu, what is it?
+
+@30.1
+Did you forget something?
+
+@30.2
+Yes... The pain of parting made me forget to tell you something important.\n\nGeneral Liu, do you know that a great sage lives in this region? He lives in Longzhong, twenty li outside Xiangyang Castle. Please be sure to visit him.
+
+@30.3
+I see. Xu Shu, forgive me, but could you not bring him here yourself?
+
+@31.0
+No. He would not be moved by the words of a man like me. If you can, I think it best that you visit him in person, General Liu.
+
+@32.0
+Very well, I understand. But compared with you, how is the man's talent?
+
+@33.0
+If I am a horse, he is a qilin. If I am a snake, he is a dragon... so I would say.\n\nTo win him would be like King Wen of Zhou winning Taigong Wang, or Gaozu of Han winning Zhang Liang.
+
+@34.0
+What, so gifted as that?! And what is the man's name?
+
+@35.0
+His surname is Zhuge, his given name Liang, his style name Kongming.\n\nHe lives near Wolong Ridge in Longzhong, so he calls himself the "Master of the Sleeping Dragon."
+
+@35.1
+Master Shuijing said, "If you can win even one of the Sleeping Dragon and the Young Phoenix, you can bring peace to the realm"... Could this "Master of the Sleeping Dragon" be the Sleeping Dragon?
+
+@35.2
+Exactly. The Sleeping Dragon is Zhuge Liang, and the Young Phoenix is Pang Tong of Xiangyang.
+
+@35.3
+So that is how it is. To think such sages existed... Thank you for telling me, Xu Shu.
+
+@36.0
+It is nothing, General Liu. More important, you must bring Zhuge Kongming into your service.
+
+@37.0
+Understood. He is a man you recommend so highly. I will surely win him.
+
+@38.0
+Then, farewell.
+
+@39.0
+(Wait. I advised Lord Liu Bei to visit Kongming... but knowing Kongming, he will not stir so easily.)\n\n(I shall stop at Kongming's home and ask him myself to take service.)
+
+@40
+Longzhong: A Village Near Xiangyang
+
+@41
+Longzhong: Kongming's Hut
+
+@42.0
+Master! Master! Mr. Xu Yuanzhi has come!
+
+@43.0
+Mr. Yuanzhi, please, come in!
+
+@44.0
+Kongming, pardon the intrusion.
+
+@44.1
+Ah, Yuanzhi. You seem well.
+
+@45.0
+Yes... The truth is, Kongming... I have come today to say farewell.
+
+@46.0
+...A farewell?
+
+@47.0
+You know I was serving Lord Liu Bei at Xinye, don't you? But a letter told me that my aged mother has been taken by Cao Cao, so I took my leave.
+
+@47.1
+I see... You gave up your post at Xinye to go and comfort your mother. That is well. With your talent, you can take service anywhere, at any time.
+
+@48.0
+Now I can do my duty by my mother, but... I feel as if I am abandoning Lord Liu Bei, who was my lord.
+
+@48.1
+It cannot be helped. Loyalty and filial duty are hard to keep both at once.
+
+@49.0
+So, Kongming, I have a favor to ask...
+
+@49.1
+A favor?
+
+@49.2
+When I parted from Lord Liu Bei, I recommended you to him. He will surely come to visit you one day. When he does, I hope you will give him a good answer.
+
+@50
+I'll think it over.\nWhat a thing to ask of me!
+
+@51.0
+If you say so, Yuanzhi, I will at least hear him out. But I have my own great ambition. You are an old friend, so you know my aim, do you not?
+
+@51.1
+Yes, of course.
+
+@51.2
+If Lord Liu Bei is a man who fits my ambition, I will gladly serve him.
+
+@52.0
+I see. Thank you! That lifts a weight from my chest.
+
+@53.0
+Then I must be going.
+
+@54.0
+Take care on the road.
+
+@55.0
+Yes.
+
+@56.0
+What a thing to say... In short, you want to push your own work onto me.\n\nIf you wished to be loyal to your lord, you should have left your old mother alone. If you wished to do your duty to your mother, you should never have taken service in the first place.
+
+@56.1
+W-well, that is... Hmm...
+
+@56.2
+...
+
+@57.0
+Have I angered him...? Someday I will make amends.
+
+@58.0
+Brother, I have returned.
+
+@59.0
+Ah, Jun.
+
+@60.0
+Yuanzhi has been here, I see. I just met him outside.
+
+@60.1
+Yes. ...He is going to the capital.
+
+@60.2
+I see. ...Oh, that's right. Huang Chengyan, who had been recovering in Longzhong, is returning to Xiangyang. Shall we go and see him off?
+
+@60.3
+Yes. Let us do so.
+
+@60.4
+Huang Chengyan is recovering at a house in Longzhong.
+
+@61
+Going to see Huang Chengyan off at a house in Longzhong
+
+@62.0
+Lord Huang Chengyan is returning to Xiangyang. Let us go and see him off.\n\nHe is staying at a house in Longzhong.
+
+@63
+Longzhong: Huang Chengyan's Lodging
+
+@64
+Talk with Huang Chengyan
+
+@65.0
+Brother, first let us greet Lord Huang Chengyan.
+
+@66.0
+Father-in-law, I hear you are going back to Xiangyang. I came to see you off today.
+
+@66.1
+Ah, Kongming. Thank you for coming all this way.\n\nThanks to the good doctor you introduced me to, I am as you see me. My health is quite restored.\n\nNow, Kongming, will you not return to Xiangyang as well? Why not live in Xiangyang as you did before?
+
+@66.2
+No... I am sorry, but the countryside suits me better.
+
+@66.3
+I see...\n\nBy the way, Kongming, how many years has it been since you came to Jing Province?
+
+@66.4
+Twelve years, sir.
+
+@66.5
+Twelve years... It seems only yesterday that you brothers fled the wars of Xuzhou and came to Xiangyang.
+
+@67.0
+Lord Huang Chengyan, I hear you are going back to Xiangyang. I came to see you off today.
+
+@67.1
+Ah, Kongming. Thank you for coming all this way.\n\nThanks to the good doctor you introduced me to, I am as you see me. My health is quite restored.\n\nNow, Kongming, will you not return to Xiangyang as well? Why not live in Xiangyang as you did before?
+
+@67.2
+No... I am sorry, but the countryside suits me better.
+
+@67.3
+I see. My daughter would be glad if you came back to Xiangyang, though...
+
+@67.5
+By the way, Kongming, how many years has it been since you came to Jing Province?
+
+@67.6
+Fifteen years, sir.
+
+@67.7
+Fifteen years... It seems only yesterday that you brothers fled the wars of Xuzhou and came to Xiangyang.
+
+@68
+In the fourth year of Guanghe (181 AD), Zhuge Liang was born in Xuzhou, the second of three sons and one daughter.\n\nThe Zhuge family was a noted house, descended from Zhuge Feng, a famous minister of the Former Han.\n\nHis father, Zhuge Gui, served as an aide in Taishan Commandery, and his uncle, Zhuge Xuan, held the weighty post of Governor of Yuzhang.
+
+@69
+193 AD: Langya Commandery, Xuzhou
+
+@70
+Cao Cao was seized with rage when his father, Cao Song, was killed by men of Tao Qian, and raised an army to take revenge on Tao Qian's province of Xuzhou.\n\nCao Cao's army took more than ten cities of Xuzhou and looted and ravaged every town and village it passed. A hundred thousand innocent people were slaughtered.
+
+@71
+Having lost his parents in this turmoil, Kongming resolved, with his brother and younger brother, to flee to Jing Province, relying on their uncle, Xuan.\n\nAt that time Jing Province was governed by Liu Biao, a kinsman of the Han house. Liu Biao held to a policy of strong defense, and so Jing Province had become the only peaceful land on the continent.
+
+@72.0
+Jun, what's the matter?
+
+@72.1
+Brother Liang, I'm tired. Can't we rest a little?
+
+@72.2
+If we rest, Cao Cao's army will catch us. They kill even children. You don't want to die, do you, Jun?
+
+@72.3
+N-no...
+
+@72.4
+Then hold out a little longer. If we get to Jing Province, Uncle Xuan will be there, and we'll be safe.\n\nCome on, Jun. Get up.
+
+@72.5
+...All right.
+
+@73
+On Cao Cao's orders, many innocent people were killed. To escape the slaughter by Cao Cao's army, the people of Xuzhou abandoned the lands of their ancestors and drifted south and west.\n\nZhuge Liang, later Prime Minister of Shu Han, was still only a boy.
+
+@74
+At that time Liu Bei, Chancellor of Pingyuan, answered Tao Qian's call for aid and rushed to Xuzhou with his sworn brothers Guan Yu and Zhang Fei.\n\nIt was then that the boy Kongming first learned of Liu Bei, the "man of righteousness."
+
+@75.0
+Look! Soldiers!
+
+@76.0
+Liang! Jun! Hide at once! It may be Cao Cao's army.
+
+@77.0
+A call for aid has come from Lord Tao Qian of Xuzhou. Guan Yu, Zhang Fei, we hurry to Xuzhou.
+
+@77.1
+Yes. But Cao Cao's army is mighty, sir. Lord Tao Qian's forces are nothing beside it.
+
+@77.2
+And Brother, you have no ties to Lord Tao Qian, do you? Why go to help him?
+
+@77.3
+Lord Tao Qian of Xuzhou is a benevolent ruler who cherishes his people.\n\nCao Cao, on the other hand, though grieving for his murdered father, is tormenting innocent people. Which side to help is plain enough.
+
+@77.4
+That is just like you, Brother. Zhang Fei, that reason is enough, is it not?
+
+@77.5
+Yes! I have always been one in heart with Brother. I will gladly go with you!
+
+@78.0
+Good, well said. Then let us hurry to Xuzhou!
+
+@79.0
+Brother, that doesn't look like Cao Cao's army.
+
+@79.1
+No... Who were they? They looked like very good people.
+
+@79.2
+Might it be a man called Liu Bei? I have heard rumors. They say he values righteousness greatly.
+
+@79.3
+(If everyone were like them, we wouldn't suffer so... Someone has to change a world full of wars like this.)
+
+@79.4
+...? Brother, what's wrong? You look scary.
+
+@79.5
+What? N-nothing. Come on, let's hurry to Jing Province.
+
+@79.6
+Right, we must hurry. Cao Cao's army may come.
+
+@80
+Kongming and his brothers barely escaped with their lives and reached Jing Province at last, but their uncle had gone to his post at Yuzhang.\n\nThey came to be looked after by the uncle's friend Huang Chengyan.\n\nThere Kongming met Huang Chengyan's daughter for the first time.
+
+@81.0
+So you are the nephews of Lord Zhuge Xuan.
+
+@82.0
+Yes. I am Zhuge Jin. These are my brothers, Liang and Jun. Thank you for taking us in.
+
+@83.0
+I am Zhuge Liang. Thank you for taking us in.
+
+@84.0
+H-hello. I am Jun.
+
+@85.0
+Such young boys, and so clever. Please be kind to us as well. Ah yes, let me introduce my daughter.
+
+@86.0
+Pleased to meet you. Let's get along well.
+
+@87.0
+L-likewise...
+
+@87.1
+...? Brother, why is your face red? Do you have a fever?
+
+@87.2
+Quiet. It's nothing.
+
+@87.3
+Ha ha ha! Now, now, you will be living together from now on. Be good friends.
+
+@88
+In the fourth year of Guanghe (181 AD), Zhuge Liang was born in Langya, Xuzhou, second son of Zhuge Gui. By coincidence, Liu Xie (Emperor Xian) was born that same year.\n\nThe Zhuge family of Langya descended from Zhuge Feng, the Former Han Colonel Director, remembered as an upright man.\n\nWhen Kongming was born, his father, Zhuge Gui, was serving as an aide in Taishan Commandery.\n\nBut in the third year of Chuping (192 AD), Zhuge Gui fell ill and died. His uncle, Zhuge Xuan, became guardian of the mother and her sons.
+
+@89
+193 AD: Xuzhou
+
+@90.0
+H-help me!
+
+@91.0
+Heh, running won't do you any good! Die!
+
+@92.0
+Aaaagh!
+
+@93.0
+Hey, this one's got all this money!
+
+@93.1
+Great! Let's take it off the others too!
+
+@93.2
+Right!
+
+@94.0
+...
+
+@95.0
+My lord, the troops are looting as they please. Is that all right?
+
+@96.0
+I don't care! Kill everyone in Xuzhou!
+
+@97.0
+Soldier or commoner, kill them all, to the last one!
+
+@98.0
+Show no mercy to women or children! Every living thing in Xuzhou, I will wipe out root and branch!
+
+@99
+That year Cao Cao, Inspector of Yan Province, invaded Xuzhou. The cause was that his father, Cao Song, had been killed by men of Tao Qian, Governor of Xuzhou.\n\nCao Cao's army took more than ten cities of Xuzhou and looted and ravaged everywhere. Over a hundred thousand people were killed without distinction.
+
+@100.0
+Ah!
+
+@101.0
+Cao Cao's army... even here.
+
+@102.0
+Ugh...
+
+@103.0
+That Cao Cao... how cruel.
+
+@104.0
+Damn Cao Cao! Killing even the innocent people of Xuzhou...!
+
+@104.1
+Liang... this is what the age of chaos is.
+
+@105.0
+Cao Cao... I, Zhuge Liang, am powerless now, but...
+
+@106.0
+Just you wait! With these hands I will surely bring an end to this chaos!
+
+@107
+In the name of revenge, countless people were killed by Cao Cao's army. To escape this tragedy, the people of Xuzhou had no choice but to abandon their homes and drift south and west.\n\nZhuge Kongming, later Prime Minister of Shu Han, was still only a boy.
+
+@108
+While the lords pretended not to see the tragedy in Xuzhou, Liu Bei, Chancellor of Pingyuan, answered Tao Qian's call for aid and rushed to Xuzhou with his sworn brothers Guan Yu and Zhang Fei.\n\nIt was then that the boy Kongming first learned of Liu Bei, the "man of righteousness."
+
+@109.0
+Soldiers!
+
+@110.0
+Liang! Hide at once!
+
+@111.0
+What...! What is this?
+
+@111.1
+This must be the work of Cao Cao's army...
+
+@112.0
+That bastard! Slaughtering people who have done nothing wrong...
+
+@113.0
+Guan Yu, Zhang Fei, we hurry to Xuzhou!
+
+@113.1
+Yes! But Brother, Cao Cao's army is mighty.\n\nLord Tao Qian's forces are nothing beside it.
+
+@113.2
+And Brother, you have no ties to Lord Tao Qian, do you? Why go to help him?
+
+@113.3
+Lord Tao Qian of Xuzhou is a benevolent ruler who cherishes his people.\n\nCao Cao, on the other hand, though grieving for his murdered father, is tormenting innocent people. Which side to help is plain enough.
+
+@113.4
+That is just like you, Brother. Zhang Fei, that reason is enough, is it not?
+
+@113.5
+Yes! I have always been one in heart with Brother. I will gladly go with you!
+
+@114.0
+Good, well said. Then let us hurry to Xuzhou!
+
+@115.0
+That is...
+
+@115.1
+Reinforcements heading for Xuzhou, it seems. Lord Tao Qian appealed for aid everywhere, but...\n\nLiu Xuande was the only one who answered?
+
+@115.2
+Liu Xuande?
+
+@115.3
+Yes. Liu Bei, Chancellor of Pingyuan, style name Xuande. They say he values righteousness.
+
+@115.4
+(Liu Bei... Xuande...)
+
+@116
+Langya: The Zhuge Home
+
+@117.0
+This area is getting dangerous. What do you say? Why not all come to my place?
+
+@118.0
+Uncle.
+
+@118.1
+Hm? What is it, Jin?
+
+@118.2
+As the eldest son of the Zhuge family, I wish to stay in our hometown and care for Mother in this house.
+
+@118.3
+I see... well said. Leave Liang and the others to me!
+
+@119.0
+Brother... please be careful!
+
+@119.1
+I will. Liang, wherever you go, do not forget the pride of the Zhuge family.
+
+@120.0
+Mother...
+
+@121.0
+Liang, Jun, Ming... Take care of yourselves...
+
+@122.0
+Lord Xuan, please look after the three of them.
+
+@122.1
+Do not worry, sister-in-law. Leave them to me.
+
+@123
+And so Kongming parted from his mother and his brother Jin, and went to live with his uncle, Zhuge Xuan, together with his sister and his younger brother Jun.\n\nTwo years later Zhuge Xuan was appointed Governor of Yuzhang by the warlord Yuan Shu, and took Kongming and the others with him to his post.
+
+@124
+But Yuzhang, too, was no place of refuge for Kongming. A man other than Zhuge Xuan came to take over as the new governor, and the land turned into a battlefield.\n\nZhuge Xuan therefore fled to Jing Province, relying on his old friend Liu Biao.
+
+@125
+Xiangyang: Capital of Jing Province
+
+@126
+Xiangyang: Council Hall
+
+@127.0
+Lord Liu Biao, thank you for taking us in.
+
+@128.0
+Ah, Zhuge Xuan! You have been through terrible times.\n\nBut you are safe now that you have come to Jing Province. I will have a residence prepared at once.
+
+@129.0
+Thank you, Lord Liu Biao...
+
+@130.0
+Ah, Lord Zhuge Xuan. I am glad to see you safe...
+
+@131.0
+Lord Huang Chengyan, it has been a long time. I will be in your debt in many ways from now on. I beg your kindness.
+
+@132.0
+Not at all. And are those your nephews over there?
+
+@135.0
+Such young boys, and so clever. Please be kind to us as well. Oh, and who is this girl?
+
+@136.0
+Pleased to meet you...
+
+@137.0
+Ah, she is the sister of Liang and Jun, so she is also my niece. She knows little of the world, I am ashamed to say.
+
+@138.0
+Not at all, she is a young girl. Perhaps she is just shy of meeting new people.\n\nAh yes, let me introduce my daughter.
+
+@139.0
+Pleased to meet you! Let's get along well!
+
+@140.1
+My, what a lively young lady.
+
+@140.2
+Ha ha ha. She is a tomboy, and she gives me no end of trouble.
+
+@140.3
+Ha ha...
+
+@141
+And so Kongming and the others came to live in Xiangyang, the capital of Jing Province. Zhuge Xuan had many friends in Xiangyang, and it seemed a place of rest at last.
+
+@142.0
+Oh, dear. You're here.
+
+@143.0
+Oh, Lord Kongming. You're here.
+
+@144.0
+Thank you for coming to see my father off...
+
+@145.0
+Thank you for coming to see Father off...
+
+@146.0
+My father says he is quite well again. Please do not worry. He will be all right.
+
+@147.0
+Lord Kongming, I will be with Father, so please do not worry. He will be all right.
+
+@148.0
+Then I will see Lord Huang Chengyan to Xiangyang.
+
+@148.1
+Take care, Kongming.
+
+@149.0
+Yes, and you too, Father-in-law...
+
+@150.0
+Yes, and you too, Lord Huang Chengyan...
+
+@151.0
+Dear, I was thinking of seeing Father off to Xiangyang myself...
+
+@151.1
+Of course. Go ahead.
+
+@151.2
+Thank you, dear.\n\nOh, that's right! Please take this, dear.
+
+@152.0
+Lord Kongming, please take this.
+
+@153.0
+What is this?
+
+@154.0
+I do not know if it will suit your taste, but please eat it. They say it nourishes you when you are unwell.
+
+@155.0
+Dear, while I am away, please eat something nourishing properly.
+
+@155.1
+...Yes, I know.
+
+@156.0
+Lord Kongming, please take care of yourself.
+
+@156.1
+...Thank you.
+
+@157.0
+Well... I should go back home too.
+
+@158
+Return home
+
+@160.0
+Welcome back, Master. While you were out, Lord Liu Bei of Xinye came.
+
+@160.1
+I see... And did he say anything?
+
+@160.2
+Yes. He said he will come again.
+
+@161.0
+Huh? Master, it looks like you have a visitor. Who could it be?
+
+@162
+Talk with the visitor
+
+@163.0
+Master, you have a visitor. You should talk to him quickly.
+
+@164.0
+Hey, Kongming! It's been a while. How many months has it been?
+
+@165.0
+Ah, Cui Zhouping. Where have you been all this time?
+
+@165.1
+I've been going around all over Jing Province.\n\nSo I thought we could have a drink and I'd tell you about it over the wine.
+
+@165.2
+I see. That sounds interesting.
+
+@165.3
+I've reserved a table at the tavern. Let's have a cup there!
+
+@165.4
+Very well. Shall we go, then?
+
+@165.5
+Then I'll wait outside.
+
+@166
+Go to the Longzhong tavern
+
+@167.0
+I've reserved a table at the tavern. Let's drink together, just us two, for the first time in a while.
+
+@168.0
+I'll stay and mind the house. I can't drink wine, after all.
+
+@169
+Longzhong: Tavern
+
+@170
+Kongming and Cui Zhouping drank together for a while and warmed their old friendship.\n\nAt first they talked of trifles, but as the wine went round, the talk turned to the situation in Jing Province.
+
+@171.0
+...so, Cao Cao is eyeing Jing Province. Jing Province looks to be in danger before long.
+
+@171.1
+Cao Cao... and Jing Province...
+
+@171.2
+Liu Biao doesn't have long left, and this place may become a battlefield too.
+
+@172.0
+Oh, right. Speaking of Cao Cao, I hear Xu Shu went over to him?
+
+@172.1
+Yes. He was serving under Lord Liu Bei when a letter came from his mother.
+
+@173.0
+Strange. Xu Shu's mother is not that kind of woman...
+
+@173.1
+What do you mean?
+
+@173.2
+She is a woman who knows righteousness. As far as I know, she was glad he served Lord Liu Bei.\n\nHm... Then that letter from his mother may be a scheme of Cao Cao's.
+
+@173.3
+Cao Cao, fearing Xu Shu's talent, used a forged letter to tear him away from Lord Liu Bei... Is the aim to weaken Lord Liu Bei's strength?
+
+@173.4
+Yes, as expected of Cao Cao... Without a strategist, Lord Liu Bei will have a hard fight.
+
+@173.5
+So he will...
+
+@173.6
+Well, there's no use worrying about it. It has nothing to do with us.
+
+@174.0
+More to the point, why don't we go down to Jiangnan? This is the best season there.\n\nYou're idle anyway, aren't you? Let's go fishing in Jiangnan!
+
+@175.0
+That sounds good... Let us go at once.
+
+@176
+And so Kongming set off for Jiangnan with his friend Cui Zhouping. After parting from Cui Zhouping there, Kongming returned to Longzhong, observing conditions in many regions along the way.\n\nThe season had already turned to winter...
+
+@177
+Return to your home in Longzhong
+
+@178
+207 AD: Winter
+
+@179.0
+I have been away from home a long time. I should be getting back.
+
+@181.0
+Oh, Brother! Welcome back. Where have you been?
+
+@181.1
+Hm, down toward Jiangnan... Jun, when did you come back from Xiangyang?
+
+@181.2
+Just the other day. Lord Huang Chengyan sends his regards.
+
+@182.0
+I see... And Yueying?
+
+@182.1
+She says she will stay in Xiangyang a while longer to look after her father.
+
+@182.2
+I see...
+
+@182.3
+Aha! Brother, you're lonely, aren't you?
+
+@182.4
+D-don't be absurd! ...\n\nMore to the point, was there anything else out of the ordinary?
+
+@183.0
+I see... Was there anything else out of the ordinary?
+
+@184.0
+Oh! That's right! Lord Liu Bei of Xinye came by.
+
+@184.1
+Lord Liu Bei... That makes his second visit.
+
+@184.2
+Yes, and he left this letter.
+
+@185
+Obtained Liu Bei's letter!
+
+@186
+I am Liu Bei of Xinye. I heard of you from your friend Xu Shu. Meeting you and speaking face to face would be best, but I am told you are away, so I leave this letter and go home.
+
+@187
+The realm is in disorder, the people suffer, and there are no loyal ministers at court. What do you make of the present state of things? In my resolve to save the nation and relieve the people, I believe I yield to no one, yet I am of little strength and have achieved nothing so far.
+
+@188
+I earnestly wish you to lend your talent to saving the nation and relieving the people. I am a foolish man with no plan of my own, and I wish you to guide me.\n\nPlease give it your thought. I will call on you again another day. Liu Bei
+
+@189
+I am Liu Bei of Xinye. Out of admiration for your great name I have called on you twice, and I regret that I could not meet you.\n\nAs one of the imperial house of Han, I am filled with grief and anger at the present age, when the court's power has faded, the realm has no law, and warlords contend.
+
+@190
+I hold the aim of setting the nation right, but I lack talent and have no plan to save the world.\n\nIf you would bring the great ability of Taigong Wang and the grand strategy of Zhang Liang to bear, with benevolence and loyalty, no happiness for all under heaven could surpass it.\n\nI will call on you after fasting and bathing. I would be grateful if you would grant me an audience then.  Liu Bei
+
+@191.0
+We spoke only briefly, but he was a very pleasant man.
+
+@191.1
+...I see.
+
+@192
+208 AD: Spring
+
+@193.0
+Master! Master Pang Shiyuan has come!
+
+@194.0
+Hey, Kongming. It's been a while.
+
+@195.0
+Ah, Brother Pang Tong! It has been a long time.
+
+@195.1
+I've wandered over here again, as I always do.
+
+@195.2
+I heard you were in Wu, Brother Pang Tong?
+
+@195.3
+Yes. In Wu your elder brother looked after me very well. He seems to be doing his best.
+
+@195.4
+I see.
+
+@196
+When Kongming and the others had relied on Zhuge Xuan, Zhuge Jin had stayed behind in their hometown. Two years later, when Cao Cao invaded Xuzhou again, he finally fled to Jiangnan with his mother.\n\nThere, on the recommendation of Lu Su, he entered the service of Sun Quan, the power of Jiangdong.
+
+@197.0
+By way of thanks, though that's not quite it, I brought wine today. How about a cup, for the first time in a while?
+
+@197.1
+You always seem to be drinking, Brother Pang Tong. Well, I will join you.
+
+@197.2
+Oh, right, right. Here is a souvenir.
+
+@198.0
+What is this?
+
+@198.1
+I don't know exactly, but it's food. It was popular, so I bought it. Eat it and you'll find out.
+
+@199
+About a year after Kongming and the others came to Jing Province, his brother Jin set out from it.\n\nAs the eldest son of the Zhuge family, he went to look for a post in order to provide for the household. Later, on the recommendation of Lu Su, Jin entered the service of Wu.
+
+@200.0
+Liang, Jun. I'm off.
+
+@200.1
+Yes. Brother, do your best.
+
+@201.0
+Have a safe trip. Bring us back a souvenir.
+
+@201.1
+Ha ha, all right. You two take care of yourselves. Well, I'm going.
+
+@202
+Kongming and his younger brother Jun remained in Jing Province. It might be said they had no choice but to stay.\n\nOn Huang Chengyan's advice, Kongming became a student of Sima Hui, a scholar of Jing Province.\n\nJing Province was peaceful and Liu Biao encouraged learning, so excellent scholars had gathered there from all over.
+
+@203
+It was then that Kongming made friends with Pang Tong, Xu Shu, Cui Zhouping and others.\n\nHis talents were many: judgment, memory, calculation, originality, and he excelled in every one, so he soon stood out even among the disciples.
+
+@204
+When he had completed his studies, Kongming shut himself away in Longzhong at the age of twenty. Many fellow students protested that he had "run away from learning," but Kongming paid no heed.\n\nHe judged that learning for the sake of learning was useless.
+
+@205.0
+Kongming... Do you really mean to shut yourself away in a place like Longzhong?
+
+@205.1
+In such a backwater, you will hardly be able to study.
+
+@205.2
+I am tired of being bound by learning. I will stay in the countryside until I find a way to put my learning to use. Well then...
+
+@206
+The only visitors to Kongming's hut were a very few people such as Xu Shu, Pang Tong and Cui Zhouping. They called now and then and talked of many things.\n\nOne day, when several friends had gathered, his friend Cui Zhouping put a question to Kongming.
+
+@207.0
+Say, Kongming, if I took office, how far do you think I could rise?
+
+@207.1
+Let me see. You have studied well. If you put that learning to use, you could become an inspector of a province or a governor of a commandery.
+
+@207.2
+Oh, that's quite high praise. I'm glad to hear it.
+
+@207.3
+Then, Kongming... what about you? How do you mean to use your learning, and what position do you want?
+
+@207.4
+Who knows... If I knew that, I could leave this hut.
+
+@208
+Kongming considered how he might put his talent to use.\n\nHe was not made to be an emperor. Yet he might be able to assist a man qualified to be a king, and through that king's hands create a peaceful world.
+
+@209
+Kongming always compared himself with the two generals Guan Zhong and Yue Yi. Both were great men who assisted their lords and raised them up.\n\nIn his hut at Longzhong, Kongming was waiting for a man worthy of his assistance to appear.
+
+@210
+195 AD: Xiangyang
+
+@211
+At that time, while all of China was consumed by war, Liu Biao made no effort to expand his power aggressively and worked to keep his own domain stable. Jing Province became a peaceful world apart, and people fleeing the wars gathered there from everywhere.\n\nKongming was one of them.
+
+@212
+Xiangyang: Pang Degong's Residence
+
+@213.0
+Young men. Jing Province is at peace now, but take a good look at what surrounds it.
+
+@214.0
+At this rate, it will not be long before the peace of Jing Province is broken.
+
+@215.0
+We are old... From now on the age belongs to you.\n\nApply yourselves to your studies, gain the clouds and become dragons soaring through the sky! Become phoenixes and spread your wings!
+
+@216
+Pang Degong was the leader of the scholars of Xiangyang, and his friends Sima Hui and Huang Chengyan and other renowned scholars of the time had also gathered in Xiangyang to escape the wars.\n\nLiu Biao also founded a school and encouraged learning, so young men from every land who aspired to learn gathered in Jing Province.
+
+@217
+Pang Degong's Residence: Garden
+
+@218.0
+I'm Pang Degong's nephew, Pang Tong, style name Shiyuan. Pleased to meet you!
+
+@219.0
+I am from Yingchuan, Shi Tao, style name Guangyuan. Pleased to meet you.
+
+@220.0
+Also from Yingchuan, Xu Shu, style name Yuanzhi.
+
+@221.0
+I'm from Runan, Meng Jian, style name Gongwei.
+
+@222.0
+I am from Langya, Zhuge Liang, Kongming. Pleased to meet you all.
+
+@223.0
+I'm Cui Zhouping of Boling. We all came to Xiangyang to escape the wars, just like you.
+
+@224.0
+Xiangyang has such fine elders: Master Pang Degong, Master Sima Hui, Master Huang Chengyan.
+
+@225.0
+From now on, let's study hard together and talk things over!
+
+@226.0
+Yes, for now studying is what matters! For the time to come...
+
+@227.0
+So that we may become men who move a new age!
+
+@228.0
+So that we may become dragons soaring through the sky!
+
+@229.0
+So that we may become phoenixes and spread our wings!
+
+@230
+Kongming applied himself to his studies with Pang Tong, Xu Shu and his other fellow students. His way of study was to grasp the main outline and not to dwell on fine interpretations.\n\nHe spent his days to the full, but two years later his uncle Zhuge Xuan died of illness.
+
+@231
+Xiangyang: Pang Degong's Residence
+
+@232.0
+Kongming, what a sad thing this has been.
+
+@232.1
+Truly... that Lord Xuan should pass away...
+
+@232.2
+Kongming, what do you mean to do now?
+
+@233.0
+I intend to move to Longzhong with my sister and brother.
+
+@233.1
+What would you do in such a backwater? If you like, why not come to my house?
+
+@234.0
+Thank you. But I mean to till the fields myself and live there, the three of us.
+
+@235.0
+I see...
+
+@236.0
+Kongming, even in Longzhong, don't neglect your studies!
+
+@236.1
+Of course!
+
+@237.0
+Master Pang Degong, Master Sima Hui, Master Huang Chengyan... I ask for your guidance from now on as well.
+
+@238.0
+Kongming, actually... I have something to discuss with you.
+
+@238.1
+What is it?
+
+@239.0
+Would you let me take care of your sister?
+
+@240.0
+...
+
+@241.0
+...
+
+@242.0
+Thank you. It seems the greatest happiness for my sister. I ask your kindness toward her.
+
+@243.0
+Oh my...
+
+@244.0
+How wonderful!
+
+@245.0
+But wait... Shanmin is Pang Degong's son, and my cousin, so...
+
+@246.0
+Kongming! Now you and I are relatives!
+
+@247.0
+So it seems. Since you are two years older than I am, Brother Pang Tong...
+
+@248.0
+Please look after me from now on, Brother Pang Tong!
+
+@249.0
+Ha ha ha...!
+
+@250
+And so Kongming's sister was to marry Shanmin.\n\nKongming and his younger brother Jun built a thatched hut in Longzhong, on the outskirts of Xiangyang, and began a life of tilling in fine weather and reading in the rain.\n\nIt was the second year of Jian'an (197 AD), and Kongming was seventeen.
+
+@251.0
+I've drunk quite a lot. Well, I'll head home for today.
+
+@252.0
+I see.
+
+@252.1
+Next time I come, I'll bring wine again.
+
+@252.2
+Yes, I look forward to it.
+
+@253.0
+(I'm getting sleepy... Is it the wine? I think I'll take a nap...)
+
+@255.0
+Heh, running won't do you any good! Die!!
+
+@256.0
+Aaaagh!
+
+@257.0
+Hey, this one's got all this money.
+
+@257.1
+Great! Let's take it off the others too!
+
+@258.0
+Tch, this couple has no money, not even anything worth money. What a lousy lot!
+
+@258.1
+Don't let it bother you! On to the next one! There's plenty of treasure left!
+
+@259.0
+Father... Mother... They gave their lives so we could escape...
+
+@260.0
+...
+
+@261.0
+...Waaah! Father! Mother! They're dead... Waaah!
+
+@262.0
+Brother, what are we going to do now?
+
+@262.1
+Oh, yes. Well...
+
+@263.0
+Waaah! Father... Mother...
+
+@264.0
+Come on, Jun. Don't cry anymore.
+
+@265.0
+That's it! Uncle Xuan is in Jing Province. There's no use staying here. Let's go to Jing Province.
+
+@266.0
+Jing Province...? Isn't that a dangerous place?
+
+@266.1
+No. Jing Province is governed by a man named Liu Biao, and it should be safe. That's what I've heard.
+
+@266.2
+Then let's go right away.
+
+@266.3
+Right. Jun, come on, don't cry anymore. Let's all go to Jing Province.
+
+@266.4
+Hic...
+
+@267.0
+...Hic...
+
+@268
+The only visitors to Kongming, who had moved to Longzhong, were close fellow students such as Pang Tong, Xu Shu, Cui Zhouping, Shi Guangyuan and Meng Gongwei. They called now and then and talked of many things.\n\nOne day, when several friends had gathered, his friend Shi Guangyuan put a question to Kongming.
+
+@269.0
+Say, Kongming, if I took office, how far do you think I could rise?
+
+@269.1
+Let me see. You have studied well. If you put that learning to use, you could become an inspector of a province or a governor of a commandery.
+
+@269.2
+Oh, that's quite high praise. I'm glad to hear it.
+
+@269.3
+Then, Kongming... what about you?
+
+@269.4
+How do you mean to use your learning, and what position do you want?
+
+@269.5
+Who knows... If I knew that, I could leave this hut.
+
+@270
+Kongming was considering how his talent could serve to bring peace to the age of chaos.\n\nHe was not made to be an emperor. But he might be able to assist a man of kingly bearing, achieve the founding of a royal house together with that hero, and create a peaceful world.
+
+@271
+Kongming always likened himself to the two generals Guan Zhong and Yue Yi. Both were great men of the Spring and Autumn and Warring States periods who assisted their lords and raised them up.\n\nIn his hut at Longzhong, Kongming was waiting for a man worthy of his assistance to appear.
+
+@272.0
+Hello, Kongming.
+
+@273.0
+Ah, Cui Zhouping.
+
+@274.0
+Actually, Master Huang Chengyan asked me to bring you to him...
+
+@275.0
+Master Huang?
+
+@276.0
+Yes, it seems he has something to ask of you...
+
+@277.0
+A request... What could it be?
+
+@278.0
+Well, you'll find out when we get there. Ha ha ha...
+
+@279.0
+Hm... Then let us go.
+
+@280
+Huang Residence: Front Gate
+
+@281.0
+Master Huang! Zhuge Liang has come to call!
+
+@282.0
+Whoa! The door opened by itself!
+
+@283.0
+This is...
+
+@284.0
+How does that work?
+
+@285.0
+Hmm...
+
+@286.0
+It is a small mechanism. And it is very well made...
+
+@287.0
+Does Master Huang make inventions too...?
+
+@288.0
+W-well, never mind that... Let's go inside quickly.
+
+@289
+Huang Residence: Courtyard
+
+@290.0
+Master Huang, it has been a long time.
+
+@291.0
+Kongming, thank you for coming.
+
+@292.0
+Master, that gate door...?
+
+@293.0
+Ah, that is my daughter's mischief.
+
+@294.0
+Your daughter...
+
+@295.0
+I called you today for no other reason than that I wished you to meet my daughter...
+
+@296.0
+What?!
+
+@297.0
+The young lady is a gifted woman, skilled not only in invention but in geography, astronomy and many other fields of learning.
+
+@298.0
+Only... you may have heard the rumors, but she is somewhat plain. For that reason her time for marriage has passed...
+
+@299.0
+(It is true that rumor says Master Huang's daughter is famously plain... Come to think of it, I think I met her once when I first came to Jing Province. My impression then was not of a plain girl... ...?)
+
+@300.0
+Looks do not matter. Master Huang, please let me meet your daughter.
+
+@301.0
+Oh, is that so!
+
+@302
+Huang Residence: A Room
+
+@303.0
+Pleased to meet you. I am Zhuge Liang, Kongming.
+
+@304.0
+No, it is not our first meeting.\n\nIt was about ten years ago, I think... we met once.
+
+@305.0
+I knew it! You remembered?
+
+@306.0
+Yes!
+
+@306.1
+But I have not yet asked your name.
+
+@307.0
+Oh, I forgot to say. I am Huang Yueying.
+
+@308.0
+That door that opens by itself, was that your doing...?
+
+@308.1
+Yes. I have thought up many other things too.
+
+@308.2
+May I see them for a moment?
+
+@308.3
+Yes, please.
+
+@309.0
+On that desk over there...
+
+@310.0
+Oh, designs for mechanisms! And these writings and drawings are yours as well?
+
+@311.0
+Yes.
+
+@312.0
+Truly, this is wonderful. What a talent!
+
+@313.0
+But what puzzles me is this... You are beautiful. Why the rumor that you are plain?
+
+@314.0
+Oh, beautiful, you say. Lord Kongming, you are a smooth talker...
+
+@315.0
+N-no...
+
+@316.0
+I spread that rumor myself.
+
+@317.0
+What?!
+
+@318.0
+Because I did not want to marry a man who judges people by their looks alone. In this age a woman can decide nothing for herself... she obeys her father, then her husband, then her son.\n\nFather has let me do as I please, but once I marry that would not be possible. So I set a condition. If a man appeared who was not misled by rumor, I would marry him, and if none appeared, I could go on living as I am.
+
+@318.1
+So that was it...
+
+@319.0
+Um... may I ask you one thing?
+
+@319.1
+Please.
+
+@319.2
+They say you always carry that feather fan, Lord Kongming... Is it for fashion?
+
+@320.0
+Ha ha ha! I will tell only you. Actually, this is a magic fan.
+
+@321.0
+What, really?!
+
+@322.0
+There was a hawk demon in the mountains southwest of Nanyang. I slew it and made this from its feathers.
+
+@323.0
+My, what an amusing man! I had thought Zhuge Kongming would be serious and difficult.
+
+@324.0
+Ha ha ha... I am often told I am an oddball.
+
+@325.0
+I am often told so too.
+
+@325.1
+Perhaps that is why we get along.
+
+@326.0
+Oh!
+
+@327.0
+Ha ha ha...
+
+@327.1
+Ho ho ho...
+
+@328.0
+Well, that settles who your husband will be!
+
+@329.0
+What?!
+
+@331.0
+Or, Kongming... is there someone else you have in mind?
+
+@332.0
+No, Master Huang. Please give Yueying to me!
+
+@333.0
+Well, congratulations!
+
+@334
+Several hours later...
+
+@335.0
+Ugh... A dream...
+
+@336.0
+Hm?
+
+@337.0
+There seems to be a visitor. Who has come?
+
+@337.1
+Master, Lord Liu Bei has been waiting for a long time.
+
+@337.2
+He has been waiting all this time?! Why did you not wake me at once?
+
+@337.3
+Because Lord Liu Bei said not to wake you.
+
+@337.4
+...I see. Then show Lord Liu Bei in.
+
+@337.5
+Yes!
+
+@338.0
+Lord Liu Bei, the Master is awake. Please come in.
+
+@338.1
+Thank you.
+
+@339.0
+Pleased to meet you at last. I am Liu Bei, style name Xuande. I have finally been able to meet you, sir.
+
+@340
+Talk with Liu Bei
+
+@341.0
+Having received your visits twice until yesterday, I was rude enough to be out. Today I was rude enough to be napping. I am truly sorry.
+
+@341.1
+Not at all, it was we who called uninvited. Please do not trouble yourself.
+
+@342.0
+I have read your letter. I admire your heart for the people, Lord Liu Bei. But I am still young and green, and I do not have the talent to answer your hopes.
+
+@342.1
+Yet I cannot believe that the words of Master Sima Hui and Xu Shu, who know you well, are false.
+
+@342.2
+They are noble scholars known throughout the realm, but I am merely a farmer of Nanyang. You overestimate me, Lord Liu Bei. I cannot discuss the affairs of the realm.
+
+@343.0
+Please do not say such things... I beg you to lend me your strength! With my strength alone, I could never save the people...
+
+@344.0
+...No, Lord Liu Bei. With your strength, it is possible to save the house of Han and the people.
+
+@344.1
+In my heart for the nation and for the people, I mean to yield to no one. But in strategy and tactics, I am far behind Cao Cao.
+
+@345.0
+There is a way to stand against Cao Cao.\n\n...\n\nIn thanks for the full courtesy of the three visits you have shown a young man like me, I will tell you.
+
+@345.2
+Please wait at that desk over there. I will explain.
+
+@346.0
+Master, Lord Liu Bei has been waiting this whole time. You must talk to him quickly!
+
+@347
+In the thirteenth year of Jian'an (208 AD), Cao Cao abolished the Three Excellencies and revived the office of Prime Minister, taking it himself.\n\nHaving put all affairs in his own hands and secured his footing with men such as Sima Yi, he was at last about to march south.
+
+@350.0
+Xu Shu. I hear a man called Zhuge Liang has entered Liu Bei's service. What sort of man is he?
+
+@350.1
+If my talent is the glow of a firefly, Kongming's is the light of the bright moon. There is no comparison.
+
+@350.2
+If you, who made a plaything of Cao Ren, say so much, he must be quite a man...
+
+@351.0
+Prime Minister, what are you saying?! There is no need to fear a green scholar. I, Xiahou Dun, will take his head!
+
+@351.1
+Hm... Very well. This time, let us destroy Liu Bei.
+
+@351.2
+What...
+
+@351.3
+If Kongming's talent is great, it is better to crush Liu Bei while his force is small. If his talent is slight, there is nothing to fear in attacking right now.
+
+@352.0
+Then, Xiahou Dun. Lead troops at once and crush Liu Bei at Xinye!
+
+@353.0
+Yes! I humbly accept the command! Await my good news!
+
+@354.0
+(Kongming...)
+
+@355.0
+Liu Bei! Kongming! I, Xiahou Dun, will send you to your rest!
+

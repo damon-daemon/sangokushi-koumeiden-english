@@ -1,0 +1,1548 @@
+@0
+3-1: The Memorial on Deployment
+
+@1
+Chapter 3: Northern Campaigns I
+
+@2
+Act 1: The Memorial on Deployment
+
+@3
+In the seventh year of Huangchu in Wei (226 AD), Emperor Cao Pi of Wei died at forty, in the seventh year of his reign. On his deathbed he charged Cao Zhen, Chen Qun and Sima Yi to give their full support to the next emperor, Cao Rui. The three swore loyalty to Cao Rui.
+
+@5
+Cao Zhen and the others announced Cao Pi's death and placed Cao Rui on the throne of Wei. The new emperor held an investiture for his civil and military officials, including Cao Zhen, Cao Xiu, Zhong Yao, Chen Qun and Sima Yi, and appointed them to new ranks.
+
+@6.0
+Then, Sima Yi. In praise of your merits, We appoint you General of Agile Cavalry.
+
+@7.0
+Yes, Your Majesty. I have a request. Please command me to guard Xiliang.
+
+@8.0
+Xiliang? You wish to go to such a remote frontier?
+
+@9.0
+Kongming of Shu pacified the remote Nanman as well. I believe he did it to remove any worry at his back.\n\nXiliang is to Wei what the Nanman are to Shu. I wish to improve order in Xiliang and remove any worry at Wei's back.
+
+@9.1
+I see. Then We leave Xiliang to you. Sima Yi, We count on you.
+
+@10.0
+Thank you, Your Majesty. I will begin preparing to depart at once.
+
+@11.0
+To want to go to such a frontier. Sima Yi is quite an odd one, isn't he?
+
+@11.1
+Come now, do not say so. He surely does it out of concern for Wei.
+
+@13.0
+Prime Minister, if you will excuse us.
+
+@14.0
+Prime Minister, if you will excuse us.
+
+@15.0
+Oh, Lord Guan Yu and Lord Zhang Fei. Lord Huang Zhong and Lord Yan Yan are here as well. Has something happened?
+
+@15.1
+Well, Kongming... It's hard for me to say it myself. Please, Brother Guan Yu.
+
+@15.2
+Kongming... the truth is, we have decided to retire.
+
+@16.0
+Oh, Lord Yan Yan. What is the matter?
+
+@16.1
+Prime Minister... the truth is, I have decided to retire.
+
+@17.0
+What! Could it be that Lord Huang Zhong and Lord Yan Yan as well?
+
+@17.1
+Just so.
+
+@17.2
+Old Huang Zhong cannot beat the years either. Ha ha ha ha...
+
+@18.0
+Brother... no, the late emperor has passed away, and his son has taken the throne as the new emperor.\n\nWe have resolved to give way to the younger generation.
+
+@19.0
+What!
+
+@19.1
+Old Yan Yan cannot beat the years either.\n\nThe late emperor has passed away, and his son has taken the throne as the new emperor...\n\nI have resolved to give way to the young.
+
+@20.0
+I see... It will be lonely without you...
+
+@21.0
+No matter. Guan Ping, Guan Xing and Guan Suo will serve in my place.
+
+@22.0
+No matter. Guan Xing and Guan Suo will serve in my place.
+
+@23.0
+That's right, Kongming. I'll make Zhang Bao do it properly in my place.
+
+@23.1
+Huang Zhong and I have no heirs, you see... Please accept this.
+
+@24.0
+Please, make use of it.
+
+@25.0
+...Thank you.
+
+@26.0
+Well then, Kongming. We take our leave...
+
+@27.0
+I see... Lord Guan Yu, Lord Zhang Fei, Lord Huang Zhong, Lord Yan Yan, thank you for your long service...
+
+@28.0
+Ha ha ha... Kongming. Let's skip the stiff farewells.
+
+@29.0
+Well then...
+
+@29.1
+Excuse us. Take care of yourself...
+
+@30.0
+...............
+
+@31.0
+So, I have no heir, you see...\n\nThere is no use in keeping it... Please accept this.
+
+@32.0
+...Thank you. I will treasure it.
+
+@33.0
+Well then, Prime Minister. I take my leave.
+
+@34.0
+Lord Yan Yan, thank you for your long service...
+
+@35.0
+Well then... take care of yourself...
+
+@36.0
+...............
+
+@38.0
+...Oh, Ma Su. What is it?
+
+@38.1
+Yes. I have come to talk to you about Wei.
+
+@40.0
+Dear, do not mind me. Please speak with Master Ma Su.
+
+@41.0
+Has something happened in Wei?
+
+@41.1
+Yes, Cao Pi has died. I hear Cao Rui took the throne as his heir.
+
+@41.2
+I see... So Cao Pi is dead.
+
+@41.3
+Prime Minister, there is one thing that concerns me.\n\nI hear Sima Yi has taken a post in Xiliang.
+
+@41.4
+Oh, so you noticed the gravity of the matter too.
+
+@41.5
+Yes. I hear it was all Sima Yi's scheme, getting Wu to attack Jing Province and stirring up the revolt in the Nanman...
+
+@41.6
+Yes. Sima Yi is a hero of this age...\n\nHe may well stand as a great obstacle before the Han house in the days ahead.
+
+@41.7
+Then... I have a plan.
+
+@41.8
+Oh? Tell me.
+
+@41.9
+Sima Yi went to Xiliang of his own accord.\n\nI think in his heart he wants to keep away from the center of Wei. Naturally, the great ministers of Wei must find this move of his unsettling.
+
+@41.11
+So we spread a rumor in Luoyang and elsewhere that Sima Yi means to overthrow Cao Rui and set up a new emperor... Cao Rui and the great ministers of Wei will come to suspect Sima Yi.\n\nSima Yi will be killed, or stripped of his post and driven out...
+
+@41.12
+Hmm... Very well. A rather clever plan. Ma Su, put it into effect at once.
+
+@42.0
+Yes, sir. Then I shall begin right away.
+
+@43.0
+(Ma Su... a sharp man. If only he had the capacity to command a large army, he could become my successor...)
+
+@44
+Luoyang: Inside the City
+
+@45
+Ma Su had spies spread the rumor that Sima Yi meant to depose Cao Rui and set up a new emperor. Coming just after the death of Emperor Wen, Cao Pi, the rumor soon spread through Luoyang and Xuchang.
+
+@46.0
+Hey, have you heard? That rumor.
+
+@47.0
+Heard it, heard it. The one that Sima Yi, who went to Xiliang, is going to rebel, right?
+
+@48.0
+What! There's talk like that?
+
+@49.0
+What, you haven't heard?
+
+@49.1
+I just arrived in Luoyang. I had no idea.
+
+@49.2
+I see, then it can't be helped.\n\nThe whole of Luoyang is buzzing with that rumor.
+
+@49.3
+Huh... Is that so...
+
+@50.0
+But you know, the rumor seems to be true.\n\nThey say Sima Yi drills soldiers in Xiliang every day.
+
+@50.1
+I see! He'll rebel with the troops he trained in Xiliang.
+
+@50.2
+The official reason is probably "guarding the frontier." But if you think about why he's training them... huh.\n\nBut... will Luoyang become a battlefield?
+
+@51.0
+Great, there goes my business. I thought this town had finally calmed down.
+
+@52.0
+...I see, so Sima Yi is about to rebel.\n\nThis is good news. When I get to Xuchang, I'll tell everyone.
+
+@54.0
+All of you, you must have heard by now. The rumor that Sima Yi is plotting rebellion against Us.
+
+@55.0
+Thinking it over, it makes sense that Sima Yi went to Xiliang of his own wish. Why not simply strip Sima Yi of his military authority?\n\nThen a rebellion can be prevented before it happens.
+
+@55.1
+But it is only a rumor. He has not actually rebelled. To go that far would be...
+
+@56.0
+They say there is no smoke without fire.\n\nThat this rumor has come out at all is the best proof that Sima Yi is suspect.
+
+@57.0
+It will be too late after Sima Yi has rebelled. ...Your Majesty, please decide.
+
+@57.1
+...Very well. Cao Xiu, go to Xiliang and strip Sima Yi of his post.
+
+@59.0
+Going to the frontier to plot a rebellion. What a fellow that Sima Yi is.
+
+@60
+Chencang: Council Hall
+
+@61.0
+Lord Cao Xiu, what brings you here? Has something suddenly changed in the capital?
+
+@61.1
+...An imperial decree. Sima Yi, you are stripped of your post. Return to your hometown at once.
+
+@63.0
+W-why... Lord Cao Xiu, will you tell me the reason?
+
+@63.1
+A rumor that you plot rebellion has spread through the capital.\n\nHis Majesty only meant to nip it in the bud.
+
+@63.2
+Wh-what! I have been stripped of my office over a rumor!\n\nLord Cao Xiu, I beg you. I wish to prove my innocence. Please permit me an audience with His Majesty.
+
+@63.3
+...That cannot be. If you came to the capital, that would be the very cause of confusion.\n\nI cannot allow it.
+
+@64.0
+Sima Yi, there is nothing more to be done. Return to your hometown.
+
+@64.1
+Nothing I say seems to matter. Understood. ...Then, farewell.
+
+@65.0
+(To banish me over a mere rumor. This cannot be the Emperor's idea. It must be the slander of Hua Xin and Wang Lang and their kind.)\n\n(Could such incompetents ever stand against Kongming?)\n\n(Sooner or later it is Kongming who will call me back.)
+
+@67.0
+Prime Minister, it seems the plan has worked. Sima Yi has been driven out.
+
+@68.0
+I see. ...So Wei has no men of wisdom left.
+
+@68.1
+The rest are nothing but small fry who believe in rumors. Prime Minister, we must not let this chance slip.
+
+@68.2
+Indeed... Now is the time to strike Wei.\n\nI will petition His Majesty and begin the Northern Campaign.
+
+@68.3
+His Majesty is in the Palace.\n\nLet us go to the Palace and have an audience with him.
+
+@70.0
+Let us go to the Palace. We must not let this chance slip. Let us have an audience with His Majesty.
+
+@72.0
+I see, the Northern Campaign... You mean to fight Wei to restore the house of Han.
+
+@72.1
+But Prime Minister, our army has only just finished the southern campaign.\n\nAre the troops not tired?
+
+@73.0
+No, if we miss this chance, the gap in strength between Wei and us will only grow. Compared with Wei and Wu, our Han is inferior in national power.\n\nIf we do not move first, we will inevitably fall behind.
+
+@74.0
+What does Your Majesty think?
+
+@74.1
+If the Prime Minister says so, I have no reason to object. ...I leave it to you.
+
+@75.0
+Prime Minister, please take me with you on the Northern Campaign.
+
+@76.0
+Prime Minister, leave affairs at home to us.
+
+@76.1
+We will do our best so that you can devote yourself to the Northern Campaign with an easy mind.
+
+@76.2
+Good. Then we begin the Northern Campaign. All armies, march out!
+
+@78.0
+A messenger has just come from Chang'an. It seems Kongming of Shu plans to invade Our Wei.
+
+@79.0
+What! Shu is coming to attack?
+
+@79.1
+All of you, what should be done? Let Us hear your thoughts.
+
+@80.0
+Meeting them with the advantage of terrain is surely best.\n\nThe question is who should be the commander. Since the opponent is that Kongming...
+
+@81.0
+Why is everyone so afraid of Kongming? Even Kongming is only a man.\n\nYour Majesty, leave it to me. Kongming is my father's enemy. I will go and take Kongming's head.
+
+@81.1
+Oh, Xiahou Mao. Yes, your birth father, Xiahou Yuan, was killed by Huang Zhong of Shu.
+
+@82.0
+Very well, Xiahou Mao. Go to Chang'an at once and face the Shu army.
+
+@84.0
+Your Majesty, please wait. With respect, Lord Xiahou Mao has no battle experience.\n\nThis should be given to a man with ample experience in real combat.
+
+@84.1
+No. Xiahou Mao volunteered himself.\n\nWe value Xiahou Mao's spirit. Xiahou Mao, We count on you.
+
+@85.0
+Leave it to me. Then I will march out at once.
+
+@87.0
+Once again I must leave this house empty. Forgive me.
+
+@87.1
+No, I am happy just seeing how earnest you are.\n\nI am sure this child feels the same as I do.
+
+@87.2
+A son... What kind of boy will he grow up to be?
+
+@87.3
+I asked you before, but... what do you hope this child will grow up to be?
+
+@88
+Like his father Kongming\nLike the late Liu Bei\nBrave like Zhao Yun\nI hope he grows up free
+
+@89.0
+Yes, that is true.
+
+@90.0
+Yes, that is true.
+
+@91.0
+Yes, that is true.
+
+@92.0
+Yes, I see.
+
+@93.0
+Prime Minister, preparations for the Northern Campaign are complete. Everyone has gathered in the Council Hall at Hanzhong.
+
+@94.0
+Good. Then let us go to Hanzhong at once.
+
+@95
+Go to the Council Hall in Hanzhong
+
+@96.0
+You are going to Hanzhong, are you not? Take care.
+
+@97.0
+Prime Minister, let us go to Hanzhong.
+
+@99.0
+Prime Minister, I hear the enemy commander in chief is Xiahou Mao.\n\nThe Wei forces are gathering at Chang'an.
+
+@99.1
+Xiahou Mao... Wasn't he Xiahou Yuan's son?
+
+@99.2
+Yes. But he became Xiahou Dun's adopted son and succeeded him.\n\nHe took Cao Cao's daughter, Princess Qinghe, as his wife, and as an imperial son-in-law he was given military authority, though I hear this is his first real battle.
+
+@99.3
+Oh?
+
+@100.0
+Prime Minister, to reach Chang'an we must cross the Qinling Mountains.\n\nThere are two roads: one is the Guanshan Road, the other the Xiegu Road.\n\nThe Guanshan Road is wide, so if the whole army advances, the Guanshan Road would be better.
+
+@100.1
+There is also the way of dividing the army... Now, how should we attack?
+
+@101
+Choose whether to advance with the whole army or to split the forces
+
+@102.0
+If we prepare a detached force, we might catch the enemy in a pincer.
+
+@103.0
+I believe it is best to advance by the straightforward way, with the whole army as one body.
+
+@104.0
+Let us prepare a detached force.
+
+@105.0
+The straightforward way seems best to me.
+
+@106.0
+I favor the pincer plan.
+
+@107.0
+I believe the best plan here is for the whole army to advance as one body.
+
+@108.0
+If the pincer succeeds, we can deal the enemy a heavy blow.
+
+@109.0
+I recommend the straightforward way.
+
+@110.0
+Let us use a detached force and strike the enemy from both sides.
+
+@111.0
+Let us be steady and advance with the whole army as one body.
+
+@112.0
+Which is better? I cannot quite tell...
+
+@113.0
+Have you decided on a plan?
+
+@114
+All troops, Guanshan Road\nSplit into two forces
+
+@115.0
+Understood. Then the whole army will take the Guanshan Road.
+
+@116.0
+Understood. Then the main force takes the Guanshan Road. The detached force takes the Xiegu Road.
+
+@117.0
+Leave command of the detached force to me.
+
+@118.0
+Then I leave it to Zhao Yun. Take Deng Zhi, Guan Xing and Zhang Bao with you.
+
+@119.0
+All armies, begin the march.
+
+@120.0
+So Kongming has moved. Good, the whole army heads for Mount Fengming. Crush the Shu army!
+
+@121.0
+The enemy vanguard is Han De and his son Han Ying. I hear they are brave warriors from Xiliang.
+
+@121.1
+The Shu army comes to attack us? I'll scatter them!
+
+@123.0
+You are no match for Zhao Yun! Green boy!
+
+@123.1
+Ugh! Waaah!
+
+@125.0
+Damn you, Zhao Yun! How dare you kill my son!
+
+@126.0
+You have some skill, but you picked the wrong opponent!
+
+@126.1
+What! Gwaaah!
+
+@128.0
+How dare you kill my father! Zhao Yun, now I am your opponent!
+
+@129.0
+Xiahou Mao's army has appeared.
+
+@129.1
+So they have finally come to attack! I'll drive them out.
+
+@130.0
+The enemy army seems to be wiped out. Victory is ours!
+
+@131.0
+No, the vanguard is wiped out! This is no contest!
+
+@132.0
+Xiahou Mao is running away.
+
+@132.1
+He is quick on his feet. The proud name of Xiahou weeps.
+
+@133
+Obtained 1000 gold!
+
+@134
+Obtained 500 gold!
+
+@135
+Obtained 500 gold!
+
+@136.0
+Lord Zhao Yun, splendid work. To kill the father and son Han De and Han Ying, both brave fighters, so easily.
+
+@136.1
+I will not lose to the young yet.\n\nBy the way, Han De was using a fine Wolf Fang Mace, so I took it. I entrust it to you, Prime Minister.
+
+@137.0
+The enemy vanguard is Han De and his son Han Ying. I hear they are brave warriors from Xiliang.
+
+@137.1
+The Shu army comes to attack us? I'll scatter them!
+
+@139.0
+You are no match for Zhao Yun! Green boy!
+
+@139.1
+Ugh! Waaah!
+
+@141.0
+Damn you, Zhao Yun! How dare you kill my son!
+
+@142.0
+You have some skill, but you picked the wrong opponent!
+
+@142.1
+What! Gwaaah!
+
+@144.0
+How dare you kill my father! Zhao Yun, now I am your opponent!
+
+@145.0
+Xiahou Mao's army has appeared.
+
+@145.1
+So they have finally come to attack! I'll drive them out.
+
+@145.2
+The enemy main force has arrived... Is Zhao Yun's unit not here yet?
+
+@145.3
+Not yet. What could have happened?
+
+@146.0
+The enemy army seems to be wiped out. Victory is ours!
+
+@147.0
+What, fresh enemy troops! They had split into two forces...
+
+@147.1
+I am Zhao Yun of Changshan! Whoever values his life, clear the road!
+
+@147.2
+At last our strength is gathered. Defeat Xiahou Mao!
+
+@148.0
+Enemy reinforcements! What on earth is going on!?
+
+@148.1
+Prime Minister, I am sorry. The road had collapsed, so I arrived late.
+
+@148.2
+The Xiegu Road is a hard route. It cannot be helped.
+
+@149.0
+No, the vanguard is wiped out! This is no contest!
+
+@150.0
+Xiahou Mao is running away.
+
+@150.1
+He is quick on his feet. The proud name of Xiahou weeps.
+
+@151.0
+You are late, Zhao Yun. What were you doing!?
+
+@151.1
+I am sorry. The plank road had collapsed partway along the Xiegu Road, and it took time.
+
+@151.2
+Hmm. Then it cannot be helped.
+
+@152
+Obtained 1000 gold!
+
+@153
+Obtained 500 gold!
+
+@154
+Obtained 500 gold!
+
+@155.0
+Lord Zhao Yun, splendid work. To kill the father and son Han De and Han Ying, both brave fighters, so easily.
+
+@155.1
+I will not lose to the young yet.\n\nBy the way, Han Ying was carrying a fine crossbow, so I took it. I entrust it to you, Prime Minister.
+
+@156.0
+Re-retreat! Fall back to Nan'an!
+
+@157.0
+Xiahou Mao has fled. Then we advance to Mount Qi and make camp.
+
+@158
+Mount Qi
+
+@159
+Mount Qi: Shu Camp
+
+@160.0
+Prime Minister, it seems Xiahou Mao has fled into Nan'an Castle.
+
+@160.1
+Hmm. Wang Ping, do you know anything about Nan'an?
+
+@161.0
+Nan'an Castle is famous as a strong fortress. Near Nan'an are the castles of Anding and Tianshui.\n\nIt would be best first to take either Anding or Tianshui.
+
+@161.1
+I see. Then we take Anding Castle first, and Nan'an Castle after.\n\nWe will send a false envoy to Anding Castle and lead it to send reinforcements to Nan'an Castle.\n\nWhile its army is drawn out, we take Anding Castle.
+
+@162.0
+No, we can take the castle by our own strength without such tricks. Would a direct assault not be better here?
+
+@163.0
+Prime Minister. Shall we send a false envoy and draw out Anding's army, or go with a direct assault...\n\nPlease choose the plan.
+
+@164
+Lure them out, or attack by force?
+
+@165.0
+If we can draw them out, our losses will be smaller than in a direct assault.\n\nLet us lure the enemy out.
+
+@166.0
+If the enemy sees through the lure, they will only fortify their defenses.\n\nWe should strike all at once, before the enemy fortifies.
+
+@167.0
+I think luring them out would be more effective.
+
+@168.0
+Would it not be better to storm the castle all at once here?
+
+@169.0
+Nan'an Castle is a strong fortress. Let us lure the enemy out.
+
+@170.0
+If they see through the lure, victory will be hard. Let us attack all at once.
+
+@171.0
+I cannot say either way.
+
+@172.0
+A swift attack would be best here. March out at once.
+
+@173.0
+Xiahou Mao may be an ordinary general, but Nan'an is a strong fortress. Luring them out would be better.
+
+@174.0
+I am for luring them out.
+
+@175.0
+There is no need to fear a man like Xiahou Mao.
+
+@176.0
+Prime Minister, have you chosen whether to lure the enemy out or to attack the straightforward way?
+
+@177
+Lure out Anding's army\nTake Anding by force
+
+@178.0
+Understood. We will lure out the Anding army.
+
+@178.1
+Yes. Choose one clever soldier and send him to Anding Castle.\n\nHis task is to pose as an envoy of Wei and persuade them to bring out their army. Choose with the utmost care.
+
+@178.2
+Yes. I will choose the man carefully.
+
+@179.0
+Guan Xing, Zhang Bao. There is something I need you to do. Stand by until Anding falls.
+
+@180.0
+Yes, sir. Then I will stand by with Zhang Bao. Call us when you need us.
+
+@181.0
+Understood. We will take Anding Castle by force.
+
+@181.1
+Yes. I expect it will be a hard fight, but...
+
+@182.0
+Nan'an is a strong fortress. Even Kongming cannot take it easily.
+
+@182.1
+Ma Su, what became of the false envoy sent to Anding Castle?
+
+@182.2
+He should be arriving at Anding Castle about now. I hope it goes well.
+
+@182.3
+The Shu army has attacked Nan'an Castle. Hold our own defenses firm too... Hm? What is it?
+
+@183.0
+I am a messenger from Lord Xiahou Mao! I have business with the governor of Anding, Lord Cui Liang. Where is the governor!?
+
+@183.1
+A messenger from the commander in chief...? I am Cui Liang.
+
+@183.2
+A message from Lord Xiahou Mao. Send your troops to Nan'an and strike the Shu army from the flank.\n\nAs soon as the Anding troops begin their attack on the Shu army, Lord Xiahou Mao will sally out too.\n\nI have delivered it, mind you.
+
+@183.3
+If it is Lord Xiahou Mao's word, it cannot be helped. Sortie to Nan'an!
+
+@184
+1. Occupy Anding Castle\n2. Cui Liang retreats
+
+@185.0
+Prime Minister, it seems Cui Liang of Anding Castle has sortied.
+
+@186.0
+Lord Cui Liang! The Shu army is closing in on Anding Castle!
+
+@186.1
+What! Then that envoy was a fake! Damn it, all forces attack!
+
+@187.0
+Cui Liang, you have nowhere left to run. Surrender gracefully.
+
+@187.1
+...Understood. I will surrender to the Shu army.
+
+@188.0
+Prime Minister, our army has occupied Anding Castle.
+
+@188.1
+I see. Send an envoy to the governor, Cui Liang, telling him to surrender.
+
+@188.2
+Hm? What is it!
+
+@188.3
+Lord Cui Liang... an envoy has come from the Shu army. He says Anding has fallen, so you must surrender...
+
+@188.4
+What a thing to happen. There is nothing to do but surrender.
+
+@189.0
+I ask you, Cui Liang... are you and the governor of Nan'an on close terms?
+
+@189.1
+Yes. Our commanderies are neighbors, and the governor of Nan'an, Yang Ling, and I are like brothers...
+
+@189.2
+Then persuade Yang Ling and bring Xiahou Mao back alive. If you do, your life will be spared.
+
+@189.3
+Understood. I will surely capture him.
+
+@190.0
+Lord Xiahou Mao. Cui Liang, governor of Anding, has arrived.
+
+@190.1
+I am Cui Liang.\n\n\n\nThe truth is, Kongming told me to come and capture you, Lord Xiahou Mao.
+
+@190.2
+Wh-what! You, have you betrayed Wei!
+
+@190.3
+My surrender is only a pretense. I mean to turn Kongming's plan against him and capture him.
+
+@190.4
+Oh... Turn his plan against him... That is interesting.
+
+@190.5
+I will go back once to the Shu camp and bring that Kongming here.
+
+@190.6
+And we capture Kongming inside the castle. I see, this is a fine plan.
+
+@190.7
+Good! Cui Liang, I count on you. Yang Ling, make preparations inside the castle.
+
+@191.0
+...I see. You say that because he has many attendants, it is hard to capture Xiahou Mao.
+
+@191.1
+Yang Ling agreed, but... so we ask that Master Kongming himself advance with the army...\n\nYang Ling knows the troops at the castle gates.\n\nOnce the gates are open, Xiahou Mao will have no way to defend.
+
+@191.2
+Hmm. Then I will send Guan Xing and Zhang Bao ahead. Cui Liang, take them with you.
+
+@191.3
+...Haa. Understood.\n\n(It can't be helped. I'll dispose of both of them inside the castle, then lure Kongming in.)
+
+@191.4
+Call Guan Xing and Zhang Bao. ...There is something I need them to do.
+
+@192.0
+Hm? Who is that in front of the castle gate!?
+
+@192.1
+Cui Liang of Anding! Open the gate!
+
+@192.2
+Oh, that is indeed Cui Liang. Open the gate for him.
+
+@193.0
+Cui Liang! Did you think the Prime Minister could not see through your scheme!
+
+@193.1
+Now that the gate is open, your part is over!
+
+@193.2
+Wh-what! Gwaaah!
+
+@194.0
+What! Cui Liang's plan failed!
+
+@194.1
+The gate has been opened, and Lord Cui Liang was killed by Zhang Bao. The castle is in chaos.
+
+@195.0
+Nan'an Castle is in chaos. Capture the enemy commander in chief, Xiahou Mao!
+
+@196
+1. Xiahou Mao retreats
+
+@198.0
+Weak, far too weak... The name of Xiahou weeps.
+
+@198.2
+Now, capture him.
+
+@199
+Wang Ping leveled up!
+
+@200.0
+A great achievement! I have captured Xiahou Mao!
+
+@200.2
+Now the Prime Minister will surely praise me.
+
+@201
+Ma Su leveled up!
+
+@202.0
+Damn, is this the end...
+
+@203
+Obtained 700 gold!
+
+@204
+Obtained 500 gold!
+
+@205.0
+So Nan'an Castle is ours.
+
+@205.1
+Yes. But Xiahou Mao is a sorry sight. I thought he would give us a little more trouble.
+
+@206.0
+First we take Anding Castle. Xiahou Mao comes after that.
+
+@206.1
+The Shu army has attacked! If we hold out a while, the Nan'an troops will move too. Endure until then!
+
+@206.2
+Yes, understood.
+
+@206.3
+But... will the Nan'an troops really come?
+
+@207
+1. Cui Liang retreats
+
+@208.0
+Cui Liang, you have nowhere left to run. Surrender gracefully.
+
+@208.1
+...Understood. I will surrender to the Shu army.
+
+@209.0
+Anding Castle is in danger. We sortie too and catch the Shu army in a pincer.
+
+@209.1
+The Nan'an army has begun to move. At this rate we will be hit from both sides.
+
+@209.2
+This is bad...
+
+@210.0
+The Shu army has come! Leave the castle and fight!
+
+@210.1
+Prime Minister, the Nan'an army has begun to move. Is this not bad?
+
+@211.0
+What will you do about Cui Liang?
+
+@211.1
+Leave him. Xiahou Mao is more important. We must capture Xiahou Mao at all costs.
+
+@212.0
+Leave the castle and fight! Now, let's go!
+
+@220
+Obtained 800 gold!
+
+@221
+Obtained 300 gold!
+
+@223.0
+You have captured Xiahou Mao. Then let us enter Nan'an.
+
+@224
+Nan'an
+
+@225
+Go to the Council Hall in Nan'an
+
+@226
+Nan'an: Council Hall
+
+@227.0
+...So you are Xiahou Mao?
+
+@227.1
+Y-yes. That is so.
+
+@228.0
+Please... spare my life! I b-beg you!
+
+@229.0
+Hmph! He seems not to have inherited the blood of his father, Xiahou Yuan.\n\nBegging for his life before his father's enemy.
+
+@229.1
+I have lost even the will to cut you down. Your life is spared.
+
+@229.2
+Th-thank you! I'm saved...
+
+@229.3
+Shut him up somewhere inside the castle.
+
+@230.0
+Now, only Tianshui Castle remains.\n\nIf we take Tianshui, we will have secured all the ground in this region.
+
+@231.0
+Prime Minister. I think luring them out of the castle with an envoy is the better plan.
+
+@232.0
+No, Tianshui surely has few troops and officers left now.\n\nI think we can take it easily by force.
+
+@233.0
+Prime Minister, please choose which plan to follow.
+
+@234
+Choose a plan
+
+@235.0
+I believe it would be best to lure out the Tianshui army.
+
+@236.0
+Let us attack by force.
+
+@237.0
+To show off our momentum, would a direct assault not do?
+
+@238.0
+A direct assault would only cost us troops needlessly.
+
+@239.0
+If the lure succeeds, we can win with little effort.
+
+@240.0
+Let us ride this momentum and attack by force.
+
+@241.0
+I believe it would be best to lure out the Tianshui army.
+
+@242.0
+Let us lure out the Tianshui garrison.
+
+@243.0
+The Tianshui army is not worth worrying about. Let us take it all at once.
+
+@244.0
+A direct assault will not take the castle easily.
+
+@246.0
+Have you decided on a plan?
+
+@247
+Lure out Tianshui's army\nTake Tianshui by force
+
+@248.0
+Understood. We will lure out the Tianshui army.
+
+@248.2
+Let us send the envoy at once.
+
+@249.0
+Understood. We will attack Tianshui Castle by force.
+
+@249.1
+I hear Tianshui Castle is a small castle like Anding. A direct assault is one option.
+
+@249.2
+Then let us march out.
+
+@250
+Tianshui: Council Hall
+
+@251.0
+So, Nan'an Castle is surrounded by the Shu army?
+
+@251.1
+Yes. At this rate, Nan'an Castle will fall in no time.\n\nSo on Lord Xiahou Mao's orders I have come to request relief. Please hurry.
+
+@252.0
+Understood. Then I will prepare to march out at once.
+
+@253.0
+Please do.\n\n\n\nNow, I must request aid from Anding Castle as well, so I take my leave.
+
+@254.0
+Lord Xiahou Mao is a member of the imperial family. We must go to his relief at once.
+
+@254.1
+Indeed. All forces, prepare to march out at once.
+
+@255.0
+Governor, please wait. Once you leave the castle, you will likely never return to it.\n\nYou have already fallen into Kongming's trap.
+
+@255.1
+What?
+
+@256.0
+Lord Liang Xu, who is he?
+
+@257.0
+What, you don't know? His name is Jiang Wei, style name Boyue. The prodigy of Tianshui.
+
+@258.0
+Kongming probably means to lure you out of the castle and strike with troops lying in wait along the way.\n\nAt the same time he will send a detached force to seize this castle.
+
+@258.1
+Hmm. It is indeed strange that a messenger would come from Nan'an Castle while it is besieged.\n\nVery well, then you must be right. I will cancel the sortie.
+
+@258.2
+Governor, why not turn this against him?
+
+@258.3
+Turn it against him?
+
+@258.4
+Yes. You pretend to fall for the enemy's plan and march out, while I lie in ambush around the castle.
+
+@259.0
+Then the Shu army will think its plan has worked and come to take the castle.\n\nYou turn back there and catch them in a pincer, and we can wipe out the Shu army.
+
+@260.0
+Oh, that is a fine plan. Let us carry it out at once. All forces, prepare to march out.
+
+@261.0
+It seems Ma Zun has left the castle. There are hardly any troops in the castle.
+
+@261.1
+Wei soldiers in Tianshui Castle! If you hand over the castle quietly, we will spare your lives. Surrender!
+
+@261.2
+So what? If you can take the castle, try it!
+
+@262.0
+Prime Minister, this is serious! The Tianshui army is turning back on its way to Nan'an Castle!
+
+@262.1
+What! They have read our plan...
+
+@262.2
+The spy reports that they will arrive here shortly!
+
+@263.0
+Ha ha ha! You fell for it, Shu rebels!\n\nI am Jiang Wei, officer of Tianshui! Come, fight me fair and square!
+
+@264.0
+There were troops lying in ambush outside the castle!
+
+@264.1
+Taking Tianshui looks hard... We retreat for now! Flee to the fort in the southeast!
+
+@265
+1. Kongming flees to the southeast fort\n2. Destroy the enemy units
+
+@266.0
+Do not let Kongming escape! Capture Kongming and win the credit!
+
+@266.1
+Ma Zun's army has appeared. It seems the claim that he went to Nan'an was false after all.
+
+@267.0
+I see a famed general! Come, a duel, a duel!
+
+@268.0
+As expected of Zhao Yun, better than the rumors! That is enough for today. I will withdraw.
+
+@268.1
+Remarkable, that such a master of arms could be found in a remote place like this.\n\nIt is good to be young. In time he will surely become a better fighter than I...
+
+@270.0
+I see a famed general! Come, a duel, a duel!
+
+@271.0
+Th-this is formidable skill. And our side is outnumbered... Never mind, withdraw!
+
+@271.1
+Wait, Wei Yan, I won't let you escape! ...No good, I cannot catch him.
+
+@272.0
+Who on earth saw through my plan...?\n\nIn any case, we must regroup.
+
+@273.0
+We have cleared away the enemy for now... but there may still be something more. Let us start over once.
+
+@275
+Obtained 1300 gold!
+
+@276
+Tianshui: Council Hall
+
+@277.0
+Governor, the Shu army has swarmed down on Tianshui!
+
+@277.1
+...They have come at last. Should we hold the castle, or march out and fight...
+
+@278.0
+Governor, I have a plan.
+
+@278.1
+Oh? Tell me.
+
+@279.0
+Lord Liang Xu, who is he?
+
+@280.0
+What, you don't know? His name is Jiang Wei, style name Boyue. The prodigy of Tianshui.
+
+@281.0
+Before the Shu army comes, we leave only the governor and some of the troops inside the castle.\n\nThe other units lie in ambush around Tianshui Castle, and when the Shu army nears the castle...\n\nwe strike from three sides.
+
+@282.0
+That is a fine plan. If the Shu army sees how few troops are in Tianshui Castle, they will let down their guard.\n\nVery well, let us carry it out at once.
+
+@283.0
+Then we will lie in ambush with our troops outside the castle.
+
+@284.0
+We attack Tianshui Castle. Capture the governor of Tianshui, Ma Zun!
+
+@284.1
+Heh heh heh... Just as Jiang Wei said. Drive back the Shu army!
+
+@285
+1. Ma Zun retreats
+
+@286.0
+To think you would defeat me. But it is too late now. You are already surrounded.
+
+@287.0
+Good, now is about the time. Go!
+
+@288.0
+Prime Minister, this is serious! I see Wei forces on every side! We are surrounded!
+
+@288.1
+I am Jiang Wei of Tianshui! Kongming, you are surrounded! Surrender at once!
+
+@288.2
+An ambush! At this rate our retreat will be cut off. Retreat for now, back to the fort in the southeast!
+
+@289
+1. Kongming flees to the southeast fort\n2. Destroy the enemy units
+
+@291.0
+I see a famed general! Come, a duel, a duel!
+
+@292.0
+As expected of Zhao Yun, better than the rumors! That is enough for today. I will withdraw.
+
+@292.1
+Remarkable, that such a master of arms could be found in a remote place like this.\n\nIt is good to be young. In time he will surely become a better fighter than I...
+
+@294.0
+I see a famed general! Come, a duel, a duel!
+
+@295.0
+Th-this is formidable skill. And our side is outnumbered... Never mind, withdraw!
+
+@295.1
+Wait, Wei Yan, I won't let you escape! ...No good, I cannot catch him.
+
+@296.0
+Who on earth saw through my plan...? In any case, we must regroup.
+
+@297.0
+We have cleared away the enemy for now... but there may still be something more. Let us start over once.
+
+@298
+Obtained 1500 gold!
+
+@300
+Tianshui: Shu Camp
+
+@301.0
+To see through my stratagem... I never thought there would be such a man in a remote place like Tianshui.
+
+@302.0
+Prime Minister. I hear our army was defeated because a man named Jiang Wei offered a plan.
+
+@302.1
+Jiang Wei? I do not know the name... Does anyone here know Jiang Wei?
+
+@303.0
+Prime Minister, I have heard rumors of Jiang Wei.\n\nHis style name is Boyue, and he was born in Ji Castle in Tianshui Commandery. His father died early in battle, so he lives with his mother alone.\n\nThe reputation I heard once was of a dutiful, kind-hearted boy, gifted in both letters and arms.
+
+@303.1
+Oh...
+
+@303.2
+At fifteen or sixteen he had mastered learning enough to astonish scholars and elders... And I hear his skill at arms is peerless in the realm too.
+
+@304.0
+Is he truly such a man... I would very much like him under my command. Born in Ji Castle and a dutiful son... Does Jiang Wei's mother still live in Ji Castle?
+
+@304.1
+I have not heard that she moved. Most likely she does.
+
+@304.2
+If we attack Ji Castle, the dutiful Jiang Wei will surely come to save it. If we can lure him, I have a plan.\n\nVery well! The whole army now heads for Ji Castle. Tianshui Castle comes after we take Ji Castle.
+
+@305
+Tianshui: Council Hall
+
+@306.0
+Governor! I hear the Shu army has headed for Ji Castle!
+
+@306.1
+Yes. So it seems.
+
+@306.2
+Governor, please permit me to sortie! My mother is in Ji Castle now.\n\nIf anything happened to her...
+
+@306.3
+You must be worried. Very well, I permit the sortie. Go and look after her well.
+
+@307.0
+Thank you! Then I will go to Ji Castle at once.
+
+@308
+Ji Castle: Shu Camp
+
+@309.0
+Prime Minister, a report has come in that Jiang Wei is headed for Ji Castle.
+
+@309.1
+I see... Ma Dai, bring Xiahou Mao here.
+
+@309.2
+Xiahou Mao, sir? Yes, sir!
+
+@310.0
+Y-you called for me? What could this be about?
+
+@310.1
+Do not be afraid. We do not mean to execute you.
+
+@311.0
+Huh? Th-then... what do you need of me?
+
+@311.1
+You surely value your life. If you will carry a message to Tianshui, I will release you.\n\nTell Ma Zun, governor of Tianshui: Jiang Wei of Ji Castle has already surrendered. You should surrender quickly too.
+
+@311.2
+...Y-yes. But if it is a call to surrender, would one messenger not be enough?
+
+@311.3
+You need not concern yourself. If you deliver it, your life is spared. You will do it.
+
+@312.0
+Y-yes! If it saves my life, I will gladly deliver the message.
+
+@312.1
+Water, food and a horse are ready. Set out at once.
+
+@312.2
+Yes, sir!!
+
+@313.0
+With this Jiang Wei will be isolated. Ma Su!
+
+@315.0
+After we take Ji Castle, protect Jiang Wei's mother. Then Jiang Wei will have no choice but to join us.
+
+@316.0
+Now, as for Jiang Wei himself... either we capture him on his way to Ji Castle, or let him enter Ji Castle first and lure him out along with his army.
+
+@316.1
+Prime Minister, please choose the plan.
+
+@317
+Choose a plan
+
+@318.0
+I believe it is best to capture Jiang Wei on his way to Ji Castle.
+
+@319.0
+I think it best to let him into Ji Castle, lure him out, and take the castle.
+
+@320.0
+Let us lie in wait on the highway and capture Jiang Wei.
+
+@321.0
+Let us lure him out along with the Ji Castle army.
+
+@322.0
+Wouldn't it be bad to let him into Ji Castle? Let us capture Jiang Wei on the way.
+
+@323.0
+First let Jiang Wei into Ji Castle and make him careless.
+
+@324.0
+Jiang Wei is a man of considerable talent. We must not be careless.
+
+@325.0
+Jiang Wei is no match for the Prime Minister's plan.
+
+@326.0
+Let us capture him on the way.
+
+@327.0
+Which would be better? It is difficult.
+
+@328.0
+If we can win Jiang Wei, the Han court will have another man of talent.
+
+@329.0
+Excellent in both wits and valor, is he... Where does that leave me, a man of valor alone...
+
+@330.0
+Prime Minister, have you decided on a plan?
+
+@331
+Ambush on the road to Ji\nLet him in, then lure him
+
+@332.0
+Understood. Then we will capture Jiang Wei on his way to Ji Castle.
+
+@332.1
+Yes. Wei Yan, Guan Xing, Guan Suo, Zhang Bao, Wang Ping, Ma Dai.\n\nLay your troops in ambush along the road to Ji Castle. When Jiang Wei comes, you must capture him.
+
+@333.0
+Understood. We let Jiang Wei enter Ji Castle, lure him out and occupy it.
+
+@333.1
+But would it not be bad if they hold the castle?
+
+@333.2
+No need to worry. Ji Castle has almost no stored provisions.\n\nIf we cut the supply line, Jiang Wei will surely leave the castle.
+
+@334.0
+Mother... Please be safe until Jiang Wei arrives!
+
+@334.1
+Jiang Wei has begun to move. Just as expected.
+
+@334.2
+Good. Capture Jiang Wei!
+
+@335
+1. Jiang Wei is routed
+
+@336.0
+Jiang Wei! Do you think the Tianshui army can beat ours? Surrender at once!
+
+@336.1
+Damn it, shut up!
+
+@337.0
+Jiang Wei! Where do you think you are going? You will not pass here!
+
+@337.1
+You! Get out of my way!
+
+@338.0
+Do not run, Jiang Wei! Surrender gracefully!
+
+@338.1
+At a time like this... Move! Move!!
+
+@338.2
+Tch... what a stubborn fellow.
+
+@340.0
+Jiang Wei! Surrender gracefully!
+
+@340.1
+Shut up! Haaah!!
+
+@340.2
+Whoa! Jiang Wei, wait!
+
+@342.0
+Jiang Wei, you have fought well enough. Will you not surrender here?
+
+@342.1
+Shut up! I am an officer of Wei. Why should I surrender!
+
+@342.2
+You are already surrounded by our army. Even so, you will not surrender?
+
+@342.3
+Of course not!
+
+@343.0
+Prime Minister, I am sorry. Jiang Wei got away from us.
+
+@343.1
+It is all right. I have others following him. We will know where he is soon.\n\nHe cannot return to Wei in any case. The fighting can end here. Now we must make the finishing move.
+
+@344.0
+D-damn! At this rate I will be captured by Shu. I will go into hiding for now. Mother... forgive me.
+
+@345.0
+Governor. It seems Jiang Wei has arrived safely.
+
+@345.1
+Good, all forces sortie! Jiang Wei and I will catch the Shu army in a pincer!
+
+@345.2
+What is it? Has something happened?
+
+@345.3
+The Tianshui army has begun to move. It is heading this way.
+
+@346
+Obtained 1200 gold!
+
+@348.0
+Kongming, if you can take this castle, try it.\n\n...Hm? What is it?
+
+@348.1
+Lord Jiang Wei, this is serious. Our provisions are running low.
+
+@348.2
+I see... There were few stored to begin with.\n\nIt can't be helped. There should be a village nearby. We will get food there.
+
+@348.3
+The village northeast of this castle, right? Let us go at once.
+
+@348.4
+Jiang Wei has left Ji Castle. Just as planned.
+
+@348.5
+While Jiang Wei and his men are away from the castle, we rush inside. Understood.
+
+@348.6
+Lord Ma Zun, it seems the Shu army has gone to take Ji Castle.
+
+@348.7
+Good. Leave the castle and strike the Shu army from behind!
+
+@349
+1. Occupy Ji Castle\n2. Rout Jiang Wei
+
+@350.0
+Lord Jiang Wei, this is serious! The Shu army is heading for Ji Castle.
+
+@350.1
+What! Damn, I let my guard down! Turn back at once!
+
+@351.0
+Lord Jiang Wei, this is serious! The Shu army is heading for Ji Castle.
+
+@351.1
+What! Damn, I let my guard down! Turn back at once!
+
+@352.0
+We managed to get provisions. Now we can rest easy.
+
+@352.1
+Lord Jiang Wei, this is serious! The Shu army is heading for Ji Castle.\n\nIt is as if they foresaw that we would be away.
+
+@352.2
+What! Damn. So this was the Shu army's aim! Turn back at once!
+
+@353.0
+Ah, what a thing. Ji Castle has fallen.\n\n...It can't be helped. Let us return to Tianshui.
+
+@354.0
+That was close. In any case, we got provisions. Fight to your fullest!
+
+@354.1
+Yes, sir!
+
+@355.0
+That was close. It is a pity we could not secure provisions, but...
+
+@355.1
+...
+
+@356.0
+Curse you, Shu army! I will not lose!
+
+@357.0
+D-damn! At this rate I will be captured by Shu. I will go into hiding for now. Mother... forgive me.
+
+@358
+Obtained 800 gold!
+
+@359
+Ji Castle outskirts: Grassland
+

@@ -1,0 +1,1305 @@
+@0
+Liu Bei's Base: Xinye
+
+@1
+Xinye: Council Hall
+
+@2.0
+This is Zhuge Liang, who joins our army as strategist from today. All of you, follow his instructions.\n\nKongming, these are the officers of my army. Please greet them all.
+
+@3
+Speak with the Officers
+
+@4.0
+Please greet everyone, just to be proper. For my part, I lead the infantry.
+
+@5.0
+I am Guan Yu, styled Yunchang. I lead the cavalry in our army. I look forward to working with you.
+
+@6.0
+I'm the great Zhang Fei! Style name, Yide. What, I'm the last one? You're making light of me!!
+
+@7.0
+I'm the great Zhang Fei! Style name, Yide. Cavalry. That's enough, isn't it? Go greet the others!
+
+@8.0
+I am Zhao Yun, styled Zilong. I lead cavalry. I look forward to working with you.
+
+@9.0
+I am Mi Zhu, styled Zizhong. On the battlefield, I am in charge of the band.
+
+@10.0
+I am Mi Fang, styled Zifang, younger brother of Mi Zhu. I lead the infantry.
+
+@11.0
+I am Guan Ping, adopted son of Guan Yu. I command cavalry under my father.
+
+@12.0
+I am Liu Feng, adopted son of Lord Liu Bei. I have been entrusted with a cavalry unit. A pleasure.
+
+@13.0
+I am Zhou Cang. I was once a bandit, but since I submitted to Lord Guan Yu I have mended my ways.
+
+@14.0
+M-my lord! This is terrible!
+
+@14.1
+What is it?!
+
+@14.2
+Cao Cao's army is attacking!
+
+@14.3
+What?! Sun Qian, tell me in more detail.
+
+@15.0
+Yes, my lord! The enemy commander is Xiahou Dun, with Yu Jin, Li Dian and Han Hao as his lieutenants.\n\nTheir vanguard has already reached Bowang.
+
+@15.1
+So Cao Cao has come at last... Kongming, do you have a good plan?
+
+@17.0
+This is serious, isn't it? Now, now, whatever shall we do?
+
+@18.0
+Well, well, a crisis, a crisis! Let's borrow a bit of wisdom from our fine strategist, shall we?
+
+@19.0
+Master Strategist, we must work out a countermeasure at once.
+
+@20.0
+Master Strategist, what will you do? Do you have a plan?
+
+@21.0
+Cao Cao's army is huge. What shall we do?
+
+@22.0
+We would like you to explain the plan to us.
+
+@23.0
+So Cao Cao's army has come at last... Strategist, what do you intend to do?
+
+@24.0
+What shall we do?
+
+@25.0
+I forgot to introduce myself. I am Sun Qian, styled Gongyou, in charge of food supply.\n\nThe commander of Cao Cao's army is the fierce Xiahou Dun. Master Strategist, what will you do?
+
+@26.0
+Do not worry. I, Kongming, have a plan, and if we follow it we will be fine.\n\nOnly...
+
+@26.1
+Only? Is there some problem?
+
+@26.2
+I have only just entered your service, my lord, and I have not yet earned the trust of the officers.\n\nTo make the plan succeed we need perfectly unified command. But some of them seem dissatisfied with my leadership.
+
+@26.3
+Hmm... And what is the plan?
+
+@26.4
+There are two. The first is an attack by fire.\n\nThe road at Bowang is too narrow for a large army to pass. When Cao Cao's army goes through it, we use fire to split it in two.
+
+@26.5
+Yes, an attack by fire... And the other plan?
+
+@26.6
+I hear the enemy commander is Xiahou Dun. He is a fierce warrior, but short-tempered.\n\nWhen he learns that we are few, he will charge in himself. We strike then, and isolate him with an ambush.
+
+@26.7
+I see. Understood. If either plan goes wrong by even one step, our whole army could be wiped out.
+
+@26.8
+Exactly, my lord. But we cannot win by fighting head-on.
+
+@26.9
+Yes. Then I will see to it that your orders are obeyed. I leave the plan to you.\n\nWhich shall it be, the plan of fire or the plan of isolation?
+
+@27
+Give the orders.\nLet me be extra careful.
+
+@28.0
+My lord, I wish to be doubly careful. May I ask you to lend me your sword and seal of office...?
+
+@28.1
+That is fine, but... what will you do with a sword and seal?
+
+@28.2
+Then I shall borrow them for a while.
+
+@29
+Attack by fire.\nTarget the enemy general.
+
+@30.0
+(Lure the enemy into the valley, then set it ablaze and throw them into confusion. Shall I go with this plan...?)
+
+@31.0
+Then we shall meet the enemy at Bowang! I will give each of you instructions, so all officers, follow my orders!
+
+@32.0
+(Place an ambush and go after the enemy commander, Xiahou Dun...?)
+
+@33.0
+Then we shall meet the enemy at Bowang! I will give each of you instructions, so all officers, follow my orders!
+
+@34.0
+Hold on a moment!!
+
+@35.0
+Zhang Fei, what is it?
+
+@36.0
+I have no intention of taking orders from a greenhorn like you!
+
+@37.0
+Silence! Can you not see that I hold my lord's sword and seal?!\n\nSince my lord has entrusted everything to me, my orders are his orders.\n\nAnyone who defies them, whoever it may be, I will cut down!
+
+@38.0
+Grrah! W-what?! A fellow like you could never cut down the great Zhang Fei!
+
+@39.0
+Zhang Fei, stop it. It is true that Kongming holds Brother's sword and seal.\n\nTo defy him now is to defy Brother. For the time being, let us fight as instructed.\n\nThere will be time enough to deal with him after we see how the battle turns out.
+
+@40.0
+A-all right. I'll move as ordered this time.\n\nHmph! Then let's get going, quick.
+
+@41.0
+Zhang Fei, this is no time for quarrels among ourselves. Obey the strategist's instructions.
+
+@42.0
+Sorry, Brother, but... I just can't trust this fellow.\n\nThis time only, I'll do as I please. Brother Guan Yu, let's go!
+
+@43.0
+Guan Yu... You will obey the strategist's instructions, won't you?
+
+@44.0
+Brother, I am sorry, but... this time I will go with Zhang Fei.
+
+@45.0
+Very well. Then the whole army, march out!
+
+@46.0
+Very well. Then the whole army, march out!
+
+@47.0
+I'm sorry, Kongming. It is because I am so useless.
+
+@47.1
+It cannot be helped. For now, let us put defeating the enemy first.
+
+@47.2
+Kongming, with those two gone, what will we do about the plan?
+
+@47.3
+The damage we can deal the enemy will be smaller, but...\n\nWe will still split Cao Cao's army with fire and strike down the commander, Xiahou Dun.\n\nIf Xiahou Dun falls, the rest of his officers and troops will surely retreat.
+
+@48.0
+I'm sorry, Kongming. It is because I am so useless.
+
+@48.1
+It cannot be helped. For now, let us put defeating the enemy first.
+
+@48.2
+Kongming, with those two gone, what will we do about the plan?
+
+@48.3
+They will not hold for long, but...\n\nI will have Liu Feng and Guan Ping hold back the enemy's rear units.\n\nThe enemy commander, Xiahou Dun, we will strike down ourselves: you, my lord, Zhao Yun and I.\n\nIf their commander is defeated, the enemy will retreat.
+
+@49.0
+The whole army marches for Bowang.
+
+@50
+1: Xiahou Dun's Retreat
+
+@51.0
+Now, the orders. First, Zhao Yun, you will lure Xiahou Dun out.
+
+@51.1
+Yes, sir!
+
+@51.2
+Xiahou Dun is brave, but he looks down on his enemies. If you go alone, he will surely charge at you.\n\nThen flee south on purpose and draw his army out.\n\nWe must not let him see through our hand. Flee south quickly, understood?
+
+@51.3
+Understood.
+
+@51.4
+My lord, until Xiahou Dun is in the trap, please keep the other officers from making any move.
+
+@51.5
+Yes, understood. By the way, I do not see Guan Yu or Zhang Fei?
+
+@51.6
+I have had Guan Yu and Zhang Fei lie in wait with troops at Yushan and Anlin respectively.
+
+@51.7
+I see.
+
+@51.8
+General Xiahou! The enemy vanguard has appeared. Their banner reads "Zhao Yun."
+
+@51.9
+Hmph, how impudent. Cavalry, follow me!\n\nFirst we make blood sacrifice of this Zhao Yun, or whatever his name is!
+
+@52.0
+General Xiahou! Our scouts report that the enemy is preparing an attack by fire!
+
+@52.1
+What! So that is why Guan Yu and Zhang Fei were nowhere to be seen!
+
+@52.2
+But our scouts struck suddenly and disrupted their preparations. If we attack, now is the time!
+
+@52.3
+Oh, well done! Right, the whole army charges!!
+
+@53.0
+What, they saw through the fire plan?! We should have lured the enemy out sooner...
+
+@53.1
+What a thing... It seems we are in trouble.
+
+@53.2
+It cannot be helped now. Let us strike the enemy head-on.
+
+@54.0
+The fire plan has failed... This will be a hard fight.
+
+@54.1
+Told you so! That's why I said not to trust a greenhorn like that!
+
+@54.2
+Even so, we cannot stand by and watch our army be beaten. Zhang Fei, we fight too!
+
+@54.3
+All right!! Leave it to me, Brother.
+
+@55.0
+What! Zhao Yun was defeated? As expected of Xiahou Dun...
+
+@55.1
+To make the fire plan work, we must draw the enemy in much further. Then there is only one way...
+
+@55.2
+Understood. I will be the bait.
+
+@55.3
+So that Zhao Yun has run off. Good, next is Liu Bei's head! The whole army charges!
+
+@56.0
+Good! Now! Set the fire! Burn Cao Cao's army to ashes!
+
+@57.0
+Whoaaa! W-what, an attack by fire?! Damn you...!!
+
+@58.0
+Good! Strike them down all at once!!
+
+@59.0
+That Kongming, he's pretty good! All right! The whole army, charge!!
+
+@59.1
+Oh! It worked splendidly... As expected of you, Kongming.
+
+@59.2
+No, it was nothing. More importantly, let us hit the enemy thoroughly while they are in confusion.
+
+@60.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@61
+Got 500 gold!
+
+@62.0
+Hey, hey, we won. Weren't we supposed to use fire?
+
+@62.1
+Still, to win without us... That man Kongming is rather good.
+
+@62.2
+...Yeah. Can't be helped, I guess. Let's give him credit!
+
+@62.3
+Lord Zhang Fei, did you say something?
+
+@62.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@62.5
+Heh heh, is that so.
+
+@62.6
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@63.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@64
+Got 500 gold!
+
+@65.0
+We did it! Let Cao Cao's army come any time!
+
+@65.1
+Yes. ...Though the fire plan did not work, his command afterward was splendid. That man Kongming is rather good.
+
+@65.2
+I guess so. And it doesn't look like the fire plan failing was his fault.
+
+@65.3
+I am sorry...
+
+@65.4
+Ha ha ha! Don't mention it! Don't worry about it, Zilong.\n\nWell, nothing to be done. Let's give that Kongming credit too!
+
+@65.5
+Lord Zhang Fei, did you say something?
+
+@65.6
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@65.7
+Heh heh, is that so.
+
+@65.8
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@66.0
+We did it! Let Cao Cao's army come any time!
+
+@66.1
+Yes. But that man Kongming...\n\nReading the enemy general's temper to predict his moves, and beating a large army with few troops... Not just anyone can do that. He is quite a man...
+
+@66.2
+Hmm... I guess so. Can't be helped! Let's give him credit!
+
+@66.3
+Lord Zhang Fei, did you say something?
+
+@66.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@66.5
+Heh heh, is that so.
+
+@66.6
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@67.0
+Still no match for me!
+
+@68
+Guan Yu leveled up!
+
+@69.0
+The whole army marches for Bowang.
+
+@70
+1: Xiahou Dun's Retreat
+
+@71.0
+Xiahou Dun is known as a fierce warrior. He relies so much on his own valor that he tends to look down on his enemies.\n\nSo if we make no move, he will think we are afraid and pursue us.\n\nIf only the commander, Xiahou Dun, runs ahead, he will soon be isolated. That is when we strike with the ambush.
+
+@71.1
+I see. A superb plan.
+
+@71.2
+The ambush is already in place. Please keep the army still until Xiahou Dun is in the trap.
+
+@71.3
+Understood. So for a while, we just watch.
+
+@72.0
+Strange... By now Liu Bei must know how my army is moving. Yet he does not even come out to meet us? ...Is he afraid of my great host!
+
+@72.1
+General Xiahou, the enemy may have some plan.
+
+@72.2
+They say Kongming's wits surpass even Xu Shu's. It would be dangerous to rush in carelessly.
+
+@72.3
+No, you are wrong! Liu Bei is afraid of Xiahou Dun!\n\nAdvance! Charge straight on to Xinye!
+
+@73.0
+General Xiahou! A report just came from our scouts: the enemy has placed an ambush!
+
+@73.1
+What! So that is why we could not see the enemy army!
+
+@73.2
+But our scouts made a surprise attack and scattered the ambushers. If we attack, now is the time!
+
+@73.3
+Oh, well done! Right, the whole army charges!!
+
+@74.0
+What, they saw through the ambush?! Hmm...\n\nXiahou Dun was more cautious than I thought... Did I underestimate him...
+
+@74.1
+What a thing. To have the ambush seen through...
+
+@74.2
+It cannot be helped now. The situation is against us, but let us meet the enemy head-on.
+
+@75.0
+The ambush was seen through... This will be a hard fight.
+
+@75.1
+Told you so! Xiahou Dun is no fool. Things don't always go as you plan!
+
+@75.2
+Now that it has come to this, all we can do is fight with everything we have. Let's go! The enemy is right in front of us!
+
+@75.3
+All right!! Leave it to me, Brother!
+
+@76.0
+Hmm... The advance seems almost too easy. There may well be something.\n\nStill, if I turn back now I will only be laughed at... Ah, never mind. Forward, forward!
+
+@77.0
+Good! Zhao Yun, Liu Feng, Guan Ping! Hold back the enemy officers!
+
+@78.0
+What!! An ambush?!\n\nDamn. I pushed out too far! Ugh, fall back!!
+
+@78.1
+Xiahou Dun's unit has had its retreat cut off, and his troops are terrified. Now is the time to strike!
+
+@79.0
+Damn! The commander is isolated. I will go to his aid at once!
+
+@80.0
+Good! Xiahou Dun's unit is in confusion. Strike them down all at once!!
+
+@81.0
+That Kongming, he's pretty good. All right! The whole army, charge Xiahou Dun!!
+
+@81.1
+Oh! It worked splendidly... As expected of you, Kongming.
+
+@81.2
+No, it was nothing. While the rear units are held back, let us strike down the commander, Xiahou Dun.
+
+@82.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@83
+Got 500 gold!
+
+@84.0
+Ha! Serves you right, Xiahou Dun!
+
+@84.1
+Yes. But that man Kongming...\n\nReading the enemy general's temper to predict his moves, and beating a large army with few troops... Not just anyone can do that. He is quite a man...
+
+@84.2
+Hmm... I guess so. Can't be helped! Let's give him credit!
+
+@84.3
+Lord Zhang Fei, did you say something?
+
+@84.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@84.5
+Heh heh, is that so.
+
+@84.6
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@85.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@86
+Got 500 gold!
+
+@87.0
+We did it! Let Cao Cao's army come any time!
+
+@87.1
+Yes. But that man Kongming... he is not to be underestimated.\n\nThe road at Bowang is so narrow that a large army cannot pass at once. Because the battle was fought at Bowang, even our small force was able to fight a large army and win.
+
+@87.2
+So we won thanks to him choosing Bowang as the battlefield... Maybe Brother is right. Well, we won the battle, so I guess I can give him credit!
+
+@87.3
+Lord Zhang Fei, did you say something?
+
+@87.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@87.5
+I see. The ambush failed because I misjudged. I am truly sorry.
+
+@87.6
+It's fine, it's fine. Don't worry about it.
+
+@87.7
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@88.0
+We did it! Let Cao Cao's army come any time!
+
+@88.1
+Yes. But that man Kongming... he is not to be underestimated.\n\nReading the enemy general's temper to predict his moves, and beating a large army with few troops. Not just anyone can do that.
+
+@88.2
+I guess so. Can't be helped, I'll give him credit!
+
+@88.3
+Lord Zhang Fei, did you say something?
+
+@88.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@88.5
+Heh heh, is that so.
+
+@88.6
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@89.0
+Still no match for me!
+
+@90
+Guan Yu leveled up!
+
+@91.0
+The whole army marches for Bowang.
+
+@92
+1: Xiahou Dun's Retreat
+
+@93.0
+I never thought he would dash out with no plan at all.
+
+@93.1
+Bah! With me and Brother here, there's no need to fear Cao's army!\n\nWe'll show Brother we're fine without any Kongming!!
+
+@93.2
+...\n\nFollowing you may have been a mistake...
+
+@93.3
+Here they come. The enemy has shown up!
+
+@94.0
+My lord, the one fighting over there seems to be Lord Guan Yu.
+
+@94.1
+I don't see Zhang Fei... Honestly, acting on his own like that.
+
+@94.2
+Zhao Yun, please tell Guan Yu to act as bait, as you do.
+
+@94.3
+Tell him that if he does not obey, we cut our brotherhood.
+
+@94.4
+Understood. Then I will go!
+
+@95.0
+My lord, the one fighting over there, could that be Lord Zhang Fei?
+
+@95.1
+I don't see Guan Yu... Honestly, acting on his own like that.
+
+@95.2
+Zhao Yun, please tell Zhang Fei to act as bait, as you do.
+
+@95.3
+Tell him that if he does not obey, we cut our brotherhood.
+
+@95.4
+Understood. Then I will go.
+
+@96.0
+My lord, are those two fighting over there Lord Guan Yu and Lord Zhang Fei?
+
+@96.1
+So both are safe... Honestly, acting on their own like that.
+
+@96.2
+Zhao Yun, please tell both generals to act as bait, as you do.
+
+@96.3
+Tell them that if they do not obey, we cut our brotherhood.
+
+@96.4
+Understood. Then I will go.
+
+@97.0
+My lord, I do not see Lord Guan Yu or Lord Zhang Fei, who went out ahead of us.
+
+@97.1
+Hmm... Where have those two gone? I hope they are safe...
+
+@97.2
+Zhao Yun, please act as the bait to lure Xiahou Dun in.
+
+@97.3
+Understood. Then I will go.
+
+@98.0
+Lord Guan Yu, please help me lure the enemy in.
+
+@98.2
+My lord says that if you do not obey, he will cut the brotherhood.
+
+@98.3
+If Brother says that much, I have no choice but to obey... Very well.
+
+@99.0
+Lord Zhang Fei, please help me lure the enemy in.
+
+@99.1
+S-shut up! I won't follow Kongming's orders! I already said so before!
+
+@99.2
+Even if my lord says he will cut your brotherhood?
+
+@99.3
+What?! Brother would never say such a thing!
+
+@99.4
+No, it is true.
+
+@99.5
+Hmm, true enough... You would never lie...\n\nA-all right! All right! I just have to lure them in, right? Damn it!!
+
+@100.0
+Both of you! Please help me lure the enemy in.
+
+@100.1
+Shut up! I won't follow Kongming's orders! I already said so before!
+
+@100.2
+Even if my lord says he will cut your brotherhood?
+
+@100.3
+What! Brother said such a thing!
+
+@100.4
+Y-you're lying, Zilong!
+
+@100.5
+No. These are my lord's own words.
+
+@100.6
+Hmm, if Brother says that much, we have no choice but to obey. Zhang Fei, we are going back.
+
+@100.7
+A-all right. Damn it!!
+
+@101.0
+Xiahou Dun! Zhao Yun of Changshan will be your opponent!
+
+@101.1
+What, you insolent fellow. It is too late to regret it!
+
+@101.2
+No more talk! Come at me, quickly!
+
+@102.0
+General Xiahou! The enemy seems to be preparing an attack by fire!
+
+@102.1
+What! Damn them, what insolent tricks!
+
+@102.2
+But our scouts made a surprise attack and seem to have disrupted their preparations. If we attack, now is the time!
+
+@102.3
+Oh, well done! Right, the whole army charges!!
+
+@103.0
+What, they saw through the fire plan?! We should have lured the enemy out sooner...
+
+@103.1
+What a thing... It seems we are in trouble.
+
+@103.2
+It cannot be helped. The situation is against us, but let us meet the enemy head-on.
+
+@104.0
+Ha, there they are! Heh heh... We'll trample them in one go. The whole army, charge!!
+
+@104.1
+General Xiahou, the enemy may have some plan. It is dangerous to rush in carelessly!
+
+@104.2
+What are you being so timid for! Like that, even winnable battles can't be won!\n\nNever mind! Go!!
+
+@105.0
+Good! Now, set the fire! Burn Cao Cao's army to ashes!
+
+@106.0
+Whoaaa!! W-what, fire?! Damn!
+
+@107.0
+Good! Strike them down all at once!!
+
+@108.0
+That Kongming, he's good! All right. The whole army, charge Cao's army!!
+
+@109.0
+Oh! It worked splendidly! As expected of you, Kongming.
+
+@109.1
+No, it was nothing. More importantly, let us hit the enemy thoroughly while they are in confusion.
+
+@110.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@111
+Got 500 gold!
+
+@112.0
+Phew! That's over, Brother.
+
+@112.1
+Yes... But we were only lucky this time.\n\nIf I went along with you every time, I would not survive it.
+
+@112.2
+Aw, come on, that's not fair.
+
+@112.3
+Ha ha ha. But we cannot rely on luck every time. We do need a strategist.
+
+@112.4
+Well, it's true this one was rough.
+
+@112.5
+He is the man Xu Shu recommended, after all... I suppose we have no choice but to accept him as our strategist.
+
+@112.6
+I guess so. Can't be helped! Let's give him credit!
+
+@112.7
+Lord Zhang Fei, did you say something?
+
+@112.8
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@112.9
+Is that so. Still, I am impressed by the valor of you both.\n\nBut from now on, I ask you to refrain from this sort of thing. There is no officer anywhere who could take your place...
+
+@112.10
+Guan Yu, Zhang Fei. Kongming is right.
+
+@112.11
+Brother, I am sorry.
+
+@112.12
+Sorry... I'm reflecting on it.
+
+@112.13
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@113.0
+Damn! At this rate we'll just be cut down for nothing!\n\nEvery unit, attack the nearest enemy on your own!!
+
+@114.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@115
+Got 500 gold!
+
+@116.0
+We did it! Let Cao Cao's army come any time!
+
+@116.1
+Yes. ...Though the fire plan did not work, his command afterward was splendid. That man Kongming seems rather good.
+
+@116.2
+I guess so. And the fire plan failing wasn't his fault either.
+
+@116.3
+He is the man Xu Shu recommended... Shall we not accept him as our strategist?
+
+@116.4
+Right! Let's give Kongming credit!
+
+@116.5
+Lord Zhang Fei, did you say something?
+
+@116.6
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@117.0
+Is that so. But from now on, I ask you to refrain from acting on your own.\n\nThere is no officer anywhere who could take your place...
+
+@117.1
+Guan Yu, Zhang Fei. Kongming is right.
+
+@117.2
+Brother, I am sorry.
+
+@117.3
+Sorry... I'm reflecting on it.
+
+@117.4
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@118.0
+We did it! Let Cao Cao's army come any time!
+
+@118.1
+Yes. But that man Kongming... he seems quite good.\n\nTo pull off the fire plan so well and drive Xiahou Dun back even without us.
+
+@118.2
+If we'd been there, we'd have won more easily...\n\nBut yeah... you're right! Can't be helped! Let's give him credit!
+
+@118.3
+Lord Zhang Fei, did you say something?
+
+@118.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@119.0
+Is that so. But from now on, I ask you to refrain from acting on your own.
+
+@119.1
+There is no officer anywhere who could take your place...
+
+@119.2
+Kongming is right, you two. Guan Yu, Zhang Fei.
+
+@119.3
+Brother, I am sorry.
+
+@119.4
+Sorry... I'm reflecting on it.
+
+@119.5
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@120.0
+No match for me!
+
+@121
+Zhao Yun leveled up!
+
+@122.0
+The whole army marches for Bowang.
+
+@123
+1: Xiahou Dun's Retreat
+
+@124.0
+I never thought he would dash out with no plan at all.
+
+@124.1
+Bah! With me and Brother here, there's no need to fear Cao's army!\n\nWe'll show Brother we're fine without any Kongming!
+
+@124.2
+...\n\nFollowing you may have been a mistake...
+
+@124.3
+Here they come! The enemy has shown up.
+
+@125.0
+My lord, the one fighting over there seems to be Lord Guan Yu.
+
+@125.1
+I don't see Zhang Fei... Honestly, acting on his own like that.
+
+@125.2
+Zhao Yun, please go and tell Guan Yu to lure the enemy to the village in the southwest.
+
+@125.3
+Tell him that if he does not obey, we cut our brotherhood.
+
+@125.4
+Understood. Then I will go.
+
+@126.0
+My lord, the one fighting over there, could that be Lord Zhang Fei?
+
+@126.1
+I don't see Guan Yu... Honestly, acting on his own like that.
+
+@126.2
+Zhao Yun, please go and tell Zhang Fei to lure the enemy to the village in the southwest.
+
+@126.3
+If he does not obey, tell him we cut our brotherhood.
+
+@126.4
+Understood. Then I will go.
+
+@127.0
+My lord, the two fighting over there seem to be Lord Guan Yu and Lord Zhang Fei.
+
+@127.1
+Both seem to be safe... Honestly, acting on their own like that.
+
+@127.2
+Zhao Yun, please go and tell both generals to lure the enemy to the village in the southwest.
+
+@127.3
+If they do not obey, tell them we cut our brotherhood.
+
+@127.4
+Understood. Then I will go.
+
+@128.0
+I do not see Lord Guan Yu or Lord Zhang Fei, who went out ahead of us.
+
+@128.1
+Hmm... Where have those two gone...
+
+@128.2
+Zhao Yun, please lure the enemy to the village in the southwest. I have a plan.
+
+@128.3
+Understood. Then I will go.
+
+@129.0
+Lord Guan Yu, please help me lure the enemy in.
+
+@129.1
+Oh, Zilong! I hold nothing against Kongming myself. But somehow...
+
+@129.2
+My lord says that if you do not obey, he will cut the brotherhood. Please, I beg you.
+
+@129.3
+...Very well. It seems I have caused Brother trouble.
+
+@130.0
+Lord Zhang Fei, please help me lure the enemy in.
+
+@130.1
+Shut up! I don't take orders from Kongming!
+
+@130.2
+Even if my lord says he will cut your brotherhood?
+
+@130.3
+What! Brother would never say such a thing! I get it, that's Kongming's bluff!
+
+@130.4
+No. It was my lord who said it, not Master Kongming.
+
+@130.5
+Hmm, hmm... Can't be helped, then... A-all right!
+
+@131.0
+Both of you, please help me lure the enemy in.
+
+@131.1
+I...
+
+@131.2
+I won't follow Kongming's orders! I told you already! Zilong, you fight with us!
+
+@131.3
+You two, that's enough.\n\nEven if my lord says he will cut your brotherhood, do you still mean to defy him?
+
+@131.4
+What! Brother said such a thing...
+
+@131.5
+Y-you're lying... I know, it's Kongming's bluff! Hey, right, Zilong?
+
+@131.6
+No. These are my lord's own words.
+
+@131.7
+If Brother says that much, we have no choice but to obey, Zhang Fei.
+
+@131.8
+Hmm... All right, I get it.
+
+@132.0
+Enemy general! Zhao Yun of Changshan is your opponent! Come on!
+
+@132.1
+What! Insolent! Wait, you rebel general!
+
+@132.2
+Come now, quickly. Chase me.
+
+@133.0
+Ha, there they are! Heh heh... We'll trample them in one go. The whole army, charge!!
+
+@133.1
+General Xiahou, the enemy may have some plan. It is dangerous to rush in carelessly!
+
+@133.2
+What are you being so timid for! Like that, even winnable battles can't be won!\n\nNever mind! Go!!
+
+@134.0
+Good! Liu Feng, Guan Ping! Cut off the enemy's retreat!
+
+@135.0
+What!! An ambush! Damn!\n\nNo, did I push out too far?! Fall back! Fall back!!
+
+@135.1
+Once the retreat is cut off, however brave the general, the soldiers lose their footing. Now is our chance!
+
+@136.0
+Ah, the commander is surrounded! Save General Xiahou!
+
+@137.0
+Good! We split the enemy army neatly. Strike Xiahou Dun down all at once!!
+
+@138.0
+That Kongming, he's quite good! All right, charge Xiahou Dun!!
+
+@139.0
+Oh! We have Xiahou Dun cornered. As expected of you, Kongming.
+
+@139.1
+No, it was nothing. More importantly, let us strike the enemy commander while the rear is held back.\n\nLiu Feng and Guan Ping alone will find it a heavy burden to stop the large force behind.
+
+@140.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@141
+Got 500 gold!
+
+@142.0
+All right!! We somehow won!
+
+@142.1
+Yes. But we were only lucky this time. If it goes like this every time, I will not survive it.
+
+@142.2
+Well, I may have been reckless. I'm really worn out.
+
+@142.3
+Yes. In the battles ahead, we do need a strategist.
+
+@142.4
+Hmm... But, Brother...
+
+@142.5
+He is the man Xu Shu recommended... What do you say, Zhang Fei, shall we accept him as our strategist?
+
+@142.6
+I guess so. Can't be helped... Let's give him credit!
+
+@142.7
+Lord Zhang Fei, did you say something?
+
+@142.8
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@142.9
+Is that so. But from now on, I ask you to refrain from this sort of arbitrary action.\n\nThere is no officer anywhere who could take your place...
+
+@142.10
+Guan Yu, Zhang Fei. Kongming is right.
+
+@142.11
+Brother, I am sorry.
+
+@142.12
+Brother, sorry... I'm reflecting on it.
+
+@142.13
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@143.0
+Grr... Beaten by the likes of Liu Bei... Retreat!
+
+@144
+Got 500 gold!
+
+@145.0
+We did it! Let Cao Cao's army come any time!
+
+@145.1
+Yes. But that man Kongming... he is quite good.\n\nTo carry out his plan so well and drive Xiahou Dun back even without us.\n\nIf we had followed his orders...
+
+@145.2
+I guess so. Yeah, Brother's right. Can't be helped, let's give him credit!
+
+@145.3
+Lord Zhang Fei, did you say something?
+
+@145.4
+Huh? You were there? N-no, nothing at all, Strategist.
+
+@146.0
+Is that so. But I will not permit this sort of arbitrary action again.\n\nThere is no officer anywhere who could take your place...
+
+@146.1
+Kongming is right, you two. Guan Yu, Zhang Fei.
+
+@146.2
+Brother, I am sorry.
+
+@146.3
+Brother, sorry... I'm reflecting on it.
+
+@146.4
+My lord, now that Xiahou Dun is beaten, Cao Cao himself will come out next. We must be careful.
+
+@147.0
+No match for me!
+
+@148
+Zhao Yun leveled up!
+
+@149.0
+To think this great army was beaten... I cannot face the Prime Minister.
+
+@149.1
+Xu Shu's words were no lie. We have to call it a splendid command.
+
+@149.2
+Zhuge Liang... Remember this!!
+
+@150.0
+It seems Xiahou Dun and his men have retreated. Let us return to Xinye as well.
+
+@150.1
+Yes. Withdraw!
+
+@151
+Xinye: Council Hall
+
+@152.0
+Thank you all for today's work. That we drove back Cao Cao's great army is entirely thanks to all of you.
+
+@152.1
+It was not our efforts alone. It was your virtue, Brother, and the command of the newly joined strategist.
+
+@152.2
+Yes. Then, to celebrate the victory and welcome Kongming, let us hold a drinking feast. Soothe your battle fatigue.
+
+@153.0
+Yes!! A feast, a feast!
+
+@155.0
+You entrusted me with a great army, and I ignored the warnings of my own officers and suffered a crushing defeat. I have no excuse. Do with me as you see fit...
+
+@155.1
+No, victory and defeat are the common lot of soldiers. There is no use dwelling on the past. Go home and rest from the fighting. You have done well.
+
+@156.0
+Yes, sir... Thank you...
+
+@157.0
+Still, I do not understand...
+
+@157.1
+Prime Minister, is something wrong?
+
+@157.2
+True, Xiahou Dun is short-tempered in some ways. Even so, he is a seasoned general who has fought a hundred battles since the Yellow Turban Rebellion.\n\nTo be handled so easily...
+
+@157.3
+Indeed... I must say it shows fearsome cunning.
+
+@157.4
+That man Kongming cannot be taken lightly.\n\n...Very well. This time I will take the field myself.
+
+@157.5
+Cao Ren! Cao Hong! Xu Chu!
+
+@158.0
+I give the vanguard to you three. Cao Ren will be its commander.\n\nGo to Xinye at once and destroy Kongming!
+
+@159.0
+Yes, sir!
+
+@159.1
+Understood! Please await good news.
+
+@159.2
+Then we depart at once.
+
+@160.0
+Heh heh heh... Liu Bei, Kongming, prepare yourselves!
+
+@161.0
+The whole army marches! Our goal is Xinye!
+
+@163
+Liu Biao, Governor of Jing, lay on his sickbed and finally passed away. His second wife's brother and chief retainer, Cai Mao, had Liu Biao's second son, Liu Cong, succeed him so as to seize real power himself. At that time the eldest son, Liu Qi, was away guarding Jiangxia and was not in Xiangyang.
+
+@164.0
+Lord Liu Cong, this is terrible. Cao Cao has come to attack.
+
+@165.0
+Eh?! B-but that's... Cai Mao, what should I do?
+
+@166.0
+I do not think Jing's forces can beat Cao Cao's great army. Let us surrender honorably. Then Jing Province will be safe.
+
+@167.0
+Surrender is out of the question!\n\nIf we surrender to a rebel like that, we will not have lives enough to pay for it!
+
+@167.1
+Eh... is that so?
+
+@168.0
+What are you saying, Wei Yan! Insolent, for a mere junior officer!
+
+@169.0
+Even with Liu Bei's forces added to Jing's army, we are at a far greater disadvantage in numbers.
+
+@170.0
+Surrender is one option. If we surrender, even Cao Cao will not take our lives.
+
+@170.1
+We will keep our lives? Then let's surrender right away.
+
+@171.0
+You there. Go as envoy to Lord Cao Cao and offer our surrender.
+
+@172.0
+Yes, sir.
+
+@173.0
+I cannot follow the Lord of Jing any further! I take my leave!
+
+@173.1
+W-Wei Yan!
+
+@174.0
+Hmph, do as you please. What a fool...
+
+@175
+Sun Quan's Base: Chaisang
+
+@176
+Chaisang: Council Hall
+
+@177.0
+Report! A grave matter!
+
+@177.1
+A messenger from the border? What is it?
+
+@178.0
+Cao Cao has finally moved! The vanguard commander is Cao Ren, with Cao Hong and Xu Chu as lieutenants! They are heading for Jing Province with a great army!
+
+@178.1
+So it has come at last... Zhou Yu, what do you think?
+
+@179.0
+Jing's soldiers are thoroughly used to peace. They will be no match for Cao Cao's army.\n\nEven with Wu's navy, I wonder whether we could win...
+
+@179.1
+I see... Must we too steel ourselves...
+
+@180.0
+But Cao Cao's army has not attacked Wu directly. It is best not to make a move ourselves and to watch how things develop. Besides, Liu Bei is in Jing Province...
+
+@180.1
+True. Still, we cannot do nothing. Let us at least prepare our forces, for we do not know when we may be drawn into the fighting.
+
+@180.2
+I agree. Then I will train the navy to a fine edge.
+
+@180.3
+Zhang Zhao, I leave supplies and the rest entirely to you.
+
+@181.0
+Understood.
+

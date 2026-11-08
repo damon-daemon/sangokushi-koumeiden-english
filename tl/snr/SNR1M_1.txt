@@ -1,0 +1,1428 @@
+@0
+1-2: The Realm in Three
+
+@1
+Act 2: The Realm in Three
+
+@3.0
+My lord, we beat Cao Cao at Red Cliffs, but this alone cannot be called a complete victory.
+
+@3.1
+Yes. You mean Jing Province.
+
+@3.2
+Yes. Possession of Jing Province is the first step toward realizing the "plan to divide the realm in three." And we are not the only ones eyeing Jing Province. Zhou Yu wants it too.
+
+@3.3
+Hmm...
+
+@3.4
+But the righteous cause is ours. With us is Liu Qi, son of the late Governor of Jing, Liu Biao.\n\nNow that the threat of Cao Cao's army is gone, it is only natural that Jing Province return to Liu Qi. Let us take this chance to pacify Jing Province. My lord, your decision.
+
+@3.5
+Yes, understood. Then I will petition the throne to recognize Liu Qi as Governor of Jing.
+
+@4.0
+Kongming. I leave the details to you.
+
+@6
+Wu's army, in high spirits after its great victory at Red Cliffs, turned to the offensive. Sun Quan himself besieged Hefei, while Zhou Yu set about taking Jiangling. Zhou Yu marched because Liu Bei showed signs of aiming at Jiangling, and Wu felt it urgent to seize Jing Province's key stronghold first.\n\nBut Jiangling, held by Cao Ren, was strongly defended and not easily taken. In the midst of the siege, Zhou Yu was struck in the body by a poisoned arrow shot by the garrison.
+
+@7
+Jiangling: Wu Camp
+
+@8.0
+Now that the Commander in Chief has fallen, is it not impossible to take Jiangling?
+
+@9.0
+No. To return with nothing gained is a disgrace to warriors. Let us challenge Cao Ren to a decisive battle once more and take Jiangling.
+
+@10.0
+But without Commander Zhou, we cannot command the army. It is dangerous to fight Cao Cao's army like this.
+
+@11.0
+Still, we cannot simply withdraw. We are not the only ones aiming at Jiangling. Liu Bei, too... Liu Bei's army, with that Kongming as strategist, seems to be after Jiangling as well.
+
+@12.0
+...Xu Sheng is right. We cannot withdraw here.
+
+@13.0
+C-Commander!
+
+@14.0
+Commander, are you all right?
+
+@14.1
+Pah, I will not fall for a wound like this. I cannot hand Jiangling to Kongming.\n\n...Call a council of war. I have a secret plan, one that uses this arrow wound.
+
+@15
+A few days after Zhou Yu was hit by the poisoned arrow, Cao Ren's army, expecting Zhou Yu to be ill, advanced on Wu's camp. The plan was to taunt Zhou Yu and excite him so the poison would spread faster. Cao Ren believed that if only Zhou Yu fell, Wu's army would collapse.
+
+@16.0
+Report! Cao Ren's army is advancing on us!
+
+@17.0
+What?! Grr, that Cao Ren! He knows I am ill and attacks!
+
+@18.0
+Commander, you must not get excited. It will harm your health.
+
+@19.0
+Do not worry.
+
+@20.0
+Tell the whole army to hold their defenses. Do not rise to the enemy's taunts.
+
+@22.0
+Zhou Yu, can you hear me!
+
+@23.0
+...Hm. Has the enemy come close already?
+
+@23.1
+Zhou Yu! How is your wound? If it does not pain you, fight me, Cao Ren, in single combat!
+
+@23.2
+What? You take me for a sick man and mock Zhou Yu?! Someone get my armor ready!
+
+@24.0
+Please wait. The Commander's body has not yet healed. I understand how you feel, but...
+
+@24.1
+But if I back down now, I will be a laughingstock!
+
+@24.2
+Please, please hold your anger.
+
+@25.0
+Zhou Yu! What is it?! Are you too afraid of me to come out?!\n\nHas the coward's wind blown on you? Ha ha ha, Zhou Yu is a coward! Come, everyone, laugh at him!
+
+@25.1
+As expected of Lord Zhou! Hey, coward commander! Wa ha ha ha!
+
+@25.2
+Wu's commander seems to fear battle! How funny! Ha ha ha!
+
+@25.3
+Wh-what?!
+
+@25.4
+If you're angry, come out! Hey, coward commander! Ha ha ha ha!
+
+@26.0
+...I will not forgive this! Just watch! I will march out right n... now...
+
+@27.0
+Ah! Commander!!
+
+@28.0
+Commander! Stay with us!
+
+@29
+Furious as a blazing fire at Cao Ren's abuse, Zhou Yu spat blood in his rage and collapsed. A few days later, mourning banners were raised in Wu's camp, and a deathly silence fell. When Cao Ren learned of this from his spies' report, he was certain that Zhou Yu was dead.
+
+@30
+But this was in fact Zhou Yu's ruse, a trap to lure Cao Ren out. Believing Zhou Yu dead, Cao Ren launched a night raid on Wu's camp, but instead met Wu's ambush and suffered a crushing defeat. Cao Ren finally abandoned Jiangling and fled to Xiangyang.
+
+@31.0
+Well, did it not go well? My acting was rather good, I think.
+
+@31.1
+But Commander... Cao Ren has retreated, but your body is not fully healed. Please take care from now on.
+
+@31.2
+It is all right, do not worry. All that remains is to take the empty castle of Jiangling.
+
+@32.0
+Now then, the whole army, enter Jiangling!
+
+@33
+Zhou Yu led his army toward Jiangling Castle, which Cao Ren had left. Every Wu general thought that the abandoned Jiangling would fall into their hands with ease. But...
+
+@34.0
+Commander, Jiangling has already been taken by Liu Bei's army.
+
+@35.0
+What?! What is this?!
+
+@36.0
+Yes. It seems they occupied Jiangling while we were pursuing Cao Ren's army.
+
+@37.0
+Grr... Damn Liu Bei... and Kongming! ...We attack Jiangling!
+
+@38.0
+What?! But that would mean fighting Liu Bei's army...
+
+@39.0
+So it would! If we do not destroy Liu Bei now... gah... ugh...
+
+@40.0
+Commander!
+
+@41.0
+Commander! Commander Zhou!
+
+@42
+Enraged at the whole story, Zhou Yu tore open his arrow wound and collapsed on the spot. With the Commander in Chief down, and Jiangling, the target of the campaign, held by their ally Liu Bei's army, Wu's army had no choice but to withdraw from Jing Province with nothing gained.
+
+@43.0
+Now, my lord, let us enter Jiangling.
+
+@43.1
+Yes. Kongming, splendidly done.
+
+@44
+Liu Bei's army, having taken Jiangling, moved its base from Jiangxia to Jiangling. Jiangling lay on the north bank of the Yangtze, a gathering place for the wealth of the Yangtze basin and the four southern Jing commanderies of Wuling, Changsha, Lingling, and Guiyang. It was also the seat of Nan Commandery and a key point of the middle Yangtze.
+
+@45.0
+If the Commander has fallen, it cannot be helped... Return to Chaisang!
+
+@46
+Jiangling: Residence
+
+@47.0
+Strategist. I have brought Ma Liang and Ma Su, who have come from Xiangyang.
+
+@48.0
+...Ma Liang? Oh, the famous Ma Liang!
+
+@49.0
+Then, if you will excuse me.
+
+@50.0
+We meet for the first time. I am Ma Liang, styled Jichang. Beside me is my younger brother...
+
+@51.0
+Ma Su, styled Youchang.
+
+@52
+Speak with Ma Liang and his brother
+
+@53.0
+We brothers came here on the advice of Huang Chengyan.
+
+@54.0
+Pleased to meet you. I am Zhuge Liang.\n\nI have long heard of the Ma brothers, the pride of Xiangyang. It is an honor to meet you.
+
+@55.0
+You flatter us. We came to Jiangling on Huang Chengyan's advice.
+
+@56.0
+...My father-in-law? Then he came through that war safely...
+
+@57.0
+...Lord Huang Chengyan? Then he came through that war safely?
+
+@58.0
+Yes. Huang Chengyan asked us to tell Master Kongming so.
+
+@58.1
+I see. Thank you.
+
+@58.2
+Also, Huang Chengyan said we should put our knowledge to use for Lord Liu Bei and Master Kongming...
+
+@58.3
+So we thought to serve Lord Liu Bei, and my brother and I came. We ask for your favor.
+
+@58.4
+Oh! That is more than I could wish for. Then let me show you to the council hall at once.
+
+@59.0
+Then we will wait for you outside the residence.
+
+@60.0
+(My army has many fierce generals like Guan Yu, Zhang Fei, and Zhao Yun, but still few men of strategy. And just then Ma Liang, the gifted scholar known as "White Brows," comes with his brother... It is more than I could have hoped for.)
+
+@61
+Go to the Jiangling Council Hall
+
+@63.0
+Ah, my lord. You are here.
+
+@63.1
+Kongming, what is it?
+
+@63.2
+I have brought Ma Liang and Ma Su, the sages of Xiangyang. Please speak with them.
+
+@64.0
+I am Ma Liang. I have long wished to meet Lord Liu Bei.
+
+@65.0
+Is that so, is that so.
+
+@66
+Speak with the generals
+
+@67.0
+Ma Liang, you must know Jing Province's affairs well. I would very much like you to teach me how to pacify it.
+
+@68.0
+I too have heard of Ma Liang's reputation.
+
+@69.0
+Ma Liang, huh... Never heard of him. Maybe I should study more?
+
+@70.0
+I hear his younger brother Ma Su is quite a man as well.
+
+@71.0
+It is reassuring to have Ma Liang join our camp.
+
+@72.0
+With Ma Liang and Ma Su on our side, we are truly well supported.
+
+@73.0
+They say Ma Liang is called "White Brows"... Indeed, his brows are a little white.
+
+@74.0
+I hear Ma Liang is the fourth son of the Ma family and Ma Su the fifth. Five brothers in all.
+
+@75.0
+I am ashamed to say I had not heard of Ma Liang.
+
+@76.0
+"Of the Five Constants of the Ma family, White Brows is the best." Ma Liang's talent is the talk of the people.
+
+@77.0
+My brother says he has an excellent plan to pacify Jing Province. Please do hear him.
+
+@78.0
+Ma Liang, please give us your plan for pacifying Jing Province.
+
+@78.1
+That is my intention from the start. Then...
+
+@79.0
+Lord Liu Bei, how much do you know of southern Jing Province?
+
+@79.1
+There are four commanderies, Changsha, Lingling, Guiyang, and Wuling, once under Liu Biao... Now each of the four is independent. Though I hear not a few of them watch Cao Cao's face. That is about all I know.
+
+@79.2
+That is correct. The four commanderies of southern Jing are fertile and rich in produce. To govern Jing Province, that land cannot be left out.
+
+@79.3
+I see. ...Then we will take the four commanderies.
+
+@80.0
+Lord Liu Bei. Do you know of a man named Huang Zhong of Changsha?
+
+@80.1
+...No, the name is new to me.
+
+@80.2
+Changsha's governor, Han Xuan, is a small man, but his general Huang Zhong is a considerable figure. Though nearly sixty years old, he is a great martial artist, of good character and beloved by the people. You should bring him into your service.
+
+@80.3
+Understood. I will remember. Both Ma Liang and Ma Su are men as rumor says. What do you say? Will you go on lending me your strength?
+
+@81.0
+I could ask for nothing better. Together with my brother, I wish to serve you.
+
+@81.1
+We ask for your favor.
+
+@82.0
+Yes, I am grateful. Then we march to southern Jing Province at once.\n\nMa Liang, please remain here in Jiangling and guard against Cao Cao's army.
+
+@82.1
+Yes, understood.
+
+@83
+Prepare to march
+
+@84.0
+Is Huang Zhong such a man? I would very much like to fight him.
+
+@85.0
+Please let me face Huang Zhong. I will take him alive and atone for letting Cao Cao go on the Huarong Road.
+
+@86.0
+If we win southern Jing, Brother will be the lord of a province.
+
+@87.0
+Strategist, please put me in the vanguard.
+
+@88.0
+Let us pacify Jing Province and make it the foundation of our army.
+
+@89.0
+I will win great merit, you will see.
+
+@90.0
+Are the preparations to march complete?
+
+@91.0
+Strategist, please grant my father's wish.
+
+@92.0
+I hear Han Xuan has recently taken on a skilled warrior... Not Huang Zhong, it seems, though.
+
+@93.0
+A man like Huang Zhong is no match for Lord Guan Yu.
+
+@94.0
+Strategist, please grant Lord Guan Yu's wish.
+
+@95.0
+With the four commanderies of southern Jing, our income will ease.
+
+@96.0
+If we gain the four southern commanderies, Lord Liu Bei's foundation will be that much firmer.
+
+@97.0
+Please bring Huang Zhong of Changsha to our side.
+
+@98.0
+Kongming, shall we march?
+
+@99.0
+We march to pacify the four commanderies of southern Jing!
+
+@100.0
+To stand against Cao Cao and Sun Quan, we must first pacify Jing Province.
+
+@100.1
+Yes. If we take control of southern Jing Province, our fighting strength will grow considerably.
+
+@100.2
+So Liu Bei has finally come... Liu Bei is an uncle of the Han emperor. Perhaps I should surrender...
+
+@100.3
+I do not want to defy Lord Cao Cao... But even if I asked him for reinforcements, they would not arrive in time...
+
+@100.4
+Liu Bei attacks?! He is a rebel general who defies Lord Cao Cao. I will capture him and hand him over!
+
+@100.5
+Huh? The enemy is coming? Fool, my Huang Zhong is invincible. We will cut them down!
+
+@101
+1. Destroy Han Xuan
+
+@102.0
+What, he ran away... If you are going to run, don't fight in the first place!
+
+@102.1
+Huff, huff... No one could beat a monster like that. I am lucky to be alive...
+
+@104.0
+Guh!
+
+@104.1
+To think you would fight Zhao Yun with that little skill!
+
+@104.2
+Xing Daorong, defeated so easily...
+
+@104.3
+That is why I told you to stop!
+
+@106
+Enemy reinforcements appeared!
+
+@107.0
+Know your place. I leave your life with you. Go home!
+
+@107.1
+E-eek...!
+
+@109
+Enemy reinforcements appeared!
+
+@110.0
+Ho, old man there. Are you the Huang Zhong I have heard of?
+
+@110.1
+You know of me and still attack. Reckless fool. What is your name?
+
+@110.2
+I am Guan Yunchang, sworn younger brother of the Imperial Uncle Liu. Fight me, fight me!!
+
+@111.0
+What is this? A man like Huang Zhong comes riding such a nag!
+
+@111.1
+Ugh...
+
+@111.2
+Go and change horses! I will fight you fair and square!
+
+@112.1
+Ho, you have come back. Now, shall we fight again!
+
+@112.2
+...Here I come, Guan Yu!
+
+@113.0
+Do you think you have repaid me for earlier? ...Fearsome skill. I will withdraw for now.
+
+@113.1
+...This is enough. This is enough...
+
+@114.0
+Huang Zhong!
+
+@114.1
+...My lord.
+
+@114.2
+Why did you not finish him at such a perfect chance?!\n\n...I see! You are in league with Liu Bei!
+
+@114.3
+No, never. I would not...
+
+@114.4
+Enough, no excuses! You have betrayed me! Cut off the traitor Huang Zhong's head!
+
+@115.0
+What are you doing?! Cut down Huang Zhong at once!!
+
+@115.1
+That is enough, Han Xuan!!
+
+@115.2
+Wh-what?! ...Oh, you are Wei Yan!
+
+@115.3
+You would behead Huang Zhong, Changsha's meritorious servant?! Is that what a lord does?\n\nPeople of the city! Changsha's enemy is not Liu Bei! Changsha's enemy is the foolish tyrant Han Xuan!
+
+@115.4
+That's right, that's right! There's no governor as cruel as him!
+
+@115.5
+Trying to kill Lord Huang Zhong, that's madness!
+
+@115.6
+That's right, that's right! Down with the tyrant Han Xuan!
+
+@115.7
+Down with Han Xuan!
+
+@115.8
+Down with Han Xuan!!
+
+@115.9
+Wh-what are you doing! S-stop it!!\n\nEek, s-stop... aaargh...!
+
+@116.0
+Ah, that is Lord Liu Bei's banner. So it was Lord Liu Bei attacking Changsha...? ...A foundation to stand against Cao Cao.
+
+@116.1
+(Han Xuan governs Changsha now. But Han Xuan was once under Lord Liu Biao as well. If so, Lord Liu Bei, who backs Liu Biao's son Liu Qi, is the rightful one. ...Good!)\n\nEveryone! Changsha's enemy is not Lord Liu Bei! Changsha's enemy is the foolish tyrant Han Xuan!
+
+@116.2
+That's right, that's right! There's no lord as terrible as him!
+
+@116.3
+Let a more virtuous man govern Changsha!
+
+@117.0
+Damn it, what is this uproar?! With the enemy at our gates!
+
+@117.1
+Prepare yourself, Han Xuan!
+
+@117.2
+Wh-what?! ...Oh, you are Wei Yan!
+
+@117.3
+The people of the city can no longer follow you.
+
+@117.4
+What?! What are you talking about?!\n\nWh-what are you doing! S-stop it!!\n\nEek... s-stop... gyaah...!
+
+@118.0
+Damn you, Liu Bei... My Changsha Commandery... Guh!
+
+@119.0
+So that is... Liu Bei's army. Indeed, it is orderly. Quite unlike ours.\n\n(Han Xuan is a small man, and a tyrant. Many people weep. Changsha too would do better under Lord Liu Bei.)\n\nFrom now on, I, Chen Shi, will join Lord Liu Bei's ranks!
+
+@120
+Chen Shi defected.
+
+@121.0
+We have taken the four commanderies of southern Jing. The pacification of Jing Province is as good as done.
+
+@124.0
+What! Then Liu Bei has taken nearly all of Jing Province? This will not do! If this goes on, Liu Bei's power will keep growing...
+
+@125.0
+Right! We march on Jing Province!
+
+@126.0
+Father, please order me to join the campaign. I will defeat Liu Bei and show you.
+
+@127.0
+If Brother goes, I will go too. I will take Liu Bei's head without fail! Please give the order to march!
+
+@127.1
+Yes... you two have grown fine men. Very well, prepare to march...
+
+@128.0
+Prime Minister, please wait.
+
+@129.0
+Prime Minister, please wait.
+
+@130.0
+What is it, Cheng Yu? Do you oppose the march?
+
+@130.1
+Yes. Our army has not yet healed from Red Cliffs. If we meet Liu Bei in this state...
+
+@130.2
+...Are you saying we would lose?
+
+@130.3
+No, I do not say we would lose... but neither can I say we would win. Either way it will be a fierce battle, with us or Liu Bei. One falls, the other is wounded. And then the one who profits is the third party.
+
+@131.0
+What is it, Xun You? Do you oppose the march?
+
+@131.1
+Yes. Our army has only just healed from Red Cliffs... If we meet Liu Bei in this state...
+
+@131.2
+...Are you saying we would lose?
+
+@131.3
+No, I do not say we would lose... but neither can I say we would win. Either way it will be a fierce battle, with us or Liu Bei. One falls, the other is wounded. And then the one who profits is the third party.
+
+@132.0
+The third party...! I see, Wu...
+
+@133.0
+Your insight is humbling. I fear this campaign would end by pleasing Wu.
+
+@134.0
+Your insight is humbling. I fear this campaign would end by pleasing Wu.
+
+@135.0
+Hm... Then what would you have me do?
+
+@136.0
+Jing Province and Wu are on bad terms at present. They will not form a united front. If we do not attack, they will not attack us.\n\nI suggest we use this chance to remove the worry behind us.
+
+@137.0
+Liu Bei and Sun Quan are on bad terms over Jing Province at present. They will not form a united front. If we do not attack, they will not attack us.\n\nI suggest we use this chance to remove the worry behind us.
+
+@138.0
+The worry behind us? ...I see, you mean Ma Teng of Xiliang.
+
+@139.0
+Yes. The Xiliang army is an elite force built around cavalry. We must act before it is too late.
+
+@140.0
+Yes. The Xiliang army is an elite force built around cavalry. We must act before it is too late.
+
+@141.0
+Hm. Then what should be done?
+
+@142.0
+Fighting him directly would cost us dearly as well. The best way is to use Ma Teng's loyalty.
+
+@143.0
+Fighting him directly would cost our army as well. The best way is to use Ma Teng's loyalty.
+
+@144.0
+Ma Teng is a man of deep righteousness, with strong loyalty to the court... Very well. We will lure Ma Teng out in the Emperor's name.\n\nWe cut him off from his army, then deal with him. ...Heh heh.
+
+@145.0
+Then let us send a messenger at once.
+
+@146.0
+Then let us send a messenger at once.
+
+@148.0
+Huang Zhong, Wei Yan. I am delighted to have you two on our side. I count on you from now on.
+
+@149.0
+Your words are too good for this old frame. I place what life remains in Lord Liu Bei's hands.
+
+@150.0
+To serve Lord Liu Bei is the joy of Wei Yan's life. I will prove myself without fail.
+
+@151.0
+My lord... I oppose taking Wei Yan into service.
+
+@152.0
+...!?
+
+@152.1
+Kongming, what do you mean?
+
+@152.2
+Wei Yan was originally Liu Biao's man. He fled amid the unrest in Jing Province and took refuge with Han Xuan. Then he betrayed his lord under Han Xuan as well and surrendered to us.\n\nA man who betrays one lord after another cannot be taken into service.
+
+@152.3
+But I hear Wei Yan fled Jing Province because he opposed Cai Mao's plan to surrender. And he betrayed Han Xuan because the people suffered under Han Xuan's tyranny.\n\nThere should be no problem in taking him on.
+
+@152.4
+If my lord says so, I have no objection...
+
+@153.0
+...Wei Yan. If you ever betray my lord, I will take your head myself. ...Understood?
+
+@154.0
+...Understood. I swear unchanging loyalty to Lord Liu Bei.
+
+@155
+Liu Bei pacified Jing Province, but he honored Liu Biao's surviving son Liu Qi as Governor of Jing and himself remained only as guardian and aide. However, when Liu Qi died of illness, Liu Bei became Governor of Jing at the urging of his officials, and was master of Jing Province in name and in fact.
+
+@157.0
+Ah, Zhou Yu! Are you well again?
+
+@157.1
+Thank you for your concern. But, my lord...
+
+@157.2
+Hm?
+
+@158.0
+I hear Liu Qi died of illness and Liu Bei has become Governor of Jing.
+
+@159.0
+It was we of Wu who burned Cao Cao's army at Red Cliffs and drove it back north. Liu Bei merely watched from the heights, and chased Cao Cao only once the outcome was decided!\n\nNaturally, should Jing Province not return to us of Wu?!
+
+@160.0
+And yet... At this rate, it is as if we fought for Liu Bei's sake.
+
+@160.1
+Hm...
+
+@161.0
+Lu Meng is right. My lord, Liu Bei is more dangerous to Wu than Cao Cao. Let us destroy him while we can.
+
+@161.1
+Hmm...
+
+@162.0
+Please wait!
+
+@163.0
+Lu Su...
+
+@164.0
+Though we beat Cao Cao at Red Cliffs, he is alive and his power is still great. Even if we take Jing Province now, if Cao Cao attacks again we could not hold it.
+
+@165.0
+Worse, if Cao Cao attacks from both Jing and Yang Provinces, Wu will fall!
+
+@166.0
+My lord, Liu Bei is still your ally...\n\nThe best course is to lend Liu Bei Jing Province and face Cao Cao together. Increasing Cao Cao's enemies and our allies is the finest stratagem of all!
+
+@167.0
+True... Wu alone would find Cao Cao's power too great to face. ...Very well. For the time being, we will lend Jing Province to Liu Bei.
+
+@168.0
+But Liu Bei, though he poses as a man of benevolence, is in truth a man full of ambition. Now that he is master of Jing Province, he will not follow others forever.\n\nMy lord, we must do something while we can.
+
+@169.0
+Yes... you are right.
+
+@170.0
+Liu Bei's next target is Yi Province. But we cannot let Liu Bei take Yi Province.
+
+@171.0
+"He who strikes first controls the other." My lord, order me to conquer Yi Province.\n\nIf we take Yi Province, make the land south of the Yangtze Wu's territory, and ally with Ma Chao of Longxi...\n\nthen march north and defeat Cao Cao, becoming the overlord of the Central Plains is no dream.
+
+@172.0
+Oh!
+
+@173.0
+...But would Cao Cao not come south in that interval?
+
+@173.1
+Cao Cao now has no such leisure.
+
+@174.0
+My lord, there is no better time than now to take Yi Province ahead of Liu Bei!
+
+@175.0
+Very well. I leave the conquest of Yi Province to you.
+
+@176.0
+Yes, my lord!
+
+@177
+Chaisang: Zhou Yu's Residence
+
+@178.0
+Pang Tong! Prepare for the Yi Province expedition at once.
+
+@178.1
+It is at last time, then.
+
+@179.0
+After we take Yi Province, we march out to the Central Plains and destroy Cao Cao.
+
+@180.0
+It will be a busy time! Pang Tong, I will have you work to the full as well.
+
+@181.0
+Ha ha ha, I look forward to it.
+
+@182.0
+Ugh! Cough, cough!!
+
+@183.0
+Zhou Yu!
+
+@184.0
+It is nothing... Do not worry...
+
+@185.0
+Let us go.
+
+@187
+Zhou Yu began preparing to take Yi Province, but his illness worsened again and he fell gravely ill. Sensing his death near, Zhou Yu recommended Lu Su to Sun Quan as his successor. The two had often been at odds over how to deal with Liu Bei, but their concern for the state was the same.
+
+@188.0
+Gasp, gasp... Ugh. On the eve of taking Yi Province... my life is spent...\n\nYi Province will be taken by Liu Bei... no, by Kongming. At last that man will make his name...\n\nHeaven gave birth to this Zhou Yu... why, then, did it also bring Kongming into the world?!
+
+@188.1
+Zhou Yu!!
+
+@189
+In the fifteenth year of Jian'an (210 AD), Wu's Commander in Chief Zhou Yu finally passed away. Two years after the "Battle of Red Cliffs," he was only thirty-six years old.
+
+@191.0
+My lord, Wu's Commander in Chief Zhou Yu has died of illness!
+
+@192.0
+What! So... Zhou Yu is gone.
+
+@193.0
+We were often at odds with him, but... he was a hero of his age.
+
+@193.1
+Yes... But now Wu must call off its conquest of Yi Province. That plan existed only because of the genius Zhou Gongjin.
+
+@193.2
+On the brink of death, I hear, Zhou Yu left word with Sun Quan that Lu Su should succeed him.
+
+@193.3
+Oh...
+
+@193.4
+My lord, this is welcome news for us. Lu Su has long urged Sun Quan to cooperate with us against Cao Cao.\n\nLet us use this chance to stabilize Jing Province and raise funds for the army, in preparation for our next flight.
+
+@194.0
+Yes, indeed.
+
+@195
+Liu Bei worked to restore order in Jing Province. As a result the people in his territory settled and gradually regained their vitality. During this period Kongming, Ma Liang, Ma Su, and others labored to secure revenue, and Liu Bei's foundation in Jing Province grew unshakable.
+
+@196
+Jiangling: Inside the City
+
+@197
+Go to the Jiangling residence
+
+@198
+Jiangling: Residence
+
+@199.0
+Strategist, excuse me.
+
+@199.1
+Ah, Ma Su. What is it?
+
+@200.0
+I came to ask your outlook for the future.
+
+@200.1
+The future... You know my "plan to divide the realm in three," do you not?
+
+@200.2
+Yes, of course. Cao Cao in the north, Sun Quan in the east, and my lord divide the realm in three, creating a temporary calm.
+
+@200.3
+Yes. Then we steady the people's hearts, strengthen the alliance with Wu, and when trouble arises in the north...\n\nwe march north from two directions, Jing and Yi Provinces, defeat Cao Cao, and pacify the Central Plains.
+
+@200.4
+For that, Jing Province alone is not enough.
+
+@200.5
+Exactly. We must take Yi Province.
+
+@200.6
+Yi Province... the land of Ba and Shu.
+
+@201.0
+I see... Then this intelligence may be of use.
+
+@201.1
+Intelligence?
+
+@202.0
+Yes. Liu Zhang, Governor of Yi, is now at war with Zhang Lu of Hanzhong.
+
+@202.2
+Liu Zhang sent a man named Zhang Song as envoy to ask Cao Cao for reinforcements, but I hear Cao Cao flatly refused.\n\nAnd Zhang Song, the envoy, appears to be returning to Yi Province through Jing Province soon.
+
+@202.3
+Oh...
+
+@202.4
+So we offer Zhang Song, empty-handed, to have the Jing army fight Zhang Lu. Then our army can enter Yi Province without any obstacle.
+
+@202.5
+Yes, a good plan. Ma Su, arrange at once to receive Zhang Song.
+
+@203.0
+Yes. I will go to meet him at the provincial border.
+
+@203.1
+Yes, I count on you.
+
+@204.0
+Ma Su... He is quite a sharp man.
+
+@205.0
+Kongming, are you in?
+
+@207.0
+Thank you for Red Cliffs. Thanks to you we won a great victory.
+
+@207.1
+Oh, it was nothing. I got Xu Shu out safely too. It would be a pity to see him roasted whole.\n\nMore than that... there is someone I want you to meet.
+
+@207.2
+Oh? And who is that?
+
+@208.0
+Come now, what are you doing? Come in.
+
+@209.0
+...Master Kongming. It has been a long time.
+
+@209.1
+Ah, Yueying! I am glad you are safe...
+
+@210.0
+It is you, Master Kongming, I am glad are safe.
+
+@210.1
+Yes... Brother Pang Tong, I thank you.
+
+@211.0
+No, no, no thanks needed, I would like to say... but.
+
+@212.0
+I will take advantage of this to ask a favor of you.
+
+@212.1
+What is it? If it is within my power, I will help.
+
+@213.0
+Oh, it is not so difficult... I want to take service here. Would you employ me?
+
+@214.0
+What! It is I who would ask that of you. Then let us go to see my lord at once.
+
+@215
+Go to the Jiangling Council Hall
+
+@216.0
+Splendid, splendid. Then take me to meet Lord Liu Bei. I will wait outside the residence.
+
+@217.0
+Master Kongming... I am truly glad you are safe.
+
+@218.0
+Do not mind me. Please show Master Pang Tong to the council hall.
+
+@219
+Some weeks after Ma Su's visit... Kongming had moved his residence to Linzheng in Changsha Commandery, to oversee the three southern commanderies of Changsha, Lingling, and Guiyang.
+
+@220
+Linzheng: Kongming's Residence
+
+@221.0
+Our next goal is the conquest of Yi Province, but...
+
+@221.1
+Dear, are you impatient for Ma Su's report?
+
+@221.2
+Yes, that too... but it is about Brother Pang Tong...
+
+@221.3
+Master Pang Tong...?
+
+@222.0
+Kongming, are you in? Hic!
+
+@223.0
+Oh, Brother Pang Tong!
+
+@224.0
+Why, Master Pang Tong. How good to see you!
+
+@225.0
+Hic!
+
+@226.0
+Hic!
+
+@227.0
+I'm the worst off of all! Hic!
+
+@228.0
+Ah...! What bad luck, what a tragedy! Hic!\n\nJust when I finally met a famous general worthy of my ambitions!
+
+@229.1
+With Zhou Yu dead, Wu gives me no reason to stay anymore!
+
+@230.0
+Thank goodness...
+
+@231.0
+What did you say?!
+
+@232.0
+Oh... I am sorry.\n\nBut now you and my husband need not quarrel over the conquest of Yi Province.
+
+@233.0
+Indeed, Zhou Yu is not the only famous general in the world!
+
+@234.0
+Liu Xuande, you mean? Well, I wonder.\n\nMy looks have been my curse. Apart from Zhou Yu and Lu Su, nobody would recognize me...
+
+@235.0
+No! My lord is not a man to judge people by appearances.
+
+@235.1
+Is that so?
+
+@236.0
+Yes. I will write you a letter of introduction. Take it and by all means meet my lord. Then you will understand.
+
+@237
+But Pang Tong did not show Kongming's letter of introduction to Liu Bei. The post Liu Bei gave Pang Tong was magistrate of a small county, a position beneath Pang Tong's worth. Believing himself once again judged by appearances, Pang Tong sank into drink every day, neglected his duties, and was finally dismissed.
+
+@239.0
+My lord!! What has come over you, you of all people, Liu Xuande?!
+
+@240.0
+Hm... What is it, Kongming? You are agitated. This is not like you.
+
+@241.0
+My lord, I hear a man named Pang Tong came seeking service...
+
+@241.1
+Yes... he did come.
+
+@241.2
+And what did you do?
+
+@241.3
+There was a county in Guiyang Commandery without a magistrate, so I appointed him magistrate there... but I hear he did no work and sank into drink every day, so I dismissed him.
+
+@242.0
+Ah, what have you done... My lord, Pang Tong is the very "Young Phoenix"!
+
+@243.0
+Wh-what?! The one Master Water Mirror spoke of?
+
+@244.0
+Yes. Did you not see the letter of introduction I wrote?
+
+@244.1
+A letter of introduction...? No, I have not seen one.
+
+@244.2
+......Pang Tong hates above all to have his worth judged by his looks alone. He was probably testing you, my lord.
+
+@245.0
+Ah, what a blunder! The failure of Liu Bei's lifetime!
+
+@246.0
+Hmm, now that I think of it, Xu Shu also said so... that Pang Tong of Xiangyang is the "Young Phoenix"...
+
+@247.0
+Liu Feng! Go and find Master Young Phoenix at once! Bring him back without fail!
+
+@249
+About an hour later...
+
+@250.0
+Father! I have brought Master Young Phoenix.
+
+@251.0
+Master! Please come in!
+
+@252.0
+Oh! Master Young Phoenix!
+
+@253.0
+Master, I committed a grave discourtesy. I beg your pardon. This Liu Xuande still lacks discipline. Please forgive me.
+
+@254.0
+Please lend your strength to me... no, to the realm.
+
+@255.0
+No... it is I who sulked so childishly. How embarrassing.
+
+@256.0
+Then...?
+
+@257.0
+Yes. So long as you do not cast me aside, my lord, I will serve you.
+
+@258.0
+Oh! I am grateful!!
+
+@259.0
+Brother Pang Tong...
+
+@260.0
+Kongming... Thank you. I am grateful for your friendship.
+
+@261.0
+It is nothing... I ask for your help from here on, Brother Pang Tong.
+
+@262.0
+Now then, Master Young Phoenix. I appoint you Deputy Strategist. Command the whole army together with Kongming.
+
+@263.0
+Thank you. I will serve you with all my heart and soul.\n\nBut my lord, I beg you to spare me the title "Master Young Phoenix." I am your retainer.
+
+@264.0
+Ha ha ha... Understood. Master Young Phoe... no, Pang Tong.
+
+@265.0
+Ha ha ha ha...
+
+@266.0
+A drinker for a strategist! Ha ha... we'll make good comrades.
+
+@268.0
+My lord, rejoice. I have good news.
+
+@268.1
+Hm... What is it, Kongming? What news?
+
+@269.0
+Yes. I have brought Pang Tong. He says he wishes to work under you. Please employ him.
+
+@270.0
+I am Pang Tong, styled Shiyuan. I have come because I wish to work under Lord Liu Bei.
+
+@270.1
+Pang Tong...?
+
+@271.0
+Oh, Pang Tong, whom Master Water Mirror called the "Young Phoenix"!
+
+@272.0
+His one fault, if you can call it that, is a bad habit with drink, but he is an excellent man. Besides, next to Zhang Fei, that habit is nothing much.
+
+@273.0
+Tch! No need to drag me into it.
+
+@274.0
+That Pang Tong would join our army!!
+
+@275.0
+Then I appoint you Deputy Strategist. Command the whole army together with Kongming.
+
+@276.0
+Thank you. I will serve you with all my heart and soul.
+
+@277.0
+Hm? Ma Su is coming.
+
+@278.0
+Strategist, I have brought Zhang Song of Yi Province. What shall we do?
+
+@278.1
+Yes, well done. Show Zhang Song in here. Let him meet my lord.
+
+@281.0
+Ma Su was here... Is something the matter?
+
+@282.0
+Pang Tong likes drink too... Heh heh, we'll get along.
+
+@283.0
+The Ma brothers, Huang Zhong, Wei Yan, Pang Tong... We have gained many talented men since we took Jing Province.
+
+@284.0
+"Young Phoenix" means a phoenix chick that has yet to take wing, does it not? I do hope he spreads his wings in our army.
+
+@285.0
+Taking Jing Province is all well and good, but our relations with Wu will be the problem from now on.
+
+@286.0
+While I live, this old frame wishes to repay my lord's kindness.
+
+@287.0
+I wish a chance to win merit would come soon. I can hardly wait.
+
+@288.0
+Kongming. Now that Jing Province is pacified, your next target is Yi Province.
+
+@288.2
+Ma Su came about that too, I take it?
+
+@288.3
+Yes. Your talent for strategy is essential to taking Yi Province. I ask for your help, Deputy Strategist.
+
+@289.0
+Strange, isn't it. Originally I was to take Yi Province under Zhou Yu... Well, leave it to me, Strategist.
+
+@290.0
+Ha ha ha. Leave it to me, Strategist.
+
+@291.0
+My lord, are you aware that Zhang Lu of Hanzhong, who covets Yi Province, is at war with the Governor of Yi, Liu Zhang?
+
+@291.1
+Yes, I have heard.
+
+@291.2
+Liu Zhang could not repel Zhang Lu's army by himself and asked Cao Cao for reinforcements. But Cao Cao refused.
+
+@291.3
+Oh? Why? It would have been a chance to take Yi Province.
+
+@291.4
+You know that Ma Chao, whose father Ma Teng was murdered by Cao Cao's scheme, led the Xiliang army against Guanzhong?
+
+@291.5
+Yes. Cao Cao marched himself and defeated Ma Chao at Pang Tong Pass, I hear. Ma Chao escaped, it seems...
+
+@291.6
+Exactly. Cao Cao has only just mobilized a great army to pacify Guanzhong. He probably dislikes fighting battle after battle.\n\nMore importantly, my lord, Zhang Song, the envoy of Yi Province, has come to Jiangling. I had Ma Su invite him, so please speak with him.
+
+@291.7
+Yes. Then bring in Zhang Song. I will ask him many things.
+
+@292.0
+I have brought Zhang Song.
+
+@293.0
+We meet for the first time. I am Zhang Song, styled Yongnian, retainer of Liu Zhang, Governor of Yi.
+
+@294.0
+Pleased to meet you. I am Liu Bei.
+
+@295.0
+As you may already know, Yi Province is now fighting Zhang Lu of Hanzhong.\n\nOur troops are unused to war and the fighting is back and forth. To break this deadlock we asked Cao Cao for reinforcements, but were refused.
+
+@295.1
+I see. Liu Zhang and I both belong to the Han imperial clan. I cannot overlook the hardship of my kinsman. If you wish, we will come to your aid.
+
+@296.0
+Oh! Truly? Thank you.\n\n(As rumored, the Imperial Uncle is a lord of benevolence... Here, to the Imperial Uncle...)
+
+@297.0
+Imperial Uncle. ...In fact I have one more request.
+
+@297.1
+What is it?
+
+@297.2
+Liu Zhang is a gentle man, but in these troubled times he cannot be relied upon. Indeed, he must seek help from other states merely because Zhang Lu's not-so-strong army attacked.\n\nTherefore... I would like the Imperial Uncle to govern Yi Province.
+
+@297.3
+Wh-what?!
+
+@298.0
+In fact I meant to bring this to Cao Cao as well, but I gave it up when I learned his character. I cannot hand Yi Province to such a man. To the Imperial Uncle I can entrust it with peace of mind.\n\nPlease enter Yi Province as reinforcements and take it for yourself.
+
+@299.0
+That I cannot do! I cannot commit such an act against righteousness.
+
+@299.1
+I too know righteousness. Nor do I seek my own advancement by selling my master.\n\nAs things stand, Yi Province is only waiting to be seized by Zhang Lu... no, by Cao Cao.
+
+@300.0
+No... but Liu Zhang and I are both of the Han house. I cannot fight my own kin.\n\nZhang Song, let us say this conversation never took place.
+
+@301.0
+...Understood. I will return to Yi Province, and ask again about the reinforcements another day. ...Now, if you will excuse me.
+
+@302
+Capital of Yi Province: Chengdu
+
+@303
+Chengdu: Inside the City
+
+@304.0
+...You two, listen. I have asked the Imperial Uncle to take over Yi Province.
+
+@304.1
+I see... In fact we think the same.
+
+@304.2
+Yes, Liu Zhang will not do. Never mind Zhang Lu, he cannot stand against Cao Cao or Sun Quan. With Lord Liu Bei, Yi Province would be safe.
+
+@304.3
+Yes. I thought you would say so.\n\nTomorrow I will persuade Liu Zhang to rely on the Imperial Uncle. I will recommend you two as envoys to him. The rest... you understand?
+
+@304.4
+Yes, understood. Leave it to us.
+
+@304.5
+Zhang Song, I count on you. The future of Yi Province depends on it.
+
+@305
+Chengdu: Council Hall
+
+@306.0
+Ah, Zhang Song. How did it go with the reinforcements?
+
+@307.0
+My lord, Cao Cao will not do. He is a traitor to the Han, a treacherous schemer who covets the realm.
+
+@307.1
+Th-then what will happen about the reinforcements?
+
+@307.2
+My lord, I have an idea.\n\nThe Imperial Uncle in Jing Province is, like you, of the Han line, and a man famed for benevolence. Besides, since Red Cliffs even Cao Cao has been thoroughly afraid of him.\n\nIf we ally with the Imperial Uncle in Jing Province, we need fear neither Cao Cao nor Zhang Lu.
+
+@308.0
+Oh, that is good. Yes, I was just thinking the same.
+
+@309.0
+Then let us send an envoy to Jing Province at once. Zhang Song, who would be best?
+
+@309.1
+Let me see... Fa Zheng and Meng Da would be good.
+
+@309.2
+Good. Fa Zheng! Meng Da!
+
+@310.0
+Fa Zheng, take my letter to Jing Province and ask Liu Bei for reinforcements.
+
+@310.2
+Meng Da, lead four thousand troops to the border and guide Liu Bei.
+
+@310.4
+Then we depart at once.
+
+@311.0
+Zhang Song, well done.
+
+@312.0
+Yes, my lord.\n\n\n(Heh heh heh... knowing nothing...)
+
+@313.0
+My lord, you must not trust Zhang Song's words. If you let Liu Bei into your territory, Yi Province will no longer be yours.
+
+@314.0
+Indeed. Zhang Lu is no great threat, but Liu Bei is a peerless villain... dangerous.
+
+@315.0
+Zhang Song surely plans to join Liu Bei and seize Yi Province. Please reconsider, and have Zhang Song put to the sword.
+
+@316.0
+What are you saying?! Lord Liu Xuande is of the Han line, my own kinsman! Moreover he is a man of deep righteousness. Why would he take Yi Province?!\n\nEnough. Everyone, leave!
+
+@318.0
+Report! An envoy from Lord Liu Zhang has arrived.
+
+@318.1
+Yes. Show him in with courtesy.
+
+@319.0
+Envoy, please come in.
+
+@320.0
+I am Fa Zheng, styled Xiaozhi, retainer of Liu Zhang, Governor of Yi.
+
+@321.0
+Welcome. Thank you for coming.
+
+@322.0
+And what is your business?
+
+@323.0
+I have come on Liu Zhang's behalf to ask the Imperial Uncle for reinforcements.
+
+@323.1
+I have heard of that matter earlier from Zhang Song. I accept the request for reinforcements.
+
+@324.0
+Imperial Uncle, I am a friend of Zhang Song. I trust you have not forgotten what Zhang Song told you.
+
+@324.1
+Hm... Reinforcements are one thing... But I cannot deceive Liu Zhang and take Yi Province.
+
+@324.2
+If only the Imperial Uncle would resolve to govern Yi Province, Zhang Song will rise from within. On your decision alone, Yi Province falls into your hands without effort.\n\nRelying on its wealth and natural defenses, advance into the Central Plains, and the great work of unifying the realm will be easy.
+
+@324.3
+But...
+
+@325.0
+My lord, Jing Province is devastated by war, and its men and supplies are exhausted. Moreover, with Sun Quan to the east and Cao Cao to the north, it is impossible to make three kingdoms stand on Jing Province alone.\n\nBut Yi Province is the Land of Heaven. Why not borrow it for a time as a foothold toward unifying the realm?
+
+@325.1
+But we would have no just cause... Would we not lose our good faith before the world?
+
+@325.2
+Now is a time for adapting to circumstances. It is not a time to hold to righteousness alone.\n\nAfter the realm is pacified, repay Liu Zhang by enfeoffing him with a great fief, and you will not have broken faith. If you miss this chance, Yi Province will fall into Cao Cao's hands.
+
+@325.3
+Kongming, what do you think?
+
+@326.0
+Fa Zheng and Pang Tong are right. We must not let this chance slip.
+
+@326.1
+I see...\n\n\n...Understood. I will send troops to Yi Province.
+
+@327.0
+Oh, you have decided!
+
+@327.1
+Then, my lord, let us move at once.
+
+@327.2
+Yes. But we cannot leave Jing Province empty. We must divide the army.
+
+@328.0
+Kongming, you will defend Jing Province. I leave Guan Yu, Zhang Fei, and Zhao Yun with you.
+
+@330.0
+Leave the home front to us.
+
+@331.0
+Pang Tong, Huang Zhong, Wei Yan, Liu Feng, Ma Su, and the others will go to Yi Province with me. Prepare to march at once.
+
+@333.0
+Lord Liu Bei, I have been waiting for you. I am Meng Da, styled Ziqing.
+
+@333.1
+Ah, Meng Da. I count on you.
+
+@333.2
+Yes, my lord. Then I will guide you.
+
+@334
+Liu Zhang led 30,000 foot and horse to Fu County to welcome Liu Bei in person. He gave him rice, horses, carts, and silk, and asked him to subdue Zhang Lu.
+
+@335.0
+Ah, Liu Bei. Thank you for coming this time.
+
+@336.0
+Not at all. Liu Zhang and I both belong to the Han house, so we are kin, so to speak.\n\nAlso, your late father Liu Yan helped me during the campaign against the Yellow Turbans. This is repayment of that favor. I will gladly send reinforcements.
+
+@336.1
+Thank you. We are fighting Zhang Lu at a place called Jiameng Pass.
+
+@337.0
+Jiameng Pass. Then let us head there at once.
+
+@338.0
+Then, Lord Liu Bei, I will guide you to Jiameng Pass.
+

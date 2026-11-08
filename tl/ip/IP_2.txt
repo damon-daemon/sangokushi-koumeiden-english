@@ -1,0 +1,207 @@
+@0
+They say Meng Huo, the Nanman king, can't stand up to his wife Zhurong.
+
+@1
+When I grow up, I'm going to ride across the battlefield just like Lady Zhurong!
+
+@2
+It's warm around here, so the crops grow plentifully.
+
+@3
+Too many wild beasts around here. A man can't even hunt in peace.
+
+@4
+I heard that farther south there are generals who ride elephants!?
+
+@5
+On battlefields with lots of forests and mountains, you'd do better to build your units around infantry units and bandits.
+
+@6
+Are you running low on medicine? Luckily there's an item shop here, so you should stock up.
+
+@7
+Have you been to the item shop? When you come to a new town, take a look at the item shop first.
+
+@8
+Every unit has strengths and weaknesses depending on the terrain.\n\nWhen forming your units, it is wise to send out plenty of units suited to the terrain of the battlefield.
+
+@9
+You can only carry so many items. Think carefully about what to take before you head to the battlefield.
+
+@10
+Have you been to the treasure house on the battlefield? You can get things there that the weapon shop and item shop don't sell.
+
+@11
+King Meng Huo sent for me, but Lady Zhurong chased me right back out!
+
+@12
+The road ahead looks rough, so I think I'll turn back here.
+
+@13
+If an elephant stepped on you, a man wouldn't stand a chance.
+
+@14
+They say that when the Lu River floods, they offer 49 heads to calm the waters... What terrible things the Nanman do.
+
+@15
+When I see how His Majesty is these days, I feel so ashamed...
+
+@16
+They say that if you stand next to a Band, your units slowly recover SP.
+
+@17
+If a unit retreats, it won't grow. Be careful.
+
+@18
+Prime Minister, you made the Nanman give up their evil custom and taught them about steamed buns, didn't you? They sell as food in Chengdu.
+
+@19
+Is General Zhao Yun afraid of women? I heard that story when I went to Guiyang.
+
+@20
+The late emperor used to be a sandal seller in his youth, didn't he!?
+
+@21
+"Seal Strategy" blocks the enemy's strategies. Only Strategists and Bands can use it.
+
+@22
+Units recover the most HP in a castle, then at a pass, a fort, a village, and a barracks, in that order.
+
+@23
+You need a "Promotion Seal" for promotion.\n\nBut a Supply Corps can promote other units with a "strategy".
+
+@24
+The brave sight of General Huang Zhong in his day is still a comfort to us old folk.
+
+@25
+I once held General Guan Yu's "Green Dragon Blade"... It was ridiculously heavy.
+
+@26
+It is important to attack from a position where the enemy unit cannot counterattack.
+
+@27
+Are all your units strong? If they're lopsided, you'll be in trouble sooner or later.
+
+@28
+When a unit is promoted, it can equip more weapons.
+
+@29
+Prime Minister, thank you for your hard work subduing the Nanman.
+
+@30
+They say Prime Minister Zhuge and General Wei Yan don't get along... Is it true?
+
+@31
+I hear there are items that restore a lot of a unit's SP.
+
+@32
+East of Chengdu is Baxi, and to the northeast are Jiameng Pass, Hanzhong and Yangping Pass.
+
+@33
+Wine and steamed buns... Not bad together, eh!?
+
+@34
+I wonder what lies beyond this country?
+
+@35
+Long ago, Cao Cao is said to have remarked, "If I must have a son, I want one like Sun Quan."
+
+@36
+That old official's remark has a sequel. Cao Cao also said, "Liu Biao's sons are pigs and dogs."
+
+@37
+They say Xiahou Mao is a fool, unlike both his real father, Xiahou Yuan, and his adoptive father, Xiahou Dun.
+
+@38
+When I grow up, take me to war with you!
+
+@39
+The steamed buns of Chengdu... They're famous even here!
+
+@40
+General Huang Zhong's duel with Xiahou Yuan at Mount Dingjun... It's still burned into my mind.
+
+@41
+Say, have you heard the phrase "chicken ribs"?
+
+@42
+I wonder if emperors drink better wine than this?
+
+@43
+"Rattan Boots"... These are going to sell!
+
+@44
+Everyone knows about the sworn brotherhood of Lord Liu Bei, Lord Guan Yu and Lord Zhang Fei, but I hear Sun Ce and Zhou Yu were sworn brothers too.
+
+@45
+A woman isn't about her face. You understand, don't you?
+
+@46
+Only General Zhang He can stand up to the fierce generals of Shu now.
+
+@47
+Just between us, I hear Lord Cao Cao said, "Don't rely too much on Sima Yi."
+
+@48
+Lord Cao Cao often said, "If only Guo Jia were alive..."
+
+@49
+Who was stronger, Xiahou Yuan or Xiahou Dun...
+
+@50
+No matter who becomes emperor of this land, I won't complain as long as the world is at peace.
+
+@51
+Among us girls, the songs Lord Cao Zhi wrote are all the rage.
+
+@52
+Jiang Wei of Tianshui... I hear a lot about him.
+
+@53
+Guan Yu of Shu and Zhang Liao and Xu Huang of Wei were close friends, they say.
+
+@54
+I think Lord Xu Chu is the strongest man in Wei.
+
+@55
+It seems Guan Yu looked down on Lu Xun of Wu.
+
+@56
+Only Lord Cao Cao could have made use of General Zhang He. Lord Sima Yi wouldn't...
+
+@57
+Hmm... You are brimming with the talent to assist a king.
+
+@58
+Don't forget to promote your units.
+
+@59
+Have you ever seen the "Red Hare"? ...Wow, lucky you. I want to see it too.
+
+@60
+I hear Wu has lots of ships sailing about?
+
+@61
+They say the horse "Dilu" is an ill-omened horse. It brings misfortune to its rider...
+
+@62
+Long ago, at Hanzhong, with defeat looming, Cao Cao spoke the words "chicken ribs".\n\nBecause of those words, Yang Xiu was put to death.
+
+@63
+If you speak of Wei's famous generals, it's Hao Zhao!
+
+@64
+Prince Si of Chen, Lord Cao Zhi's "Ode to the Goddess of the Luo"... Have you read it?
+
+@65
+The secret of battle is to read the enemy's movements. Approach an unmoving unit carelessly and...
+
+@66
+The "Red Hare" and "Dilu"... Which horse is the fastest, I wonder?
+
+@67
+In a fight, the one who punches first wins. Once you've been hit, it's too late.
+
+@68
+Sun Quan once said, "Cao Cao has Zhang Liao, and I have Gan Ning."
+

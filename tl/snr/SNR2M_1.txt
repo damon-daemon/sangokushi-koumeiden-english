@@ -1,0 +1,963 @@
+@0
+2-1: Sima Yi's Scheme
+
+@1
+Chapter 2: The Southern Campaign
+
+@2
+Act 1: Sima Yi's Scheme
+
+@3
+Chengdu
+
+@4
+In the third year of Zhangwu in Shu Han (223 AD), in the fourth month, Liu Bei ended his life at Baidi. He was sixty-three.\n\nKongming returned to Chengdu and at once held the enthronement of the crown prince, Liu Shan. Liu Shan was seventeen.
+
+@5
+Chengdu: Palace
+
+@6
+In the twenty-sixth year of Jian'an (221 AD), in the fourth month, Liu Bei took the throne at the foot of Mount Wudan, northwest of Chengdu, and changed the era name to Zhangwu.\n\nThe name of the state was of course "Han," but it is commonly called "Shu Han" after its base, or simply "Shu."
+
+@7.0
+...I am glad to say we have learned that the former emperor still lives.\n\nFor now I will hold the imperial authority in trust, and when the Han house is restored I will give up the throne.\n\nTo that end, I swear here to fight until the traitor Cao Pi of Wei is destroyed!
+
+@8.0
+I hereby appoint Zhuge Liang Prime Minister, and command him to direct all affairs of state.\n\nKongming, continue to help Us.
+
+@10.0
+Your Majesty, from now on you must carry on the will of the late Emperor.
+
+@10.1
+Yes.
+
+@11.0
+Prime Minister, I still understand nothing. Please help Me.
+
+@12.0
+Of course, Your Majesty.
+
+@13
+Luoyang
+
+@14
+Luoyang: Council Hall
+
+@15.0
+...So Liu Bei is really dead?
+
+@16.0
+This is a rare chance. Let us send troops against Shu at once.
+
+@17.0
+...So Liu Bei has taken the throne, claiming to carry on the true line of the Han?
+
+@18.0
+Damn that Liu Bei! I will send troops to Shu and destroy him.
+
+@19.0
+In that case, I have a fine idea.
+
+@20.0
+Oh? What is your plan?
+
+@20.1
+If we simply attack Shu, Kongming will brush us aside. Instead, we attack Shu from five directions at once.\n\nFirst, the Qiang to the north of Shu come in through Xiping Pass. The turncoat Meng Da attacks from Shangyong.
+
+@20.2
+Hm, hm.
+
+@20.3
+Meng Huo, the Nanman king in the south of Shu, is made to rebel, and Wu attacks along the Yangtze. Last, Lord Cao Zhen attacks Yangping Pass.\n\nEven at a hundred thousand men per route, that is some five hundred thousand soldiers coming in by five roads. Even Kongming will struggle to cope.
+
+@21.0
+Yes, an excellent plan. Sima Yi, get to work at once.
+
+@23
+Jianye: Council Hall
+
+@24.0
+My lord, I hear Cao Pi has sent an envoy.
+
+@25.0
+Yes. Wei means to attack Shu now that Liu Bei is dead, and asks Wu to join in.
+
+@26.0
+How shameless! Right after the Battle of Yiling, Wei attacked our Wu.
+
+@27.0
+Have they forgotten that? And now they say let us fight together?
+
+@28.0
+Yes. Wei means to attack Shu, and asks Wu to join in.
+
+@29.0
+Wei cannot be trusted. If we send troops, Wei may be waiting for the chance to strike us.
+
+@29.1
+Hm... Lu Xun, what do you think?
+
+@30.0
+I suggest we send troops for show, to put Wei in our debt...\n\nThen we watch how things go and decide.
+
+@30.1
+If Wei looks likely to win, we help Wei. If Shu has the upper hand, we keep out of it.\n\n...I see, an excellent plan. Lu Xun, I leave the command to you.\n\nJudge the state of Wei and Shu, and decide.
+
+@32
+Chengdu: Residence
+
+@33
+Talk to Huang Yueying
+
+@34.0
+Dear, congratulations.
+
+@34.1
+Hm? What is it all of a sudden?
+
+@34.2
+Well, I have not been feeling very well lately, and I thought it strange...
+
+@34.3
+That is not good. You must rest.
+
+@34.4
+...Yes, I suppose so.\n\nBecause your child is in my belly. I must take care.
+
+@34.5
+What! My... child...
+
+@35.0
+Prime Minister, His Majesty summons you. Please come to the palace.
+
+@36
+Head for the palace in Chengdu
+
+@37.0
+I will stay home and rest.
+
+@38.0
+Prime Minister, His Majesty summons you. Please come to the palace.
+
+@39
+Chengdu: Palace
+
+@40.0
+Your Majesty, you called for me so suddenly. Is something wrong?
+
+@41.0
+Prime Minister, this is serious. Wei and Wu, and the Qiang and the Nanman too, are all attacking at once.\n\nWei alone has split into two forces, under Cao Zhen and Meng Da. What should We do?
+
+@42.0
+Kongming, this is serious. Wei and Wu, and the Qiang and the Nanman too, are all attacking at once.\n\nWei alone has split into two forces, under Cao Zhen and Meng Da. What should I do?
+
+@43.0
+I see. Do not worry, I will deal with it at once. However...
+
+@44.0
+However, what?
+
+@45.0
+However, what?
+
+@46.0
+It is Wu. We should not fight Wu, but rather ally with them. It is the only way to stand against Wei.\n\nBut is there anyone suited to be our envoy for the alliance...
+
+@47.0
+Prime Minister, if you will allow it, I will go to Wu.
+
+@48.0
+Oh...? What is your name?
+
+@48.1
+I am Deng Zhi. I will carry out this mission at the risk of my life.
+
+@48.2
+You seem to understand how important this mission is. Very well, I entrust it to you.
+
+@50.0
+An alliance with Wu is well enough... Prime Minister, can we manage the remaining enemies?
+
+@51.0
+An alliance with Wu is well enough... Kongming, can we manage the remaining enemies?
+
+@52.0
+Leave it to me, Your Majesty.\n\nNow, I will hold a war council in the Council Hall, so please excuse me.
+
+@53.0
+Yes. Prime Minister, I count on you.
+
+@54.0
+Yes. Kongming, I count on you.
+
+@55
+Head for the Council Hall in Chengdu
+
+@56.0
+Kongming, I count on you.
+
+@57.0
+Prime Minister, I count on you.
+
+@58.0
+We depend on you, Prime Minister. Please do your best.
+
+@59.0
+A-are you sure this is all right? Even leaving out Wu, the enemy is coming from four directions!
+
+@60.0
+Prime Minister, please take this.
+
+@61.0
+Please live up to His Majesty's hopes.
+
+@62.0
+Prime Minister, please take this.
+
+@63
+Received 700 in war funds.
+
+@64.0
+Every moment counts. Please do your best.
+
+@66.0
+Prime Minister, we have been waiting for you.\n\nEveryone has something to tell you. Please hear their opinions.
+
+@67
+Hear the generals' opinions
+
+@68.0
+The city north of Chengdu is Hanzhong, and the city east of it is Shangyong.\n\nShangyong is held by Meng Da, who went over to Wei.
+
+@69.0
+Meng Da was originally a Shu officer. When he was in Shu, he was close to Lord Li Yan.\n\nNow Meng Da is attacking at the head of an army, but...\n\nif we send Lord Li Yan against Meng Da, he will surely withdraw his troops.
+
+@70.0
+Cao Zhen, attacking Yangping Pass, has been a general-in-chief only a short time and is not used to real battle.\n\nLord Zhao Yun, a veteran of a hundred battles, will make short work of Cao Zhen.
+
+@71.0
+Please send me to Xiping Pass, where the Qiang are attacking.
+
+@72.0
+Lord Ma Chao was born in Xiliang. The Qiang, including Ke Bineng, call him "General Divine Awe"...\n\nand his reputation is still great today.\n\nIf Master Ma Chao goes, he can surely break the momentum of the Qiang at Xiping Pass.
+
+@73.0
+I hear the Wei reinforcements have already left Chang'an.\n\nThe longer the fighting drags on, the worse it will be for us.
+
+@74.0
+At a pass, a unit can recover its endurance.\n\nFirst we must seize the passes that the enemy armies must go through.
+
+@75.0
+Yangping Pass lies on the path of Cao Zhen's army. Xiping Pass lies on the path of the Qiang army.
+
+@76.0
+Meng Da, who went over to Wei, and I were close. If possible, I would like to persuade him.
+
+@77.0
+I hear the Wei reinforcements have already left Chang'an.\n\nThe longer the fighting drags on, the worse it will be for us.
+
+@78.0
+Prime Minister, leave the vanguard to me. I owe Meng Da a great debt.
+
+@79.0
+Yangping Pass lies on the path of Cao Zhen's army. Xiping Pass lies on the path of the Qiang army!
+
+@80.0
+Have you heard all their opinions yet?
+
+@81.0
+Please hear their opinions. Then we march.
+
+@82.0
+Then let us organize the units.
+
+@83.0
+Wu is unlikely to attack. First we hold off the Wei army and the Qiang.
+
+@83.1
+Crush Shu! Advance!
+
+@84
+1. Annihilate the enemy units\n\n2. Survive 20 turns
+
+@85.0
+I am Ma Chao! If you value your lives, come on!
+
+@86.0
+That voice...! N-no! It can't be!
+
+@86.1
+That is General Divine Awe, Lord Ma Chao! There is no way we can fight him.
+
+@87.0
+I am Zhao Yun! Generals of Wei, face me in fair combat!
+
+@87.1
+What! The man who rode alone through a million troops at Changban?
+
+@87.2
+There is no way to beat that hero.
+
+@87.3
+Right, right. We can't win.
+
+@88.0
+Small fry... Go back to Wei, now!
+
+@89
+Ma Chao leveled up!
+
+@90.0
+This is no contest... Go back to Wei, now!
+
+@91
+Ma Dai leveled up!
+
+@92.0
+Aren't you Li Yan!
+
+@92.1
+It has been a long time... my friend.
+
+@92.2
+L-Li Yan... You still call me a friend? Even though I betrayed Shu...
+
+@92.3
+Though we serve different countries, you are my friend.
+
+@92.4
+...\n\nLi Yan, I do not want to fight you. ...I will withdraw to Shangyong!
+
+@93
+Enemy reinforcements have arrived!
+
+@94.0
+Lord Cao Zhen! The reinforcements are almost here.
+
+@94.1
+Good! Reinforcements are almost here! Just a little longer!
+
+@95
+Enemy reinforcements have arrived!
+
+@96.0
+The reinforcements have arrived.
+
+@96.1
+Good, good. Keep crushing Shu like this!
+
+@97
+Enemy reinforcements have arrived!
+
+@98.0
+Defeat Kongming!
+
+@99.0
+Lord Cao Zhen, this is terrible!
+
+@99.1
+What is it!
+
+@99.2
+Our provisions are about to run out.
+
+@99.3
+What! I misjudged. I never thought it would drag on this long! It cannot be helped, the whole army retreats!
+
+@100.0
+Now Wei and the Qiang will not attack for some time.
+
+@104.0
+What! Then every one of the invasions of Shu has failed!
+
+@105.0
+I am truly sorry. The Shu army was tougher than we expected...
+
+@106.0
+Besides, the Nanman king Meng Huo is still to come. It is by no means over.
+
+@107.0
+I will hear no excuses! They say Wu has even allied with Shu!\n\nDamn them, I will not stand for it! Very well, we destroy Wu first! Send troops against Wu!
+
+@108.0
+Your Majesty, please wait.
+
+@108.1
+Hua Xin, do you object!?
+
+@108.2
+To attack Wu we must cross the Yangtze.\n\nTo beat the Wu navy we need powerful warships, but Wei's navy at present...
+
+@108.3
+Hm... Then have warships built in haste. Hua Xin, you will be in charge.
+
+@110
+Meng Huo's Stronghold: Yinkeng Cave
+
+@111
+Yinkeng Cave: Council Hall
+
+@112.0
+...An envoy from Wei? What business have you with Meng Huo?
+
+@112.1
+The Emperor of Great Wei has granted Lord Meng Huo a title and gifts.
+
+@112.2
+Oh, how kind.
+
+@112.3
+In return, he asks Lord Meng Huo, the Nanman king, to invade Shu...
+
+@112.4
+...Having received so much, I can hardly refuse.\n\nVery well. We will attack Shu. Give my regards to His Majesty the Emperor of Great Wei.
+
+@112.5
+Thank you. Now, if you will excuse me.
+
+@113.0
+Brother, is it all right to accept so easily? I hear Shu is quite strong.
+
+@113.1
+What... There is no need for us to go ourselves.\n\nYong Kai is south of Yi Province. Let him attack. There are also Gao Ding and Zhu Bao.\n\nYong Kai can handle a mere Shu.
+
+@113.2
+I see. I will send an envoy to Yong Kai at once.
+
+@115.0
+Your Majesty, the warships are finished.
+
+@115.1
+Good! We will invade Wu ourselves! The whole army, prepare to march!
+
+@117.0
+You all know it already. Wei has come against us with a great fleet.\n\nWe must call Lu Xun back at once and strengthen our defenses.
+
+@118.0
+My lord, please wait. There is no need to call Lord Lu Xun back.\n\nI, Xu Sheng, will drive off the Wei army.
+
+@118.1
+...Xu Sheng. Good, I value that spirit.\n\nThen I appoint you commander in chief. Go and crush the Wei army.
+
+@119.0
+Yes, my lord. Await good news.
+
+@120.0
+My lord, let me take part in the battle too.
+
+@120.1
+Oh, Sun Shao.
+
+@120.2
+I grew up in Jiangnan. I know the land there well. Please let me go.
+
+@120.3
+Xu Sheng, Sun Shao says this... What do you think?
+
+@120.4
+If it pleases you, my lord, I have no objection.
+
+@120.5
+Good. Then Sun Shao, I expect great things of you.
+
+@121.0
+Yes. Thank you.
+
+@122
+Thus Wei and Wu faced each other at Guangling. Xu Sheng used a ruse of false appearances to deceive the Wei army. Seeing that Wu was prepared, Cao Pi tried to turn back to the port on the Huai River, and on the way Sun Shao attacked with fire while Ding Feng struck with an ambush. The Wei army was utterly crushed.
+
+@123.0
+Zhang Liao! Is your wound all right!?
+
+@123.1
+...It is a scratch. More importantly, Your Majesty...
+
+@123.2
+Yes... it cannot be helped. We return to Luoyang!
+
+@124
+While Wu was driving Wei back, in the south of Yi Province, Yong Kai, governor of Jianning, who had joined the Nanman king Meng Huo, raised a revolt against Shu Han together with Gao Ding, Zhu Bao and others.\n\nThey besieged Yongchang Commandery, governed by Wang Kang, who had refused to join the rebellion.
+
+@125
+Yongchang: Southern Yi Province
+
+@126
+Yongchang: Council Hall
+
+@127.0
+Terrible news! Yong Kai has revolted!
+
+@128.0
+What!
+
+@128.1
+Not only Yong Kai. Gao Ding and Zhu Bao seem to have risen too!
+
+@128.2
+What! Why have all three revolted at the same time!?
+
+@128.3
+Are the rebels heading for Yongchang Commandery?
+
+@128.4
+From the way they are marching, probably...
+
+@129.0
+Someone is behind this rebellion. Probably Meng Huo or the like...
+
+@130.0
+At this rate Yongchang will fall.\n\nSend an envoy to Prime Minister Zhuge in Chengdu at once. Ask for relief!
+
+@134.0
+I have just returned from Wu.
+
+@134.1
+Ah, Deng Zhi. Well done. How did it go?
+
+@134.2
+It went well. We were able to conclude a defensive and offensive alliance with Wu.
+
+@135.0
+Oh, wonderful! Deng Zhi, you have done very well.\n\nNow we can fight Wei on equal terms. We no longer need worry about an attack from Wu...\n\nThen the next threat to Shu's rear is... the Nanman.
+
+@136.0
+Excuse me!
+
+@136.1
+What is it?
+
+@136.2
+I am an envoy from Yongchang Commandery. Yong Kai, Gao Ding and Zhu Bao of southern Yi Province have revolted!
+
+@136.4
+The rebels mean to attack Yongchang Commandery, governed by Lord Wang Kang.\n\nIt is also said that the Nanman king Meng Huo is pulling the strings behind the rebels.
+
+@136.5
+I see, well done. I will send reinforcements at once.
+
+@137.0
+Yes. Please hurry.
+
+@138.0
+Prime Minister, what will you do?
+
+@138.1
+Anyone can put down a rebellion. But if we leave the spark of revolt here, it will be a calamity later. I must pacify the Nanman myself.
+
+@138.2
+I see. Then we must report to His Majesty at once.
+
+@138.3
+Yes. I will go to the palace now.\n\nMa Liang, go ahead to the palace and report the rebellion to His Majesty.
+
+@140.0
+The southern campaign must be made, but we cannot neglect our defenses against Wei and Wu... Lord Zhang Fei!
+
+@141.0
+Yes!
+
+@141.1
+Lord Zhang Fei, I ask you to guard Baxi, to hold our eastern defenses.
+
+@142.0
+It's a shame not to go on the southern campaign, but it can't be helped. Leave it to me!
+
+@143.0
+Prime Minister, in exchange, so to speak, please add my son Zhang Bao to the southern army.
+
+@144.0
+Prime Minister, I ask for your guidance.
+
+@145.0
+Lord Zhang Fei, thank you for your thoughtfulness.
+
+@146.0
+Lord Guan Yu, I ask you to guard the north. Station yourself at Hanzhong and stop any Wei invasion.
+
+@147.0
+Yes. Understood.
+
+@148.0
+The rest of you, prepare to march.
+
+@150.0
+Leave the defense of Hanzhong to me. I will not repeat the mistake of Jing Province.
+
+@151.0
+Leave Baxi to me. And please look after Zhang Bao.
+
+@152.0
+We will prepare to march. Prime Minister, please go to the palace.
+
+@153.0
+Prime Minister, to the palace, please.
+
+@154.0
+Leave the march preparations to me.
+
+@155.0
+Prime Minister, to the palace, quickly.
+
+@156.0
+Prime Minister, please hurry to the palace.
+
+@157.0
+What is wrong? Quickly, report to His Majesty.
+
+@158.0
+Prime Minister, what is it? Please go to the palace quickly.
+
+@159.0
+Do not worry about us.
+
+@160.0
+Let us hurry to the palace.
+
+@161.0
+I will hear your business later. Prime Minister, please go to the palace.
+
+@163.0
+Your Majesty, I have a request. Please grant me leave to subdue the Nanman.
+
+@164.0
+I heard of the Nanman rebellion from Ma Liang. But there is no need for you to go, Prime Minister.\n\nSend Zhao Yun, or Wei Yan... send someone else.\n\nWhat if Wei or Wu attacks while you are away?
+
+@165.0
+I heard of the Nanman rebellion from Ma Liang. But there is no need for you to go, Kongming.\n\nSend Zhao Yun, or Wei Yan... send someone else.
+
+@166.0
+Do not worry. We have allied with Wu, so we are safe for the time being.\n\nWei suffered a great defeat against Wu the other day. It has no strength left to attack.
+
+@166.2
+For the northern expedition to come, we must remove any worry from our rear.
+
+@166.3
+I see. If you say so, Prime Minister, I grant permission. Go and pacify the Nanman.
+
+@167.0
+Do not worry. We have allied with Wu, so we are safe for the time being.\n\nWei suffered a great defeat against Wu the other day. It has no strength left to attack.
+
+@167.2
+For the northern expedition to come, we must remove any worry from our rear.
+
+@167.3
+I see. If you say so, Kongming, I grant permission. Go and pacify the Nanman.
+
+@169
+Talk to Ma Liang
+
+@170.0
+Kongming, take care of yourself.
+
+@171.0
+Prime Minister. When you have pacified the Nanman, come back at once.
+
+@172.0
+Prime Minister, I would like to stay in Chengdu and handle domestic affairs while you are away.
+
+@172.1
+Yes. I can leave it to you with an easy mind. I count on you.
+
+@172.2
+The rebels are said to be at Jianning. Near Jianning there is a place called Yuesui. I suggest making it your base.
+
+@172.3
+I see. Then tell the generals to move to Yuesui. I will follow at once.
+
+@173.0
+Now, Your Majesty. Your servant Liang goes to subdue the Nanman. Please excuse me.
+
+@174.0
+Yes. Prime Minister, I count on you.
+
+@177.0
+The climate of the Nanman land is different from here. Please take care.
+
+@179.0
+I hear the Nanman land has many poisonous snakes and scorpions. Prime Minister, take care.
+
+@180.0
+Prime Minister, take care. Leave Chengdu to us.
+
+@181.0
+I hear the Nanman land is terribly hot. Prime Minister, take care.
+
+@182
+In the spring of the third year of Jianxing in Shu Han (225 AD), Kongming and his men marched for Yuesui, south of Chengdu, to put down the revolt of Yong Kai and the others.\n\nTo remove all worry from the rear before the northern expeditions to come, Kongming judged, this was necessary.
+
+@183
+In the spring of the third year of Zhangwu in Shu Han (223 AD), Kongming and his men marched for Yuesui, south of Chengdu, to put down the revolt of Yong Kai and the others.\n\nTo remove all worry from the rear before the northern expeditions to come, Kongming judged, this was necessary.
+
+@184
+Yuesui: South of Chengdu
+
+@185
+Enter the camp at Yuesui
+
+@186
+Yuesui: Shu Camp
+
+@187.0
+Everyone is here, I see.
+
+@187.1
+Yes. Prime Minister, we can march at any moment.
+
+@187.2
+The rebels are based at Jianning. Let us march at once.
+
+@187.3
+Yes. We must hurry or Yongchang is in danger. Let us organize the units now.
+
+@189.0
+The ones who rose are the three governors, Yong Kai, Gao Ding and Zhu Bao.
+
+@190.0
+I hear Gao Ding has a fierce warrior called E Huan under him. I would like to fight him once.
+
+@191.0
+Jianning is ringed by mountains and forest, but most of it is flat ground. I think it is terrain where cavalry can shine.
+
+@192.0
+In southern Yi Province, only Lord Wang Kang of Yongchang did not join the rebellion, I hear.
+
+@193.0
+Gao Ding is by nature a man of loyalty. If you persuade him sincerely, Prime Minister, he may surrender.
+
+@194.0
+Under Lord Wang Kang of Yongchang there is a fine officer called Lu Kai. They say Lu Kai knows the geography of the Nanman land well.
+
+@195.0
+Prime Minister, please organize the units.
+
+@196.0
+The land south of Yongchang is unknown to us. We cannot tell what will happen.
+
+@197.0
+Behind Yong Kai and the others is the Nanman king Meng Huo. I hear Meng Huo's base is deep in the far south.
+
+@198.0
+Prime Minister, shall we sortie?
+
+@199.0
+Oh, so that is the Shu army. Looks worth fighting.
+
+@200.0
+Prime Minister, that is E Huan, a subordinate of Gao Ding. They say he is a brave man.
+
+@200.1
+I see. First, let us capture him.
+
+@201
+1. E Huan retreats
+
+@203.0
+Good! I have captured E Huan!
+
+@204
+Wei Yan leveled up!
+
+@205.0
+Prime Minister, we have taken E Huan prisoner.
+
+@206.0
+So you are E Huan. Whose man are you?
+
+@206.1
+I am Lord Gao Ding's lieutenant. Since I have been captured, I am already prepared.
+
+@206.2
+I see...
+
+@206.3
+Prime Minister, what shall we do with E Huan?
+
+@207
+Behead E Huan.\n\nRelease E Huan.
+
+@208.0
+The crime of rebellion is grave. E Huan, I will have you executed.
+
+@208.1
+I will not take it back. Cut off my head quickly.\n\nGah...
+
+@208.2
+...He was a gallant man.
+
+@208.3
+Yes. Perhaps I was a little hasty.
+
+@209.0
+E Huan was captured and beheaded, you say! Curse you, Kongming, killing my right-hand man!
+
+@209.1
+We fight to avenge E Huan! Make Kongming a blood sacrifice!
+
+@210
+1. Destroy Yong Kai
+
+@212.0
+One of Gao Ding's men... I hear Gao Ding is a man of loyalty. This time he must have been egged on by Yong Kai.\n\nIf he returns to the Han court, his crime will not be questioned. E Huan, tell Lord Gao Ding so.
+
+@212.1
+Then I may go back?
+
+@212.2
+Yes. Give my regards to Lord Gao Ding.
+
+@213.0
+E Huan! How did you get back!? I heard you were captured by the Shu army.
+
+@213.1
+What happened? Explain.
+
+@213.2
+...Kongming said Gao Ding is by nature a man of loyalty and was surely egged on by Yong Kai this time...\n\n...that if he returns to the Han court his crime is forgiven. I was told to carry that message.
+
+@213.3
+W-what! Egged on by me!
+
+@213.4
+Gao Ding. This is Kongming's scheme to drive a wedge between us. Do not be misled!
+
+@213.5
+Damn you, Kongming! What a cunning trick! I will not forgive you!
+
+@213.6
+...Me... a man of loyalty... even though I joined the rebellion...!?
+
+@214
+1. Destroy Yong Kai
+
+@217.0
+Ah, so you are Gao Ding.
+
+@217.2
+Now, I ask once more. Will you not return to the Han court?
+
+@217.3
+...Why do you say this to me...? I am a traitor!
+
+@217.4
+I hear you are a man of loyalty. I thought that if I explained, you would surely understand.
+
+@217.5
+You say you will forgive a traitor like me... ...I understand. I, Gao Ding, return to the Han court.
+
+@218
+Zhuge Liang leveled up!
+
+@219.0
+Gao Ding! What is the meaning of this!?
+
+@219.1
+I have already returned to the Han court. As my gift, I will defeat you!
+
+@219.2
+W-what!
+
+@220.0
+Gao Ding... Why did you betray us...
+
+@220.1
+It is you who betrayed the Han court! Not I!
+
+@221
+Gao Ding leveled up!
+
+@222.0
+For now, the rebellion has been put down...
+
+@223.0
+What of Zhu Bao?
+
+@223.1
+I sent E Huan after him. He should be back soon.
+
+@223.2
+Lord Gao Ding, I have killed Zhu Bao.
+
+@223.3
+Ah, E Huan. Well done.
+
+@224.0
+What of Zhu Bao?
+
+@224.1
+He seems to have fled somewhere.
+
+@225
+Obtained 1200 gold!
+
+@226
+Obtained 800 gold!
+
+@227.0
+Now, to Yongchang.
+
+@228
+Enter the Council Hall at Yongchang
+
+@230.0
+Prime Minister, thank you for putting down the rebellion.
+
+@231.0
+I merely did my duty as Prime Minister. It is you who held out so well.\n\nBy the way... I would like to ask about the Nanman king Meng Huo.
+
+@232.0
+Meng Huo is based at a place called Yinkeng Cave, deep in the Nanman land.
+
+@232.1
+Yinkeng Cave?
+
+@232.2
+Yes. It got the name because it yields much silver and platinum.\n\nThe road to Yinkeng Cave is long and steep. There are many threats: forests dark even by day, bottomless swamps, nests of poisonous snakes and scorpions.
+
+@232.3
+What a land...
+
+@232.4
+Also, among the Nanman are people who command fierce beasts and poisonous snakes. An army built around them should be reckoned a stronger enemy than we expect.
+
+@232.5
+What! An army that uses fierce beasts and poisonous snakes!?
+
+@232.6
+This will not be an easy victory.
+
+@232.7
+...The pacification of the Nanman must be achieved. Otherwise, when we come to the decisive battle with Wei, they will strike us from behind.
+
+@233.0
+Prime Minister, I have a suggestion. How about asking Lord Lu Kai to come along as our guide?
+
+@233.1
+Yes... that is so. Lu Kai, do you have any objection?
+
+@234.0
+I too am a servant of the Han court. I have no objection at all.\n\nPrime Minister, I look forward to serving you.
+
+@235.0
+Now we head for the Nanman land. It will be hard on all of you, but I count on you.\n\nThe fate of the Han court hangs on this war.
+
+@238.0
+Brother! I hear Yong Kai's rebellion has been put down.
+
+@238.1
+What? Already put down?
+
+@239.0
+I hear that Kongming of Shu is terribly sharp.
+
+@239.1
+Kongming? ...Kongming?
+
+@240.0
+And this Kongming is coming here to subdue the Nanman.
+
+@241.0
+Insolent! Kongming is no match for the Nanman soldiers. I will slaughter every Shu soldier!\n\nRight, march to Wuxi Peak!
+
+@242.0
+Yes!
+

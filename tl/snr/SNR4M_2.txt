@@ -1,0 +1,1095 @@
+@0.0
+R-retreat! Fall back to the Wei River!
+
+@1
+The Wei River
+
+@2
+Wei River: Wei Camp
+
+@3.0
+If we lose here, Chang'an is in danger. For now, do not leave camp. Hold the defenses firmly. If we dig in and stay on the defensive, even Kongming will not find it easy to strike.
+
+@4.0
+What do you think? Would it not be better to request reinforcements from His Majesty?
+
+@5.0
+No, that would shake the capital. Let us fall back to Chang'an for now. As long as we hold Chang'an, we can manage somehow.
+
+@5.1
+Hmm, this is troublesome. What should we do...? There must be some good method... (...That's it. I have a good plan.)
+
+@5.2
+Commander in chief, please give the order to withdraw...
+
+@5.3
+Wait, wait. I have an idea.
+
+@6.0
+What is it?
+
+@6.1
+Simple. We spread a rumor in Chengdu that "Kongming is plotting a rebellion to take the throne." Then the Shu emperor, Liu Shan, will surely be shaken. He will certainly summon Kongming back to Chengdu.
+
+@6.2
+Wh-what...!
+
+@6.3
+If it goes well, Kongming may even be banished or executed. Come to think of it, I was banished by that very method. An eye for an eye, a tooth for a tooth. Let us give Kongming the same suffering. Heh heh heh...
+
+@9.0
+Hey... Did you hear that rumor?
+
+@9.1
+Yes, I heard. They say Master Kongming is after the throne. That would be a rebellion, wouldn't it?
+
+@9.2
+Then will Master Kongming attack Chengdu? No way. There is no way we can win. If that happens, I am running away right then.
+
+@9.3
+True... There is no way we could beat Master Kongming.
+
+@9.4
+But, you know... just between us, wouldn't it be better if Master Kongming became the Son of Heaven?
+
+@9.5
+There is something to that. In fact, I hear the late Emperor once tried to hand the throne to Master Kongming.
+
+@10.0
+This is terrible. I must tell the old woman at once.
+
+@11.0
+Old woman, this is terrible. They say the Prime Minister is going to rebel.
+
+@11.1
+What, really?
+
+@11.2
+Yes. And it seems Chengdu will become a battlefield.
+
+@11.3
+Oh my...
+
+@11.4
+How I hate war. Don't you, old woman?
+
+@11.5
+I really do hate it. Don't you, old man?
+
+@12.0
+(Rebellion, they say about him?! No... How absurd...!)
+
+@14.0
+Your Majesty, pardon me!
+
+@14.1
+What is it, rushing in like this? We are busy. State your business quickly.
+
+@14.2
+The Prime Minister... Master Kongming is said to be plotting a rebellion!
+
+@15.0
+W-what!
+
+@16.0
+What absurd talk! Where on earth did you hear this rumor?!
+
+@17.0
+Where? Everywhere... The whole city of Chengdu is full of this rumor!
+
+@17.1
+Wh-what! Such a rumor, throughout the city...?!
+
+@18.0
+B-but... I cannot recall doing anything to make the Prime Minister rebel against me! If he rebelled, what would become of me? Would I be killed?
+
+@19.0
+Your Majesty, this is a grave matter. Let us call the Prime Minister back to Chengdu. Why not ask him directly what he intends?
+
+@20.0
+Indeed. I think one cause is that the Prime Minister is away from Chengdu too often. If he were here in good health, such a rumor would never have spread. Your Majesty, let us send someone to Mount Qi.
+
+@20.1
+Y-yes. I suppose so...
+
+@21.0
+Your Majesty, please wait. Our army has defeated Wei and is about to set out for Chang'an. If you pull the troops back over a mere rumor, what will you say to the Prime Minister?
+
+@22.0
+Hmm... Now that you put it that way...
+
+@23.0
+But the Prime Minister commands a great army. If he should turn those troops toward Chengdu...
+
+@23.1
+W-what!! Then We are finished!
+
+@24.0
+You there! Go to Mount Qi at once and tell the Prime Minister to return to Chengdu.
+
+@25.0
+What! B-but, what is the reason?
+
+@26.0
+Never mind the reason! Just go now!
+
+@27.0
+Y-yes, sire.
+
+@30.0
+Prime Minister... Pardon me.
+
+@31.0
+Well, well. Thank you for coming so far. And what is your business? Is something amiss in Chengdu?
+
+@31.1
+His Majesty orders you to return to Chengdu at once. Prime Minister, please return to Chengdu immediately.
+
+@32.0
+What! Wh-what did you say!
+
+@33.0
+Why at a time like this?! We are about to defeat Sima Yi! Envoy, please tell us the reason. Why must we return to Chengdu now?!
+
+@33.1
+W-well... That is... Um... Well...
+
+@34.0
+Answer me!
+
+@34.1
+...Jiang Wei, stop.
+
+@35.0
+Prime Minister! But!
+
+@35.1
+Stop. Whatever the reason, this is an imperial command. We have no choice but to return.
+
+@36.0
+But Prime Minister, if we go back to Chengdu now, Sima Yi will get his breath back. We will lose the perfect chance to finish him.
+
+@37.0
+It is said that a general in the field need not accept every command of his lord. Even if it means defying the imperial command for a time, we should press on.
+
+@38.0
+Master Sun said, "A general in the field need not accept every command of his lord." Even if it means defying the imperial command for a time, should we not defeat Sima Yi here?
+
+@39.0
+I understand how you feel. But if I, the Prime Minister, defy an imperial command, no one will obey one from now on.
+
+@39.2
+I too find it far too bitter to turn back here. But... we cannot defy the imperial command. I am sorry to all of you...
+
+@39.3
+Prime Minister.
+
+@39.4
+Half the army will go to Chengdu with me. The other half is ordered to defend Hanzhong. Prepare.
+
+@40.0
+Why... Why is this happening?!
+
+@41.0
+Envoy, answer me!
+
+@42.0
+Actually... a rumor has spread in Chengdu that the Prime Minister is plotting rebellion and eyeing the throne...
+
+@43.0
+Wh-what!
+
+@44.0
+Th-that's absurd!
+
+@45.0
+And so... Lord Guo Youzhi tried to stop it, but... His Majesty... ah!
+
+@46.0
+His Majesty... His Majesty believed that rumor...? Is that what you are saying?
+
+@47.0
+N-no... Nothing of the sort...
+
+@48.0
+...............Envoy, might I ask you to wait a while?
+
+@50.0
+(...Prime Minister.)
+
+@51.0
+(What... what have I been fighting for? Have I not given my all to the late Emperor's dearest wish, the restoration of the Han? ...And His Majesty does not understand?)
+
+@52.0
+...Prime Minister.
+
+@53.0
+Ma Su... What is it?
+
+@54.0
+Prime Minister, I am ready for your rebuke. If you hear me out and still do not decide, cut me down.
+
+@55.0
+Ma Su, what is it?
+
+@56.0
+Prime Minister, His Majesty, Liu Shan, is honest, but easily swayed by others' opinions. And how serious is he about restoring the Han, truly? ...Why not make the rumor a reality?!
+
+@57.0
+What! You tell me to rebel?!
+
+@58.0
+No, it is not rebellion! Did not the late Emperor, Lord Liu Bei, himself say so? That you would hold the imperial power for a time and return the throne when the Han is restored... Therefore...
+
+@59.0
+...Prime Minister.
+
+@60.0
+Jiang Wei, Jiang Wan, Yang Yi... Were you listening to that?
+
+@61.0
+Yes... I was worried about the Prime Minister.
+
+@62.0
+Everyone, do not misunderstand! I urged the Prime Minister to take the throne, and he said nothing... The sin of disloyalty is mine! It is mine...
+
+@63.0
+Ma Su... I understand. We feel the same as you.
+
+@65.0
+Prime Minister, Ma Su is right. As long as we serve Liu Shan as our lord, no matter how loyally you serve, whenever a treacherous courtier slanders you, this kind of thing will happen again.
+
+@66.0
+It is true His Majesty is like white silk. That is why we, his subjects, must...
+
+@67.0
+We understand what you wish to say, Prime Minister. But, Prime Minister.
+
+@68.0
+For what purpose have we toiled for so many years?
+
+@68.1
+For the restoration of the Han, of course.
+
+@69.0
+Exactly. For the late Emperor's dearest wish, the restoration of the Han! There is no law that says only the Liu family may restore the Han. Did not the late Emperor say it too? If Liu Shan lacks the capacity, the Prime Minister should take the throne himself.
+
+@70.0
+I surrendered to the Han army because I was moved by your aim of restoring the Han house, Prime Minister. But if His Majesty acts as he has now, the restoration of the Han is nothing but a dream within a dream!
+
+@71.0
+Prime Minister, for now harden your heart, take the throne, and accomplish the restoration of the Han!
+
+@73
+Take the throne.\nI cannot do it.
+
+@74.0
+...Very well. I will take the throne.
+
+@75.0
+Prime Minister, thank you for making this decision.
+
+@76.0
+Now then... that makes the officers' attitudes a concern.
+
+@76.1
+Indeed... Those who seem unlikely to side with us should be dealt with now...
+
+@76.2
+No. I intend to confess everything honestly and leave the judgment to the officers.
+
+@77.0
+But...
+
+@77.1
+If my resolve is free of selfish motives, they will accept it. If not... then to be struck down on the spot is my wish.
+
+@77.2
+You are resolved to that extent... My life is as good as given to me by the Prime Minister. I will follow you to the end.
+
+@78.0
+...In any case, we return to the Council Hall. The envoy is waiting.
+
+@79.0
+Even so... I cannot do it. I cannot betray the late Emperor's trust. Ma Su, Jiang Wei, Jiang Wan, Yang Yi. Those words of yours were spoken out of concern for the country, were they not?
+
+@80.0
+Listen, all of you. Speak of this to no one. Not even to your wives and children.
+
+@83.0
+I spoke out of turn.
+
+@84.0
+Prime Minister, forgive me.
+
+@85.0
+Yes. Now, we return to the Council Hall.
+
+@87.0
+Envoy, I am sorry to have kept you waiting.
+
+@87.1
+N-not at all... And so...?
+
+@88.0
+Whatever the reason, this is an imperial command... I will return.
+
+@89.0
+But Prime Minister, if we go back to Chengdu now, Sima Yi will get his breath back. We will lose the perfect chance to finish him.
+
+@90.0
+It is said that a general in the field need not accept every command of his lord. Even if it means defying the imperial command for a time, we should press on.
+
+@91.0
+Master Sun said, "A general in the field need not accept every command of his lord." Even if it means defying the imperial command for a time, should we not defeat Sima Yi here?
+
+@92.0
+I understand how you feel... But if I, the Prime Minister, defy an imperial command, no one will obey one from now on.
+
+@92.2
+I too find it far too bitter to turn back here. But... we cannot defy the imperial command. I am sorry to all of you...
+
+@92.3
+Prime Minister...
+
+@92.4
+Half the army will go to Chengdu with me. The other half is ordered to defend Hanzhong. Prepare.
+
+@93.0
+Why... Why is this happening?!
+
+@94.0
+Envoy, I have made my decision. I want everyone to hear it as well. In accordance with the late Emperor's will, I have decided to take the throne.
+
+@94.1
+Wh-what?!
+
+@95.0
+Prime Minister!!
+
+@96.0
+Prime Minister!!
+
+@97.0
+Wh-what did you just say?!
+
+@98.0
+When the late Emperor was dying, he said this to me... "Your talent is ten times that of Cao Pi. You will surely accomplish the great task of restoring the Han. If my son Liu Shan has the capacity of a ruler, assist him. If not, take the country yourself."
+
+@100.0
+When I think of the favor I received from the late Emperor, deposing Liu Shan is not something I can do lightly. But more than helping Liu Shan, I must fulfill the late Emperor's will, the restoration of the Han!
+
+@101.0
+I will not escape the name of traitor, and my disgrace will last through the ages... But I will harden my heart and ask His Majesty to step down from the throne. For the restoration of the Han!
+
+@102.0
+P-Prime Minister...
+
+@102.1
+Envoy, my resolve is as I have just told you. Return to Chengdu quickly and report it to His Majesty, Liu Shan.
+
+@102.2
+Y-yes, sir.
+
+@103.0
+Whether you follow me or go to His Majesty, each of you must decide for yourself. I will not harm those who leave me. Take your own troops and go. And if you cannot accept this at all, you may stab me dead on the spot.
+
+@104.0
+I follow the Prime Minister!
+
+@105.0
+I too surrendered to the Han army, moved by the Prime Minister's aim of restoring the Han house. I will go with the Prime Minister.
+
+@106.0
+Me too!
+
+@107.0
+I will follow the Prime Minister.
+
+@108.0
+Prime Minister, I am sorry... but I will go to His Majesty.
+
+@108.1
+I see... I am indebted to you, Zhao Yun, for so much. Thank you for all you have done...
+
+@108.2
+Prime Minister, though I leave you, whatever happens, our aim of restoring the Han is the same. Then... farewell.
+
+@109.0
+Kongming, I cannot accept this! I will return to Chengdu and help His Majesty!
+
+@110.0
+I will follow the Prime Minister. I have thought for some time that, with Liu Shan... well.
+
+@111.0
+And the others...?
+
+@112.0
+We will follow the Prime Minister.
+
+@112.1
+I see... Forgive me...
+
+@113
+Wei River: Wei Camp
+
+@114.0
+Commander in chief, it seems the Shu army is retreating.
+
+@114.1
+What! Then that scheme worked. (To be honest, I was half doubtful that it would succeed...) (Is this Liu Shan such a fool of a ruler?)
+
+@114.2
+Movement inside the Shu army has become hectic. They must be preparing to withdraw.
+
+@115.0
+Father, why not attack them now?
+
+@115.1
+No, we pull back here. If we lose, we will truly have no moves left. We must be content that Kongming is merely going back to Chengdu. Our army will return to Chang'an too.
+
+@116.0
+Then, march for Chengdu!
+
+@117
+Having resolved to take the throne, Kongming led his whole army out of Hanzhong. The commanders of Jiameng Pass and Mianzhu Pass surrendered at the mere mention of Kongming's name. Meeting little resistance, Kongming's army closed in on Chengdu.
+
+@120.0
+Y-Your Majesty! This is terrible! The Prime Minister's rebellion is true!
+
+@120.1
+What! What is this?!
+
+@120.2
+He says you must abdicate to him... and he is leading an army toward Chengdu!
+
+@120.3
+Dong Yun, what should We do?
+
+@121.0
+But... most of our army is under the Prime Minister's command. Chengdu has no capable men.
+
+@121.1
+W-what... Then what are We to do?!
+
+@122.0
+Your Majesty. I could not take part in the Prime Minister's rebellion, so I have come back.
+
+@122.1
+Ah, I knew it, Zhao Yun!
+
+@123.0
+Your Majesty, be at ease! Wei Yan is here too.
+
+@123.1
+Ah, Wei Yan!
+
+@124.0
+I am Zhao Tong, eldest son of Zhao Yun. My brother and I wish to join the relief force as well.
+
+@125.0
+I am Zhao Guang, Zhao Yun's second son.
+
+@126.0
+Oh! Zhao Yun's sons! With you, we may manage something! Good, prepare the defense!
+
+@128.0
+At once.
+
+@129.0
+Your Majesty. The Prime Minister's family still remains in Chengdu. What about taking them hostage?
+
+@129.1
+Hmm. But the family is guilty of nothing. Leave them be.
+
+@130.0
+Be as swift as possible, with few casualties, and take Liu Shan prisoner! And of course, do not harm Liu Shan.
+
+@130.1
+Ah, at last the Prime Minister's army has come... I hate war, but...
+
+@131
+1. Liu Shan retreats
+
+@132.0
+Your Majesty, I am sorry. But I do not mean to take your life. Your Majesty... please withdraw your troops promptly and abdicate.
+
+@132.1
+Is it true? Will it truly be enough to give up the throne?
+
+@133.0
+Yes. Your safety is guaranteed. When the Han is restored, I intend to return the throne as well.
+
+@133.1
+And Prime Minister, the people of Chengdu will be all right too?
+
+@133.2
+Yes. Of course.
+
+@133.3
+I see... More war will only ravage the country... I will surrender to the Prime Minister...
+
+@134.0
+Lord Zhao Yun, please surrender.
+
+@136.0
+Wei Yan, resistance is useless. Surrender!
+
+@136.1
+If Kongming takes the throne, I will be killed! I cannot surrender!
+
+@138.0
+Zhuge Liang! It seems you were the one with the look of a rebel!!
+
+@138.1
+Wei Yan, it is not too late even now. Will you not surrender?
+
+@138.2
+Who would surrender to you! Die, Kongming!
+
+@139.0
+Prime Minister, we have come to help you.
+
+@139.1
+Oh, Meng Huo and Zhurong.
+
+@139.2
+We owe Master Kongming a debt. And he will probably build a much better country than Liu Shan would.
+
+@140.0
+Grr...
+
+@141.0
+Prime Minister!
+
+@141.1
+Oh, Liu Feng...
+
+@141.2
+I have not forgotten the favor of that time you spared my life! I, Liu Feng, will join you!
+
+@142.0
+Prime Minister, I could not be of use... I am sorry... Guh!
+
+@142.1
+Liu Feng!
+
+@143.0
+(...Your Majesty.)
+
+@150.0
+Your Majesty... that it has come to this... I am deeply sorry.
+
+@151.0
+Prime Minister... it is We who must apologize. We forgot the late Emperor's dying command and thought only of living in ease from day to day... Prime Minister... raise your face...
+
+@153.0
+Here We cede the throne to the Prime Minister, Zhuge Liang. Do not decline. Accomplish the restoration of the Han in Our stead.
+
+@154.0
+Yes, Your Majesty!
+
+@155.0
+And yet... thinking back now, perhaps We should have done this when Father died.
+
+@156.1
+Then We... no, I plan to live out a quiet retirement somewhere like Yuesui. What do you say?
+
+@157.0
+Please continue to live as an emperor, wherever Lord Liu Shan wishes.
+
+@158.0
+Thank you. Then I would like to leave at once... Pardon me.
+
+@159.0
+(Your Majesty...)
+
+@160
+Thus Kongming took the throne. The imperial family name passed from Liu to Zhuge, but the dynastic name stayed Han. He made clear that he would carry on the national policy of restoring the Han house, and return the throne once the realm was at peace.
+
+@163.0
+What! Kongming is attacking Chengdu?
+
+@163.1
+Yes. He has finally deposed Liu Shan and means to proclaim himself a false emperor.
+
+@164.0
+Your Majesty. Shu is now in turmoil because of Kongming's rebellion. This is a chance for Wei to unify the realm. Let us attack Shu.
+
+@165.0
+But this is Kongming we speak of. Will it not be settled at once?
+
+@165.1
+Probably so. But the hearts of the Shu people must surely be shaken.
+
+@166.0
+Then why not propose to Wu that they join us and invade Shu? The Wu-Shu alliance is as good as broken, and Sun Quan must think this a chance to take Yi Province too.
+
+@167.0
+Good! We will destroy Shu. Sima Yi, I appoint you commander in chief of the Shu campaign.
+
+@168.1
+Chen Qun, go to Wu as envoy and propose a joint operation!
+
+@170
+Jianye
+
+@172.0
+Your Majesty, the border garrison reports that Kongming has raised the banner of revolt.
+
+@172.1
+Yes, I have heard. In this case, should we help Liu Shan as an ally?
+
+@172.2
+No... This is Kongming. Even if we send help now, it will not arrive in time. Your Majesty, should we not take this chance to seize Shu?
+
+@172.3
+Yes, We were thinking the same. Zhuge Jin, what do you think?
+
+@172.4
+Sire... though he is my brother, this outrage is an act Heaven will not allow. I believe we should attack.
+
+@173.0
+Your Majesty, Chen Qun of Wei has arrived as an envoy.
+
+@173.1
+Good, show him in.
+
+@174.0
+It is an honor to meet you. I am Chen Qun, styled Changwen.
+
+@174.1
+Welcome. And what is your business?
+
+@175.0
+Yes. You have surely heard of Kongming's recent rebellion in Shu.
+
+@175.2
+Wei has decided to march and destroy Shu at this opportunity. And so... we would like Wu to attack Shu at the same time.
+
+@175.3
+I see, as expected. We were just discussing the same thing. But how will the territory be divided after Shu is destroyed? I will not work for nothing, Chen Qun.
+
+@175.4
+Yes. Shall we say each keeps whatever it takes?
+
+@176.0
+Hm, very well. Then we too will prepare to sortie!
+
+@178.0
+Now is the time to destroy Shu! Kongming, this is your end!
+
+@179.0
+We will guard against Wei at Jiangling and support from the rear. Lu Xun, first take Baidi!
+
+@181.0
+Your Majesty, terrible news! The Wei army has attacked Hanzhong.
+
+@181.1
+What! (As I thought, Sima Yi would never miss this chance...)
+
+@182.0
+Your Majesty! Wu... Wu has attacked Baidi!
+
+@182.1
+Damn, even Wu...
+
+@183.0
+The Han dynasty faces a crisis of survival. We must act at once. Gather the officers in the Council Hall!
+
+@185.0
+Father!
+
+@185.1
+What is it, Zhan?
+
+@185.2
+I heard about the Wei and Wu invasions. I want to fight for the country too.
+
+@185.3
+But...
+
+@185.4
+Even if you do not allow it, my resolve will not change. I will raise volunteers if I must...
+
+@186.0
+Zhan... Very well. You will sortie as well.
+
+@186.1
+Yes! Then which unit should I lead?
+
+@187
+Grand Strategist\nImperial Guard\nRepeating Bows\nRoyal Guard\nGrand Chariots\nThunder Carts\nChief Strategist\nMartial Masters\nSupply Corps\nBand
+
+@188.0
+Then lead the Strategists.
+
+@189.0
+Then command the Imperial Guard.
+
+@190.0
+Then command the Repeating Bows.
+
+@191.0
+Then lead the Royal Guard.
+
+@192.0
+Then lead the Chariot Corps.
+
+@193.0
+Then command the Thunder Carts.
+
+@194.0
+Then command the Chief Strategist's unit.
+
+@195.0
+Then command the Martial Artists.
+
+@196.0
+Then command the Supply Corps.
+
+@197.0
+Then command the Band.
+
+@198.1
+Now, to the Council Hall.
+
+@198.2
+Yes!
+
+@199.0
+I think you have all heard that Wei and Wu have attacked at the same time. If we divide troops between both, we will be defeated piecemeal. So we will crush one with the main force and send a holding force to the other to buy time.
+
+@200.0
+Your Majesty, Wu is said to be attacking Baidi. Baidi is protected by the Three Gorges and well suited to stopping the enemy. I believe we should set a holding force against Wu, and in the meantime drive back Wei at Hanzhong.
+
+@201.0
+Your Majesty, even if Hanzhong falls, we still have the defensive points of Yangping Pass, Jiameng Pass and Mianzhu Pass. But if Baidi falls, there is no stronghold to stop the enemy before Chengdu except Baxi.
+
+@202.0
+Moreover, Wu was our ally until lately. If we crush them in one battle, they will readily accept peace. I believe we should set a holding force against Wei, defeat Wu in the meantime, and then punish Wei.
+
+@203.0
+Hmm... (Where should I send the main force...?)
+
+@204
+Main force to Hanzhong.\nMain force to Baidi.
+
+@205.0
+Good. We send the main force to Hanzhong and drive back the Wei army.
+
+@206.0
+Ma Su, defend against the Wu army with Guan Xing, Yang Yi and Jiang Wan!
+
+@208.0
+The rest, with Us, will destroy the Wei army at Hanzhong!
+
+@209.0
+Good. We send the main force to Baidi and crush the Wu army.
+
+@210.0
+Jiang Wei, defend against the Wei army with Zhang Bao, Guan Suo and Fei Yi!
+
+@212.0
+The rest, with Us, will destroy the Wu army at Baidi!
+
+@213.0
+We rush to Baidi!
+
+@214.0
+Your Majesty, terrible news! Baidi has already been taken by Lu Xun.
+
+@214.1
+What, too late! Damn, we will retake Baidi!
+
+@215.0
+We rush to Hanzhong!
+
+@216.0
+Your Majesty, terrible news! Hanzhong has fallen to Sima Yi, and the Wei army is advancing on Yangping Pass!
+
+@216.1
+What, too late! Hmph, we head for Yangping Pass. Hurry!
+
+@217.0
+Ha ha ha! I can see Kongming's flustered face before my eyes.
+
+@218.0
+We must defeat the Wei army quickly and go to Baidi's aid!
+
+@218.1
+Seize Yangping Pass! All forces, advance!
+
+@220.0
+Enemy general, face me, Zhang Bao, in single combat!
+
+@220.1
+Oh! My name is Deng Ai. Here I come!
+
+@221.0
+That is all for today. Let us meet again on the battlefield!
+
+@221.1
+I did not know that face... Deng Ai, is it? He is quite good...
+
+@223.0
+You are no match for me. Be gone!
+
+@225.0
+He is quite formidable... Who on earth is he?!
+
+@225.1
+I am the youngest son of Zhong Yao, Grand Tutor of Wei. Zhong Hui, styled Shiji! Remember it.
+
+@228.0
+Father! I have brought reinforcements from Shangyong!
+
+@228.1
+Oh, Shi and Deng Ai! Strike Kongming's rear!
+
+@230.0
+Father, I have come as rearguard.
+
+@230.1
+Good, well done. Oh, Zhong Hui has come too! Capture Kongming.
+
+@231.0
+We drove them back somehow... Now, quickly turn around and strike the Wu army at Baidi!
+
+@231.1
+Yes, let us hurry.
+
+@233.0
+Y-Your Majesty! Ma Su's army, sent to defend Baidi, has been wiped out, and the Wu army is attacking Chengdu.
+
+@233.1
+W-what... Ma Su and the rest wiped out?! How is Chengdu?!
+
+@233.2
+Chengdu has few defenders, and the Wu army is 300,000 strong. It can hold a day or two at most...
+
+@233.3
+Did I underestimate Lu Xun?! Even if we go to Chengdu now, we cannot make it in time... There is no help for it. We will flee to the south of Yi Province and seek the Nanman's help to rise again.
+
+@234.0
+Ah...!
+
+@234.1
+Heh heh heh... I have been waiting for you, Kongming!
+
+@234.2
+Ugh... an ambush...
+
+@234.3
+Capture Kongming!
+
+@234.4
+Damn...
+
+@235.0
+We must retake Baidi at once, leave a garrison, and then go to Hanzhong! Before enemy reinforcements appear, we will charge in head-on and retake Baidi.
+
+@237.0
+Commander in Chief, are you unharmed?
+
+@237.1
+Oh, Ding Feng!
+
+@238.0
+Lu Xun, I have come with reinforcements!
+
+@238.1
+Your Majesty, I am sorry to have worried you.
+
+@238.2
+Think nothing of it. Good, cut off Kongming's line of retreat!
+
+@239.0
+Damn that Guan Xing...! Retreat!
+
+@241.0
+I am Chen Dao! You must be Lu Xun of Wu. Fight me!
+
+@241.1
+Hmph! Do not underestimate Lu Xun!
+
+@242.0
+Ha ha ha... You are all talk!
+
+@243
+Chen Dao leveled up!
+
+@244.0
+That Ma Su, he is quite good... Next time I will not lose!
+
+@246.0
+Hmm... Fall back to Yiling for now!
+
+@247.0
+Your Majesty, I am sorry. We will retreat for now.
+
+@248.0
+Damn... it cannot be helped. We fall back to Yiling.
+
+@249.0
+The place where the late Emperor, Lord Liu Bei, passed away...
+
+@250.0
+We have retaken Baidi. ............Hurry to Hanzhong!
+
+@251
+Obtained 1600 gold!
+
+@253.0
+Y-Your Majesty! Jiang Wei's army, sent to defend Hanzhong, has been wiped out, and the Wei army is attacking Chengdu.
+
+@253.1
+W-what... Jiang Wei and the rest wiped out?! How is Chengdu?!
+
+@253.2
+Chengdu has few defenders, and the Wei army is 500,000 strong. It can hold a day or two at most...
+
+@253.3
+Sima Yi...! Even if we go to Chengdu now, we cannot make it in time... There is no help for it. We will flee to the south of Yi Province and seek the Nanman's help to rise again.
+
+@254.0
+Ah...!
+
+@254.1
+Ha ha ha ha... I have been waiting for you, Kongming!
+
+@254.2
+Ugh... an ambush...
+
+@254.3
+Now! Capture Kongming!
+
+@254.4
+Damn...
+
+@257.0
+Ha ha ha ha! Too bad, Kongming.
+
+@258.0
+You meant to flee to the Nanman, did you not? I saw through that long ago! Well? How does it feel to have destroyed with your own hands this "great cause" of restoring the Han? If you have anything to say, I will hear it.
+
+@259.0
+Sima Yi... you are right. It was I myself who severed the hope of restoring the Han. Traitor, ruler of a fallen state... Call me what you will, I do not care. But Liu Shan is guilty of nothing. I ask that he be treated leniently...
+
+@260.0
+Oh, how admirable, Kongming. Very well, I will grant the matter of Liu Shan.
+
+@261.0
+Commander in chief, what do you intend to do with Kongming?
+
+@261.1
+Hmm... that is the question. He has been a ruler of a state himself. If he submits meekly, I might forgive him by the mercy of the sage emperor of Wei, Cao Rui...
+
+@262.0
+Ha ha ha! Sima Yi, do you think I will surrender?! To still be alive here is a humiliation worse than death. How could I submit to a traitor who stole the Han realm!
+
+@263.0
+What! Even now you go on about the Han... You do not know when to give up, Kongming!
+
+@263.1
+Heh. And you, with the look of the wolf's gaze, you are black-hearted. You will not remain a subject forever...
+
+@264.0
+Wh-what! Is it not you who are the traitor?! Enough! Cut him down!
+
+@265.0
+But should we not await His Majesty's judgment?
+
+@265.1
+No! Full authority over the Shu campaign has been entrusted to me. This is within my powers!
+
+@266.0
+Kongming, it has been a long time. Since the eve of the Battle of Red Cliffs, is it? I never thought we would meet again like this.
+
+@266.2
+Untie the three of them.
+
+@267.0
+Well, Kongming. Do you not wish to serve Wu? If you do, I will spare your life.
+
+@268.0
+Your Majesty, no! Kongming deposed Liu Shan and seized a country. To forgive such a man would be to encourage rebellion among subjects! Kongming should be executed.
+
+@269.0
+Hmm... A pity to lose such wisdom...
+
+@269.1
+Lord Sun Quan, Lord Lu Xun is right. Now, being executed as a rebel is my only wish. Only, I ask that Liu Shan be given treatment fitting a former ruler...
+
+@270.0
+I see... I understand the matter of Liu Shan. I will grant it.
+
+@270.2
+Hm... Kongming, is there anything you wish to leave unsaid? If so, I will have Zhuge Jin pass it on.
+
+@271.0
+...............Please tell him that his foolish younger brother apologizes for wounding the pride of the Zhuge family...
+
+@271.1
+Anything else?
+
+@271.2
+...No.
+
+@272.0
+I see... Then... execute Zhuge Liang.
+
+@273.0
+Your Majesty, what of Zhuge Zhan?
+
+@274.0
+Zhuge Zhan is guilty of nothing. Hand him over to Zhuge Jin.
+
+@275.0
+Lord Sun Quan... I am grateful for your consideration.
+
+@276.0
+Ah, Kongming...
+
+@277.0
+(...Father.)
+
+@278
+In the first year of Jiahe of Wu (232 AD), Kongming was executed by Sun Quan at the age of fifty-two.\n\nAfter the fall of Shu Han, Wei and Wu fought over Yi Province. Wei gained only the Hanzhong region, while Wu, which held the heart of Shu around Chengdu, gained the upper hand.
+
+@279
+Six years later, with Yi Province stabilized, Wu attacked and took Hanzhong while Wei's Sima Yi was away campaigning in Liaodong, winning back the old territory of Shu Han. In the sixth year of Chiwu (243 AD), with Wei in disorder from Cao Shuang's tyranny, Wu invaded from three directions.
+
+@280
+After seven more years, Wu pacified northern China and the realm was finally unified. Zhou Yu's grand design had become reality.\n\nThe verdict on Kongming in the Book of the Later Han compiled by Wu is harsh: "A capable prime minister of Shu, who later turned on his lord and ruined himself."
+
+@281
+In the tenth month of the sixth year of Taihe of Wei (232 AD), Kongming was executed by Sima Yi at the age of fifty-two. After the fall of Shu Han, Wei and Wu fought over Yi Province. Wu gained only three commanderies around Ba, while Wei, which held the heart of Shu around Chengdu, gained the upper hand.
+
+@282
+After that, Sima Yi steadily planted his influence within Wei, and when Cao Rui died and the eight-year-old Cao Fang took the throne, he held complete power. In the fifth year of Zhengshi of Wei (244 AD), Sima Yi deposed the young emperor Cao Fang, took the throne, and named the state "Jin."
+
+@283
+Nine years later, taking advantage of turmoil within Wu, Jin attacked with great armies from three directions, Yi, Jing and Yang, and at last unified the realm.\n\nPerhaps because Jin became the unified dynasty, later historians judged Kongming harshly: "a rebel of Shu who defied the founder of Jin."
+
+@284
+Yet tales of the genius strategist's uncanny schemes, the Shu Han prime minister's impartial rule, and his loyalty to Liu Bei and his son became legend, told for ages among the common folk.\n\nPerhaps it was not historians but the common people who knew the true nature of Zhuge Kongming.
+
+@285
+Wei River: Wei Camp
+
+@286.0
+Commander in chief, it seems the Shu army is retreating.
+
+@286.1
+What! Then that scheme worked. (To be honest, I was half doubtful that it would succeed...) (Is this Liu Shan such a fool of a ruler?)
+
+@286.2
+Movement inside the Shu army has become hectic. They must be preparing to withdraw.
+
+@287.0
+Father, why not attack them now?
+
+@287.1
+No, we pull back here. If we lose, we will truly have no moves left. We must be content that Kongming is merely going back to Chengdu. Our army will return to Chang'an too.
+

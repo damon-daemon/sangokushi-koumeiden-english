@@ -1,0 +1,741 @@
+@0
+4-2: The Fight for Mount Qi
+
+@1
+Act 2: The Fight for Mount Qi
+
+@4.0
+Your Majesty, are you aware that Kongming has returned to Chengdu because of illness?
+
+@4.1
+Ah, I have heard of it.
+
+@4.2
+We should take this chance to conquer Hanzhong.\n\nWithout Kongming, the Shu army is nothing to speak of.
+
+@4.3
+Hmm... Ah, it seems Sima Yi has come as well.
+
+@5.0
+Your Majesty, I have just returned from Jing Province.
+
+@5.1
+Well done. How did things look in Wu?
+
+@6.0
+The alliance between Wu and Shu is only for show. I saw no sign that they intend to truly help Shu.
+
+@6.1
+I see. In fact, Cao Zhen says we should attack Hanzhong while Kongming is away. Sima Yi, what do you think?
+
+@6.2
+Well... I agree with that opinion.
+
+@6.3
+Oh, so you think the same.
+
+@6.4
+Kongming is the linchpin of Shu. Without him, Shu is just a small country. There is nothing to fear. Wu at their back shows no sign of moving either... I believe this is a perfect opportunity.
+
+@6.5
+Hmm, I am reassured to hear that.
+
+@7.0
+Cao Zhen, I appoint you commander in chief.\n\nSima Yi, go to Chencang with Liu Ye and assist Cao Zhen. Now is the moment. Conquer Hanzhong!
+
+@8.0
+Yes, Your Majesty! Please await good news.
+
+@9.0
+All forces, advance to Chencang! Our final goal is Hanzhong!
+
+@12.0
+Prime Minister, are you truly well again?
+
+@13.0
+Your Majesty, I am sorry to have worried even you. I am quite well now.
+
+@13.1
+I see. If anything happened to the Prime Minister, we would lose our means of survival. You are no longer young, so take good care of your health.
+
+@14.0
+Your Majesty, I wish to return to Hanzhong and resume the Northern Campaign. May I have your leave?
+
+@14.1
+What! But you have only just recovered. If you push yourself, will the illness not return?
+
+@15.0
+That is right. Leave the defense of Hanzhong to the officers we left there... Prime Minister, please rest and recover at your leisure.
+
+@16.0
+Lord Jiang Wan is right. The Prime Minister is the treasure of the Han.
+
+@17.0
+I am grateful for your concern. But Wei will not wait for my recovery. They will surely march on Hanzhong at once, and Wei has Sima Yi. There are not many who can counter his boundless schemes.
+
+@18.0
+Those who can counter Sima Yi... Pang Tong, now gone, or Xu Shu, or Lu Xun of Wu. And... perhaps myself.
+
+@19.0
+Those who can counter Sima Yi... Pang Tong, or Xu Shu, or Lu Xun of Wu... And... perhaps only myself.
+
+@20.0
+Indeed...
+
+@20.1
+That is... true, I suppose, but...
+
+@20.2
+It seems the Prime Minister is right.\n\n...Prime Minister, forgive me for burdening you so.
+
+@20.3
+No. To fulfill the late Emperor's will, no hardship is too great. Then I will leave for Hanzhong.
+
+@21.0
+Prime Minister, please take good care of yourself. Do not overexert yourself.
+
+@21.1
+Yes, thank you.
+
+@22.0
+Prime Minister, wait. Have you told your family about this? About the campaign?
+
+@23.0
+No...
+
+@23.1
+That will not do. You will be away from home for a long time again. Knowing you, if no one speaks up, you will go all the way to Hanzhong without even seeing them.
+
+@23.2
+Well, that is... I have no excuse.
+
+@23.3
+Make time to see your family, even if you must force it. ...This is Our command. Go to Hanzhong after you have seen them. Understood?
+
+@24.0
+Yes... Then I will go and see my family.
+
+@25
+Go home and see your family
+
+@26.0
+Leave after you have seen your family. This is Our command.
+
+@27.0
+His Majesty is right. Please go to Hanzhong after you have met with your family.
+
+@28.0
+Prime Minister, please take good care of yourself. You are the treasure of the Han.
+
+@29.0
+Chengdu's weapon shop and item shop have some decent goods. Why not stop by on your way?
+
+@30.0
+Prime Minister, please accept this.
+
+@31.0
+Would it not be better to rest a little longer in Chengdu...?
+
+@33.0
+Forgive me. I am always away from home...
+
+@33.1
+Do not worry about the house. Only... please take care of your health.
+
+@34.0
+Come, Zhan. Will you greet your father?
+
+@35.0
+Father, take care!
+
+@36.0
+Oh, he can already speak like this. How he has grown.
+
+@37.0
+While you are away, I plan to teach him many things. Swordsmanship, horsemanship, the art of war, and then...
+
+@37.1
+Ha ha... Trying to do too much at once will not make it stick. Rather than fix many faults, it is better to develop a single strength.
+
+@37.2
+You are right, dear. Then what do you think we should have him do?
+
+@37.3
+Hmm. Let me think a little.
+
+@38
+Teach Huang Yueying how to raise Zhuge Zhan
+
+@39.1
+Father, what is it?
+
+@39.2
+Zhan... what do you want to do when you grow up?
+
+@39.3
+I do not know yet... Something that will help you, Father!
+
+@40.0
+I want to be able to help Father soon!
+
+@41.0
+Dear, what do you think we should have him do? Have you decided?
+
+@42
+Study the art of war.\nStudy swordsmanship.\nStudy horsemanship.\nDecide nothing.
+
+@43.0
+The art of war? He will surely become a wise child like you, dear. Very well.
+
+@44.0
+Swordsmanship? Yes, the war with Wei will surely go on for a long time yet... Very well.
+
+@45.0
+Horsemanship? Now that you mention it, the late Emperor was said to be skilled at riding. It would be good to follow his example. Very well.
+
+@46.0
+I see... He is still small, after all... and he is probably interested in all sorts of things.
+
+@47.0
+Prime Minister, pardon me. Cao Zhen of Wei has entered Chencang with Sima Yi.
+
+@48.0
+They have come already. Jiang Wei, gather the officers in the Council Hall. I will be there shortly.
+
+@51.0
+Take care. Please come back safe...
+
+@52.0
+Father, take care!
+
+@54.0
+Prime Minister, are you quite recovered?
+
+@55.0
+Yes. Please do not push yourself too hard.
+
+@55.1
+I am grateful for your concern, but there is no need to worry. More importantly, you must already know that the Wei army has marched on Chencang.
+
+@56.0
+Yes. Cao Zhen leads the army as commander in chief. Sima Yi is also said to be with him.
+
+@56.1
+Yes. They heard I had fallen ill and came to seize Hanzhong. Hanzhong is the very throat of Shu. We cannot hand it over to Wei.
+
+@57.0
+Exactly. If Hanzhong is taken, Shu will be thrown into danger of destruction.
+
+@57.1
+Good, we march to Hanzhong! We will defend Hanzhong, and Shu, from the clutches of Wei!
+
+@61.0
+What! Kongming has come to Hanzhong?
+
+@61.1
+Yes. It is a speed rarely seen.
+
+@61.2
+Hmm... As I recall, Kongming was supposed to be ill. What on earth does this mean?
+
+@62.0
+Kongming is a scrupulous man. He must have foreseen our movements and come to Hanzhong in spite of his illness.
+
+@62.1
+Hmm... Kongming cannot be fully recovered either.
+
+@62.2
+If Kongming's illness has not fully healed... then we have ample room to exploit.
+
+@62.3
+Good! We will go through Xiegu and march on Hanzhong. All forces, prepare to sortie at once!
+
+@64.0
+Once we pass this plank road, we will reach Hanzhong in no time. ...Hm? Rain...?
+
+@65
+The Wei army tried to head for Hanzhong by the Xiegu road, but Heaven sided with Kongming. Heavy rain fell without pause for a month and the plank road of Xiegu collapsed, stopping the Wei army in its tracks. Unprepared, the Wei troops were badly worn out and gave up on advancing any further.
+
+@66
+Xiegu: Wei Camp
+
+@67.0
+After this long delay our soldiers are exhausted. Sanitation is poor, and the sick keep increasing.
+
+@67.1
+Our provisions are nearly gone too. The rain has cut the plank road in many places, and transport is impossible.
+
+@67.2
+Hmm. There is nothing to be done... It cannot be helped. Let us retreat to Chencang.
+
+@69.0
+So we cannot defeat nature. Retreat to Chencang.
+
+@72.0
+Prime Minister, it seems the Wei army has withdrawn.
+
+@72.1
+I see. This long rain must have broken their soldiers' morale.
+
+@73.0
+Then let us pursue them! We can win for certain now!
+
+@73.1
+No. This is Sima Yi we are dealing with. Even in withdrawal, his defenses will be flawless. We had better head for Mount Qi. All forces, advance to Mount Qi.
+
+@74.0
+All forces, advance toward Mount Qi!
+
+@75
+Chencang: Wei Camp
+
+@76.0
+Is there still no pursuit from the Shu army?
+
+@76.1
+None at all. There is not a trace of the Shu army.
+
+@76.2
+I see... The Shu army must be suffering just as we are. They will not pursue us.
+
+@77.0
+No, that is wrong. They will take advantage of our retreat and come out to Mount Qi.
+
+@77.1
+But Sima Yi, if the enemy meant to advance, they would never overlook our state. They would certainly have pursued us. Since there has been no pursuit, the Shu army will not come out to Mount Qi.
+
+@77.2
+...I see. Then let us make a wager.
+
+@78.0
+A wager?
+
+@78.1
+Suppose the Shu army does pursue us. We go back to Jigu and Xiegu and set an ambush. If the Shu army appears, I win. If the Shu army does not come, you win, Lord Cao Zhen. How about it? And if the Shu army does come out, we can strike them at the very start.
+
+@78.2
+That is amusing. Then I will go to Xiegu. If I win, what will you do?
+
+@78.3
+In that case, I will do whatever you command, my lord. I could even dress as a woman and dance.
+
+@79.0
+Ha ha ha ha! Is that so? Then let us move the army. Sima Yi, be ready for when you lose.
+
+@79.1
+Yes. Then, if you will excuse me...
+
+@80.0
+That Sima Yi, boasting so loudly. You just wait and see!
+
+@81.0
+Kongming will surely come out to Mount Qi. All forces, advance to Jigu. Do not let your guard down!
+
+@82
+Mount Fengming: Shu Camp
+
+@83.0
+Prime Minister, the Wei army has split into two. Cao Zhen has gone to Xiegu and Sima Yi to Jigu.
+
+@83.1
+That Sima Yi is quick to act. He read that I would come out to Mount Qi.
+
+@84.0
+Prime Minister, what shall we do?
+
+@84.1
+Shall we split our army in two as well... or send everything against one of them...
+
+@85.0
+Of Cao Zhen and Sima Yi, Sima Yi is the tougher foe. If we throw our whole army against Sima Yi, he will surely suffer.
+
+@86.0
+No. For that very reason, it is better to send our main force against Cao Zhen and wipe out his army. A token force will do to hold Sima Yi in check.
+
+@87.0
+In that case, let us send the main force against Cao Zhen and destroy his army first.
+
+@88.0
+Prime Minister, please decide which of Cao Zhen and Sima Yi we should march against. When you have decided, tell me.
+
+@89
+Decide whether to send the army against Cao Zhen or Sima Yi
+
+@90.0
+Let us consider sending the main force to Cao Zhen and wiping out his army.
+
+@91.0
+If we are to fight, let us face the formidable Sima Yi.
+
+@92.0
+Let us send the main force to Cao Zhen on the Xiegu road.
+
+@93.0
+There seem to be more troops with Cao Zhen.
+
+@94.0
+There is no need to fear a man like Cao Zhen. Let us strike his army.
+
+@95.0
+Sima Yi is dangerous. Let us throw the whole army at Sima Yi.
+
+@96.0
+Sima Yi is a famed general. It would be hard to face him without a plan.
+
+@97.0
+If we defeat Cao Zhen, Wei's forces will be halved.
+
+@98.0
+I do not mind either way.
+
+@99.0
+Prime Minister, what will you do?
+
+@100.0
+If we divide our forces, the raiding party is bound to struggle.
+
+@101.0
+Defeating Cao Zhen with the whole army is the sound plan.
+
+@102.0
+Prime Minister, have you decided?
+
+@103
+Main force to Cao Zhen.\nWhole army to Sima Yi.
+
+@104.0
+Understood. We will throw our main force against Cao Zhen's troops at Xiegu.
+
+@104.1
+Yes. Cao Zhen has no talent for war. Victory will be easy. Wei Yan will command the raiding party. Take Zhang Ni and Ma Zhong with you.
+
+@105.0
+Yes! Leave it to me.
+
+@105.1
+Sima Yi is a formidable foe. Be very careful. Good, sortie!
+
+@106.0
+Understood. We will throw our whole army against Sima Yi's troops at Jigu.
+
+@106.1
+Yes. Sima Yi is a famed general. We must defeat him with everything we have. Wei Yan, I appoint you vanguard. Take Zhang Ni and Ma Zhong as your subordinates.
+
+@107.0
+Yes! Leave it to me.
+
+@107.1
+Good, sortie!
+
+@108.0
+The enemy is Sima Yi, and with a large army. Tell Wei Yan, the detached force, to be very careful.
+
+@108.1
+A message from the Prime Minister. The enemy has a large army, so you are to be very careful.
+
+@109.0
+Tsk. The enemy is full of sick men from the long rain. What am I to be careful of? The Prime Minister is faint-hearted. That is why he lost to the Wei army at Jieting.
+
+@110.0
+Tsk. The enemy is full of sick men from the long rain. What am I to be careful of? Really, the Prime Minister is faint-hearted. It would be better if I commanded the whole army.
+
+@111.1
+(They say the Prime Minister once remarked that Wei Yan has the look of a rebel...)\n\n(Indeed, he was right.)
+
+@112
+1. Sima Yi retreats\n2. Cao Zhen retreats
+
+@113.0
+I never thought Shu would attack...! ...Guh!
+
+@113.1
+Waaah, an enemy attack! The Shu army is attacking!
+
+@113.2
+Good, the enemy is in disarray! Attack!
+
+@114
+Liao Hua leveled up!
+
+@115.0
+I never thought Shu would attack...! ...Guh!
+
+@116.0
+Waaah, the Shu army is attacking!
+
+@116.1
+Good, the enemy is in disarray! Attack!
+
+@118.0
+Heh heh heh. Did you think we would withdraw without any preparation? Fools!
+
+@118.1
+Th-this is bad! The Prime Minister was right!
+
+@119.0
+Fall back! Fall back!
+
+@120.0
+As expected of Kongming. It cannot be helped. Tell the whole army to retreat.
+
+@121.0
+...Sima Yi's reading was correct. And I... have been outplayed by Kongming once again...
+
+@122.0
+...Phew.
+
+@123.0
+They seem to have retreated... Victory is ours!
+
+@126.0
+Tell Wei Yan, the vanguard, that the enemy is Sima Yi and he must fight with great care.
+
+@126.1
+A message has come from the Prime Minister. You are to be very careful.
+
+@127.0
+Tsk... The enemy is full of sick men from the long rain. What does the Prime Minister fear? The Prime Minister is faint-hearted. That is why he lost to the Wei army at Jieting.
+
+@128.0
+Tsk. The enemy is full of sick men from the long rain. What am I to be careful of? Really, the Prime Minister is faint-hearted. It would be better if I commanded the whole army.
+
+@129.1
+(They say the Prime Minister once remarked that Wei Yan has the look of a rebel...)\n\n(Indeed, he was right.)
+
+@130
+1. Sima Yi retreats\n2. Cao Zhen retreats
+
+@131.0
+I never thought Shu would attack! ...Guh!
+
+@131.1
+Waaah, an enemy attack! The Shu army is attacking!
+
+@131.2
+Good, the enemy is in disarray! Attack!
+
+@132
+Liao Hua leveled up!
+
+@133.0
+I never thought Shu would attack! ...Guh!
+
+@134.0
+Waaah, the Shu army is attacking!
+
+@134.1
+Good, the enemy is in disarray! Attack!
+
+@136.0
+The Shu army has concentrated its forces against us! At this rate the army at Xiegu will become idle troops. Good, tell Lord Cao Zhen to strike the enemy's rear!
+
+@136.1
+What, from Sima Yi? The Shu main force is at Jigu... Understood! Send troops at once! I will go too.
+
+@137.0
+The Wei army at Xiegu seems to have moved. We must settle this quickly.
+
+@138.0
+Fall back! Fall back!
+
+@139.0
+As expected of Kongming. It cannot be helped. Tell the whole army to retreat.
+
+@140.0
+...Phew.
+
+@141.0
+They seem to have retreated... Victory is ours!
+
+@144
+The defeated Wei army under Cao Zhen retreated to Chencang along the plank road.\n\nKongming advanced to Mount Qi once more. Holding Mount Qi made it easy to attack Wei at many points.
+
+@147.0
+Because of my foolish stubbornness over the wager with Sima Yi, I lost many men. What have I done...
+
+@147.2
+Sima Yi, I am tired now... I never beat Kongming even once. I did not know the gap in our ability was so great...
+
+@147.3
+Lord Cao Zhen, talking so long is bad for your health. For now, please rest quietly.
+
+@147.4
+...It is all right. I know my own body best. Sima Yi, do not become like me. Look after His Majesty... and Wei, I count on... you...
+
+@148.0
+Lord Cao Zhen!
+
+@150.0
+Guo Huai, send an envoy to Luoyang. Tell them that Lord Cao Zhen... has passed away.
+
+@153.0
+What! Cao Zhen... is dead?!
+
+@154.0
+...Yes. An envoy has come from Chencang. After losing many men in the fight with Kongming, the strain piled up... He suffered a seizure and died, they say.
+
+@155.0
+Then Cao Zhen was killed by Kongming! Grrr...! Kongming, I will not forgive you! Tell Sima Yi at once! Defeat Kongming as soon as possible!
+
+@157.0
+Lord Sima Yi, an imperial decree from His Majesty.
+
+@158.0
+Yes, Your Majesty.
+
+@158.1
+His Majesty commands that you defeat Kongming as soon as possible.
+
+@158.2
+I humbly accept the decree. I will surely avenge Lord Cao Zhen.
+
+@158.3
+I count on you. His Majesty has high hopes as well.
+
+@159.0
+Someone, send an envoy to Kongming with a letter of challenge from me.
+
+@160.0
+A challenge?! Then you mean to meet the Shu army in a decisive battle head-on?
+
+@160.1
+Yes. It will be a contest of wits between Kongming and me. All forces, sortie to Mount Qi!
+
+@161.0
+Kongming, you killed Lord Cao Zhen! I will take your head!
+
+@164.0
+An interesting gift has arrived from the Wei army. A letter of challenge from Sima Yi.
+
+@165.0
+Then it will be a head-on battle. Prime Minister, will you accept the challenge?
+
+@165.1
+Yes. At last, the decisive battle with Sima Yi. Everyone, prepare to march.
+
+@166.0
+Prime Minister, when you sortie, please tell me.
+
+@168.0
+Prime Minister, shall we sortie?
+
+@169.0
+Jiang Wei, I expect great things of you.
+
+@169.1
+Yes! I will strive to meet your expectations.
+
+@170.0
+So you have come, Kongming. You are nothing but a commoner of Nanyang to begin with. Leading rebel troops to invade our borders is outrageous. Withdraw now and I will spare your life. Go back to Hanzhong at once.
+
+@170.1
+I came on the late Emperor's dying command to put down rebels. I have no reason to withdraw. And if you call me a commoner of Nanyang, was not the Sima family a family of distinguished Han scholars? Do you feel no shame before your ancestors for turning against the Han court and siding with rebels?!
+
+@170.2
+Enough! Arguing gets us nowhere. Then we settle this on the battlefield.
+
+@170.3
+Dai Ling, Yue Chen, Zhang Hu! I appoint you the vanguard. Go and capture that Kongming!
+
+@170.5
+First I will capture the enemy vanguard. Sima Yi can be dealt with afterward.
+
+@171
+1. Sima Yi retreats
+
+@172.0
+Waaah! D-damn!
+
+@174.0
+Aah! ...There is no escape.
+
+@175
+Wu Ban leveled up!
+
+@176.0
+Curse you! To be beaten by the likes of you!
+
+@177
+Liao Hua leveled up!
+
+@178.0
+D-damn! Enough, retreat!
+
+@179.0
+Phew... That was a hard fight...
+
+@181.0
+Waaah! D-damn!
+
+@182.0
+Aah! ...There is no escape.
+
+@183.0
+Curse you! To be beaten by the likes of you!
+
+@184.0
+Good, cavalry, sortie! Help the vanguard.
+
+@185.0
+Ah, we made it in time. Our aim is Kongming's head!
+
+@185.1
+The unit of Lord Zhang He, who was in the rear, has arrived.
+
+@185.2
+Ah, they have finally arrived. Do your best.
+
+@186.0
+If Kongming gives my vanguard this much trouble, he is nothing much. Good, all forces, attack!
+
+@187.0
+What! My three vanguard generals have all been captured by the Shu army?!
+
+@187.1
+Prime Minister, these are the vanguard generals of the Wei army.
+
+@187.2
+Did you think nameless generals like you could match me?
+
+@187.4
+The root of battle is the art of war, not valor. Tell Sima Yi: study more of the art of war before you attack.
+
+@187.6
+I will spare your lives. Jiang Wei, strip these men and send them back!
+
+@188.0
+...Commander in chief. The three vanguard generals have returned.
+
+@188.1
+Oh, you are safe... What is that state you are in?!
+
+@188.2
+We were captured by the Shu army, stripped of our clothes... and sent back naked.
+
+@188.3
+Ugh... We are sorry.
+
+@188.4
+Damn you, Kongming! You made a fool of me! All forces, sortie! Capture Kongming at all costs!
+
+@189
+1. Sima Yi retreats
+
+@190.0
+Ah, we made it in time. Our aim is Kongming's head!
+
+@190.1
+The unit of Lord Zhang He, who was in the rear, has arrived.
+
+@190.2
+Ah, they have finally arrived. Do your best.
+
+@191.0
+D-damn! Enough, retreat!
+
+@192.0
+Damn... Lord Sima Yi has already retreated. It cannot be helped, we will go too...
+
+@193.0
+Phew... That was a hard fight...
+

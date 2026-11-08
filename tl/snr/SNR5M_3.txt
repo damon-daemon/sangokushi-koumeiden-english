@@ -1,0 +1,615 @@
+@0.0
+At last we have made it to Luoyang. It has been a long road.
+
+@0.1
+Report. All the bridges at the castle gates have been raised. Only the great bridge at the main gate was lowered, and the gate stands open.
+
+@0.2
+They are probably luring us in. We must assume there is some scheme inside the castle.
+
+@1.0
+Kongming has finally come this far... A fearsome man.
+
+@1.1
+Since it has come to this, we have no choice but to fight with our lives on the line.
+
+@1.2
+Let us draw them inside Luoyang and work our schemes on them to our heart's content.
+
+@2
+1. Sima Shi retreats
+
+@3.0
+They took the bait! Be burned by the crimson flames and burn to nothing!
+
+@4.0
+As I feared... there was a trap. The pillars and walls seem to have been soaked in oil.
+
+@4.1
+It cannot be helped. Do not fear the flames! Hurry through!
+
+@5.0
+Hm...? What is this commotion? Soldiers... Wei soldiers? No, they are not! Those are the banners of the Han army! Could it be... the army of Shu Han?!
+
+@5.1
+And you are...? Could you be, the Han...?!
+
+@5.2
+I am Liu Xie, the Duke of Shanyang of Wei now. Once, I was the Son of Heaven of the Han...
+
+@5.3
+Oh, so it is true! Report to the Prime Minister at once!
+
+@6.0
+Prime Minister, good news! The Han emperor Liu Xie has been found inside the castle!
+
+@6.1
+Oh! So the emperor is safe... Tell the whole army that the emperor is under our protection! That will raise our troops' morale.
+
+@6.2
+What! The Han emperor... no, the Duke of Shanyang, taken by the Shu army?! What were the guards doing?!
+
+@6.3
+Shi, there is no need to panic. He is no longer of any use to us. We meant to leave him behind when we abandoned Luoyang anyway.
+
+@6.4
+Y-yes, Father...
+
+@7.0
+Do not let the Shu army advance any further! On the honor of Wei's generals, we will hold!
+
+@7.1
+Shu thieves! Not one step further from here!
+
+@8.0
+Shi, I will withdraw to the rear for now.
+
+@8.1
+F-Father?!
+
+@8.2
+You hold the Shu army here!
+
+@8.3
+Father! Falling back to the rear with the enemy right before us, what is the meaning of this?!
+
+@8.4
+If we go on like this, we will surely be overwhelmed by the Shu army. That is why I will reorganize the army. Son, I am counting on you!
+
+@8.5
+...\n\n(Father has changed... Yes, ever since he overthrew Cao Shuang and seized the real power of Wei...)\n\n(...There is no use saying anything now, I suppose...)
+
+@9.0
+Ugh! Even Zhang He... have I let my guard down...
+
+@10.0
+I, of all people... to end in a draw with him... I cannot die in a place like this! The people of the Nanman are waiting for me at Yinkeng Cave!
+
+@11.0
+What! Meng Huo is badly wounded?!
+
+@11.1
+He traded blows with the Wei general Zhang He and took a very deep wound.
+
+@11.2
+Tell him to rest and recover at the rear.
+
+@12.0
+I, Wei Yan, have slain Yue Chen, son of the brave Wei general Yue Jin!
+
+@14.0
+I, Jiang Wei of Tianshui, have slain Zhang Hu, son of the famed Wei general Zhang Liao!
+
+@16.0
+Flee to the depths of the castle! Father should have the troops assembled!
+
+@17.0
+Sima Yi and his sons have fled. We must do something before they escape to other cities.
+
+@18.0
+Prime Minister, good news!
+
+@18.1
+What is it, Jiang Wei?
+
+@18.2
+We have found the Han emperor, who was confined by Sima Yi!
+
+@18.3
+Oh, so he is safe!
+
+@19.0
+Jiang Wei, it is still dangerous here. Escort His Majesty to a safe place in the rear.
+
+@20.0
+Prime Minister, report. Sima Yi and the others are showing signs of making a stand deep in the castle.
+
+@20.1
+We must pursue them and finish them off.
+
+@20.2
+So we must. ...Very well, we press on!
+
+@21.0
+Prime Minister, report. Sima Yi and the others are showing signs of making a stand deep in the castle.
+
+@21.1
+We must pursue them and finish them off.
+
+@21.2
+So we must. ...Very well, we press on!
+
+@22.0
+Damn you, Kongming! A mere farmer of Nanyang, and you have tormented Wei... no, you have tormented me, a man of a great house, this far!
+
+@22.1
+It is not like a wise man such as you to ask about rank now. Why is the Sima family famed as a great house in the first place? Is it not because of their service in loyalty to the Han house? Now you are a high minister of Wei.\n\nWhether you are of a great house of Wei, I do not know, but to the Han you are nothing but a traitor.
+
+@22.2
+Enough! No more talk! If you have a complaint, defeat me!
+
+@23
+1. Destroy Sima Yi
+
+@24.0
+M-my body is going numb...
+
+@24.1
+Ha ha ha, how does it hurt? I had them rig it to give off smoke from burning poison herbs.
+
+@24.2
+How despicable!
+
+@24.3
+Hmph, there is no mercy in war. Despicable or not, winning is all that matters.
+
+@25.0
+Whoa! Fire, fire!
+
+@25.1
+Kongming, you are not the only one good at fire attacks.
+
+@26.0
+Heh heh heh... So you have finally come this far.
+
+@26.1
+Sima Yi, you have lost. Surrender quietly. ...I will not treat you badly.
+
+@26.2
+Heh... heh... Ha ha ha ha ha!
+
+@26.3
+What is it? What is so funny?!
+
+@26.4
+I said it before. A man of a great house like me would never surrender to the likes of you.
+
+@26.5
+Sima Yi...
+
+@26.6
+Kongming! This is our final contest!
+
+@27.0
+This is... the flames of that fire attack earlier!
+
+@27.1
+Splendid, this is excellent. Crimson flames, burn the Sleeping Dragon to ashes!
+
+@28.0
+Good, good, roast them with fire! Burn the Shu army to ashes! Ha ha ha ha...!
+
+@28.1
+No! At this rate the flames will spread everywhere.
+
+@29.0
+Burn, burn, until all is red! Burn everything to ashes!
+
+@29.1
+Hmm... I think it will not spread any further than this...
+
+@30.0
+Ugh... Is this the end...
+
+@30.1
+I have slain the Wei general Deng Ai!
+
+@32.0
+To fall at the hands of the famed Zhao Yun...
+
+@34.0
+I have slain Sima Yi's son Sima Zhao!
+
+@34.1
+What! Zhao! Zhao!! Answer me, Zhao! ...Wei Yan, how dare you kill my son!
+
+@36.0
+I, Jiang Wei of Tianshui, have slain Sima Yi's son Sima Shi!
+
+@36.1
+Wh-what! My son is dead?! Jiang Wei...! You, a turncoat, how dare you kill my son!
+
+@38.0
+...You are Xiahou Ba! You traitor who betrayed Wei! Have you no shame, no shame at all!
+
+@38.1
+I served Wei with loyalty. It was you who doubted my loyalty and tried to have me killed! I am of the Xiahou clan. I would serve the Caos with loyalty, but I have no intention of serving the Simas!
+
+@38.2
+Damn you!
+
+@39.0
+You are Jiang Wei! You disloyal, unfilial rebel! If you have any shame, surrender at once!
+
+@39.1
+When I had sworn loyalty to Wei, Wei did not trust me, but only drove me out of the castle. Is it not unfilial to grieve one's parents without accomplishing great deeds? I do not think I am unfilial for bearing heavy responsibility in the Han court!
+
+@39.2
+Y-you young whelp...!
+
+@40.0
+Kongming, your life ends here. Had you stayed in the west of Shu, you might have lived out your natural years.
+
+@40.1
+A man who clings to life and cannot fulfill his loyalty is no man. You have betrayed both Han and Wei, a most disloyal man, rare in this world. Dead, what face will you have before the Han emperor and the Wei emperor, you lowly wretch!
+
+@40.2
+Wh-what...! Kongming, you! You call Sima Yi a lowly wretch?! I will not forgive it!
+
+@41.0
+Wh-what... Such an absurd thing...
+
+@41.1
+Sima Yi, you have lost.
+
+@41.2
+I have lost...? I, a man of a great house...\n\n...
+
+@41.3
+You have lost. Now it will all end.
+
+@41.4
+...So it seems. Once, when I lived in retirement in Jing Province, I heard a tale from a man of Wu.
+
+@41.6
+They say that Zhou Yu, the famed general of Wu, on his deathbed grasped his bed and cried: "Heaven, why did you create Kongming when you had made me?"
+
+@42.1
+Kongming... I want to ask you just one last thing. Do I have the right now to speak the same words as Zhou Yu? Was I a man worthy to be your enemy, Zhuge Kongming's?!
+
+@42.2
+...Yes. Sima Yi, you were the most fearsome man of my whole life...
+
+@42.3
+Heh... I... see...
+
+@46.0
+So, it is over.
+
+@46.1
+Yes... ...It is all over.
+
+@48.0
+Th-this is!
+
+@48.1
+It cannot be...
+
+@48.2
+...What a terrible thing.
+
+@49.0
+...It is no use. They all seem to have taken poison.
+
+@50.0
+These clothes are the emperor's... Then... is this child Cao Fang...?!
+
+@50.1
+...How cruel.
+
+@51.0
+Prime Minister, this...
+
+@51.1
+A letter left behind...? ...Addressed to me?
+
+@52
+All of Wei's crimes are the doing of Us and Our ancestors alone. Prime Minister Zhuge Kongming of the Han, please be lenient with Wei's surviving officers, soldiers and people.\n\nCao Fang, Emperor of Great Wei
+
+@53.0
+...He had the makings of a wise ruler. For now, let us only pray for the repose of their souls.\n\nThey were victims, made to dance by Sima Yi. They are not guilty of anything.
+
+@54.0
+Jiang Wei. Please see that they are mourned with full honors.
+
+@56.0
+Zhan, send a messenger to Chengdu. We need Lord Liu Shan to come to Luoyang.
+
+@59.0
+Ah! Lord Zhuge Zhan has returned!
+
+@60.0
+Three cheers for Lord Zhuge Zhan!
+
+@60.1
+Three cheers for Master Kongming!
+
+@60.2
+Three cheers for His Majesty Liu Shan!
+
+@61.0
+Everyone... thank you. The Prime Minister must be delighted too.
+
+@62.0
+Zhan!!
+
+@62.1
+Mother!
+
+@63.0
+Zhan... You came back alive... I am so glad... so glad...
+
+@63.1
+M-Mother... There, there, please do not cry anymore.
+
+@63.2
+You are right... If I keep crying, your father in Luoyang will laugh at me.
+
+@64.0
+That reminds me. Would you not like to come to Luoyang too, Mother?
+
+@64.2
+From now on, the Han capital returns to Luoyang. Father will probably work in Luoyang as well.
+
+@64.3
+Yes...
+
+@64.4
+I do not know what will become of me, but I want to work at Father's side. Please do come to Luoyang, Mother.
+
+@64.5
+Yes, I will.
+
+@64.6
+Please do. Now, I must go to the palace.
+
+@64.7
+Yes. Off you go.
+
+@64.8
+Mother, if you will excuse me.
+
+@65.0
+Zhan... ...You have grown into a fine man.
+
+@67.0
+Your Majesty, I have just returned.
+
+@67.1
+Oh, Zhuge Zhan! I have already received the report. Well done!
+
+@67.2
+Thank you, Your Majesty. The Prime Minister asks that you come to Luoyang.
+
+@67.3
+I see, understood. Preparations are ready, so I will set out at once.
+
+@68.0
+Yes. Then let us go.
+
+@70.0
+Prime Minister, you have finally fulfilled your long-cherished wish.
+
+@70.1
+Yes... It was a long road. There were many hardships, but reaching this day, I feel it was all rewarded.
+
+@71.0
+Lord Liu Bei... Your dream becomes reality now. The grand dream of restoring the Han house...
+
+@72.0
+Lord Liu Bei... The restoration of the Han house has finally been achieved. ...Please rejoice.
+
+@73.0
+His Majesty has arrived. Everyone, bow!
+
+@74.0
+B-bow? Y-yes, sir.
+
+@75.0
+This way, Your Majesty.
+
+@76.0
+Is it truly... truly here that I have returned? Am I not dreaming?
+
+@76.1
+Your Majesty, this is undoubtedly real. Please, proceed to the throne.
+
+@77.0
+It is like a dream... To be able to come to this place again. Yes... Is there one called Kongming here?
+
+@78.0
+Here, Your Majesty. I am Zhuge Liang.
+
+@78.1
+So it is you... You are the one who brought Us back here. Jiang Wan told Us everything. We dreamed of this day so many times. Kongming, thank you. We... We thank you... Uuh...
+
+@79.0
+Your Majesty, please raise your face. We only worked by the dying command of the King of Hanzhong.
+
+@80.0
+The King of Hanzhong... Liu Bei... Yes, it is thanks to him. Liu Bei, thank you. We, Liu Xie, will never forget your loyalty until We die.
+
+@80.1
+Your Majesty, from now on, please command us again as the emperor of the Han. We will work for the restoration of the Han court.
+
+@81.0
+Thank you. Kongming... and all of you. We count on you.
+
+@83.0
+Your Majesty, if I may.
+
+@83.1
+...That voice!
+
+@84.0
+Brother!
+
+@85.0
+Your Majesty. I am Zhuge Jin, who comes as an envoy of Wu. I have brought a letter from my lord, Sun Quan.
+
+@85.1
+Sun, of Jiangdong, was it not? And what is your business?
+
+@85.2
+Yes. My lord Sun Quan and the people of Wu were originally all subjects of the Han court. Now that the Han house is restored, all in Wu submit to Your Majesty. The royal title once received from Cao Pi, and the imperial title he styled himself with, will be returned. I have come to convey this.
+
+@85.3
+I see, well done. Tell Sun Quan that We shall recognize the title of King of Wu that Cao Pi once gave, just as it is.
+
+@85.4
+...Wh-what! He need not return his royal title?!
+
+@85.5
+Yes. Tell him to devote himself as a high minister of the Han to the restoration of the Han court.
+
+@85.6
+Yes, Your Majesty. Such generous words are more than I deserve. Now, if you will excuse me.
+
+@86.0
+...Your Majesty.
+
+@86.2
+...I would like to see my brother off. May I?
+
+@86.3
+Oh, he is your brother? Do not hold back, go quickly.
+
+@87
+Luoyang: Riverbank
+
+@88.0
+Brother!
+
+@89.0
+Kongming...
+
+@90.0
+Brother. I have come to see you off.
+
+@90.1
+Kongming. I will be proud all my life to have a brother like you. I must hurry to report to the King of Wu, so I leave Luoyang now.
+
+@90.2
+I see. ...Please take care on the road.
+
+@91.0
+Kongming... well done.
+
+@91.2
+Kongming... farewell. We will surely meet again someday.
+
+@92.0
+...\n\n...It was a long road...
+
+@93.0
+Dear!
+
+@94.0
+I am so glad... truly... so glad...
+
+@94.1
+H-here now, what is it? Why are you crying?
+
+@95.0
+Father, I have brought Mother to Luoyang.
+
+@95.1
+I see, so you brought her.
+
+@95.3
+I see... I am sorry to trouble you.
+
+@96.0
+Prime Minister, His Majesty... no, Lord Liu Shan has arrived in Luoyang.
+
+@96.1
+Understood. I will go to the palace at once.
+
+@97.0
+There, there, do not cry anymore.
+
+@99.0
+I am Liu Shan, son of Liu Bei. Today I have come to return the Han imperial throne to you.
+
+@99.1
+The throne... I see. We heard that after Cao Pi's usurpation, the Imperial Uncle took the throne provisionally.
+
+@99.2
+Yes. I apologize for having borrowed the throne until today.
+
+@99.3
+No, it is thanks to your father that the Han court has been restored. We are the one who must thank you.
+
+@99.4
+Your words are more than I deserve. My father must be rejoicing in heaven too.
+
+@99.5
+It is long ago now that We sought help from your father, Liu Bei. We honestly never thought that his son would help Us. Liu Bei... perhaps even now he is watching from somewhere.
+
+@99.7
+Liu Shan. In praise of your merit in leading wise ministers to restore the Han court, and of your father's loyalty, We appoint you King of Hanzhong. Govern Shu and Hanzhong as you have until now.
+
+@100.0
+And... Kongming.
+
+@100.2
+You were the Prime Minister of Shu Han, were you not?
+
+@100.4
+We grant you the post of Prime Minister of the Han. From now on, manage not just one province of Shu, but the affairs of the whole Han state.
+
+@101.0
+What! B-but...
+
+@101.1
+This is not Our wish alone. Everyone must feel the same.
+
+@102.0
+Yes. That is exactly so.
+
+@102.1
+I have no objection whatsoever.
+
+@103.0
+Surely the whole people too expect Master Kongming's government.
+
+@104.0
+We of the Nanman also desire Master Kongming's rule.
+
+@105.0
+Prime Minister. Please continue to guide us as the Prime Minister of the Han.
+
+@106.0
+Kongming... We hear that you once lived at Nanyang, tilling in fine weather and reading in the rain. And that Liu Bei welcomed you with three visits.
+
+@106.2
+Knowing you, now that the Han court is restored, it is only natural that you would wish to return to such a life.\n\nBut this is Our request. Help the people who suffered through the wars, and help Us.
+
+@107.0
+Your words are more than I deserve. If this aged body can be of use, I will dedicate my life to the Han court. I humbly accept the post of Prime Minister.
+
+@108.0
+Father! Congratulations!
+
+@109
+The Three Kingdoms were at last unified.\n\nThe former Shu Han became the Kingdom of Hanzhong after the Han restoration. With Liu Shan as king, it used its farm output to enrich the country and comfort the people.\n\nSun Quan of Wu was also recognized as King of Wu and held an important post as a Han vassal.
+
+@110
+Wei fell, but only as a state. The Cao clan was treated leniently, and many of Wei's civil and military officials were employed in the new Han court.\n\nThus Henan and Hebei were pacified without becoming lands of war.
+
+@111
+The officers and soldiers who had fought under the banner of Shu Han were each given rank and rewards, and became a wing supporting the new Han court.\n\nAnd Kongming, as Prime Minister, oversaw all the governing of the Han court. The splendor of his rule hardly needs to be told...
+
+@112
+Five years after the unification of the realm, Kongming resigned as Prime Minister and entered a life of seclusion.\n\nRumors spread that he was seen in Nanyang like a hermit sage, or living in seclusion in his hometown of Langya, but his whereabouts remained unknown.\n\nOnly the legend of the genius strategist Zhuge Kongming remained.
+

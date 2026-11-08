@@ -1,0 +1,1647 @@
+@0
+After reaching Jiameng Pass, Liu Bei halted his army and worked to win the people's hearts. Soon Zhang Song's plot was exposed, betrayed by his own brother to Liu Zhang. Meng Da and the others escaped, but Zhang Song was executed. The time for a full confrontation with Liu Zhang had come at last.
+
+@1.0
+On to Chengdu! Advance!
+
+@2
+Having seized Fushui Pass in a lightning strike, Liu Bei's army pressed toward Chengdu, the capital of Yi Province, pacifying the lands along the way.\n\nBut at Luo Castle, less than forty kilometers from Chengdu, Liu Zhang's troops resisted fiercely, and the attack stalled. Half a year went by.
+
+@3
+Near Jiangling: Yangtze Riverbank
+
+@4.0
+...Hm? That star!\n\nVenus is rising in the west... in the direction of Shu. It is a sign of much ill and little good for a commander...\n\nI only hope nothing terrible happens to our lord in Yi Province...
+
+@5
+The next day...
+
+@9.0
+Dear, is something the matter?
+
+@10.0
+Master Kongming, is something the matter?
+
+@11.0
+...I was watching the stars last night. An ill omen has appeared over the generals' star.\n\nSomething troubles me... I have been wondering whether to send a letter to warn them.
+
+@11.1
+And have you decided?
+
+@11.2
+Hmm...
+
+@12.0
+But Pang Tong is at Lord Liu Bei's side. I am sure it will be all right.
+
+@13
+Send a letter to be safe.\nDo not send a letter.
+
+@14.0
+I cannot shake the worry, so I have decided to send one, just in case.
+
+@15.0
+I have decided against sending a letter after all. Brother Pang Tong reads the heavens well too...
+
+@16
+Luo Castle: Liu Bei's Position
+
+@17
+Luo Castle: Liu Bei's Camp
+
+@18.0
+...Luo Castle is not falling easily.
+
+@19.0
+If they lose Luo Castle, they will have nothing left to defend as far as Chengdu.\n\nBesides, Liu Zhang's son Liu Xun is commanding the defense, so the garrison's morale is said to be high...
+
+@20.0
+Hmm... Shall we call up the army from Jing Province?
+
+@20.1
+But that would leave Jing Province poorly guarded.\n\nWe have attacked for over half a year, so the enemy is worn out too. One more push, and I believe it will fall.
+
+@22.0
+My lord, a letter has arrived from Strategist Zhuge.
+
+@23.0
+Hm, let me see it.
+
+@25.0
+From Kongming... I wonder how he is.
+
+@26.0
+What, an ill star...? ...
+
+@27.0
+Pang Tong!
+
+@29.0
+Read me Kongming's letter.
+
+@31.0
+What shall we do, Pang Tong? Shall we return to Jing Province for now and consult Kongming?
+
+@32.0
+(Kongming... sending a letter to unsettle our lord...)\n\n(What is he thinking? Surely he does not want me to win the great merit of taking Yi Province...)\n\n(No... that cannot be. But I must hurry and take this fortress!)
+
+@33.0
+My lord, Kongming is not the only one who reads the heavens. I understand it too.\n\nThat ill star is an omen for the enemy commander in the fortress, not for us. There is nothing to worry about.
+
+@34.0
+But...
+
+@35.0
+It is all right, my lord. What matters is that now is our chance. Let us take the fortress!
+
+@36.0
+Hm... very well. Pang Tong, prepare to march out!
+
+@38.0
+(I spoke as I did to Pang Tong, but...it still weighs on me.)\n\nMa Su!
+
+@40.0
+Be ready to leave at any time as a messenger to Jing Province, to ask for reinforcements.
+
+@41.0
+Go to Kongming in Jing Province and request reinforcements.\n\nBut leave Jing Province's defenses intact...
+
+@45.0
+Dear, what are you brooding over?
+
+@46.0
+Master Kongming, what are you thinking about?
+
+@47.0
+Hm... About Yi Province, that is all.
+
+@47.1
+You are worried about Lord Liu Bei in Yi Province. But Pang Tong is with him, is he not? I am sure he will be fine.
+
+@48.0
+Yes... You are right...
+
+@49.0
+Yes... With Brother Pang Tong there, I do not think he would fall for an enemy trick...
+
+@50.0
+Hm? Ma Su, what is it?
+
+@51.0
+S-Strategist! Terrible news!!
+
+@51.1
+Ma Su, why such a panic?
+
+@52.0
+Our lord is isolated in Yi Province!
+
+@52.1
+What?! Brother Pang Tong, the deputy strategist, went with the expedition...\n\nWhat was Brother Pang Tong doing...
+
+@52.2
+W-Well, that is...
+
+@53.0
+Lord Pang Tong took an arrow during the siege of Luo Castle... He fell at Fallen Phoenix Slope!
+
+@53.1
+...!!!
+
+@54.0
+H-How could this be. A talent like his, to die in such a place...\n\nBecause he was there, I could devote myself to defending Jing Province...\n\nBrother Pang Tong...
+
+@54.1
+Strategist, what shall we do?
+
+@54.2
+...I cannot stay here.
+
+@55.0
+Strategist, it has been a while.
+
+@56.0
+Yes. But more to the point, Ma Su, how goes the conquest of Yi Province?
+
+@56.1
+Well, I have come to deliver our lord's orders on that.
+
+@56.2
+Oh? What are they?
+
+@56.3
+He wishes you to lead reinforcements from Jing Province into Yi Province.
+
+@56.4
+Hm. Is our lord struggling that badly? Is he in danger?
+
+@56.5
+No, he is not in danger, but the siege of the fortress is taking far longer than expected...\n\nSo pacifying all of Yi Province will take time. And if we take too long...
+
+@56.6
+True. Cao Cao or Zhang Lu might make a move...
+
+@56.7
+Yes. So the plan is to secure Jing Province's defenses first, and then send reinforcements.
+
+@56.8
+Understood.
+
+@57.0
+Ma Su, gather the officers in the Council Hall. I will go there at once.
+
+@58.0
+Yes, sir. I will do so right away.
+
+@60.0
+...Do not mind me. Please go to the Council Hall at once.
+
+@62.0
+You have all heard, I am sure: Liu Zhang's army is resisting fiercely, and the conquest of Yi Province looks to be prolonged.\n\nOur lord has therefore asked for reinforcements.
+
+@63.0
+You have all heard. Our lord is isolated in Yi Province. It is too dangerous to leave him so.\n\nWe go to his aid at once.
+
+@64.0
+Got it! Come on, let's go!!
+
+@65.0
+Wait, wait, Zhang Fei.
+
+@66.0
+...Strategist. What do you intend for the defense of Jing Province?
+
+@66.1
+I leave Jing Province to you, Lord Guan Yu.\n\nGuan Ping, Zhou Cang, and Mi Fang, assist Lord Guan Yu.
+
+@67.0
+Yes, sir! Understood.
+
+@67.1
+We will defend Jing Province with Lord Guan Yu.
+
+@67.2
+Strategist, take care.
+
+@68.0
+Lord Guan Yu, the fate of Jing Province rests on your shoulders. I entrust it to you without fail.
+
+@69.0
+Yes, leave it to me. I will hold Jing Province even if it costs my life.
+
+@70.0
+('Even if it costs my life'...?! What is this ominous feeling?)
+
+@71.0
+...Lord Guan Yu, at a time like this, it is not good to speak of 'death.'\n\nIf something were to happen to you, the morale of the whole Jing Province army would suffer.\n\nBlock Cao Cao in the north, and make peace with Sun Quan in the east... Do not forget this.\n\nThen you will be able to hold Jing Province.
+
+@72.0
+Understood. I will take your words to heart.
+
+@73.0
+Then we march for Yi Province at once.
+
+@73.1
+Strategist, when you are ready, please let me know.
+
+@74.0
+Then we march at once to our lord's rescue.
+
+@74.1
+When you are ready, please tell me.\n\nThis is a grave matter for our lord. Let us hurry.
+
+@75
+Tell Zhao Yun to March
+
+@76.0
+Rest assured. I will hold Jing Province.
+
+@77.0
+Strategist! Come on, let's go!!
+
+@78.0
+To enter Yi Province, Yan Yan of Baxi will be the problem. Like Huang Zhong, they say he is old but still vigorous.
+
+@79.0
+Let us go to our lord's rescue at once.
+
+@80.0
+Strategist, take care.
+
+@81.0
+I will defend Jing Province with my father.
+
+@82.0
+I will defend Jing Province with Lord Guan Yu.
+
+@83.0
+Strategist, let us hurry.
+
+@84.0
+Are you ready?
+
+@85.0
+We enter Yi Province and join our lord with all speed!
+
+@86.0
+Hurry! Our lord's life is in danger!
+
+@87.0
+I have a bad feeling. We must join our lord quickly.\n\nFor that, we must take Baxi as soon as possible.
+
+@87.1
+Yeah!
+
+@87.2
+Reinforcements from Jing Province... We must drive them back at Baxi, whatever it takes.\n\nNot one soldier is to enter Shu!
+
+@87.3
+Hm, that is... Zhao Yun...
+
+@88
+1. Destroy Yan Yan
+
+@89.0
+Gh... To think that I, of all men, would suffer the shame of being bound...
+
+@90.0
+Oh, you! Chen Dao! Is that not Chen Shuzhi?!
+
+@90.1
+Ah! Zhao Yun, it has been a long time. To meet again like this... But I will not hold back.
+
+@91.0
+Your skill is as good as ever, Shuzhi.
+
+@91.1
+And yours, Zilong.
+
+@91.2
+But why are you here?
+
+@91.3
+It is a long story... For now, I fall back! Until next time, Zilong.
+
+@93.0
+There you are! You old fossil, prepare yourself!
+
+@93.1
+Gh, Zhang Fei...
+
+@94.0
+Argh! This is bad... I must regroup.
+
+@94.1
+Hey, wait! After him! Catch Yan Yan!
+
+@96.0
+Now is the time!
+
+@97.0
+Hm, an ambush!
+
+@98.0
+Gh... To think that I, of all men, would suffer the shame of being bound...
+
+@99.0
+Yan Yan... An old general, yet a formidable opponent.
+
+@100.0
+We must take Baxi quickly and join our lord!
+
+@101.0
+Baxi has fallen... We must settle matters here swiftly and go to our lord...
+
+@103
+Baxi
+
+@104
+Baxi: Council Hall
+
+@105.0
+Yan Yan! Why won't you kneel?!
+
+@106.0
+Why should I kneel to a lowborn knave?!
+
+@107.0
+W-What?! A knave?!
+
+@108.0
+Zhang Fei, you invaded our land with no regard for good faith. You are the knaves!
+
+@109.0
+Yan Yan, you are our prisoner now. Do you want your head cut off?!
+
+@109.1
+In my land there are generals who lose their heads, but none who surrender to the enemy.\n\nIf you mean to kill me, do it quickly! Your anger is wasted.
+
+@110.0
+Hmph...
+
+@112.0
+I spoke rudely to you earlier. Forgive me, General Yan.
+
+@113.0
+Oh? So you understand good faith too?
+
+@113.1
+I do. Our march is not for ambition but for the Han court... for a just cause.
+
+@113.2
+A just cause, you say? Then you will not cut down Lord Liu Zhang after conquering Yi Province?
+
+@113.3
+We will not kill Lord Liu Zhang. When the Han is restored, we intend to reward him amply.
+
+@113.4
+Is the Imperial Uncle truly a man of benevolence and righteousness, as rumor says?
+
+@114.0
+Indeed! Meet him once, and you will know at once.
+
+@115.0
+...I understand. I will surrender to Liu Bei.\n\nIf you place me in the vanguard, I will make the commanders of the passes ahead surrender.
+
+@116.0
+General Yan, I am grateful.
+
+@117.0
+Ah, Strategist! General Yan has agreed to cooperate with us.
+
+@118.0
+Oh, that is most welcome. I look forward to working with you, General Yan.
+
+@119.0
+I do not know how useful I can be, but I will work for the just cause.
+
+@120.0
+Then let us begin the council. Please take your seats...
+
+@121.0
+Strategist, there is someone I wish to introduce.
+
+@121.1
+Who is it?
+
+@122.0
+Chen Dao, come in!
+
+@123.0
+This is the man.
+
+@123.1
+I am Chen Dao, born in Runan, style name Shuzhi.
+
+@124.0
+Hm? This man was on the battlefield just now...
+
+@125.0
+Yes, that is so. It was over ten years ago now...\n\nThis man once served our lord when he was in Yu Province. But we were defeated by Cao Cao's army at Runan, and in the chaos of battle everyone was scattered.\n\nAfterward, our lord and we turned to Liu Biao of Jing Province, while Chen Dao fled to Yi Province. He was apparently greatly indebted to General Yan there, and so he took part in this battle as well...
+
+@125.1
+I see... I understand the broad circumstances.
+
+@126.0
+Strategist, this Chen Dao is upright and honest by nature, and skilled with arms as well.
+
+@127.0
+Strategist, if it is possible, I wish to serve Lord Liu Bei once more.
+
+@128.0
+Strategist, I ask it of you as well.
+
+@129.0
+Strategist!
+
+@130.0
+Of course, you are welcome. We have gained two reliable allies.
+
+@132.0
+Now, the council begins.
+
+@133.0
+To hasten our march, we set out with five elite units.
+
+@134.0
+Zhao Yun, Zhang Fei, Ma Su, and Yan Yan, prepare to march out.
+
+@136.0
+Everyone else, guard Baxi, to steady the people's hearts and secure our line of retreat.\n\nNow, we go to our lord's rescue.
+
+@137.0
+Hurry!!
+
+@138.0
+Ah, that is our lord's banner. It seems we made it in time.
+
+@138.1
+But as things stand, we will be surrounded by Liu Zhang's army.
+
+@138.2
+True... We must join up quickly and defeat the commander of Mianzhu Pass.
+
+@139.0
+The commander of Mianzhu Pass is Li Yan, I am told. A fierce general, apparently.
+
+@139.1
+I see. Understood.
+
+@139.2
+Hm...? That is... the banner of our Jing Province army...!\n\nAnd the commander's banner...? ...'Zhuge'...! Oh! Kongming has come!
+
+@139.3
+It seems to be reinforcements from Jing Province... No matter, I will drive them back to Jing Province along with Liu Bei.
+
+@139.4
+(Lord Liu Zhang cannot hold off Zhang Lu or Cao Cao. Perhaps Lord Liu Bei would be better...)
+
+@139.5
+(Zhang Song's methods were unforgivable, but to protect Yi Province, Lord Liu Zhang is not enough... Lord Liu Bei, with his elite troops...)
+
+@140
+2. Destroy Li Yan
+
+@141.0
+Whoa! W-Why did I fall from my horse?!\n\nUgh, there is a rope stretched at the horse's feet!! I cannot fight like this...
+
+@141.1
+Ha ha ha, Li Yan! You fell into my trap!
+
+@141.2
+Gh...! I have been tricked!
+
+@141.3
+Li Yan... I do not wish to shed blood needlessly. If things go on as they are, Yi Province will only be conquered by Cao Cao.
+
+@141.5
+I would have you lend your strength to protect the people of Yi Province from Cao Cao.
+
+@141.6
+You honor a defeated general too much... Very well. I surrender.
+
+@141.7
+My lord, terrible news! Ma Chao's army is closing in on Jiameng Pass!
+
+@141.8
+What?!
+
+@141.9
+At this rate we will be struck from behind. Let us hurry to Jiameng Pass.
+
+@142
+Huang Zhong leveled up!
+
+@143
+1. Make Ma Chao surrender\n2. Destroy all enemy units
+
+@144.0
+I am Ma Chao of Xiliang! To repay the kindness Lord Zhang Lu showed me, I have come as reinforcement for Liu Zhang! Jing Province army, you who disturb the peace of Yi Province, prepare yourselves!
+
+@144.1
+So that is Ma Chao, son of Lord Ma Teng. He seems a fine warrior indeed. He reminds me of Lu Bu.
+
+@144.2
+This is no time for admiration. It would be most unfortunate to have such a fierce general as our enemy.\n\nLet me try to persuade Ma Chao.
+
+@144.3
+Strategist, that is dangerous!
+
+@145.0
+Hmm. Is this the end for me...?!
+
+@145.1
+Li Yan, you fought well. Will you not surrender here?
+
+@145.2
+Li Yan... I do not wish to shed blood needlessly. If things go on as they are, Yi Province will only be conquered by Cao Cao.
+
+@145.4
+I would have you lend your strength to protect the people of Yi Province from Cao Cao.
+
+@145.5
+You honor a defeated general too much... Very well. I surrender.
+
+@145.6
+My lord, terrible news! Ma Chao's army is closing in on Jiameng Pass!
+
+@145.7
+What?!
+
+@145.8
+At this rate we will be struck from behind. Let us hurry to Jiameng Pass.
+
+@146
+1. Make Ma Chao surrender\n2. Destroy all enemy units
+
+@147.0
+I am Ma Chao of Xiliang! To repay the kindness Lord Zhang Lu showed me, I have come as reinforcement for Liu Zhang! Jing Province army, you who disturb the peace of Yi Province, prepare yourselves!
+
+@147.1
+So that is Ma Chao, son of Lord Ma Teng. He seems a fine warrior indeed. He reminds me of Lu Bu.
+
+@147.2
+This is no time for admiration. It would be most unfortunate to have such a fierce general as our enemy.\n\nLet me try to persuade Ma Chao.
+
+@147.3
+Strategist, that is dangerous!
+
+@148.0
+My lord, terrible news! Zhang Lu's army is closing in on Jiameng Pass!
+
+@148.1
+What?!
+
+@148.2
+At this rate we will be struck from behind. We must take some measure.
+
+@149
+1. Make Ma Chao surrender\n2. Destroy all enemy units
+
+@150.0
+I am Ma Chao of Xiliang! To repay the kindness Lord Zhang Lu showed me, I have come as reinforcement for Liu Zhang! Jing Province army, you who disturb the peace of Yi Province, prepare yourselves!
+
+@150.1
+So that is Ma Chao, son of Lord Ma Teng. He seems a fine warrior indeed. He reminds me of Lu Bu.
+
+@150.2
+This is no time for admiration. It would be most unfortunate to have such a fierce general as our enemy.\n\nLet me try to persuade Ma Chao.
+
+@150.3
+Strategist, that is dangerous!
+
+@151.0
+You must be Kongming, Liu Bei's strategist. What do you want with Ma Chao?
+
+@151.1
+Lord Ma Chao, if you win this battle, who do you think would be happiest?
+
+@151.2
+What a foolish question! Lord Zhang Lu and Liu Zhang, of course.
+
+@151.3
+No. If you struck down my lord, the one most pleased would be your father's enemy... Cao Cao!
+
+@152.0
+W-What?!
+
+@152.1
+Cao Cao and my lord are sworn enemies. That is because my lord once plotted with Lord Dong Cheng and Lord Ma Teng to put Cao Cao to death.
+
+@152.2
+That is true... I heard that story from my father.
+
+@152.3
+And who killed your father in the first place?! Was it not Cao Cao?!\n\nIf you defeat my lord, the enemy of that same Cao Cao... who will be happiest?!\n\nCao Cao, of course!!
+
+@152.4
+You are right. My true enemy was Cao Cao...
+
+@152.5
+What say you, Lord Ma Chao? Will you not join us in striking down Cao Cao?
+
+@152.6
+Very well... To defeat Cao Cao, I will become Lord Liu Bei's man.
+
+@153.0
+Whew, that Ma Chao is something else. My blood is boiling for the first time in ages!
+
+@153.1
+As expected of the hero of Changban Bridge. That valor... it was truly fearsome.
+
+@153.2
+My lord, I judged the two of them evenly matched. This fight will never be decided.\n\nPlease, let me persuade Ma Chao.
+
+@153.3
+But, Strategist...
+
+@155.0
+Ma Chao, you fought well. Will you not surrender gracefully?
+
+@155.1
+No more talk. Cut me down and be done with it.
+
+@155.2
+Ma Chao... If you had won this battle, who do you think would be happiest?
+
+@155.3
+What a foolish question... Lord Zhang Lu and Liu Zhang, of course.
+
+@155.4
+No. Had you won this battle, the one most pleased would be your father's enemy... Cao Cao!
+
+@156.0
+W-What?!
+
+@156.1
+Cao Cao and my lord are sworn enemies. That is because my lord once plotted with Lord Dong Cheng and Lord Ma Teng to put Cao Cao to death.
+
+@156.2
+That is true... I heard of that plot from my father as well.
+
+@156.3
+And who killed your father in the first place? Was it not Cao Cao?!\n\nIf you defeat my lord, the enemy of that same Cao Cao... who will be happiest?!\n\nCao Cao, of course!
+
+@156.4
+You are right. My true enemy was Cao Cao...
+
+@156.5
+What say you, Ma Chao? Will you not join us in striking down Cao Cao?
+
+@156.6
+Understood... To defeat that Cao Cao, I will become Lord Liu Bei's man.
+
+@157.0
+You are Kongming, I take it. I, Li Hui, surrender to Lord Liu Bei.
+
+@157.1
+You are Lord Li Hui? And why is that?
+
+@158.0
+The good bird chooses its tree, and the wise minister chooses his lord... Lord Liu Zhang is a man who does not heed remonstrance. That is my reason.
+
+@159
+Li Hui joined Liu Bei's army.
+
+@160.0
+Lord Kongming... I, Gao Xiang, surrender to Lord Liu Bei.
+
+@160.1
+You are Lord Gao Xiang? And why is that?
+
+@161.0
+Lord Liu Zhang cannot defend Yi Province. To defend Yi Province, we need someone of great benevolence like Lord Liu Bei.
+
+@162
+Gao Xiang joined Liu Bei's army.
+
+@163.0
+You are the Imperial Uncle Liu. I, Li Hui, surrender to the Imperial Uncle.
+
+@163.1
+You are Lord Li Hui? Why do you wish to surrender to me...?
+
+@164.0
+The good bird chooses its tree, and the wise minister chooses his lord... Lord Liu Zhang is a man who does not heed remonstrance. That is my reason.
+
+@165
+Li Hui joined Liu Bei's army.
+
+@166.0
+Imperial Uncle Liu... I, Gao Xiang, surrender to the Imperial Uncle.
+
+@166.1
+You are Lord Gao Xiang? I would like to hear your reason.
+
+@167.0
+Lord Liu Zhang cannot defend Yi Province. To defend Yi Province, we need someone of great benevolence like Lord Liu Bei.
+
+@168
+Gao Xiang joined Liu Bei's army.
+
+@169.0
+Li Yan, you fought well. Surrender gracefully.
+
+@169.2
+We have no intention of harming Lord Liu Zhang. Our only aim is to stand against the threat of Cao Cao.
+
+@169.3
+True... Lord Liu Zhang would find it hard to resist Cao Cao... Very well.\n\nIf Lord Liu Bei says he will not harm Lord Liu Zhang, then I, Li Yan, will gladly surrender.
+
+@170.0
+It is over...
+
+@170.1
+Once we hold Mianzhu Pass, nothing stands between us and Chengdu. This is our victory.
+
+@172.0
+Good. We will catch Luo Castle in a pincer from north and south!
+
+@172.1
+Wei Yan, we will close in without letting the enemy notice.
+
+@173
+1. Destroy all enemy units
+
+@174.0
+Now! Attack!
+
+@174.1
+What?! An ambush?!
+
+@175.0
+Ah, that is our lord's banner. We made it in time... Join up quickly and strike down the enemy commander!
+
+@176.0
+Lord Liu Xun, reinforcements have arrived! Hm, what is that? It seems to be reinforcements from Jing Province... No matter, I will drive them back to Jing Province along with Liu Bei.
+
+@176.1
+(Lord Liu Zhang cannot hold off Zhang Lu or Cao Cao. Perhaps Lord Liu Bei would be better...)
+
+@177.0
+Ah, that is our lord's banner. We made it in time... Join up quickly and strike down the enemy commander!
+
+@178.0
+Lord Liu Xun, reinforcements have arrived! Hm, what is that? It seems to be reinforcements from Jing Province... No matter, I will drive them back to Jing Province along with Liu Bei.
+
+@178.1
+(Lord Liu Zhang cannot hold off Zhang Lu or Cao Cao. Perhaps Lord Liu Bei would be better...)
+
+@179.2
+Li Yan... I do not wish to shed blood needlessly. If things go on as they are, Yi Province will only be conquered by Cao Cao.
+
+@179.4
+I would have you lend your strength to protect the people of Yi Province from Cao Cao.
+
+@181.3
+Strategist, that is dangerous! Please stop!
+
+@183.0
+Guh! To end... in a place like this... My ambition... is finished...
+
+@183.1
+What! Pang Tong has fallen in battle...! Ohh...
+
+@184.0
+Brother Pang Tong!!
+
+@185.0
+Damn! That I should be captured!
+
+@185.1
+Zhang Ren, most of Shu's generals have surrendered to us. Will you not join us as well?
+
+@185.2
+A loyal subject does not serve two lords!
+
+@185.3
+But know the will of Heaven. If you submit, your life will be spared.
+
+@186.0
+Even if I submit to you today, I will turn on you someday! Kill me while you can!
+
+@186.1
+My lord, to press him further would offend the courtesy due a truly loyal man. In this case...
+
+@186.2
+...Yes. Take Zhang Ren's head.
+
+@186.4
+Lord Liu Bei... I thank you. ... ...Ugh!
+
+@189.3
+Strategist, that is dangerous! Please stop!
+
+@192.2
+That is true... I heard that story from my father.
+
+@192.3
+And who killed your father in the first place? Was it not Cao Cao?!\n\nIf you defeat my lord, the enemy of that same Cao Cao... who will be happiest?!\n\nCao Cao, of course!!
+
+@193
+Zhuge Liang leveled up!
+
+@194.2
+My lord, I judged the two of them evenly matched. This fight will never be decided.\n\nPlease, let me persuade Ma Chao.
+
+@197.2
+That is true... I heard that story from my father.
+
+@197.3
+And who killed your father in the first place? Was it not Cao Cao?!\n\nIf you defeat my lord, the enemy of that same Cao Cao... who will be happiest?!\n\nCao Cao, of course!
+
+@197.6
+Understood... To defeat Cao Cao, I will become Lord Liu Bei's man.
+
+@198.1
+You are Lord Li Hui? And why is that?
+
+@201.1
+You are Lord Gao Xiang? And why is that?
+
+@202.0
+Lord Liu Zhang cannot defend Yi Province. To defend Yi Province, we need someone of great benevolence like Lord Liu Bei.
+
+@204.1
+You are Lord Li Hui? Why did you decide to surrender to me...?
+
+@207.1
+You are Lord Gao Xiang? I would like to hear your reason.
+
+@208.0
+Lord Liu Zhang cannot defend Yi Province. To defend Yi Province, we need someone of great benevolence like Lord Liu Bei.
+
+@210.3
+True, Lord Liu Zhang would find it hard to resist Cao Cao. ...Very well.\n\nIf Lord Liu Bei says he will not harm Lord Liu Zhang, then I, Li Yan, will gladly surrender.
+
+@211.0
+It is over...
+
+@211.1
+Once we hold Mianzhu Pass, nothing stands between us and Chengdu.
+
+@211.2
+This is our victory.
+
+@212.0
+It is over... But Kongming, I let Pang Tong die...
+
+@212.1
+...My lord, there is no time for grief. So that his death is not in vain, we must take Chengdu as soon as we can!
+
+@212.2
+Yes... you are right.
+
+@215
+Jiameng Pass
+
+@216
+Jiameng Pass: Camp
+
+@217.0
+Lord Liu Bei, I look forward to serving you. I, Ma Chao, together with Ma Dai, will devote our whole lives to you.
+
+@217.1
+I am Ma Dai, Ma Chao's cousin. I look forward to serving you.
+
+@217.2
+Good. It is reassuring to have such stalwart men. I count on you both.
+
+@218.0
+Now, as a gift for our surrender, so to speak... I would like to go to Chengdu and make Liu Zhang surrender.
+
+@219.0
+Hmm... Kongming, what do you think?
+
+@220.0
+Let me see... Liu Zhang no longer has the will to fight. If he knows of Lord Ma Chao's valor, he will surely surrender.
+
+@220.1
+I see. Then Ma Chao, I leave it to you.
+
+@221.0
+Yes, sir. I shall go.
+
+@222.0
+My lord... In what circumstances did Lord Pang Tong fall?
+
+@222.1
+By an arrow from an enemy ambush. At the time, Pang Tong happened to be riding my horse. The enemy commander took him for me and targeted him...
+
+@222.2
+...I see.
+
+@223.0
+(Ah, but... with Chengdu about to fall, Brother Pang Tong is not here...)\n\n(Just when your talent is needed most...)\n\n(There are still so many plans we wished to devise together... yet my friend is no longer in this world...)
+
+@224
+Yi Province: Chengdu
+
+@226.0
+...Lord Liu Zhang, do you understand? The outcome is already decided. There is no need to fight any longer.
+
+@227.0
+...I see. I will surrender to Lord Liu Bei.
+
+@227.1
+You understand, then. I will report it to Lord Liu Bei at once.
+
+@228.0
+Lord Ma Chao, please wait.
+
+@229.0
+Lord Ma Chao, we have a request. Please add us to Lord Liu Bei's retainers.
+
+@229.1
+Even if the master of Yi Province changes, we wish to go on defending this land.
+
+@229.2
+We ask this of you.
+
+@229.3
+I cannot decide this on my own... But come to Jiameng Pass as well. I will recommend you myself.
+
+@230.0
+My lord, word has come from Ma Chao. Liu Zhang has surrendered.
+
+@230.1
+Oh, that is good news.
+
+@230.2
+Let us go to Chengdu at once.
+
+@231
+In the nineteenth year of Jian'an (214 AD), Liu Zhang opened the gates of Chengdu and surrendered to Liu Bei. At last Liu Bei had won Yi Province, the land he had longed for. Liu Zhang was guaranteed his rank and property and settled to a peaceful life in Jing Province, and the allegiance of Shu generals such as Wu Yi was accepted.
+
+@232
+By this point Liu Bei held both Jing and Yi Provinces, and Kongming's Plan of Three Divisions of the Realm was about to become reality.\n\nAfter entering Shu, Kongming served Liu Bei as adviser in both military and civil affairs, working with Fa Zheng, Mi Zhu and others to steady the people's hearts in Yi Province.
+
+@234.0
+I have gathered you all for one reason: word has come that Liu Bei has taken Yi Province.
+
+@235.0
+What?! Then Liu Bei has gained territory to rival our own?
+
+@235.1
+So it is. But Hanzhong still remains. If Hanzhong falls to Liu Bei as well, it will be a calamity. He would be beyond our control.
+
+@236.0
+Then... would it not be better to take Hanzhong before Liu Bei does?
+
+@236.1
+Yes. Once Hanzhong is mine, I will destroy Liu Bei! The whole army to Chang'an! We will attack Hanzhong from Chang'an!
+
+@237
+Zhang Lu's Base: Hanzhong
+
+@238
+Hanzhong: Council Hall
+
+@239.0
+So, an envoy from Lord Cao Cao.
+
+@239.1
+Yes. Lord Cao Cao says that if you do not resist, no harm will come to you.
+
+@239.2
+...Meaning I am to surrender.
+
+@239.3
+We look forward to a favorable reply. Now, if you will excuse me.
+
+@240.0
+Brother, this is a grave matter. What shall we do?
+
+@240.1
+Hmm... This time, there is no choice... Not against Cao Cao himself...
+
+@241.0
+Master, would it not be best to surrender quietly? The envoy also said no harm would come to us...
+
+@241.1
+It cannot be helped... Send a reply at once. We surrender.
+
+@242
+Chengdu
+
+@243
+Go to the Chengdu residence
+
+@244.1
+Oh. You are... Lord Guan Yu's son, I believe...
+
+@245.0
+Yes. I am Guan Xing, Guan Yu's second son.
+
+@246.0
+Ah, I thought so. And Yueying.
+
+@247.0
+Ah, I thought so. And Lady Yueying.
+
+@248.0
+Guan Xing escorted me all the way to Chengdu.
+
+@248.1
+I see. Well done, Guan Xing.
+
+@248.2
+It was nothing. With Jing Province to defend, I will take my leave and return.
+
+@248.3
+Yes, I count on you.
+
+@249
+Talk to Huang Yueying
+
+@250.0
+It is a long way from Jiangling to Chengdu. You must be tired from the journey.
+
+@250.1
+Not at all. The thought of seeing you made it nothing...
+
+@250.2
+I see... Rest well today.
+
+@250.3
+Yes, I will. Thank you, dear.
+
+@251.0
+It is a long way from Jiangling to Chengdu. You must be tired from the journey.
+
+@251.1
+Not at all. The thought of seeing you, Master Kongming, made it nothing...
+
+@251.2
+I-I see. You should rest well today.
+
+@251.3
+Yes. Thank you.
+
+@252.0
+Strategist, pardon the interruption.
+
+@253.0
+The spies have returned from Hanzhong. Lord Liu Bei and the others are waiting in the Council Hall.
+
+@253.1
+Understood. Tell them I will come at once.
+
+@255
+Go to the Chengdu Council Hall
+
+@256.0
+I will gladly take your advice and rest.
+
+@258.0
+My lord, Kongming has arrived.
+
+@258.1
+Ah, Kongming. The spies have come back from Hanzhong. Hanzhong has already fallen to Cao Cao, and his army is apparently massing at Chang'an.
+
+@258.2
+I see. So we are finally to take up arms against Cao Cao.
+
+@258.3
+Yes... Kongming, what should we do?
+
+@260.0
+Let Cao Cao come. Things are not like they were at Xinye. We'll cut him down!
+
+@261.0
+So it is a full confrontation with Cao Cao at last... My arm itches for it.
+
+@262.0
+When the battle comes, please be sure to use me, Huang Zhong.
+
+@263.0
+Please use me, Wei Yan, in the vanguard. I will win great merit.
+
+@264.0
+Let us bring Hanzhong into our hands.
+
+@265.0
+There is no need to worry about supplies. We are well supplied by the income of Jing and Yi Provinces.
+
+@266.0
+Hanzhong is vital ground. Cross the Qinling Mountains and you reach Chang'an.
+
+@267.0
+Cao Cao is my father's enemy. Please let me take his head.
+
+@268.0
+Cao Cao is the enemy of my late uncle, Ma Teng. I will surely take revenge.
+
+@269.0
+Strategist, in the battle please use me. I want to gain combat experience.
+
+@270.0
+My lord, the time for a full confrontation with Cao Cao has come at last.
+
+@270.1
+Yes. Our army can now fight Cao Cao as an equal. The decisive battle with Cao Cao is here. Kongming, I leave command of the whole army entirely to you.
+
+@270.2
+You honor me too much. Then...
+
+@271.0
+Zhang Fei! Zhao Yun! Ma Chao! Huang Zhong! Wei Yan!
+
+@272.0
+March to the border with Hanzhong and prepare for Cao Cao's attack. The details I leave to your discretion.
+
+@273.0
+Yes! Leave it to me!
+
+@273.1
+I humbly accept the vanguard.
+
+@273.2
+Watch my deeds closely.
+
+@273.3
+I will take Cao Cao's head and avenge my father!
+
+@273.4
+Then I will march out at once.
+
+@274
+Chang'an
+
+@275
+Chang'an: Council Hall
+
+@276.0
+Xiahou Yuan!
+
+@277.1
+I order you to garrison Hanzhong. Bring Liu Bei's head before me!
+
+@278.0
+Yes, sir! Leave it to me!
+
+@279.0
+Cao Hong, Zhang He, Xiahou De, and Xiahou Shang!
+
+@280.0
+You too will march out with Xiahou Yuan. I await good news!
+
+@281.1
+Leave it to me.
+
+@282.0
+Show them the strength of our army!
+
+@283.0
+Anyone, come at me! Zhang Fei is here to face you!
+
+@284
+Cao Cao's army and Liu Bei's army opened hostilities at Xiabian. Zhang He of Cao Cao's army, swollen with pride after an early victory, tried to attack Baxi but was routed by Zhang Fei's stratagem. Zhang Fei, together with Wei Yan, pursued Zhang He, who suffered rout after rout and was finally forced to retreat.
+
+@285.0
+R-Retreat! Ask Lord Cao Hong in Hanzhong for reinforcements!
+
+@286.0
+Curse Liu Bei's army! I will take Jiameng Pass and wipe out this disgrace!
+
+@287
+Given troops by Cao Hong, Zhang He attacked Jiameng Pass this time, but was driven back again and fled to Mount Tiandang, held by Xiahou De. Huang Zhong and Yan Yan attacked Tiandang and crushed Xiahou De's army. Zhang He barely escaped to Xiahou Yuan's camp at Mount Dingjun.
+
+@288.0
+Xiahou Yuan! Face Huang Zhong in battle!
+
+@288.1
+Hmph, Huang Zhong... You old relic! I'll feed you to my blade.
+
+@289.0
+Guh...
+
+@289.1
+The enemy general Xiahou Yuan has been slain by Huang Zhong!
+
+@290
+Pressing the pursuit, Huang Zhong faced Xiahou Yuan at his camp on Mount Dingjun and slew him in single combat. Cao Cao's army had no choice but to withdraw from the Hanzhong-Shu border.
+
+@291
+Chang'an: Council Hall
+
+@292.0
+Our army has suffered a total defeat. It is said Xiahou Yuan was slain by Huang Zhong.
+
+@293.0
+Grr... Xiahou Yuan has fallen...? I will avenge Xiahou Yuan! If it comes to this, I will march out myself!
+
+@294.0
+Xu Huang!
+
+@295.1
+I appoint you vanguard. Take Xu Chu and Wang Ping as your deputies. Wang Ping is from Yi Province, so he should know the geography of the area well.
+
+@296.1
+I will march out at once.
+
+@297.0
+The rest of you will march on Hanzhong as well! The whole army, march out!
+
+@298.0
+We cannot let Liu Bei run wild any longer!
+
+@300.0
+...And so, Cao Cao's army has withdrawn from the border with Hanzhong.
+
+@301.0
+I see. Kongming, a fine start, I'd say.
+
+@302.0
+We cannot let our guard down. Once he hears of Xiahou Yuan's death, Cao Cao will come out in person.
+
+@303.0
+Information has just come in. Cao Cao has marched into Hanzhong.
+
+@304.0
+I see. Kongming, do you have a plan?
+
+@305.0
+Leave it to me. In any case, we can do nothing from Chengdu. Let us move the whole army to Jiameng Pass.
+
+@305.1
+Understood. The whole army, to Jiameng Pass!
+
+@306.0
+The whole army, to Jiameng Pass!
+
+@307
+Jiameng Pass
+
+@308
+Jiameng Pass: Camp
+
+@309.0
+Zhang Fei, Huang Zhong, well done. Huang Zhong, especially, I hear you slew Xiahou Yuan. That must have stung Cao Cao a little.
+
+@310.0
+Not at all, it was nothing much.
+
+@310.1
+No need for modesty. In time I will reward you generously. You have my thanks.
+
+@311.0
+Yes, sir. I am most grateful.
+
+@312.0
+Now then, Kongming, if Cao Cao comes himself, it will not go as it did with Xiahou Yuan. What should we do?
+
+@313.0
+No need to think! All that's left is to flatten Cao Cao!
+
+@314.0
+Zhang Fei is right, my lord. At this point there is no need to think. All that remains is to meet them with the whole army.
+
+@314.1
+I see. Then everyone, prepare to march out!
+
+@316.0
+Heh heh heh. I'll settle things with Cao Cao once and for all!
+
+@317.0
+If we win this battle, we will take Hanzhong too, and hold all of Yi Province.
+
+@318.0
+At last the time has come to deal Cao Cao the final blow.
+
+@319.0
+This old frame can still work. Please give me the vanguard.
+
+@320.0
+So it is the decisive battle with Cao Cao at last. My arm itches for it.
+
+@321.0
+Strategist, you too should make ready to march out.
+
+@322.0
+Strategist, have you already prepared your tools and such?
+
+@323.0
+Cao Cao will surely attack with all his strength. We cannot be careless.
+
+@324.0
+Cao Cao is my uncle's enemy. Please give the vanguard to me and Lord Ma Chao.
+
+@325.0
+I cannot believe Cao Cao will give up Hanzhong so easily.
+
+@326.0
+Kongming, are you ready to march out?
+
+@327.0
+The whole army, march out for Hanzhong!
+
+@328.0
+We hold Liu Bei at the Han River. Liu Bei must not be allowed into Hanzhong!
+
+@329.0
+Liu Bei! Where is Liu Bei?!
+
+@329.1
+Here, Cao Cao! I am right here. What do you want?!
+
+@329.2
+So you are there! Rebel against the court! In the Son of Heaven's stead, I, the King of Wei, will deliver Heaven's punishment!
+
+@329.3
+Silence! You, who slight the House of Han and even forced the Emperor to grant you the title of King of Wei! I uphold the secret edict in the jade belt and mean to strike down the traitor to the Han! That traitor is... you, Cao Cao!
+
+@329.4
+Curse you! Enough talk. Attack!
+
+@329.5
+My lord... To throw off Cao Cao's judgment, please flee to the southernmost end of the bridge.
+
+@329.6
+Hm? Flee? To the southernmost end of the bridge? ...Very well.
+
+@330
+1. Cao Cao's retreat
+
+@331.0
+General Xu, the enemy may have a plan. It is dangerous to charge in recklessly.
+
+@331.1
+Wang Ping! You dare oppose the plan of me, your commander?!
+
+@331.2
+...Yes, I do.
+
+@331.3
+Insolent for a mere deputy! You would defy me?!
+
+@331.4
+Lord Xu Huang... Wang Ping surely does not object out of malice.
+
+@331.5
+That is right. Correcting a commander's errors is the deputy's duty.
+
+@331.6
+Curse you, Wang Ping... You oppose me at every turn. ...Remember this!
+
+@331.7
+(At this rate, if we lose the battle, who knows how he will report it... He might even blame me for the defeat. In that case, I might as well...)
+
+@332.0
+Father! Are you all right?!
+
+@332.1
+Oh, Zhang, is it you! And Yu Jin, Li Dian, Yue Jin too!
+
+@332.2
+We came to your aid on Lord Cao Pi's orders. Please rest easy.
+
+@332.3
+Good, good. You have saved me.
+
+@333.0
+Hated by my superior over a difference in strategy, my life would not be safe if I stayed in Wei. From now on, I, Wang Ping, wish to work for Shu. Please allow me to submit.
+
+@333.1
+Lord Liu Bei, a general named Wang Ping is asking to submit to us.
+
+@333.2
+Understood. Tell him his submission is accepted.
+
+@333.3
+What, Wang Ping has defected?! What is going on...?
+
+@333.4
+Damn him! That fellow has run off!
+
+@334
+Wang Ping defected.
+
+@335.0
+...Hm?
+
+@335.1
+Liu Bei has crossed the bridge. He seems to be fleeing.
+
+@335.2
+(Why does he flee so easily? Strange... It may be one of Kongming's plans. Better not go in too deep...)\n\nAll right! We fall back for now too!
+
+@335.3
+F-Fall back?! Yes, sir.
+
+@335.4
+Oh? Cao Cao's army has turned around too?
+
+@335.5
+Then, my lord, please advance again.
+
+@335.6
+Ah, yes...
+
+@336.0
+Liu Bei has turned around again? Damn it, we turn back too! Meet Liu Bei head-on!
+
+@336.1
+I-It's no use! The order isn't reaching the soldiers!\n\nAnd the sudden reversal has thrown the soldiers into confusion!
+
+@336.2
+What?! ...I see, so this was the aim!
+
+@336.3
+Cao Cao's formation is in confusion. Now is our chance!
+
+@337.0
+Tch, I was a bit careless... Retreat!
+
+@337.1
+What, that Xu Chu! He went down awfully easily. Was he drinking or something?
+
+@339
+Gained 2500 gold!
+
+@340.0
+Curse them. Liu Bei, Kongming... Remember this!
+
+@340.1
+The enemy seems to have retreated. Good, pursue with the whole army.
+
+@340.2
+We are to pursue?!
+
+@340.3
+Of course. We must beat Cao Cao thoroughly so he never sets his eyes on Hanzhong again.
+
+@341.0
+Strategist, a Wei general named Wang Ping has come over to our army.
+
+@341.1
+Oh? Let us meet him for now.
+
+@341.2
+I am Wang Ping, style name Zijun. When I remonstrated with my superior, he came to hate me, and my life was in danger. Sick of Wei, I have come over to your side. Please allow me to submit.
+
+@341.3
+Very well, I allow it. I will tell our lord later. Wang Ping, be loyal to our lord.
+
+@341.4
+Yes, sir! Thank you.
+
+@342
+Wang Ping defected.
+
+@343
+Gained 600 gold!
+
+@344.0
+Damn Liu Bei... We abandon Hanzhong and withdraw.
+
+@346.0
+You are Wang Ping, I believe. I appoint you Vice General. From now on, swear loyalty to the House of Han.
+
+@347.0
+Yes, sir. I will surely prove useful.
+
+@348.0
+My lord, at last we have taken Hanzhong.
+
+@348.1
+Yes. We have come another step closer to restoring the House of Han. Nothing could make me happier.
+
+@348.2
+Congratulations. ...And so, I have a request. I ask that you take the title of King of Hanzhong and make this great achievement known to the realm.
+
+@349.0
+What?! Me, King of Hanzhong?!
+
+@350.0
+That would be to ignore the Emperor. To slight the Emperor... That is something I cannot do!
+
+@351.0
+It is not to slight the Emperor. It is to stand against Cao Cao, who defied the Emperor's will and took the seat of King of Wei.\n\nAs for the Emperor, after your enthronement you can submit a memorial declaring your loyalty.
+
+@351.1
+No, but still...
+
+@352.0
+Only by becoming King of Hanzhong will you finally be Cao Cao's equal in every respect. My lord! Please, make your decision!
+
+@352.1
+...\n\nVery well. I will take the title of King of Hanzhong and shatter Cao Cao's ambition.
+
+@353.0
+You understand, then. King of Hanzhong... Thank you.
+
+@354.0
+B-Brother is King of Hanzhong?! I'm so happy...\n\nTch... I'm happy, and yet the tears are coming.
+
+@355.0
+Congratulations, Your Majesty the King of Hanzhong.
+
+@355.1
+Thank you. But Cao Cao is not one to quietly tolerate my enthronement. We need ample preparation. Kongming, I leave the details to you.
+
+@357.0
+Liu Feng, you and Meng Da will guard Shangyong, east of Hanzhong.
+
+@358.0
+Yes, sir. I humbly accept the order.
+
+@359.0
+Next, I would ask Lord Guan Yu to move. Fan Castle, north of Jing Province, is said to be held by Cao Ren. Let us attack it.
+
+@359.1
+Understood. I will send an envoy to Guan Yu at once.
+
+@362.0
+Your Majesty, I have brought a memorial. Please accept it.
+
+@362.1
+Another memorial from the King of Wei... I will read it later. Leave it there.
+
+@362.2
+No, this is different. It is a memorial from Liu Bei.
+
+@363.0
+What! From Liu Bei! Y-You... who are you?!
+
+@363.1
+I am Liu Bei's envoy. I was ordered to submit a memorial to the Emperor and came here alone.
+
+@363.2
+I see. Come, let me see the memorial.
+
+@364
+Your servant Bei, as a descendant of the House of Han, remains loyal to Your Majesty as ever. To subdue the traitor Cao Cao, who styles himself King of Wei, and at the urging of the ministers, I have taken the title of King of Hanzhong. I beg Your Majesty's approval.\n\nJian'an 24, Seventh Month. Liu Bei
+
+@365.0
+I see... I had heard that Liu Bei had taken Jing, Yi and Hanzhong... Do you say it was all for Our sake? ...We are glad.
+
+@366.0
+We recognize our Imperial Uncle Liu Bei as King of Hanzhong. We shall also grant him the rank of Grand Marshal.
+
+@367.0
+Yes, Your Majesty. I will convey it to the King of Hanzhong at once.
+
+@367.1
+...Tell him to live up to Our hopes.
+
+@368.0
+If Cao Cao learns that We approved the King of Hanzhong, Our life may be in danger. But... Liu Bei is risking his life to fight Cao Cao. A danger of this size is nothing. This is as it should be...
+
+@371.0
+Liu Bei has called himself King of Hanzhong and sent a memorial to the Emperor in Xuchang. They say the Emperor gladly approved the kingship.\n\nHad we not been away from Xuchang, we could have stopped the memorial...
+
+@371.1
+Gh! Liu Bei, you mean to rival me!
+
+@372.0
+Unforgivable! Right, we retake Hanzhong!\n\nThe whole army, prepare to march out at once!
+
+@373.0
+...Please wait. You must not march out.
+
+@374.0
+Hm... Sima Yi? Why do you stop me?!
+
+@374.1
+Our army took a beating at the Han River, and Liu Bei has the momentum of the times. A head-on clash with an army that has momentum can never be won.
+
+@375.0
+What?! Do you say my elite troops cannot win?!
+
+@375.1
+Yes. In the present state, defeat is certain.
+
+@376.0
+You, a mere civil officer...
+
+@376.1
+There is a better way than sending our army out. Move Wu to bring Liu Bei down.
+
+@377.0
+What...? You seem to have a clever idea. Good, tell me as you are.
+
+@378.0
+Wu holds grudges against Liu Bei. The grudge of failing to take Jing Province, and the grudge of losing its strategist Zhou Yu...
+
+@378.1
+...Hm? I had heard Zhou Yu died of illness?
+
+@379.0
+I hear he died of mounting strain over how to deal with Liu Bei's claim to Jing Province. In a sense, it was as if Kongming killed him.\n\nIf we tell Wu that Jing Province is theirs to take, they are sure to side with us. Liu Bei and Sun Quan will end up fighting over Jing Province...
+
+@380.0
+I see... Then our army will take no losses.
+
+@381.0
+At the right moment, if Lord Cao Ren moves his troops, Jing Province will fall. When Liu Bei hears and sends troops to Jing Province, in that gap...\n\nif the King of Wei attacks Hanzhong with the main force, a great victory is certain.
+
+@382.0
+Yes, a fine plan. I will send an envoy to Sun Quan at once.
+
+@383.0
+Sima Yi. I leave command of this operation to you.
+
+@384.0
+Yes, sir. Thank you.
+

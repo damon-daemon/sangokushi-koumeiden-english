@@ -1,0 +1,2028 @@
+@0
+1-3: End of the Peach Garden
+
+@1
+Act 3: End of the Peach Garden
+
+@2
+1-3: Autumn Rain in Jing
+
+@3
+Act 3: Autumn Rain in Jing
+
+@4
+Guan Yu's Stronghold: Jiangling
+
+@6.0
+An envoy has just come from Chengdu. Brother has taken Hanzhong and at last proclaimed himself King of Hanzhong.
+
+@6.1
+Oh, congratulations!
+
+@6.2
+Yes. And we have received orders to march as well. We are to attack Fan Castle, north of Xiangyang.
+
+@6.3
+Cao Ren holds Fan Castle. Since it is the King of Hanzhong's command, let us attack at once.
+
+@6.4
+Then we will move the whole army to Xiangyang. Officers, prepare to march out.
+
+@7.0
+Please wait.
+
+@7.1
+Hm? Wang Fu?
+
+@7.2
+Should we not devise some measure for the defense of Jiangling? Relations between us and Wu are poor right now. We must make some preparation against Wu...
+
+@7.3
+No, Wu fears me. They will not attack lightly. The Wu generals are all cowards.\n\n...But you are right, we cannot leave Jiangling completely empty. Then I will leave Jiangling to Mi Fang and Fu Shiren.
+
+@8.1
+The rest go to Xiangyang. Prepare to march out at once.
+
+@10.0
+Now, march out for Xiangyang!
+
+@11
+Guan Yu began his northern campaign. Cao Ren sallied out to meet him but was badly beaten, abandoned Xiangyang and withdrew his forces to Fan Castle.\n\nThe reinforcements Yu Jin and Pang De were also scattered by Guan Yu, Yu Jin captured and Pang De killed in battle. With nothing left, Cao Ren shut himself up in Fan Castle, and Guan Yu laid siege to it.
+
+@13.0
+Strategist, pardon the interruption. The King of Hanzhong summons you. Please come to the Council Hall.
+
+@15.0
+The King of Hanzhong summons you. Please come to the Council Hall at once.
+
+@17.0
+Ah, Kongming. I have been waiting for you.
+
+@19.0
+Word has come from Jing Province. Guan Yu has taken Xiangyang and is now surrounding Fan Castle.
+
+@19.1
+As expected of Lord Guan Yu. The fall of Fan Castle is only a matter of time. But...
+
+@19.2
+What is it? Is something troubling you?
+
+@19.3
+Wu. With the attack on Fan Castle, Jing Province is thinly defended. Wu will surely not miss this chance.\n\nKnowing Lord Guan Yu, I am sure he has made proper preparations, but...
+
+@19.4
+You worry too much, Kongming. With others perhaps, but Guan Yu will be fine.
+
+@20.0
+...But Lu Meng, Lu Su's successor, seems to intend to retake Jing Province. As for Yi Province, it will be fine with Pang Tong there.\n\nMy lord, please let me go and defend Jing Province.
+
+@20.1
+I see... If Kongming goes that far, let us be doubly careful. But considering Yi Province's defenses too, we cannot spare many units. Very well, take Huang Zhong and Ma Su with you.
+
+@21.0
+...Yes.
+
+@22.0
+Come to think of it... What is your relationship with Lady Huang Yueying?
+
+@22.1
+Er? What do you mean...
+
+@22.2
+I hear you have known each other since before the Longzhong days. She is Huang Chengyan's daughter, I understand.
+
+@22.3
+If you know that already, you need not ask me...
+
+@22.4
+Ha ha ha, sorry, sorry.\n\nSo, Kongming, what do you think of Lady Yueying?
+
+@22.6
+No need to say. It shows on your face.\n\nKongming. Why not take this chance and marry Lady Yueying? There will probably be no fighting for a while.
+
+@22.7
+What?! W-Well... that is, I...
+
+@22.8
+Why so shy? Very well, I will arrange the match. That is all right with you?
+
+@22.9
+M-My lord... There is no need to rush so...
+
+@22.10
+Since it is settled, we begin preparing the ceremony at once. Now, we will be busy!
+
+@23.0
+I-I am in trouble...
+
+@24
+Chengdu: Garden
+
+@25.0
+Congratulations, Kongming.
+
+@26.0
+T-Thank you.
+
+@27.0
+Lady Yueying is beautiful too. Truly the finest bride in the realm.
+
+@29.0
+Lord Liu Bei, to hold such a grand ceremony... I thank you on my daughter's behalf.
+
+@30.0
+Not at all, it is nothing. I owe Kongming a great deal.
+
+@31.0
+More to the point, let us celebrate the stars of the day! A great banquet!
+
+@32.0
+Heh heh heh. Strategist, today you drink till you drop!
+
+@34.0
+Today, let us dispense with ceremony. Everyone, drink as much as you like!
+
+@35.0
+It's the Strategist's celebration. I'll drink everything dry!
+
+@36
+Talk to everyone
+
+@37.0
+Congratulations, Kongming. I count on you from now on too.
+
+@38.0
+Kongming, this is a gift to celebrate. Please accept it.
+
+@39.0
+Strategist! You're not getting away today. You'll drink plenty.
+
+@40.0
+Strategist, congratulations.
+
+@41.0
+Congratulations. May you be happy.
+
+@42.0
+A pity Lord Guan Yu is not here.
+
+@43.0
+Congratulations. Please keep guiding me.
+
+@44.0
+Ha, Strategist, you are a sly one.
+
+@45.0
+In all my years I have never seen such a happy couple.
+
+@46.0
+I don't usually drink much... but today I am partaking.
+
+@47.0
+They make a fine pair.
+
+@48.0
+Kongming... Please take good care of my daughter.
+
+@49.0
+Master Kongming... I will go back to the room ahead of you.
+
+@49.2
+Then... I will be waiting for you...
+
+@51.0
+Congratulations, Kongming. I count on you from now on too.
+
+@52.0
+Oh, right, Kongming. A gift of celebration has arrived from Guan Yu in Jing Province too.
+
+@53.0
+Hey, hey, Strategist. You're leaving already?! You've still got plenty to drink.
+
+@54.0
+Strategist, congratulations.
+
+@55.0
+Congratulations. May you be happy.
+
+@56.0
+A pity Lord Guan Yu is not here.
+
+@57.0
+Congratulations. Please keep guiding me.
+
+@58.0
+Ha, Strategist, you are a sly one.
+
+@59.0
+In all my years I have never seen such a happy couple.
+
+@60.0
+I don't usually drink much... but today I am partaking.
+
+@61.0
+They make a fine pair.
+
+@62.0
+Please take good care of my daughter. I am counting on you.
+
+@63.0
+Welcome back. I have been waiting for you.
+
+@63.1
+Yueying, my days have been nothing but battles until now. ...And probably will be from here on. I may not have time to look after a home. Even so, is that all right?
+
+@63.2
+I do not mind at all. I was drawn to the sight of you fighting, believing in yourself.
+
+@63.3
+I see... I am sorry.\n\n...\n\nHm, hmm... Ahem...\n\nWell then... it is late, so... let us sleep.
+
+@63.4
+Yes...
+
+@66.0
+...And so, Lord Cao Cao proposes a joint attack on Jing Province. Lord Sun Quan, what is your answer?
+
+@66.1
+Hmm... This is an important matter, so I cannot answer at once. I will reply after consulting my chief ministers.
+
+@67.0
+Then I will await your reply.
+
+@68.0
+My lord, do not be misled by Cao Cao's sweet words. Guan Yu is in Jing Province. Rumor says that Fan Castle, where Cao Ren is, is on the verge of falling to Guan Yu's attack.\n\nHe means to use us of Wu to avoid that.
+
+@69.0
+That is right. Guan Yu would never leave Jing Province empty. There will surely be strict preparations. If we send troops, we will surely be wounded.
+
+@69.1
+Hmm... That is true...
+
+@70.0
+No, that would make us miss our chance.
+
+@71.0
+According to my information, Guan Yu has turned nearly all his strength to Fan Castle... and in Jing Province there are only generals like Mi Fang and Fu Shiren.\n\nMi Fang and Fu Shiren are nothing that Wu's elite troops cannot dispose of. If we let this chance pass, Jing Province will never belong to Wu!
+
+@72.0
+He is right. Even Guan Yu is only human. There is surely a weak spot.
+
+@72.1
+Please order us to march out.
+
+@72.2
+...Very well, we send troops to Jing Province. With only Wu's present territory, we will eventually fall behind Wei and Shu in national strength. Then Wu's survival would be in danger.
+
+@73.0
+Lu Meng, I give you full authority over the capture of Jing Province.\n\nLu Xun, assist Lu Meng.\n\nMake Jing Province Wu's own!
+
+@74.0
+Yes, sir. Thank you.
+
+@74.1
+We will surely retake Jing Province.
+
+@75.0
+Xu Sheng... Summon Zhuge Jin.
+
+@77.0
+You called for me?
+
+@78.0
+Yes. I have ordered Lu Meng and Lu Xun to march on Jing Province. Just now.
+
+@78.1
+...What?!
+
+@78.2
+Kongming in Shu is your younger brother. It must be painful to face Shu in battle, but...
+
+@79.0
+...No. I am, above all, a retainer of Wu. If it is my lord's wish, I will fight even my own brother.
+
+@79.1
+No... I do not mean to send you into battle. I want to ask you to take on a different task.
+
+@80.0
+...And that is?
+
+@80.1
+Guan Yu is a magnificent warrior. It would be a pity to let him die. If possible, I want him among my own men. When Guan Yu is cornered, I want you to persuade him.
+
+@80.3
+It will be a difficult task, but I ask it of you.
+
+@81.0
+...Understood. I accept that task. However, I cannot guarantee that I can persuade Guan Yu. Please understand that.
+
+@81.1
+Yes... I understand. I count on you.
+
+@82.0
+Guan Yu is not in Jiangling! Take Jiangling in one stroke!
+
+@83
+The armies of Lu Meng and Lu Xun skillfully broke through the defense line Guan Yu had laid and swept down on Jiangling in one rush. Jiangling was surrounded in an instant, and its commanders Mi Fang and Fu Shiren, unable even to call for aid, had no choice but to hold out inside the walls.
+
+@86.0
+Fu Shiren... To break out of this, our only option is to ask Lord Guan Yu for reinforcements.
+
+@86.1
+No, the outside is already full of Wu troops. We no longer have the strength to break that encirclement.
+
+@86.2
+Hmm... In that case, let us buy as much time as we can. If Lord Guan Yu notices our situation, he will surely come to our aid. Let us hold out until then.
+
+@86.3
+...Yes.
+
+@87.0
+Lord Mi Fang, an envoy has come from Wu.
+
+@87.1
+What? Show him in at once.
+
+@88.0
+I am an envoy of Wu.
+
+@88.1
+What is your business?
+
+@88.2
+I have come to urge you both to surrender. If you surrender, your safety will be guaranteed.
+
+@89.0
+Don't be absurd! I am one who has served Lord Liu Bei since the old days. Do you think Mi Fang would defect now?!
+
+@90.0
+...I choose... to surrender.
+
+@91.0
+What?! Fu Shiren, have you forgotten the kindness Lord Liu Bei showed us?!
+
+@92.0
+Mi Fang... In this situation there is nothing we can do. If we die, it is all for nothing.
+
+@92.2
+For now, let us surrender to Wu. If a chance comes, we return to Lord Liu Bei... Is that not fine?
+
+@92.3
+You mean... betray Lord Liu Bei... and Lord Guan Yu?!
+
+@92.4
+Mi Fang, I know it is painful, but give it up. Or would you choose death?
+
+@92.5
+...I understand. ...We surrender.
+
+@92.6
+So you have reached a decision? Then I will convey it.
+
+@93.0
+Envoy, thank you for your trouble. Convey our word.
+
+@94.0
+Yes. Then, if you will excuse me.
+
+@95.0
+(Death as a loyal retainer... or life as a traitor... I chose the latter, and surely I will leave an infamous name to posterity...)
+
+@96.0
+So you are Mi Fang and Fu Shiren?
+
+@96.2
+Is it true that you will guarantee our safety? ...Ah, no, that is... Is it true, sir?
+
+@96.3
+Rest easy. We will send you to Wu with an escort. Be on your way.
+
+@96.4
+Th-Thank you. Mi Fang, let's go.
+
+@97.0
+Fu Shiren... what a small man. Useless. Mi Fang at least still knows shame.
+
+@97.1
+Lord Lu Meng. When Guan Yu learns that Jiangling has fallen, he will surely come to take it back.
+
+@97.2
+Yes. What should we do?
+
+@97.3
+Even if he comes to retake Jiangling, he will probably first flee to Chengdu and regroup. Then we need only set an ambush at Maicheng along the way. If Guan Yu heads for Chengdu, he will surely pass through Maicheng.
+
+@97.4
+I see. Then Pan Zhang, I ask you to arrange the ambush at once.
+
+@98.0
+Yes, sir. I will capture Guan Yu alive.
+
+@99
+Xiangyang: Camp
+
+@100.0
+Lord Guan Yu! Grave news!
+
+@100.1
+What is it, Liao Hua? Why such a panic...
+
+@100.2
+J-Jiangling has been taken by Wu's army!
+
+@101.0
+What?! What of Mi Fang? What of Fu Shiren?
+
+@101.1
+Well... Both of them... have apparently surrendered.
+
+@102.0
+...What a thing to happen. The Strategist trusted me, Guan Yu, enough to entrust Jing Province to me...
+
+@103.0
+Father, what will you do?
+
+@104.0
+I will not let this stand. I am going to take Jiangling back!
+
+@105.0
+But if we head for Jiangling like this...
+
+@105.1
+We will be caught in a pincer between Cao's army and Wu's army.
+
+@106.0
+Then, Liao Hua, go to Shangyong. Liu Feng and Meng Da are at Shangyong. A few thousand troops will do. Ask them for reinforcements.
+
+@107.0
+Yes, sir! I will go to Shangyong at once.
+
+@108.0
+The rest of us go to Maicheng.
+
+@109.0
+Maicheng...?
+
+@109.1
+Yes. It is an old castle, but its walls are still sound. And it is close to Yi Province. If we cannot hold, we can flee to Chengdu. And if reinforcements come, we can still fight. Retaking Jiangling may even be possible.
+
+@109.2
+I see.
+
+@109.3
+Then let us go at once.
+
+@110.0
+Liao Hua, I count on you. Be sure to bring reinforcements.
+
+@110.1
+Yes, sir. ...Lord Guan Yu, please stay safe.
+
+@111
+But Guan Yu's moves had been read by Lu Meng and Lu Xun. Wu's army had already set out from Jiangling to hunt him down.\n\nSeeing Guan Yu withdraw, Cao Ren at Fan Castle also began a pursuit. Guan Yu found himself isolated at Maicheng.
+
+@112.0
+Do not let Guan Yu escape! Make Jing Province Wu's territory!
+
+@113.0
+Guan Yu has retreated? Good, we pursue. After Guan Yu!
+
+@114
+Shangyong: Council Hall
+
+@115.0
+...That is the situation. Please, send reinforcements!!
+
+@115.1
+This is serious. We must send reinforcements at once.
+
+@116.0
+Lord Liu Feng, please wait. We must not send reinforcements.
+
+@117.0
+What! Lord Meng Da, are you saying we should leave Lord Guan Yu to die?!
+
+@118.0
+In that situation, even if we send reinforcements, the matter will be settled by the time they arrive. Besides, if we leave Shangyong unguarded, Cao Cao's army will surely strike. If Shangyong falls, Hanzhong and Chengdu will be in danger too.
+
+@118.2
+Chengdu has many troops. You would do well to go to Chengdu.
+
+@118.3
+(Come to think of it... when I became Father's adopted son, Lord Guan Yu apparently objected strongly. He does not think well of me... If the reinforcements are late, how will he report it to Father? Rather than that...)
+
+@118.4
+Liao Hua... Meng Da is right. Ask Chengdu for reinforcements.
+
+@119.0
+Wh-What!\n\n...Very well. I will go to Chengdu! But I will never forget this grudge as long as I live!!
+
+@120
+Maicheng: Council Hall
+
+@121.0
+Lord Guan Yu, Lord Zhuge Jin has come as an envoy. What shall we do?
+
+@121.1
+What? Lord Zhuge Jin? In any case, show him in.
+
+@123.0
+I am Zhuge Jin. I have come as an envoy of Wu.
+
+@123.1
+As an envoy of Wu, you say. And what is your business?
+
+@124.0
+I have come to urge Lord Guan Yu to surrender. My lord Sun Quan holds you in high regard. What say you? Will you not serve my Wu?
+
+@125.0
+Don't be absurd!!
+
+@126.0
+My father, General Zhang, and the King of Hanzhong swore brotherhood long ago! Do you think my father would betray that oath?! Anyone who says such a thing, I will cut down in my father's stead!!
+
+@127.0
+Guan Ping, stop!
+
+@128.0
+Father...
+
+@128.1
+Lord Zhuge Jin is the Strategist's elder brother. If you killed him, the Strategist would grieve.\n\nLord Zhuge Jin, I have chosen Brother as my lord for life. I do not intend to take anyone but Brother as my lord. Thank you for your trouble as envoy.
+
+@129.0
+No... It is I who made a cruel offer. I apologize. Then I take my leave. ...Good fortune in battle.
+
+@130.0
+...Have the reinforcements still not come?
+
+@130.1
+No...
+
+@130.2
+(...Is this the end? Brother... forgive me, who goes ahead without fulfilling the Peach Garden oath. Zhang Fei, Zhao Yun, Strategist... everyone. I leave Brother to you...)
+
+@130.3
+Right, we sortie. ...Guan Xing, and Guan Suo.
+
+@131.1
+What is it, Father?
+
+@131.2
+I will act as the decoy and break the encirclement. In that gap, you two head for Chengdu.
+
+@132.0
+Father, what are you saying?! We will fight alongside you!
+
+@132.1
+I am your son too, Father! I am already prepared!
+
+@132.2
+No, you must not die. Choose the path of survival. I am old now. It is not I who will carry the realm from here, but young men like you.\n\nListen... You must live and meet Brother. You are the keepsake I send to him.
+
+@133.0
+...Yes, sir. Understood... We will surely meet our lord.
+
+@133.1
+Father... To be resolved to this extent...
+
+@134.0
+Do not weep. Otherwise I will be shamed in the underworld.
+
+@134.1
+Y-Yes...
+
+@135.0
+Good. Then the whole army sorties!
+
+@136.0
+Guan Ping, are you sure? You could have gone to Chengdu like your brothers.
+
+@136.1
+It is the eldest son's duty to die with his father. I do not regret becoming a son of the Guan house.
+
+@136.2
+Lord Guan Yu. If the worst comes, I will follow you to hell.
+
+@136.3
+Guan Yu! Surrender quietly!
+
+@136.4
+Forget the small fry! Capture Guan Yu first!
+
+@136.5
+I wonder if Father and the others will be all right.
+
+@137
+1. Guan Xing and Guan Suo flee to the southwest fort\n2. Destroy all enemy units
+
+@138.0
+We will not let you escape! Go!
+
+@138.1
+I have laid an ambush. You will not escape!
+
+@139.0
+Don't let them escape! Capture them all!
+
+@140.0
+Ha ha ha ha! At last, we have captured Guan Yu!
+
+@140.1
+Ugh... To fall to the schemes of brats like you... A blunder...
+
+@141.0
+Ahh! Lord Guan Yu has been captured... Knowing Lord Guan Yu, he would choose death rather than betray Lord Liu Bei.\n\nLord Guan Yu! I will wait for you in the next world, a step ahead! Gah...!
+
+@142.0
+What a thing... General Guan, captured... Knowing the General, he will never bend his knee to Wu.\n\nGenerals of Wu, witness the end of a loyal retainer! Gwah...
+
+@143.0
+Father! Surely not... Father...
+
+@144.0
+N-No... Such a ridiculous thing...
+
+@145.0
+Father...
+
+@146.0
+Let us head for Chengdu. Wu, remember this!
+
+@147.0
+Father... One day I will avenge you.
+
+@148.0
+Dogs of Wu...
+
+@149.0
+I thought escape was impossible... but it seems we got clean away. Safe now that we've come this far...?!
+
+@150.0
+Ha ha ha! Guan Yu, did you think you could escape? You fool!
+
+@150.1
+Damn, we're surrounded...! Ngh!
+
+@150.2
+Ha ha ha! The enemy general Guan Yu is captured!
+
+@151.0
+Ahh! Lord Guan Yu has been captured... Knowing Lord Guan Yu, he would choose death rather than betray Lord Liu Bei.\n\nLord Guan Yu! I will wait for you in the next world, a step ahead! Gah...!
+
+@152.0
+What a thing... General Guan, captured... Knowing the General, he will never bend his knee to Wu.\n\nGenerals of Wu, witness the end of a loyal retainer! Gwah...
+
+@153.0
+I let my guard down...
+
+@154.0
+Lord Guan Yu... I will wait for you in the next world...
+
+@155.0
+Damn it! I, Guan Ping, will not be taken prisoner by the likes of Wu's army! Let go, let go!
+
+@156.0
+Lord Guan Yu, I will wait for you in the next world... but may that be a distant day!
+
+@157.0
+Ha ha ha ha! At last, we have captured Guan Yu!
+
+@157.1
+Ugh... To fall to the schemes of brats like you... A blunder...
+
+@158.0
+Ahh! Lord Guan Yu has been captured... Knowing Lord Guan Yu, he would choose death rather than betray Lord Liu Bei.\n\nLord Guan Yu! I will wait for you in the next world, a step ahead! Gah...!
+
+@159.0
+What a thing... General Guan, captured... Knowing the General, he will never bend his knee to Wu.\n\nGenerals of Wu, witness the end of a loyal retainer! Gwah...
+
+@160.0
+To think a beaten Guan Yu would do this much damage...
+
+@160.1
+They say Guan Yu was captured by Cao Ren's unit.
+
+@160.2
+That is bad...
+
+@160.3
+It is all right. We have already used a stratagem to get Guan Yu back into our hands.
+
+@161.0
+Guan Xing, Guan Suo. Head for the village to the southwest. Understood!
+
+@161.2
+Father...
+
+@161.3
+Guan Ping, are you sure? You could have gone to Chengdu with your brothers.
+
+@161.4
+It is the eldest son's duty to die with his father. I do not regret becoming a son of the Guan house.
+
+@161.5
+...I see. To draw the enemy's eyes to us, we will head for the village to the northwest.
+
+@161.6
+Lord Guan Yu. If the worst comes, I will follow you to hell.
+
+@161.7
+Guan Yu! Surrender quietly!
+
+@161.8
+Forget the small fry! Capture Guan Yu first!
+
+@161.9
+I wonder if Father and the others will be all right.
+
+@163.0
+Ah! Lord Guan Yu is being chased by Wu's army!
+
+@163.1
+We must hurry and save him!
+
+@164.0
+Hm, enemy reinforcements!
+
+@164.1
+But they seem few. Let us finish them off along with Guan Yu.
+
+@164.2
+Yes, attack!
+
+@165.0
+We will not let you escape! Go!
+
+@165.1
+I have laid an ambush. You will not escape!
+
+@166.0
+Don't let them escape! Capture them all!
+
+@167.0
+Ha ha ha ha! At last, we have captured Guan Yu!
+
+@167.1
+Ugh... To fall to the schemes of brats like you... A blunder...
+
+@168.0
+Ahh! Lord Guan Yu has been captured... Knowing Lord Guan Yu, he would choose death rather than betray Lord Liu Bei.\n\nLord Guan Yu! I will wait for you in the next world, a step ahead! Guh...!
+
+@169.0
+What a thing... General Guan, captured... Knowing the General, he will never bend his knee to Wu.\n\nGenerals of Wu, witness the end of a loyal retainer! Gwah...
+
+@170.0
+Father! Surely not... Father...
+
+@171.0
+N-No... Such a ridiculous thing...
+
+@172.0
+Strategist, it seems Lord Guan Yu has been captured!
+
+@172.1
+What!
+
+@172.2
+Strategist, we have no choice but to withdraw for now.
+
+@172.3
+Gh... Lord Guan Yu... Forgive me...
+
+@173.0
+Father...
+
+@174.0
+Wu!
+
+@175.0
+Father... One day I will avenge you.
+
+@176.0
+Dogs of Wu...
+
+@177.0
+I thought escape was impossible... but it seems we got clean away. Safe now that we've come this far...?!
+
+@178.0
+Ha ha ha! Guan Yu, did you think you could escape? You fool!
+
+@178.1
+Damn, we're surrounded...! Ngh!
+
+@179.0
+Lord Guan Yu! I have come to your rescue!
+
+@179.1
+Oh! Strategist!
+
+@180.0
+Hm, reinforcements from Liu Bei's army!
+
+@180.1
+But they seem few. Let us finish them off along with Guan Yu.
+
+@180.2
+Yes, attack!
+
+@181.0
+Oh! This is Heaven's aid... Thank goodness!
+
+@182.0
+General Guan, somehow flee to Chengdu!
+
+@183.0
+I let my guard down...
+
+@184.0
+Lord Guan Yu... I will wait for you in the next world, a step ahead...
+
+@185.0
+Gh! F-Father... Please... stay safe...
+
+@186.0
+Lord Guan Yu, I will wait for you in the next world...\n\nBut may that be a distant day!
+
+@187.0
+Right, take Guan Yu in hand and return to Jiangling.
+
+@188.0
+To think Kongming would come leading reinforcements...
+
+@188.1
+It is a pity we could not take Guan Yu's head, but Jing Province has fallen into Wu's hands.
+
+@190.0
+Lord Guan Yu, I have long wished to have a man of valor like you among my retainers.
+
+@190.2
+Will you not work under me? Then your life would be spared as well.
+
+@190.3
+...Blue-eyed brat.
+
+@191.0
+W-What! M-Me, Sun Quan...! A blue-eyed brat?!
+
+@192.0
+I have no intention of serving a man like you, who knows neither righteousness nor oaths! What are you waiting for? Cut off my head!
+
+@192.1
+Come, kill us! Loyal men do not fear death!
+
+@193.0
+...Lu Meng, what should I do?
+
+@194.0
+Long ago, when Guan Yu was with Cao Cao, Cao Cao treated him with the utmost courtesy. A general's rank, banquets, treasures, the Red Hare...\n\nYet even with such lavish treatment, he could not change Guan Yu's loyalty to Liu Bei. Even if you force Guan Yu to serve you here, he will surely defect to Liu Bei.
+
+@195.0
+He is right. For the sake of the future, it would be better to kill Guan Yu here.
+
+@195.1
+...I see. It is a pity to lose Guan Yu's valor, but it cannot be helped.
+
+@196.0
+Execute both Guan Yu and Guan Ping!
+
+@197.0
+Yes, sir!
+
+@198.0
+M-My lord! You had Guan Yu executed?
+
+@198.1
+Yes. He was a man to regret losing, but for Wu's future it could not be helped.
+
+@198.2
+My, my... We have done something unwise.
+
+@198.3
+Unwise? Lu Xun, why is that?
+
+@198.4
+Long ago, they say, Liu Bei, Guan Yu and Zhang Fei swore in the Peach Garden as brothers to die together.
+
+@198.5
+The 'Peach Garden Oath,' of course. I heard of it from Father.
+
+@198.6
+When Liu Bei learns that Guan Yu was killed, he will surely move to retaliate. Together with famed generals such as Zhang Fei, Zhao Yun and Ma Chao.
+
+@198.7
+This will turn into a full confrontation between Shu and Wu.
+
+@198.8
+Lord Zhuge Jin is right. The one who will rejoice at that is...
+
+@199.0
+I see! Damn! Wei would be the only one pleased by this!
+
+@200.0
+Yes, exactly.
+
+@200.1
+Hmm... L-Lu Xun! Do you have a plan?!
+
+@200.2
+...For now, let us change Liu Bei's line of sight.
+
+@201.0
+This whole affair was Cao Cao's proposal to begin with. As its result, send Guan Yu's head to Cao Cao.\n\nThat fulfills our obligation to Cao Cao, and it will make clear that the responsibility lies with Cao Cao.
+
+@202.0
+...True. Above all, we must avoid a full confrontation with Shu. Let us send Guan Yu's head at once.
+
+@206.0
+Somehow I have a strange foreboding today... I hope nothing bad has happened.
+
+@206.1
+It is probably your imagination. If you dwell on it too much, it will only do harm.
+
+@206.2
+True enough. ...? Is that not Liao Hua?
+
+@207.0
+Lord Liu Bei! Please send reinforcements at once! Lord Guan Yu is in danger!
+
+@207.1
+What is it, Liao Hua! Has something happened to Guan Yu?!
+
+@208.0
+Yes. Lord Guan Yu left the defense of Jiangling to Mi Fang and Fu Shiren, but when Wu attacked Jiangling, they surrendered.
+
+@208.1
+What! My brother... surrendered to Wu?!
+
+@208.2
+Sadly, it is true. Caught in a pincer between Wu and Wei, with no way forward or back, I came on Lord Guan Yu's orders to ask for reinforcements.
+
+@209.0
+What a thing... That fool Mi Fang! Gh, ngh... gah!
+
+@210.0
+Ah, no! Mi Zhu has collapsed! Someone take Mi Zhu to his home!
+
+@211.0
+Lord Mi Zhu, are you all right?!
+
+@212.0
+Ugh... That fool Mi Fang...
+
+@213.0
+Mi Zhu... Now then... But why did you come all the way to Chengdu? Shangyong is closer than this.
+
+@213.1
+I went to Shangyong too. But Lord Liu Feng and Meng Da refused to send reinforcements.
+
+@214.0
+What?! Why would Liu Feng not send reinforcements?!
+
+@215.0
+They said it was to defend Shangyong... So I had no choice... and came to Chengdu to request reinforcements...
+
+@216.0
+Grr, that fool Liu Feng! With three thousand reinforcements, Guan Yu could face an army of a hundred thousand... At any rate, prepare to march out at once. Guan Yu is in danger!
+
+@217.0
+Is that not Guan Xing?! And Guan Suo too!
+
+@218.0
+Guan Xing! Guan Suo! What has happened to you, looking like this?! What of Guan Yu?!
+
+@218.1
+We were surrounded by Wei and Wu at Maicheng. Father resolved himself and charged out as a decoy so that Guan Suo and I could escape. Father said, 'Live and meet Brother,' and we have done so... B-But Father...
+
+@219.0
+Xing! Suo! What about my brother?!
+
+@220.0
+Wu... executed him...
+
+@221.0
+What! No! It's a lie!! Guan Yu...! ...My brother... no!!
+
+@221.1
+G-Guan Yu... Guan Yu is... dead. Dead...?
+
+@222.0
+Oh, Kongming! Guan Yu, Guan Yu is safe, is he not?
+
+@223.0
+Strategist! Lord Huang Zhong! Ma Su! What Xing and Suo say is some mistake, right?!
+
+@224.0
+...I am deeply sorry. I could not... save Lord Guan Yu.
+
+@225.0
+Wooooaaah!
+
+@225.1
+Ahh...
+
+@226.0
+Ah! My lord!
+
+@227.0
+My lord! Pull yourself together!
+
+@228.0
+B-Bro... Brother!!
+
+@229.0
+What!!
+
+@229.1
+F-Father!
+
+@230.0
+Lord Guan Yu!
+
+@231.0
+G-Guan Yu... you are safe...
+
+@232.0
+...Brother, I am ashamed. Jing Province... was taken by Wu.
+
+@233.0
+Yes... But more than that, I am glad above all that you are safe. Kongming, you did well.
+
+@234.0
+Brother... I'm glad you're safe...
+
+@236.0
+Is that the head of Guan Yu that Wu sent?
+
+@236.1
+Y-Yes.
+
+@236.2
+Is it truly... Guan Yu? I cannot quite believe that man is dead. Come, let me look and see for myself.
+
+@237.0
+Hm... It is indeed Guan Yu.\n\nHow many men did that one man vex and terrify? I too knew fear of him. That is why he was a man to regret losing...\n\nBut now, at least, there is no worry of being killed by Guan Yu.\n\n...Guan Yu. Have you been well since?
+
+@238
+Guan Yu's eyes opened!
+
+@240
+Guan Yu's beard and hair bristled!
+
+@241.0
+Wh-Whoa!
+
+@242.0
+I-Is he alive? Surely not... It cannot be...
+
+@242.1
+Fearsome... that Guan Yu.
+
+@242.2
+W-What...
+
+@243.0
+Ohhh... Guan Yu, rest in peace... It was not I who killed you... Wu, Wu is to blame...
+
+@243.1
+My lord, what is the matter?!
+
+@243.2
+Father, compose yourself!
+
+@243.3
+...Wu is to blame...
+
+@245.0
+Dear, will Lord Liu Bei be all right?
+
+@245.1
+...I do not know. This is something even I can do nothing about. Our lord must recover on his own.
+
+@246.0
+Dear, how fortunate that you were able to save Lord Guan Yu.
+
+@246.1
+Yes. ...But the loss of Jing Province hurts. With Yi Province alone, striking out into the Central Plains will be very difficult...
+
+@247.0
+Oh? That is Master Ma Su.
+
+@249
+Talk to Ma Su
+
+@250.0
+Never mind me. Please talk with Master Ma Su.
+
+@251.0
+Ma Su, how is our lord?
+
+@251.1
+He has finally come to.
+
+@252.0
+Ma Su, how is Lord Mi Zhu?
+
+@252.1
+He was already often ill, and this grief on top of it... It does not look good.
+
+@253.0
+I see...
+
+@253.1
+And... Lord Liu Feng has returned from Shangyong.
+
+@253.2
+Lord Liu Feng? Why now...? Very well. Let us go to the Council Hall in any case.
+
+@255.0
+Dear, you are in a hurry, are you not? Never mind me, please go to the Council Hall.
+
+@256.0
+Strategist, please come to the Council Hall quickly.
+
+@258.0
+...And so, I pursued Meng Da, who had gone over to Wei, but Wei's forces appeared... and he escaped.
+
+@258.1
+And so you lost even Shangyong and came strolling back?!
+
+@258.2
+...! N-No. I only wished to offer an apology...
+
+@258.3
+And Liu Feng! You sent no reinforcements to Guan Yu either.
+
+@258.4
+That was because Meng Da stopped me...
+
+@258.5
+And you backed down? You took a traitor's words to heart, and then let him escape... and you come back shamelessly. You disgrace!
+
+@258.6
+Father...
+
+@258.7
+True, we were father and son. But I cannot overlook this crime, even in a son.
+
+@259.0
+Liu Feng... I pronounce the death sentence. ...Be prepared.
+
+@260.0
+...Yes. I came prepared. Father, thank you for everything until now.
+
+@261.0
+...Take this man away at once.
+
+@262
+My lord, please wait!\n...
+
+@263.0
+My lord, please wait!
+
+@264.0
+Say nothing. If I forgive him because he is my son, military discipline cannot be kept.
+
+@265.0
+But as for the reinforcements to Lord Guan Yu, given the situation then, it cannot be called a wrong decision!
+
+@266.0
+And as for Meng Da's rebellion, Lord Liu Feng went to suppress it and was defeated. Is it not said that 'victory and defeat are common to a soldier'? Will you execute a capable general for one defeat?
+
+@267.0
+Brother... no, King of Hanzhong. The Strategist is right. Honestly, I resented it when the reinforcements did not come. But... if Shangyong had been left thin at that time and Cao Cao had attacked there, what would have become of Shu...
+
+@268.0
+Yes... you are right. Perhaps I was too severe because he is my son.
+
+@269.0
+Liu Feng... I reduce your sentence by one degree and demote you to commoner.
+
+@270.0
+Lord Guan Yu...
+
+@271.0
+Strategist...
+
+@272.0
+I will never forget this kindness as long as I live. ...
+
+@274.0
+Y-Yes, sir.
+
+@275.0
+Father... This is farewell...
+
+@276.0
+My lord...
+
+@277.0
+Say nothing. And if I kept Liu Feng alive, there would be those who would not be satisfied.
+
+@279.0
+It is painful for me too...
+
+@280
+Xuchang: Cao Cao's Residence
+
+@281.0
+Curse you, Guan Yu! Do you still mean to get in my way!
+
+@282.0
+Ugh... Gh, ahh... Haa, haa...
+
+@283.0
+Father, compose yourself!
+
+@283.1
+Your Majesty the King!
+
+@283.2
+...Oh, where is this?
+
+@283.3
+Your bedchamber, Father. You were crying out in your sleep. ...Are you all right?
+
+@283.4
+I see, I was crying out. I do not have long either.
+
+@283.5
+Father, what are you saying!
+
+@283.6
+No need for needless concern. While I live, I will leave my last wishes. After me... Cao Pi, you will succeed me.
+
+@285.0
+Cao Zhang, support Cao Pi with your valor. Brothers must join their strength.
+
+@286.0
+Yes, Father.
+
+@287.0
+The rest of you, serve Cao Pi as you have served me.
+
+@288.0
+Rest assured.
+
+@288.1
+I will engrave your last wishes firmly in my heart.
+
+@289.0
+Good. Hearing that, I am at ease. Then I leave it to you...
+
+@289.1
+Ah!
+
+@290.0
+Father!
+
+@291.0
+Father! Hold on!
+
+@292.0
+...Guan Yu. Perhaps Guan Yu's ghost killed our lord...
+
+@293
+In the first month of Jian'an 25 (220 AD), Cao Cao, the treacherous hero of a chaotic age and the greatest giant of the Three Kingdoms, died of illness, aged sixty-six.\n\nAs Cao Cao's will directed, his eldest son Cao Pi succeeded him as King of Wei.
+
+@295.0
+Your Majesty, I have something to discuss.
+
+@295.1
+Sima Yi? What is it?
+
+@296.0
+The House of Han has already declined completely. Why not receive abdication from the Han Emperor and found a new dynasty?
+
+@297.0
+Yes, that has been my dream. But would there not be those who raise objections? Besides... I doubt the Han Emperor will abdicate willingly.
+
+@298.0
+Among the Han Emperor's attendants, there is no longer a single loyal retainer who would defy Wei. The rest depends on the Han Emperor, but leave that to us.
+
+@299.0
+I see... Very well, Sima Yi. I leave everything to you.
+
+@303.0
+What did you say just now?
+
+@303.1
+I said that perhaps it is time to abdicate to the King of Wei.
+
+@304.0
+What nonsense! We cannot end the Han dynasty in Our reign!
+
+@305.0
+Your Majesty, it is the flow of the times. Rather than resist the current here...
+
+@305.1
+The Han has no authority left! Wei's military might is order, and it is authority.
+
+@305.2
+The one most fit to be emperor now is our King of Wei, not you, Son of Heaven. Come, yield the throne!
+
+@306.0
+Your Majesty, have you decided?
+
+@307.0
+I cannot... To destroy the Han in Our own reign...
+
+@308.0
+Sima Yi. Would it not be better simply to do away with the Han Emperor?
+
+@309.0
+No, that will not do. Unless the form of abdication is observed, you would be called a usurper. Here, we must corner the Son of Heaven. There is no need to hurry.
+
+@310.0
+Now, Your Majesty! On this matter of abdication: yes or no?! Please decide at once.
+
+@310.1
+Ah... Is there nothing We can do...
+
+@311.0
+...Very well. We will yield the throne.
+
+@312.0
+Oh, you have decided! Then, Your Majesty the King, please, to the throne.
+
+@313.0
+Then, Han Emperor... no, Liu Xie. You are no longer the Son of Heaven. We enfeoff you as Duke of Shanyang of the Wei dynasty. Set out for your post at once.
+
+@315.0
+...Ugh.
+
+@316.0
+Sima Yi... This is as it should be?
+
+@316.1
+Yes. You have taken the throne not by usurpation but in the form of abdication. The just cause is now ours. No one has grounds to criticize you.
+
+@316.2
+I see. So that is how it works.\n\nThen, all of you. As Emperor of Great Wei, I command: first, the capital moves from Xuchang to Luoyang. Then we strike down the rebels, Shu and Wu.\n\nAll of you, devote yourselves to your duties all the more for Great Wei.
+
+@320.0
+Strategist! According to the spies, Cao Cao has died of illness.
+
+@321.0
+Cao Cao... Since I was a child, Cao Cao was my greatest enemy. I fought, one might say, to thwart his ambition of conquering the realm.
+
+@321.1
+Even a man like Cao Cao, who overcame desperate crises time and again, dies after all.
+
+@321.2
+Everyone dies someday...
+
+@322.0
+Yes... I still cannot believe General Guan Yu is gone...
+
+@322.1
+Come to think of it, rumor has it that Cao Cao died from General Guan Yu's curse.
+
+@322.2
+(Lord Guan Yu...)
+
+@323
+That year, Mi Zhu, who had followed Liu Bei from Xu Province, and Fa Zheng, the adviser most responsible for the conquest of Yi Province, died of illness one after the other.\n\nTruly, an age was drawing to a close.
+
+@326.0
+My lord, grave news.
+
+@327.0
+What happened?
+
+@327.1
+According to the spies... the King of Wei, Cao Pi, has seized the throne.
+
+@328.0
+What! Cao Pi... usurped the throne?!
+
+@328.1
+Yes. And rumor has it that after the usurpation, Cao Pi secretly had His Majesty... killed.
+
+@329.0
+W-What!! Is... is that true?!
+
+@329.1
+No... it is only rumor. We would have to confirm whether it is true...
+
+@330.0
+Ahh... How could this be! His Majesty... Ohhh!\n\nBecause my strength was lacking... Has the Han... the Han fallen?!
+
+@332.0
+Hmm... Cao Pi! Usurping, which even Cao Cao never did!
+
+@333.0
+The Han has fallen...?! Damn it! It's all Wu's fault!!
+
+@334.0
+The Han has fallen...?! Cao Pi, you bastard!
+
+@335.0
+The Han dynasty, which lasted four hundred years, has fallen... ...
+
+@336.0
+To think Cao Pi would go that far...
+
+@337.0
+The Han has fallen... Strategist, we must take some action here.
+
+@338.0
+They say Cao Pi is colder than his father Cao Cao... I wonder if the Han Emperor is safe.
+
+@339.0
+Usurpation, hm...
+
+@340.0
+The Cao clan is unforgivable!
+
+@341.0
+Cao Cao, my father's enemy, is dead, but I will take Cao Pi's head in his place!
+
+@342.0
+Cold as Cao Pi is... the Han Emperor is surely already...
+
+@343.0
+N-No... What becomes of our dream of restoring the Han?
+
+@344.0
+Is this too some kind of fate?
+
+@345.0
+Strategist, this may be improper to say, but... Lord Liu Bei's grief is extraordinary. Is it truly sincere?
+
+@345.1
+His just cause and his ambition are all sincere. That quality, beyond ordinary men's measure, is also his charm.
+
+@346.0
+With the Han fallen, what will become of our just cause of restoring the Han...
+
+@347.0
+My lord, I understand your feelings. But now is no time to weep.
+
+@348.0
+My lord, please ascend the throne.
+
+@349.0
+What! ...You tell me to become emperor?
+
+@350.0
+That cannot be done! To style myself emperor would be disloyal for a minister of the Han.
+
+@351.0
+Because of the Cao clan, the Han realm is without a master. You alone inherit the Han's legitimacy. That you take the throne is only natural, and what all the people of the realm desire.
+
+@352.0
+There is no one but you, my lord, who can strike down rebel Wei and restore the Han!
+
+@353.0
+Strike down rebel Wei...
+
+@353.1
+Yes! We strike down Wei. Or will you remain silent and accept Cao Pi as emperor?
+
+@353.2
+No, that I cannot do... ...Very well. To restore the Han, I will take the throne.
+
+@354.0
+Thank you for your decision. We will hold the enthronement ceremony at once.
+
+@355
+In the fourth month of Jian'an 26 (221 AD), at the foot of Mount Wudan northwest of Chengdu, Liu Bei took the throne and changed the era name to Zhangwu.\n\nLiu Bei's eldest son Liu Shan was named Crown Prince, and Kongming was appointed Prime Minister, the highest rank of the ministers. Kongming was then forty-one.
+
+@357.0
+...Happily, we have learned that the former Emperor, Emperor Liu Xie, is alive. Therefore We will hold the great authority only for a time as emperor, and return the throne when the Han house is restored. To that end, We swear here to fight until We have struck down the traitor Cao Pi of Wei!
+
+@358.0
+But before that, there is one thing We must do. ...We will take revenge on Wu, which killed Guan Yu.
+
+@358.1
+B-Brother!
+
+@358.2
+Zhang Fei, We hate Wu above all. ...You feel the same, do you not?
+
+@358.3
+...How I have dreamed of attacking Wu and taking Sun Quan's head! So we're finally going to attack Wu!
+
+@359.0
+Yes! Then I'll get ready to march out right away! Brother... no, Your Majesty, don't be late either!
+
+@360.0
+Wu is certainly an object of hatred. But the national traitor Wei should be struck down first.
+
+@361.0
+Prime Minister! Please, let me lead the vanguard against Wu!
+
+@362.0
+I think we should strike Wei first, but... considering His Majesty's feelings...
+
+@363.0
+His Majesty seems to be impatient.
+
+@364.0
+Whichever first is fine. I just fight.
+
+@365.0
+Neither Wu nor Wei has anyone who can match me.
+
+@366.0
+I bear Wu no grudge... but I well understand His Majesty's feelings.
+
+@367.0
+I understand His Majesty's feelings, but... Wei should be struck first.
+
+@368.0
+Please order me to lead the vanguard!
+
+@369.0
+With His Majesty's intentions as they are...
+
+@370.0
+Your Majesty, I understand your feelings, but...
+
+@371.0
+Do not stop Us, Kongming. We cannot forget Guan Yu's grievance.
+
+@372.0
+Your Majesty, I share the Prime Minister's view. I feel your feelings keenly. But you are now an emperor. There must be things to be done before private matters.
+
+@373.0
+Zhao Yun... Before walking the path of an emperor, We wish to choose the path of Guan Yu's sworn brother. Do not stop Us...
+
+@374.0
+...If you put it that way, I have nothing more to say.
+
+@375.0
+Your Majesty! I have just heard from General Zhang that you will strike Wu. Is it true?
+
+@375.1
+It is indeed. We will avenge your father.
+
+@375.2
+Then please add us to that punitive army too! I beg you!
+
+@375.3
+Of course We will take you. Show Us the strength of Guan Yu's sons.
+
+@376.0
+Yes, sir! Thank you!
+
+@377
+Chengdu: Position
+
+@378.0
+Kongming, I leave the home front to you. We mean to leave Zhao Yun, Ma Chao and the others behind.
+
+@378.1
+Yes. Please take the utmost care.
+
+@378.2
+It will be all right. Guan Yu is with Us. ...Still, Zhang Fei is late. What can have happened?
+
+@379.0
+Y-Your Majesty...
+
+@379.1
+Are you not Zhang Bao, Zhang Fei's son? Has something happened to Zhang Fei?
+
+@379.2
+Father... was killed by his subordinates Fan Jiang and Zhang Da. The two seem to have fled to Wu.
+
+@381.0
+In fact, the day before, Father ordered Fan Jiang and Zhang Da to prepare white mourning garb. When the two said, 'It cannot be done in a day,' Father got angry and said he would cut off their heads if it was not done. Afraid of that, the two... F-Father...
+
+@382.0
+...What a thing! Zhang Fei, have you too gone ahead of me?!
+
+@382.1
+...Lord Zhang Fei.
+
+@383.0
+...Zhang Bao. The two fled to Wu, you say?
+
+@384.0
+...Yes.
+
+@384.1
+Then Zhang Bao, you too will join the punitive army against Wu. Together we will strike Wu and mourn Zhang Fei.
+
+@385.0
+Y-Yes! I beg to be taken!
+
+@385.1
+Then we march out against Wu! To avenge Guan Yu and Zhang Fei!
+
+@386.0
+To avenge Guan Yu and Zhang Fei! Wu, prepare yourselves!
+
+@387
+Baidi: Camp
+
+@388.0
+I am Zhuge Jin. I have come as an envoy of Wu.
+
+@388.2
+Your Majesty, at least hear him out...
+
+@388.3
+You are Kongming's elder brother. For Kongming's sake, We will do you no harm. You had best leave at once. We have no intention of making peace with Wu.
+
+@388.4
+...I am well aware of your feelings. But the Han house's true enemy is Wei. Make peace with Wu...
+
+@389.0
+...Enough, be gone at once! Otherwise, though you are Kongming's brother, We will show no mercy!
+
+@390.0
+You had better leave quickly, before His Majesty's mood changes.
+
+@390.1
+If you were not the Prime Minister's brother, as His Majesty says, we would not let you return alive... There is nothing more to discuss! Go home!
+
+@391.0
+Pardon my intrusion...
+
+@392.0
+Your Majesty... Lord Zhuge Jin is blameless. Perhaps you should hear him out a little more.
+
+@393.0
+True... Zhuge Jin is blameless. What We cannot forgive is Wu's method! To soothe Our anger, they appoint Kongming's... Our Prime Minister's brother as envoy! Do the people of Wu and Yue have no shame or reputation?!\n\nSuch petty tricks will never change Our heart! Sortie! We advance on Yiling!
+
+@394
+Burning for vengeance, Liu Bei's army crushed Wu's Gan Ning, Sun Huan and Pan Zhang and advanced with irresistible force. Liu Bei encamped at Yiling and built a long chain of camps along the Yangtze to secure his supply line. By one account, it stretched as far as seven hundred li.
+
+@397.0
+Grr... Envoys have no effect, and every time we fight, we lose... This is Wu's greatest crisis. Is there no one who can break us out of this predicament?
+
+@397.1
+If only Zhou Yu, Lu Su and Lu Meng were still alive.
+
+@397.2
+Zhou Yu, Lu Su, Lu Meng... All died of illness. Lu Meng especially, as if following after Guan Yu... There was even a rumor that Lu Meng and Cao Cao died from Guan Yu's curse...
+
+@397.3
+Wu no longer has anyone who can defeat Shu's army. Surrender may be unavoidable...
+
+@398.0
+No, Wu still has a great general.
+
+@399.0
+What! Kan Ze, who is it?!
+
+@400.0
+Yes. It is Lord Lu Xun.
+
+@400.1
+Lu Xun!
+
+@401.0
+Kan Ze, is that so? Lu Xun's talent is that of a commander of one unit at most, or perhaps a commander's adviser. He has no experience commanding a large army, and his rank is low... Do you think such a man can command the whole army of Wu?
+
+@402.0
+All Lord Lu Xun lacks is experience and rank. In a crisis like this, there is no time to quibble over experience and rank.
+
+@403.0
+I stake my life on recommending Lord Lu Xun.
+
+@404.0
+Lu Xun... Indeed he excels in strategy, and Lu Meng also thought highly of him... Very well, summon Lu Xun. I will stake everything on Lu Xun.
+
+@406
+Luoyang: Palace
+
+@407.0
+...That is the situation.
+
+@408.0
+So Liu Bei has laid out such a long encampment.
+
+@409.0
+...Heh heh heh, ha ha ha! Then Liu Bei's defeat is clearer than fire.
+
+@410.0
+Yes, exactly.
+
+@411.0
+Wu will win. Riding that momentum, Wu will attack Shu. Then Wu's homeland will be wide open. If we attack there, only a beaten Shu remains. Very well, we take this chance to attack Wu! Now is the time to unify the realm! Cao Ren, Cao Xiu, Cao Zhen! March out at once!
+
+@415.0
+Prime Minister, this is the army formation sent by my brother, Ma Liang.
+
+@416.0
+...! W-What is this formation! Who advised such a formation? That is a grave crime. Cut off the head of whoever advised it!
+
+@417.0
+...My brother says His Majesty himself drew up this formation.
+
+@418.0
+Ah... Is the fate of the House of Han to end here? With so long a line... If it is cut apart, that is the end. Cut apart and set afire... it will be wiped out.
+
+@418.1
+What! Then we must go to the rescue!
+
+@419.0
+...Yes. We may still be in time. Zhao Yun, you will command the troops. Let us form the units quickly.
+
+@420
+Order Zhao Yun to march out
+
+@421.0
+With Lu Meng dead, Wu has no great general. That is our one thin hope, but...
+
+@422.0
+Prime Minister, are you ready yourself? Are your tools and equipment enough?
+
+@423.0
+Every moment counts. For His Majesty's sake, let us hurry.
+
+@424.0
+We are ready. How about you, Prime Minister?
+
+@425.0
+I only hope Wu has no great general greater than Lu Meng.
+
+@426.0
+Prime Minister, are you ready?
+
+@427.0
+What! Liu Bei has laid out a long serpent formation at Yiling!
+
+@427.2
+I have been waiting for this moment! Now is the chance to take Liu Bei's head! The whole army, march out for Yiling!
+
+@428.0
+His Majesty's life is in danger! Hurry!
+
+@429.0
+W-What! Fire attack?! I see, Wu... they were waiting for the wind to blow!
+
+@429.1
+Hmm, such a formation... Commander, a magnificent plan.
+
+@429.2
+It is too early to rejoice. Capture Liu Bei and remove any worry for the future.
+
+@429.3
+Yes, sir. We pursue Liu Bei at once.
+
+@429.4
+Men, Liu Bei's life is in our hands! Message to the whole army: capture Liu Bei!
+
+@429.5
+...Everyone, flee! Head for Baidi!
+
+@429.6
+Are we in time?! Hurry and rescue His Majesty!
+
+@430
+1. Liu Bei flees to the western fortress\n2. Destroy all enemy units
+
+@431.0
+The camps are burning...
+
+@431.1
+I did not expect such flames. As I thought, fire was the best plan.
+
+@431.2
+Do not let Liu Bei escape! Chase him to Baidi!
+
+@432.0
+Ah, my army is burning... I cannot face Kongming.
+
+@433.0
+Liu Bei, you will not return alive to Chengdu! Become prey for my army!
+
+@433.1
+Curse you, a Wu ambush! Is my life to end here...
+
+@434.0
+Oh! You are Fan Jiang and Zhang Da!
+
+@434.1
+Aah! L-Lord Zhang Bao!
+
+@434.2
+So you were there! I'll avenge my father's grievance!
+
+@434.3
+E-Eeek...!
+
+@435.0
+Hm...?! What is that mountain?
+
+@436.0
+I sense a killing aura from that mountain. There must be an ambush. Send spies and scout that mountain. Until the investigation is done, advancing beyond this point is forbidden!
+
+@437.0
+His Majesty has entered Baidi. We can rest easy now.
+
+@437.1
+...\n\nHaa... What a wretched battle We fought...
+
+@437.2
+Your Majesty...
+
+@438.0
+Ah! Your Majesty!
+
+@438.2
+This will not do! Take His Majesty to Baidi!
+
+@439.0
+I thought them a beaten army and was careless... But they no longer have the strength to invade Wu.
+
+@439.1
+Your Majesty, rest easy. Wu's troops have withdrawn.
+
+@439.2
+...What a wretched battle We have fought...
+
+@440.0
+Sorry, Dad... I lost...
+
+@441.0
+I avenged you, Dad!
+
+@442
+Zhang Bao leveled up!
+
+@443.0
+I avenged you, Dad!
+
+@444
+Zhang Bao leveled up!
+
+@445.0
+Dad... I took your revenge...
+
+@446
+Zhang Bao leveled up!
+
+@447.0
+Dad... I took your revenge...
+
+@448
+Zhang Bao leveled up!
+
+@449.0
+I have slain Pan Zhang, my father's enemy! ...Hm? This is...
+
+@450.0
+I have slain Pan Zhang, my father's enemy! ...Hm? Ohh! Th-This is... Father's beloved blade!
+
+@451
+Guan Xing leveled up!
+
+@452.0
+Hmm... Shu's army still had this much strength left...
+
+@453.0
+What! There was no ambush on that mountain!
+
+@454.0
+Impossible. The killing aura even seems to be growing stronger. And it is just piled-up stones? What on earth is this?
+
+@454.1
+General of Wu... I would advise you not to go near that place.
+
+@454.2
+Oh, an old man of these parts? If you know anything, please tell me.
+
+@454.3
+Yes. That was built a few years ago by Zhuge Liang.
+
+@454.4
+...Kongming built it?! Just piled-up stones, yet that killing aura... what is it?
+
+@455.0
+That is what is called a 'stone formation.' It breeds a killing aura that unsettles the enemy's judgment and locks his movements. And once one enters, no one who does not know the formation can get out.
+
+@455.2
+This is the only stone formation I know, but there are surely others.
+
+@455.3
+(Of course. Knowing Kongming, there must be such defenses all over Shu. No, if it were only stone formations, it would be fine. If there were other devices as well...!)\n\nIf so, the interior must be even more strongly defended. Let us withdraw here. The threat from Shu is gone now anyway.
+
+@456.0
+Our army, which boasted such grandeur, wiped out... I cannot face Kongming.
+
+@456.1
+Your Majesty, rest your body for now at Baidi.
+
+@456.2
+Yes... (Guan Yu, Zhang Fei... forgive me. I could not avenge you...)
+
+@457
+Yiling: Wu Camp
+
+@458.0
+Well done. The threat from Shu has passed. Now then...
+
+@459.0
+Commander, grave news! Wei has sent troops to the border!
+
+@459.1
+What! Wei means to attack Wu while we are fighting Shu.
+
+@459.2
+Commander, what shall we do?
+
+@459.3
+It is a pity we failed to finish Liu Bei, but Shu no longer has the strength to attack Wu. Very well, we withdraw here! We will meet Wei's attack!
+
+@460.0
+We meet Wei's attack. Return to Wu at once!
+
+@462.0
+Master Kongming, will His Majesty be all right?
+
+@462.1
+Yes... If only Zhao Yun and the others make it in time. We can only pray that no one in Wu's army can see the weakness of that formation.
+
+@462.3
+Your Majesty...
+
+@463.0
+Prime Minister, pardon the interruption.
+
+@465.0
+Has something happened to His Majesty?
+
+@466.0
+Ma Su, is His Majesty safe? And our army?
+
+@466.1
+His Majesty... Our army... Wu's Lu Xun saw through the weakness and we suffered a great defeat. Lord Huang Zhong and Lord Sun Qian have fallen in battle.
+
+@466.2
+W-What! ...And His Majesty, is he safe?
+
+@466.3
+His Majesty escaped danger and is now at Baidi.
+
+@466.4
+I see. I am worried about His Majesty. Let us go to Baidi at once.
+
+@467
+Baidi: Liu Bei's Residence
+
+@468.0
+Your Majesty, how are you feeling?
+
+@468.1
+Ah, Kongming. ...Thank you for coming.
+
+@468.3
+...What is it?
+
+@468.4
+N-No, nothing.
+
+@468.5
+No need to hide it... You noticed my bad color. We will not last long, I think. Kongming, We marched out without heeding your advice, and this is the result. Thanks to your counsel, We have succeeded until now. That We did not heed it, and ended like this, is only natural.
+
+@468.6
+What are you saying? I should have held Your Majesty back firmly. Then this would not have happened...
+
+@468.7
+No, it is not your fault. It is all Our fault. Zhao Yun... We must apologize to you too. Had We heeded your remonstrance, this would not have happened. Zhao Yun, forgive Us.
+
+@469.0
+Please do not dwell on it any longer. From here we can simply work again to enrich the state and strengthen the army.
+
+@469.1
+Yes... We entrust that task to you. From now on, my son Liu Shan is your lord.
+
+@469.2
+...Your Majesty!
+
+@469.3
+Liu Shan.
+
+@470.1
+These men are loyal and good, who will remonstrate even with their lord when he is wrong. Listen well, never ignore their words. You must not repeat your father's mistakes.
+
+@472.0
+I resolved to save this troubled age and restore the Han... but I must part from you with that ambition half done. It is a bitter regret.
+
+@473.0
+Your Majesty...
+
+@473.1
+What is it? A hero of Changban Slope should not weep.\n\nHaa... I am a little tired. I would like to speak with Kongming alone. Forgive me, but would everyone leave?
+
+@475.0
+Ma Su was there just now. ...Kongming, what do you think of Ma Su?
+
+@475.1
+I would call him one of the finest talents our House of Han can boast. There is much worth heeding in what he says, and it is sound.
+
+@475.2
+I see. So that is what you think, Kongming. But We do not.
+
+@475.3
+What?
+
+@475.4
+In Our view, he is a man of theory. He is strong in what can be calculated, but weak in what cannot. He has no ability to match his words. Do not entrust him with any important duty. ...Kongming, bear this in mind.
+

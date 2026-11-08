@@ -1,0 +1,312 @@
+@0
+Master Sleeping Dragon, still spending your days tilling in fair weather and reading in the rain?
+
+@1
+Hello, Master Sleeping Dragon.
+
+@2
+Oh, I was just out plowing the fields.
+
+@3
+What a peaceful place. It looks like a nice place to live.
+
+@4
+I serve Lord Liu Biao. Is it true that Cao Cao's army is coming to attack?
+
+@5
+Master Sleeping Dragon, there's nothing like a drink after work.
+
+@6
+Master Sleeping Dragon, how is Jun doing?
+
+@7
+Oh, Master Sleeping Dragon. Here, have a drink...
+
+@8
+Always keep an eye on your HP on the battlefield. Otherwise you never know when you'll be struck down.
+
+@9
+It's wise to have your strategist carry some "First Aid" at all times.
+
+@10
+They say the treasure houses and granaries on the battlefield hold good things. I wonder what's inside?
+
+@11
+They say fire strategies hardly work when it rains. My father told me so.
+
+@12
+Equip a unit with a weapon that suits its unit type and its attack goes up.
+
+@13
+Great hunting today!
+
+@14
+Ever since Lord Liu Bei became lord here, we've been able to live in peace.
+
+@15
+Visit the meeting hall or the tavern and you'll hear different stories.
+
+@16
+When a strategist of level 15 or higher uses a "Promotion Seal," he is promoted to Sage Strategist.
+
+@17
+I went to see the Wu navy training... It was impressive.
+
+@18
+The Band can use strategies that raise your allies' attack.
+
+@19
+Cavalry units can equip armor, and infantry units can equip shields, and so on.
+
+@20
+There are treasure houses and granaries on the battlefield. Go there and you will surely find something good.
+
+@21
+Next I'm thinking of heading west to Yi Province. Lord Liu Zhang rules it now.
+
+@22
+They say riding a Fine Steed raises your movement.
+
+@23
+They say Lord Sun Ce and Lord Zhou Yu were as close as brothers.
+
+@24
+I once caught a glimpse of Lady Da Qiao and Lady Xiao Qiao. They were so lovely!
+
+@25
+As long as Lord Sun Quan simply listens to Lord Zhang Zhao, he can't go wrong... or so one hopes.
+
+@26
+Do you know the "Two Flowers of Lord Qiao"? They are the sisters Da Qiao, wife of Lord Sun Ce, and Xiao Qiao, wife of Lord Zhou Yu.
+
+@27
+When you are in a castle or village, your HP recovers a little.
+
+@28
+Some weapons can only be equipped by units of a higher class, so be careful.
+
+@29
+Lord Sun Ce was my favorite. He spoke so kindly even to someone like me...
+
+@30
+As long as Lord Zhou Yu is here, Wu is safe.
+
+@31
+Cavalry units cannot enter forests. Be careful.
+
+@32
+Lord Sun Quan always used to say, "Cao Cao has Zhang Liao, but I have Gan Ning."
+
+@33
+Use support strategies such as "False Report" well, and you will have the edge in battle.
+
+@34
+They say the wife of Lord Sun Yi, Lord Sun Quan's brother, is as beautiful as the Two Qiaos.
+
+@35
+Lord Sun Ce died so young. Lady Da Qiao must be so lonely.
+
+@36
+I'd love to see the decisive battle between Sun Quan and Cao Cao with my own eyes.
+
+@37
+Lord Sun Jian, Lord Sun Ce, Lord Sun Quan... The Sun clan has produced one capable man after another.
+
+@38
+Cavalry units can equip armor, and infantry units can equip shields, and so on.
+
+@39
+Is it true that Chibi will become a battlefield?
+
+@40
+The secret of battle is reading the enemy's moves. If you carelessly approach a unit that isn't moving...
+
+@41
+The most fearsome general in Wei is Zhang Liao.
+
+@42
+For the sake of Wu's future, please lend us your strength, Lord Kongming.
+
+@43
+They say there are rare items in the treasure houses on the battlefield. I'd like to get my hands on some.
+
+@44
+We may be skilled at naval warfare, but Cao Cao's army has overwhelming numbers. We'll be in trouble unless we devise some strategy.
+
+@45
+They say Cao Cao's army is also training a navy, mostly from Jing Province troops.
+
+@46
+If it comes to naval battle, we have the advantage. We'll show them the power of the Wu navy.
+
+@47
+Remember this, young man. Earth strategies such as rockfall only work on units in the mountains or wasteland.
+
+@48
+Relying on strategies is fine, but think carefully about your SP when you use them.
+
+@49
+Do you know who "White Brows" is? It's Lord Ma Liang!
+
+@50
+You know what? The lower your level is than your opponent's, the more experience you get.
+
+@51
+How you win a battle is what matters. Merely winning will not give you experience.
+
+@52
+Cavalry and chariot units have high attack, but they can't enter forests. Don't overestimate them.
+
+@53
+Never let the enemy strike first. Always keep track of the enemy units' movement range.
+
+@54
+Are you carrying any items for recovery?
+
+@55
+In a brawl, the one who hits first wins. It's too late once you've been beaten.
+
+@56
+We're training hard to prepare for the next battle.
+
+@57
+The land in southern Jing Province is very fertile.
+
+@58
+Oh dear, I've gotten tipsy.
+
+@59
+They say the horse "Dilu" is an ill-omened horse. It brings misfortune to whoever rides it...
+
+@60
+They're called short weapon units because they use swords and other short weapons... What happens if they use long weapons?
+
+@61
+Units have something called attack speed. If your attack speed is higher than the enemy unit's, you may get to attack twice.
+
+@62
+Medicine is the best way to recover SP. If things look dangerous, it's best to use it right away.
+
+@63
+Take care of your weapons. Some can't be bought back once you sell them.
+
+@64
+They say Jing Province still has talented people hidden away in the countryside.
+
+@65
+They say the "Fangtian Halberd" that Lu Bu once carried is an amazing weapon. I'd like to see it just once.
+
+@66
+I used to be a pirate under Lord Gan Ning of Wu.
+
+@67
+I wonder if an age of peace will come in my lifetime...
+
+@68
+They say a granary doesn't always hold food. Then what's inside, I wonder?
+
+@69
+Yi Province is a natural fortress. It can't be attacked so easily.
+
+@70
+After a promotion or class change, you should check your equipment. It may be hard to do during battle, though...
+
+@71
+Lord Ma Chao must be bitter that Cao Cao killed his father, Ma Teng.
+
+@72
+My master says you should think carefully before a class change. Why, I wonder?
+
+@73
+When I grow up, I'm going to be like Lord Zhao Yun!
+
+@74
+Shu is surrounded by mountains, so it's a land that favors defense.
+
+@75
+I saw the "Qinggang Sword." Its brilliance and sharpness were incredible.
+
+@76
+Lord Ma Mengqi's gallant figure... How wonderful! Who? Lord Ma Chao, of course! Mengqi is Lord Ma Chao's style name!
+
+@77
+Lord Ma Dai isn't as famous as Lord Ma Chao, but he's rather dashing too, don't you think?
+
+@78
+Promoting units to suit their level is very important.
+
+@79
+If you saw General Huang Zhong's skill with the bow, even the famed Han general Li Guang would be amazed.
+
+@80
+Buy armor as well as weapons.
+
+@81
+Did you know? They say there is an item that can promote a unit.
+
+@82
+Have you heard? Apparently items can be found lying around in places other than treasure houses and granaries. A fort, or a village, or... I forgot.
+
+@83
+They say the higher a general's intelligence, the more damage his strategies do.
+
+@84
+They say there are seeds and fruits that raise your intelligence or strength just by eating them. I'd like to try some.
+
+@85
+General Zhang Fei standing defiant on Changban Bridge, and Cao Cao's million men turning pale... That was thrilling.
+
+@86
+With bad luck, the enemy can land a critical hit and wipe you out. Keep plenty of HP in reserve.
+
+@87
+Travel is a fine thing. Why not try it yourself?
+
+@88
+I wonder what lies beyond this country? Mister, do you know?
+
+@89
+I've seen the general Ma Chao... He was so cool! You know "Brocade Ma Chao," right?
+
+@90
+General Huang Zhong is the pillar of strength for us old folks.
+
+@91
+Please take the best care of yourself. If you retreat, the whole army is defeated.
+
+@92
+They say Liu Bang, the Han founder, became King of Hanzhong in this land and then took the realm.\n\nIn that sense, isn't this a lucky place?
+
+@93
+Your body doesn't look very sturdy.\n\nPlease take good care of yourself.
+
+@94
+Are you using items properly in battle? Don't rush, fight slowly and steadily.
+
+@95
+You look really strong, mister! I'm going to fight when I grow up!
+
+@96
+Fire strategies do more damage in the order Scorch, Fire Dragon, Hellfire, and their range grows too.
+
+@97
+Lord Zhang Lu could use sorcery, but they say Zhuge Liang of Shu can too?
+
+@98
+Oh, welcome!
+
+@99
+Treasure houses on the battlefield sometimes hold things not sold in shops.\n\nIt's best to search every one.
+
+@100
+Don't forget to promote your units. Especially the cavalry.
+
+@101
+Hanzhong is the gateway to Shu. It's an important stronghold.
+
+@102
+Each unit has a different attack range, so keep the enemy's attack range in mind.
+
+@103
+They say the higher a general's intelligence, the harder it is for strategies to affect him.
+

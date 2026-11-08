@@ -1,0 +1,1422 @@
+@1.0
+Meng Huo. Every time I captured you in the past, I let you go. Even at Panshe Valley...\n\nI had no word of you afterward, but I assumed you were living quietly somewhere.\n\nAnd yet, look at this. Are you not lower than a dog, a mere beast?
+
+@1.1
+...Shut up! If you are going to kill me, do it quickly!
+
+@2.0
+Hmm... What shall I do...?
+
+@3
+Decide the fate of Meng Huo's men
+
+@4.0
+Why not pardon them? If we execute them here, it may provoke the Nanman and spread the rebellion further.
+
+@5.0
+Why not pardon them?
+
+@6.0
+If we leave them alive, they may rebel again.\n\nI believe they should be executed.
+
+@7.0
+If we leave them alive, they may rebel again...
+
+@8.0
+Come on, execute us already!
+
+@9.0
+We will never defy the Han court again. Please forgive us.
+
+@10.0
+We will never defy you again. Please forgive us.
+
+@11.0
+Well? Will you let me go again? Or will you execute me? Have you decided which?
+
+@12
+Execute Meng Huo's party\nRelease Meng Huo's party
+
+@13.0
+Meng Huo, I will have you executed. Are you ready?
+
+@13.1
+Hmph, I am a Nanman king too. I will not squirm now!
+
+@13.2
+A fine resolve. Take them to the place of execution.
+
+@14
+Meng Huo and his men were executed.
+
+@15.0
+Meng Huo, I will forgive you one more time.\n\nChallenge me again, or run away, as you please.
+
+@15.1
+...Hmph! Do not expect any thanks!
+
+@17.0
+Your Majesty, forgive my late arrival.
+
+@18.0
+No, I am glad you came. Had it not been for Zhuge Zhan and Zhao Tong and the others, Chengdu would have fallen.\n\nWe must reward them as they deserve.
+
+@18.1
+No, my son only did his duty as a subject of the Han court.
+
+@18.2
+There you go again... Being strict is fine, but you should be a little kinder to your son.
+
+@18.3
+...Y-yes, Your Majesty.
+
+@18.4
+Now go home and rest from your fatigue. You have done well.
+
+@18.5
+Yes. I will do as you say.
+
+@19
+Return home
+
+@20.0
+You have done well. Go home and rest from your fatigue.
+
+@21.0
+When I think what might have happened without Zhuge Zhan... He has grown into a fine man.
+
+@22.0
+The sons of Lord Zhao Yun also fought admirably, as one would expect.
+
+@23.0
+As expected of the Prime Minister's son. I found him well worth teaching.
+
+@24.0
+I had resigned myself to the city falling, but the Prime Minister saved us.
+
+@25.0
+Prime Minister, how fortunate that you arrived in time.
+
+@27.0
+Welcome home, dear.
+
+@29.0
+Please speak with Mother first. She has been waiting for your return all this time.
+
+@30.0
+Welcome home.
+
+@30.1
+Yes. I never imagined Zhan would be fighting.
+
+@30.2
+He studied desperately, looking up to you. Please praise him.
+
+@31.0
+Dear, please praise Zhan.
+
+@32.1
+Zhan, well done. As a father... nothing could make me happier.
+
+@32.2
+Y-yes, sir!
+
+@32.3
+I must treat you as a full man now. Continue to devote yourself to the Han court.
+
+@33.0
+Prime Minister, I have a report. Meng Huo has fled to Jianning and seems to intend to rise again there.
+
+@33.1
+Thank you. Jiang Wei, gather everyone in the Council Hall. We march on Jianning.
+
+@34.0
+Father, may I attend as well?
+
+@35.0
+Of course. From now on you will serve as one of the Han generals.
+
+@36.0
+Thank you, sir! Then I will go to the Council Hall ahead of you.
+
+@38.0
+Dear. Please look after Zhan...
+
+@40.0
+About Jianning Castle... it has gates on the east, west, south and north, and food is stored inside the castle.
+
+@40.1
+Hmm.
+
+@40.2
+In my opinion, we should attack Jianning Castle from the east and west... and seize the granaries.
+
+@40.3
+Oh, that is a good plan.
+
+@41.0
+Prime Minister, what about setting fire inside the castle to throw the Nanman army into confusion, and attacking through the north gate?
+
+@41.1
+Hmm, that is a good idea too.
+
+@41.2
+Then, Prime Minister, please decide which plan to carry out.\n\nOnce you have decided, tell me.
+
+@42
+Choose whether to seize the granaries or set fire inside the city.
+
+@43.0
+What about setting fire inside the castle to throw the Nanman army into confusion, and attacking through the north gate?
+
+@44.0
+I believe Jiang Wei's plan to seize the granaries is the better one.
+
+@45.0
+I believe Zhuge Zhan's plan to set fire inside the castle is the better one.
+
+@47
+Take the granaries\nSet fire inside the city
+
+@48.0
+Understood. We attack from the east and west and seize the granaries.
+
+@48.1
+Yes. Then we march on Jianning.
+
+@49.0
+Understood. We set fire inside the castle and attack through the north gate.
+
+@49.1
+Yes. Then we march on Jianning.
+
+@50.0
+Then we march on Jianning!
+
+@51.0
+Kongming is a cunning fellow. Who knows what he may pull on an open field. We will hold up in Jianning.
+
+@51.1
+Brother, Kongming is indeed wise. But if the Shu army comes all the way to Jianning, they will be exhausted. There is no way we could fail to win.
+
+@51.2
+But still...
+
+@51.3
+Kongming let us go because he is telling us to lead an army and fight! What are you hesitating for?
+
+@51.4
+We will split the army in two. Jiang Wei, you go around the west side.
+
+@51.5
+Prime Minister, what shall we do if we capture Meng Huo?
+
+@51.6
+He must not be killed. I want to win Meng Huo's true allegiance and use his valor in the campaign against Wei.
+
+@52
+1. Capture Meng Huo\n2. Take the granaries
+
+@53.0
+I have captured Zhurong!
+
+@55.0
+I have captured Meng You!
+
+@56
+Li Yan leveled up!
+
+@57.0
+I have captured Meng Huo!
+
+@59.0
+Meng Huo, you seem to have gathered some fine troops.
+
+@59.1
+I have my pride as a king too! Now that I have been forgiven, it is the duty of a king to gather elite troops and crush you, Kongming!
+
+@59.2
+Heh heh heh, you have learned to talk.
+
+@60.0
+You have secured the western granary.
+
+@61.0
+Both granaries are secured. Now they cannot hold the castle.
+
+@62.0
+You have secured the eastern granary.
+
+@63.0
+Both granaries are secured. Now they cannot hold the castle.
+
+@64.0
+You have captured Meng Huo.
+
+@65.0
+Kongming is a sly one. Our chances in a field battle are slim. We will hold Jianning.
+
+@65.1
+Jianning is a strong castle. Even Kongming will have trouble taking it.
+
+@65.2
+About time our spies set the fires.
+
+@66.0
+Fires have broken out in the east and west! The troops are frightened.
+
+@66.1
+Calm the troops! Kongming will attack at any moment! Hurry up the defenses!
+
+@68.0
+I have captured Zhurong!
+
+@70.0
+I have captured Meng You!
+
+@71
+Li Yan leveled up!
+
+@72.0
+I have captured Meng Huo!
+
+@74.0
+Meng Huo, you seem to have gathered some fine troops.
+
+@74.1
+I have my pride as a king too! Now that I have been forgiven, it is the duty of a king to gather elite troops and crush you, Kongming!
+
+@74.2
+Heh heh heh, you have learned to talk.
+
+@75.0
+Good, the troops seem to have calmed down at last.
+
+@75.1
+Oh, he is quite skilled at controlling his troops.
+
+@76.0
+Hold on! The Shu troops are tired too. Now is the time to go on the offensive!
+
+@76.1
+Hm? I feel the Nanman attack has grown stronger.
+
+@77.0
+You have captured Meng Huo.
+
+@78
+Jianning: Riverbank
+
+@79.0
+Meng Huo, you must have nothing left to regret. Will you surrender?
+
+@79.1
+...Yes. I, Meng Huo, regret having defied you, Master Kongming.
+
+@79.2
+Oh, then do you truly surrender?
+
+@79.3
+If I may be forgiven.
+
+@79.4
+I see. I am glad you understand.\n\nThen forget all that has passed, and from now on work for the Han court.
+
+@80.0
+With this, the Nanman is fully pacified. We return to Chengdu.
+
+@82.0
+Now, we return to Chengdu.
+
+@84.0
+Quan Cong! Has Lu Xun still not taken Baxi?
+
+@84.1
+Y-yes, Your Majesty. The enemy defense seems quite stubborn...
+
+@84.2
+This is bad... Kongming will come back. Who exactly is defending Baxi? I thought Shu had no more talent.
+
+@84.3
+That is the thing...\n\nKongming's son Zhuge Zhan, and Zhao Yun's sons Zhao Tong and Zhao Guang, are holding Baxi, I hear...
+
+@85.0
+(What! Kongming's... son!)
+
+@85.1
+We must do something before reinforcements arrive... Sun Shao! Ling Tong!
+
+@86.0
+I appoint you as the vanguard of the Baxi reinforcements. Go to Baxi at once.
+
+@87.1
+Then we will set out immediately.
+
+@88.0
+Ding Feng, Quan Cong. You two go to Baxi as well.
+
+@89.1
+Then we will depart as soon as we are ready.
+
+@90.0
+(...Kongming's son... Zhan... is...)
+
+@91.0
+We go to Baxi by way of Jiangling! Hurry!
+
+@93.0
+Your Majesty, forgive my lateness. I have just returned from Hanzhong.
+
+@93.1
+Oh, Prime Minister. I have been waiting for you!
+
+@94.0
+And what is the situation?
+
+@94.1
+Well, for now we are somehow holding the Wu army at Baxi.
+
+@94.2
+Oh, so Baxi has not been breached yet. But...? Who is defending Baxi?
+
+@94.3
+Your son, Zhuge Zhan. And Zhao Yun's sons, Zhao Tong and Zhao Guang.
+
+@94.4
+What! I see, Zhan is...
+
+@94.5
+Yes. Still, the army at Baxi is small. They cannot hold out for long. Prime Minister, go to their aid at once.
+
+@94.7
+Preparations for the march are ready. Please tell me when you are ready.
+
+@96.0
+When your son volunteered, I was glad as well.
+
+@97.0
+As expected of the Prime Minister's son. To hold off the Wu army under the famed general Lu Xun with so few troops.
+
+@98.0
+The troops at Baxi are few and cannot last long. Prime Minister, please hurry.
+
+@99.0
+Prime Minister, please hurry with your preparations.
+
+@100.0
+Every moment counts. Please hurry.
+
+@101.0
+Prime Minister, please make your preparations.
+
+@102.0
+Lu Xun of Wu is the greatest of great generals. If we do not hurry, it will be too late...
+
+@104.0
+Then let us go to Baxi at once.
+
+@105
+Baidi: Wu Camp
+
+@106.0
+Lord Lu Xun, the reinforcements led by Lord Sun Shao have arrived at Jiangling.
+
+@106.1
+I see. Thank you for the report. You may go.
+
+@107.0
+It took more trouble than I expected, but now we should be able to take Baxi.
+
+@108.0
+Still, he is Kongming's son, after all. He is quite formidable. We cannot take him lightly.
+
+@108.1
+Yes. He is remarkable for his age, but he simply lacks troops. As long as no reinforcements come, we will be fine.
+
+@109.0
+Terrible news! Kongming has returned to Chengdu!
+
+@109.1
+What! Kongming?! Has he returned that quickly?!
+
+@110.0
+Lord Lu Xun, this is a grave matter. If Kongming's elite troops arrive...
+
+@110.1
+Yes... Not only Baxi, even Baidi will be in danger. We must hurry. We cannot wait for the reinforcements from Jiangling. We march at once!\n\nWe must take Baxi before Kongming arrives!
+
+@111.0
+Take Baxi!
+
+@113.0
+Lord Zhuge Zhan. We have somehow held off the Wu siege so far...\n\nBut this castle is also near its limit. What shall we do?
+
+@113.1
+Indeed. Is it truly hopeless now...
+
+@114.0
+Lord Zhuge! I hear the Prime Minister has reached Chengdu!
+
+@115.0
+Brother, is that true?!
+
+@116.0
+I see. Everyone, reinforcements will come soon. Just hold out until then!
+
+@116.1
+Yes, sir!
+
+@117.0
+Report! Lu Xun's army is advancing!\n\nAlso, enemy reinforcements have arrived at Jiangling!
+
+@118.0
+So it is the all-out Wu assault at last... Very well, the whole army sorties! Let us hold on until the Prime Minister comes!\n\n(Father...)
+
+@120.0
+Hurry to Baxi!
+
+@121.0
+If this castle falls, there is no stronghold to rely on all the way to Chengdu. Then even reinforcements would be pointless. We must hold on somehow!
+
+@121.1
+I will defend Baxi to the death!
+
+@121.2
+I will show a performance worthy of my father, Zhao Yun.
+
+@121.3
+I do not want to fight Kongming... but this is for Wu! Take Baxi at once!
+
+@121.4
+So the Wu commander is Lu Xun. The whole army, hurry to Baxi!
+
+@123.0
+Tch! They are tough! Fall back!
+
+@124
+Zhurong leveled up!
+
+@125.0
+Ngh! As expected of the Nanman king. Curse you, Meng Huo!
+
+@126
+Meng Huo leveled up!
+
+@127.0
+As expected of Li Yan. We cannot let our guard down!
+
+@128
+Li Yan leveled up!
+
+@129.0
+An army has appeared to the west of the castle.
+
+@129.1
+What! Could it be a Wu ambush?!
+
+@129.2
+No, it seems not. I can see the character "Meng" on their banners.
+
+@129.3
+I am Meng Huo, king of the Nanman! To repay the kindness of Master Zhuge Kongming, Prime Minister of the Han, I have come to the aid of Baxi!\n\nWu thieves, prepare yourselves!
+
+@129.4
+Oh, the army of the Nanman king! Meng Huo... I thank you.
+
+@129.5
+Wh-what! The Nanman have appeared?!
+
+@130.0
+Commander in Chief! By His Majesty's order, we have come to your rescue!
+
+@130.1
+Commander in Chief, are you unharmed?!
+
+@130.2
+Oh, reinforcements from Jiangling! Thank goodness.
+
+@131.0
+We managed to drive back the Wu army.
+
+@132.0
+It is disadvantageous to fight on at Baxi any longer. Let us pull back to Baidi.
+
+@133.0
+As expected of Lu Xun... A truly formidable opponent.
+
+@135.0
+Damn! So close to success... Retreat to Baidi!
+
+@136
+Baidi: Council Hall
+
+@137.0
+Now that it has come to this, there is no help for it. Let us request reinforcements from Ding Feng at Jiangling.
+
+@138.0
+Lord Lu Xun, what shall we do?
+
+@138.1
+We no longer have the strength to go on the offensive. Wait inside the castle and prepare for the Shu attack.\n\nWith the troops that remain, hold Baidi to the death until reinforcements come.
+
+@140.0
+What! Do you mean Lu Xun has been defeated?!
+
+@140.1
+Yes, Your Majesty. He is now shut up in Baidi with the remaining troops, preparing for a siege.
+
+@140.2
+At this rate even Jiangling is in danger. Then We will take the field Ourselves!
+
+@141.0
+Your Majesty, you must not! If anything should happen to you, what would become of Wu?
+
+@141.1
+But, Zhang Zhao, Jiangling leads to Xiangyang in the north and Jianye in the east. It is the most vital stronghold of Jing Province. We cannot let another state take Jiangling. We must go Ourselves.
+
+@141.3
+Sun Deng, Yu Fan, Xue Zong, Zhou Tai!
+
+@142.0
+You are to go to Jiangling at once. We will follow as soon as preparations are complete.
+
+@142.1
+Yes. Then we will go ahead.
+
+@143.0
+Zhang Zhao, We leave Jianye in your hands. Guard it well.
+
+@143.1
+...Yes, Your Majesty. Please take care.
+
+@143.2
+That concludes the council. All generals, prepare to march. We must make ready as well.
+
+@144.0
+Your Majesty, please wait!
+
+@145.0
+Zhuge Jin, and Bu Zhi and Gu Yong too...
+
+@145.1
+Your Majesty, I know I will be scolded, but I beg you: please do not fight Shu.
+
+@145.2
+Lord Zhuge Jin is right. If Wu and Shu fight, it will be a repeat of the Battle of Yiling.
+
+@145.3
+Moreover, there is no guarantee that Wu will win again this time. Let us seek peace with Shu once more.
+
+@145.4
+Zhuge Jin, Bu Zhi, Gu Yong. We understand your feelings only too well. But the fighting can no longer be stopped.
+
+@145.6
+Zhuge Jin, you too, prepare to march.
+
+@145.7
+...Yes. If it is Your Majesty's order...
+
+@146.0
+Father. Please take me to Jiangling too.
+
+@147.0
+Hm?
+
+@147.1
+I hear my cousin Zhuge Zhan is distinguishing himself in the Shu army. I very much want to fight him once. Please take me with you.
+
+@147.2
+Really, you... That stubborn streak of yours is more like Kongming's than mine. ...It cannot be helped. It seems I cannot stop you.\n\nThis battle, too...
+
+@147.3
+Then, do you give me your permission?
+
+@147.4
+Yes... ...Come back alive.
+
+@148.0
+Thank you, Father!\n\nI will fight in a way that does not shame you as your son!
+
+@149.0
+The fate of Wu hangs on this war! We cannot afford to lose!
+
+@151
+Go to the Council Hall in Baxi
+
+@153.0
+Father!
+
+@153.1
+Zhan... You held Baxi until I came. As Prime Minister of the Han, and as your father... nothing could make me happier.
+
+@153.2
+Thank you, sir.\n\nBut I alone could not have held Baxi. It was only because Lord Zhao Tong and Lord Zhao Guang were here that we could hold it.
+
+@154.0
+So it is. Zhao Tong, Zhao Guang. You fought in a way worthy of the great Lord Zhao Yun's name. Splendid work.
+
+@155.0
+Thank you, Prime Minister. We are glad to hear you say so.
+
+@155.1
+We simply fought with all our strength so as not to disgrace our father's name.
+
+@156.0
+Prime Minister! It has been a long time! I, Meng Huo, am overjoyed to see you again!
+
+@157.0
+...I am glad too. You rushed to our aid in this hour of crisis for the Han court. Meng Huo, I thank you.
+
+@157.1
+N-no, no, there is no need for thanks. For Master Kongming, this is nothing!
+
+@157.2
+That is right. We of the Nanman... want to be of at least some use to Master Kongming, the benefactor of the Nanman.
+
+@157.3
+I see. Thank you. Well done. Rest at your leisure.
+
+@158.0
+Yes, sir! Then, if you will excuse us!
+
+@159.0
+Prime Minister, the Wu army has retreated to Baidi.
+
+@160.0
+...Baidi. Speaking of Baidi...
+
+@160.1
+Yes. That place is where the late Emperor breathed his last. We must take it back.
+
+@161.0
+...Baidi.
+
+@161.1
+That place is a stronghold on the border of Jing and Yi Provinces. We must take it back.
+
+@162.0
+Yes, you are right. We will retake Baidi before the Wu reinforcements arrive.
+
+@163.0
+In my opinion, Lu Xun will not come out of the castle, given his earlier defeat. I expect he is waiting for us inside.\n\nBaidi can be attacked from the south and the north of the castle. ...What shall we do?
+
+@163.1
+Do we attack in two forces from north and south, or from just one side...
+
+@163.2
+If we attack with the whole army, I suggest attacking from the south, with a possible retreat in mind.
+
+@163.3
+However, fighting inside the castle may turn into a melee. For that reason, attacking from both north and south is not a bad plan either, I think.
+
+@163.4
+Then, once you have decided on a plan, please tell me.
+
+@164
+Choose whether to split and attack from north and south, or attack with the whole army from the south.
+
+@165.0
+Zhan, what do you think?
+
+@165.1
+Splitting into two forces takes time to prepare. There is also word that Wu reinforcements will come from Jiangling.\n\nIt would be best to attack from the south with the whole army before the Wu reinforcements arrive.
+
+@166.0
+I think it would be better to split into two forces, north and south.
+
+@167.0
+If we attack from only one side, enemy units may block us and leave us stuck. Would splitting into two not be better?
+
+@169
+Split north and south\nAttack in force from south
+
+@170.0
+Understood. We split into two forces, north and south, and attack.
+
+@170.1
+Yes. Our opponent is Lu Xun. Do not let your guard down. Now, we march!
+
+@171.0
+Understood. The whole army attacks from the south.
+
+@171.1
+Yes. Our opponent is Lu Xun. Do not let your guard down. Now, we march!
+
+@172.0
+The whole army advances on Baidi. Take back the place where the late Emperor passed away!
+
+@173.0
+The whole army advances on Baidi!
+
+@174.0
+We attack Baidi from north and south. If we take all four forts at the corners of the castle, victory is ours.
+
+@174.1
+As expected of Kongming, he advances quickly. Hold Baidi to the death until the reinforcements from Jiangling arrive!
+
+@175
+1. Lu Xun retreats\n2. Capture the four corner forts
+
+@176.0
+Commander in Chief, the reinforcements from Jiangling have arrived!
+
+@176.1
+Oh, they came! Now victory is ours!
+
+@176.2
+Rescue the Commander in Chief! The whole army, advance!
+
+@177.0
+Advance! Drive the Shu army back!
+
+@178.0
+Curse you, Wei Yan...! You will pay for this!
+
+@180.0
+I am Meng Huo, king of the Nanman! Wu commander, fight me!
+
+@180.1
+Damn you! Do not underestimate Lu Xun!
+
+@181.0
+Ha ha ha ha, you are all talk!
+
+@181.1
+Retreat! Retreat!
+
+@182
+Meng Huo leveled up!
+
+@183.0
+That Jiang Wei is quite good. I will not lose next time!
+
+@185.0
+We abandon Baidi! Retreat!
+
+@186.0
+Prime Minister, it seems the northwest fort has fallen.
+
+@187.0
+We have taken all the forts.
+
+@187.1
+There is nothing more we can do like this. Retreat!
+
+@188.0
+Prime Minister, we have occupied the northeast fort.
+
+@189.0
+We have taken all the forts.
+
+@189.1
+There is nothing more we can do like this. Retreat!
+
+@190.0
+Prime Minister, we have occupied the southwest fort.
+
+@191.0
+We have taken all the forts.
+
+@191.1
+There is nothing more we can do like this. Retreat!
+
+@192.0
+Prime Minister, we hear the southeast fort has been occupied.
+
+@193.0
+We have taken all the forts.
+
+@193.1
+There is nothing more we can do like this. Retreat!
+
+@194.0
+We have retaken Baidi. The place where the late Emperor passed away...
+
+@195.0
+We have retaken Baidi.
+
+@198.0
+Baidi seems thinly defended.\n\nBefore the Wu reinforcements appear, we will charge in from the front and retake Baidi.
+
+@199.0
+If we occupy all four forts at the corners of Baidi, victory is ours.
+
+@199.1
+As expected of Kongming, he advances quickly. Hold Baidi to the death until the reinforcements from Jiangling arrive!
+
+@200
+1. Lu Xun retreats\n2. Capture the four corner forts
+
+@201.0
+Commander in Chief, forgive our delay!
+
+@201.1
+I will hear excuses later. First, drive the Shu army back!
+
+@202.0
+Curse you, Wei Yan...! You will pay for this!
+
+@204.0
+I am Meng Huo, king of the Nanman! Wu commander, fight me!
+
+@204.1
+Damn you! Do not underestimate Lu Xun!
+
+@205.0
+Ha ha ha, you are all talk!
+
+@205.1
+Retreat! Retreat!
+
+@206
+Meng Huo leveled up!
+
+@207.0
+That Jiang Wei is quite good. I will not lose next time!
+
+@209.0
+We abandon Baidi! Retreat!
+
+@210.0
+Prime Minister, it seems the northwest fort has fallen.
+
+@211.0
+We have taken all the forts.
+
+@211.1
+There is nothing more we can do like this. Retreat!
+
+@212.0
+Prime Minister, we have occupied the northeast fort.
+
+@213.0
+We have taken all the forts.
+
+@213.1
+There is nothing more we can do like this. Retreat!
+
+@214.0
+Prime Minister, we have occupied the southwest fort.
+
+@215.0
+We have taken all the forts.
+
+@215.1
+There is nothing more we can do like this. Retreat!
+
+@216.0
+Prime Minister, we hear the southeast fort has been occupied.
+
+@217.0
+We have taken all the forts.
+
+@217.1
+There is nothing more we can do like this. Retreat!
+
+@218.0
+We have retaken Baidi. The place where the late Emperor passed away...
+
+@219.0
+We have retaken Baidi.
+
+@222.0
+Prime Minister, terrible news! Wu has attacked Baidi. It seems they made a secret pact with Wei.
+
+@222.1
+Very well, we hasten to the relief of Baidi.
+
+@223
+The Baidi garrison defended well against the Wu army led by Lu Xun.\n\nThen Kongming's relief force arrived, and caught between attacks from inside and outside, Lu Xun resolved to retreat as soon as he lost the first engagement.
+
+@224.0
+Damn it all...
+
+@224.1
+Commander in Chief, please do not be discouraged...
+
+@224.2
+...Retreat to Jiangling. I must report to His Majesty.
+
+@227.0
+I have no excuse. I was the one who urged Your Majesty to attack Shu, and yet...
+
+@227.1
+Victory and defeat are the common lot of soldiers. Do not grieve so.
+
+@227.2
+No, that would be an insult to the soldiers who died. I will atone for my crime with my death.
+
+@228.0
+No! Someone stop Lu Xun!
+
+@229.0
+Lord Lu Xun! Stop!
+
+@230.0
+Your Majesty! Why will you not grant me death?!
+
+@230.1
+Fool! Do you think the dead soldiers would come back to life if you died?! A man called the wisest in Wu... do not do such a foolish thing!
+
+@230.3
+Live, and wipe away the shame of this defeat. That is an order.\n\nI do not want to lose even one more subject...
+
+@231.1
+Lu Xun. Return to your quarters and rest from your fatigue.
+
+@231.3
+Xu Sheng, you have done well also. Rest at your leisure.
+
+@232.0
+Knowing the Shu army, they will ride their victory and press on to Jiangling. All generals, prepare for the Shu attack.
+
+@233
+Baidi: Shu Camp
+
+@234.0
+Zhao Guang, how is the Wu army moving? What is their strength?
+
+@235.0
+The Wu emperor, Sun Quan, has taken the field himself. He is accompanied by veteran generals such as Lu Xun, Xu Sheng and Ding Feng.
+
+@235.1
+Oh, Sun Quan himself... Wu is taking this seriously. Any other notable generals?
+
+@235.2
+That is... I am not sure I should say.
+
+@235.3
+Knowing the enemy's strength is essential to victory. What is there to hide? Speak, Zhao Guang.
+
+@235.4
+Actually, the Prime Minister's brother, Lord Zhuge Jin, and his son Zhuge Ke seem to be stationed at Jiangling.
+
+@235.5
+I see... Brother is there...\n\n(Brother is an honest man. He is surely prepared to fight me, wholly as a subject of Wu.)
+
+@236.0
+Father... What will you do?
+
+@236.1
+Brother will certainly stand against us with all his strength as a general of Wu. My nephew Ke will do the same. The finest courtesy we can return is to fight with all our strength too.\n\nZhan, never show mercy on the battlefield. That is what my brother would dislike most.
+
+@237.0
+Yes, I understand.
+
+@238.0
+Jiangling is an important stronghold on the border of Wei, Wu and our Han court.\n\nMaking peace with Wu in the end is the best course, but...\n\nto keep Wu from striking our rear in the future, we must take Jiangling.
+
+@238.1
+Naturally, Wu's resistance will be fierce.
+
+@238.2
+Yes. We must make sufficient preparations.
+
+@239.0
+Then, Prime Minister, please make your preparations to march.
+
+@240
+Tell Jiang Wei to deploy
+
+@241.0
+I will do my best.
+
+@242.0
+This battle will decide the fate of the Han court.
+
+@243.0
+Jiangling is the linchpin of Jing Province, with roads running east, west, south and north. We must take that stronghold.
+
+@245.0
+Then let us march on Jiangling!
+
+@246.0
+The whole army advances on Jiangling. We settle this with Wu once and for all.
+
+@247.0
+Jiangling is a stronghold we cannot do without if we are to keep Jing Province. We cannot let Shu take it!
+
+@247.1
+Yes. If the Shu army takes Jiangling, we will have handed them a base to control the Yangtze. Our navy's movements will be restricted, and if Shu attacks from upstream, we will have no choice but to abandon Jing Province.\n\nConsidering that, Jiangling can truly be called our final line of defense.
+
+@247.2
+(Kongming... This too is my lord's command. ...Forgive me.)
+
+@247.3
+The Wu army will counterattack with all its strength as well. Do not let your guard down!
+
+@248
+1. Sun Quan retreats\n2. Kongming makes contact with Sun Quan
+
+@249.0
+Father, I have brought reinforcements from Chaisang.
+
+@249.1
+Oh, Sun Deng.
+
+@250.0
+The whole army, protect His Majesty!
+
+@251.0
+I am Sun Deng, crown prince of great Wu! Shu general over there, fight me!
+
+@251.1
+What! The crown prince, Sun Deng?\n\n(If I kill him, win or lose, a grudge will remain... I must proceed carefully.)
+
+@252.0
+Gah! Careless of me! To be captured...
+
+@254.0
+As expected of Wei Yan, magnificent... Guh!
+
+@254.1
+I have slain Xu Sheng, the famed general of Wu!
+
+@254.2
+Wh-what! Xu Sheng has fallen in battle?!\n\nI am sorry, Xu Sheng... Your death is Our responsibility.
+
+@256.0
+Are you Zhuge Zhan?! My name is Zhuge Ke, style name Yuanxun. I am the eldest son of Zhuge Jin! Let us fight!
+
+@256.1
+Very well. Lord Yuanxun, to it!
+
+@257.0
+Splendid, Siyuan. I am beaten. Come, take my head!
+
+@257.1
+...\n\nI cannot cut down Lord Yuanxun. You will be taken prisoner.
+
+@257.2
+How soft... ...Well, so be it.
+
+@258
+Zhuge Zhan leveled up!
+
+@259.0
+We cannot fight on any longer... Retreat! Retreat!
+
+@260.0
+Ah, Kongming. We meet for the first time since the eve of Red Cliffs.
+
+@260.1
+It has been a long time, Lord Sun Quan. How about it? Would this be a good time to withdraw your troops?
+
+@260.2
+What are you getting at? Are you telling Us to surrender?
+
+@260.3
+No. What I seek is peace with Wu. After peace is made, I wish to form the Han-Wu alliance once again.
+
+@260.4
+You want nothing more than an alliance? Is that truly your heart?
+
+@260.5
+...For now.
+
+@260.6
+Heh... ha ha ha ha. ...You are the same as ever, Kongming. Not a bit changed since Red Cliffs.
+
+@260.7
+I am honored.
+
+@260.8
+Very well. For now, We will pull back the army.
+
+@261.0
+That is... Brother...
+
+@261.1
+Kongming... Until this war ends, you are the Prime Minister of Shu and I am merely a general of Wu. There is no need for restraint in battle. Come at me, Kongming!
+
+@261.2
+...I understand. Brother... no, Lord Zhuge Jin.
+
+@262.0
+...Now then. The hard part begins now...
+
+@263
+Obtained 2000 gold!
+
+@265.0
+Lu Xun. We leave the matter of peace with Shu entirely to you. Whether to make peace or not is yours to decide.\n\nThink of Wu's future and decide. I will return to Chaisang.
+
+@268.0
+Our aim is nothing but the restoration of the Han court. We hold no ambitions toward Wu.
+
+@268.1
+Are you saying Shu Han's aim is to defeat Wei?
+
+@268.2
+Exactly. Defeating Wei and restoring peace to the whole land is our reason for fighting.
+
+@268.3
+I ask only one thing. Will Shu Han... not replace Wei?
+
+@268.4
+We have no selfish desires. We fight only for the restoration of the Han court. Nothing more.
+
+@268.5
+I see... I will trust those words.
+
+@269.0
+I, Lu Xun, as the representative of the Wu emperor, swear to ally with Shu Han.
+
+@270.0
+Oh, the Wu-Shu alliance is revived! Wonderful!
+
+@270.1
+Prime Minister, congratulations!
+
+@271.0
+Then, Lord Lu Xun, let us fight Wei together for the restoration of the Han court.
+
+@272.0
+Yes. Let us cooperate to defeat Wei. Now, if you will excuse me.
+
+@273.0
+Kongming... In the end I could not stop His Majesty. I am sorry.
+
+@273.1
+No, it is not Brother's fault. The responsibility is mine, for letting Wei's scheme succeed.\n\nBesides, that we could ally with Wu again is thanks to Brother.
+
+@273.2
+No... I did nothing.\n\nKongming, I am proud to have a brother like you.
+
+@273.3
+Brother...
+
+@274.0
+Kongming, I hear Lord Sun Deng is a prisoner...
+
+@274.1
+Yes. Now that the alliance is made, there is no need to keep him. Please take him with you.
+
+@274.2
+Then I will. ...Thank you, take care.
+
+@275.0
+Are you Kongming's son?
+
+@276.0
+Yes. I have the honor of meeting you for the first time, Uncle. My name is Zhan, style name Siyuan.
+
+@277.0
+You look very much like Kongming in his youth.\n\nI am a subject of Wu and you a subject of Shu, but we will meet again soon. ...As subjects of the Han.
+
+@278.0
+Uncle, I have the honor of meeting you for the first time. My name is Ke, style name Yuanxun.
+
+@279.0
+Yes, I have heard of you.\n\nI would like to work alongside Brother, but until Wei is defeated that cannot be. Help Brother in my place.
+
+@279.1
+Yes. I will serve in a way that does not stain the reputations of Father and Uncle!
+
+@280.0
+Siyuan. You are truly your father's son. That I should be caught off guard... We will meet again.
+
+@280.1
+Yes, Lord Yuanxun.
+
+@281.0
+Siyuan, it is a pity we had no time to talk at length. Until we meet again.
+
+@281.1
+When the Han court is restored, we will meet again. I look forward to that day.
+
+@282.0
+The Han-Wu alliance is concluded. We return to Chengdu and resume the Northern Campaigns. For the restoration of the Han!
+
+@284
+Thus a new alliance between Shu Han and Wu was formed.\n\nThe former alliance had been for Wu merely a means of opposing Wei. This time, however, Wu shared Shu Han's goal of restoring the Han house, and the two pledged to defeat Wei together, a groundbreaking pact.
+
+@285.0
+We return to Chengdu.
+
+@287
+Luoyang: Sima Yi's Residence
+
+@288.0
+Father. I hear Kongming has returned to Chengdu.
+
+@288.1
+I see... As expected of Kongming. A swift move indeed.
+
+@288.2
+...\n\nMore importantly, Father, are you aware of Cao Shuang's recent conduct?
+
+@289.0
+Cao Shuang? What about him?
+
+@289.1
+Cao Shuang disregards His Majesty Cao Fang and conducts the government as he pleases.
+
+@289.2
+His Majesty is still very young... It cannot be helped that someone assists him in governing.
+
+@289.3
+That is not all. He seizes every tribute from the provinces for himself and delivers nothing to the emperor. He also spends state funds at will and lives in luxury.
+
+@289.5
+Father... You are a pillar of Wei. Will you overlook this?
+
+@290.0
+Father. Cao Shuang has gone out to the suburbs for a hunt with his brother Cao Xi and the others.
+
+@292.0
+At last, the time has come!
+
+@292.1
+Father...?! Then, do you finally mean to move?!
+
+@292.2
+Yes! That fool Cao Shuang, leaving the capital empty while keeping his troops with him. He must have let his guard down, thinking I had grown old. The act I put on was worth it!
+
+@292.3
+Y-yes, Father!
+
+@293.0
+Zhao! At once, gather my confidants and the officials who resent Cao Shuang.\n\nWhile Cao Shuang is away, seize the residences and barracks of the Cao Shuang clan!
+
+@295.0
+Shi! Present to His Majesty a memorial impeaching Cao Shuang's crimes! Let the whole realm know that we have just cause!
+
+@297
+Mount Hua: Grassland
+
+@298.0
+Hyah!
+
+@299.0
+Ha ha ha! I got another one! Did you see?!
+
+@299.1
+As expected of you, Brother. Splendid skill.
+
+@299.2
+There is nothing I cannot do! Nothing at all! Ha ha ha, what a delight! ...Hm?
+
+@300.0
+Pardon me.
+
+@301.0
+What do you want? My brother is enjoying the hunt now. Unless it is an urgent report, come back later.
+
+@301.1
+I believe this is no time for that.
+
+@301.2
+What?
+
+@301.3
+I have come as an envoy of Lord Sima Yi.
+
+@302.1
+Lord Sima Yi has already seized Lord Cao Shuang's residence and barracks. He orders you to return to Luoyang at once and present yourself.
+
+@303.0
+Wh-what! What is the meaning of this?! Do you mean Sima Yi has rebelled?!
+
+@304.0
+Immediately after Lord Cao Shuang left for the hunt... Lord Sima Yi attacked Lord Cao Shuang's residence and barracks.
+
+@304.1
+He also presented to His Majesty a memorial impeaching Lord Cao Shuang. His Majesty approved it.
+
+@304.2
+Impossible... B-but Sima Yi was old and could not even walk properly, was he not?!
+
+@304.3
+Lord Sima Yi himself commanded the troops. There was no sign of age about him at all.
+
+@305.0
+...We were fooled by Sima Yi. Could his senility back then have been an act?
+
+@305.1
+So that was it! Grrr...!
+
+@305.2
+Brother! If it has come to this, let us fight Sima Yi!
+
+@305.3
+Yan! Don't be foolish! Sima Yi is a battle-hardened veteran. Even Kongming holds him in great respect. How could the likes of us be a match for him?
+
+@305.4
+Then... what do you say we should do, Brother?
+
+@305.5
+Humbly bow our heads to Sima Yi. With neither fighting nor flight possible, there is nothing else for it.
+
+@305.6
+Lord Sima Yi also said this action would only strip Lord Cao Shuang of his military authority.
+
+@305.7
+I see. Indeed, I doubt we can beat Sima Yi. Very well. I will return to Luoyang at once.
+
+@306.0
+Then I will convey that to him. If you will excuse me...
+
+@307.0
+Grr, Sima Yi got the better of me. Damn it!
+
+@309.0
+Sima Yi. We leave the disposal of Cao Shuang and the others to you.
+
+@311.0
+Cao Shuang! You were entrusted with the affairs of state by the late emperor, yet you slighted His Majesty. You indulged your every selfish desire and did nothing of benefit to the state. ...Do you have anything to say in your defense?
+
+@311.2
+Judging from your conduct, We conclude you even plotted to usurp the throne. That crime is unforgivable! Execute them at once!
+
+@312.0
+What! B-but... You said you would only strip me of military authority...!
+
+@313.0
+Hm? What are you talking about? I do not recall saying any such thing!\n\nZhao! I leave the execution to you. Take these vermin away!
+
+@315.0
+Wait! At least spare my life...!
+
+@316.0
+You enjoyed this world to the fullest until now. You should have no regrets.
+
+@316.1
+Mercy, please!
+
+@316.2
+Your Majesty! P-please, at least spare our lives!
+
+@316.3
+Enough, this is unseemly! Consider it your own doing!
+
+@316.4
+...Sima Yi!
+
+@316.5
+What is it, Cao Xi?
+
+@317.0
+I will watch everything you do from now on from hell! Take care not to cut a sorry figure yourself!
+
+@318.0
+What...! Hmph, hurry up and take them away!
+
+@319.0
+Come along! Stop struggling!
+
+@319.1
+M-mercy, please...!
+
+@319.2
+...Brother, you are being unseemly!
+
+@320.0
+Your Majesty. With this, the poison to Wei has been removed.
+
+@320.1
+Yes. Well done. From now on We will entrust the affairs of state to you and your sons.
+
+@321.0
+Yes, Your Majesty. I humbly accept your command.
+

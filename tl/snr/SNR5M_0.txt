@@ -1,0 +1,1482 @@
+@0
+F-1: The Road to Chang'an
+
+@1
+Final Chapter: Kongming's Legend
+
+@2
+Act 1: The Road to Chang'an
+
+@3
+Mei Castle
+
+@4
+Mei Castle: Council Hall
+
+@5.0
+Father, are you unharmed?
+
+@5.1
+Huff, huff... What a terrifying man Kongming is. Ugh...
+
+@7.0
+Father, get hold of yourself!
+
+@8.0
+A-ah... I am all right. I leave Mei Castle to Guo Huai. Send Xiahou Ba and the others to Wugong. I will return to Luoyang...
+
+@8.1
+Y-yes! I will see to it at once!
+
+@11.0
+...Sima Yi was beaten by the Shu army at Wuzhang Plains. They say that after returning to camp he suffered a fit and collapsed.
+
+@11.1
+What! Sima Yi has collapsed?!
+
+@11.2
+With Sima Yi gone, what becomes of Wei? Whom should We entrust with command of the army?
+
+@11.4
+Is there no one who can save Us from this crisis?
+
+@12.0
+Your Majesty, please charge my brothers and me with meeting the Shu army.
+
+@12.1
+Oh! Cao Shuang!
+
+@12.2
+Let me avenge my father, Cao Zhen, who was defeated by the Shu army and died.
+
+@13.0
+We brothers will join forces against Kongming. Leave it to us.
+
+@13.1
+Oh, you will go for Us? Then, Cao Shuang, We appoint you Commander in Chief. Go to Mei Castle at once.
+
+@15.0
+Your Majesty, news has just come in. They say Kongming defeated the Wei army at Wuzhang Plains.
+
+@15.1
+Hm, that is good news. So Shu won. We had better act as well. Lu Xun!
+
+@17.0
+Lu Xun, you will go to Jiangling now. Prepare so that we can strike at once if Wei leaves an opening.
+
+@18.0
+To Jiangling. We watch for an opening in Wei.
+
+@19
+Wuzhang Plains
+
+@20
+Go to the camp at Wuzhang Plains
+
+@21
+Wuzhang Plains: Shu Camp
+
+@22.0
+Prime Minister, a report from our spies. Sima Yi collapsed in a fit and has given up the post of Commander in Chief.
+
+@22.1
+Is that so! That is good news. And who is Sima Yi's successor?
+
+@22.2
+Cao Zhen's son, Cao Shuang, they say. He has already entered Mei Castle.
+
+@22.3
+Cao Zhen's son... With Sima Yi gone, there is no problem. We attack Mei Castle at once.
+
+@23.0
+Prime Minister, there are two roads to Mei Castle, from the north and from the west. Attacking from the north is shorter. But if reinforcements come from the direction of Chang'an, we could be caught in a pincer.
+
+@23.2
+Attacking from the west takes longer to reach the castle... but there is no fear of a pincer. Our spies also report that the castle holds a considerable stock of weapons, armor, and provisions.
+
+@23.3
+Hm... Then let us think of a plan.
+
+@23.4
+When you have decided on a plan, please tell me.
+
+@24
+Choose: attack from the north, or from the west
+
+@25.0
+Being caught in a pincer is dangerous. Attacking from the west is safe and best, I think.
+
+@26.0
+If we take Mei Castle, Chang'an is right before us. Please give me the vanguard.
+
+@27.0
+Lightning speed is what matters here. Let us strike from the north in one rush.
+
+@28.0
+Please let me march out. My arm is itching.
+
+@29.0
+The enemy will surely send reinforcements. I think attacking from the west is best.
+
+@30.0
+If we take Mei Castle fast from the north, enemy reinforcements will not matter.
+
+@31.0
+I hear Xiahou Ba and his brothers are stationed at Wugong. The reinforcements will probably come from there.
+
+@32.0
+Cao Shuang is Cao Zhen's son, but I hear he lacks Cao Zhen's talent.
+
+@33.0
+Being caught in a pincer is dangerous. Avoiding the risk and attacking from the west is the best course, I think.
+
+@34.0
+I hear Mei Castle has large stores of weapons, armor, and provisions. Let us take all of it.
+
+@35.0
+Cao Shuang is said to be Cao Zhen's son. How capable is he, I wonder?
+
+@36.0
+They say Cao Shuang has three younger brothers: Cao Xi, Cao Xun, and Cao Yan.
+
+@38
+Attack from the west.\nAttack from the north.
+
+@39.0
+Understood. We attack from the west.
+
+@39.1
+Yes. We cannot afford to be caught in a pincer. Then we march!
+
+@40.0
+Understood. We attack from the north.
+
+@40.1
+We must settle this before the enemy reinforcements arrive. Then we march!
+
+@41.0
+Now, how capable is Cao Shuang, I wonder...
+
+@42.0
+With Sima Yi not at the front, now is the perfect chance to advance.
+
+@42.1
+Mei Castle is not so large a castle. I think taking it will be easy.
+
+@42.2
+Brother, the Shu army has come! Kongming himself has marched out!
+
+@42.3
+What! Already?! All right, all forces prepare to meet them! I hear our father wore himself out fighting Kongming and finally died of rage. In this battle I will clear Father's name!
+
+@42.4
+Brother, Kongming is so wise that even Sima Yi could not beat him. We must be extremely careful too.
+
+@43
+1. Cao Shuang retreats\n2. Capture all granaries and treasuries
+
+@44.0
+Hearing of Mei Castle's peril, we Xiahou brothers have come from Wugong to help!
+
+@44.1
+Lord Cao Shuang! Are you all right?!
+
+@44.2
+Oh, Lord Xiahou Ba! Thank goodness!
+
+@45.0
+Grr... As expected of Ma Dai of Xiliang. Remember this!
+
+@45.1
+Xiahou Wei ran.
+
+@47.0
+Wait, Xiahou He! Leave your head here!
+
+@47.1
+As expected of Wei Yan. I wonder whether even my brother could beat him...
+
+@49.0
+You are better than Xiahou Mao, but still not good enough!
+
+@49.1
+So that is Zhao Yun... I am no match for him. Let us fall back for now.
+
+@51.0
+What is it, will you not come at me?!
+
+@51.1
+I am slightly wounded. Let us fall back here.
+
+@53.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@53.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@54.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@54.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@55.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@55.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@56.0
+D-damn! Retreat! Retreat! Abandon Mei Castle!
+
+@57.0
+Good, we pursue Cao Shuang.
+
+@59
+Obtained 2000 gold!
+
+@60.0
+With Sima Yi not at the front, now is the perfect chance to advance.
+
+@60.1
+Mei Castle is not very large. I think taking it will be easy.
+
+@60.2
+Brother, the Shu army has come! Kongming himself has marched out!
+
+@60.3
+What! Already?! All right, all forces prepare to meet them! I hear our father wore himself out fighting Kongming and finally died of rage. In this battle I will clear Father's name!
+
+@60.4
+Brother, Kongming is so wise that even Sima Yi could not beat him. We must be extremely careful too.
+
+@61
+1. Cao Shuang retreats\n2. Capture all granaries and treasuries
+
+@62.0
+Hearing of Mei Castle's peril, we Xiahou brothers have come from Wugong to help!
+
+@62.1
+Lord Cao Shuang! Are you all right?!
+
+@62.2
+Oh, Lord Xiahou Ba! Thank goodness!
+
+@63.0
+Grr... As expected of Ma Dai of Xiliang. Remember this!
+
+@63.1
+Xiahou Wei ran.
+
+@65.0
+Wait, Xiahou He! Leave your head here!
+
+@65.1
+As expected of Wei Yan. I wonder whether even my brother could beat him...
+
+@67.0
+You are better than Xiahou Mao, but still not good enough!
+
+@67.1
+So that is Zhao Yun... I am no match for him. Let us fall back for now.
+
+@69.0
+What is it, will you not come at me?!
+
+@69.1
+I am slightly wounded. Let us fall back here.
+
+@71.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@71.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@72.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@72.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@73.0
+Lord Cao Shuang, the Shu army has poured into the castle and we cannot hold.
+
+@73.1
+Damn, it cannot be helped! We abandon Mei Castle! Retreat!
+
+@74.0
+D-damn! Retreat! Retreat! Abandon Mei Castle!
+
+@75.0
+Good, we pursue Cao Shuang.
+
+@77
+Obtained 2000 gold!
+
+@78.0
+Lord Cao Shuang, are you all right?
+
+@78.1
+To Wugong! Fall back to Wugong!
+
+@79
+Mei Castle
+
+@80
+Go to the council hall at Mei Castle
+
+@81
+Mei Castle: Council Hall
+
+@82.0
+Prime Minister. Cao Shuang seems to have pulled his army back to Wugong.
+
+@82.1
+Wugong, is it... Jiang Wei, what is the terrain like at Wugong?
+
+@83.0
+A fairly large river runs through Wugong. We can deploy on both its north and south banks.
+
+@84.0
+Prime Minister, I hear the Wei army has stockpiled provisions on both the north and south banks at Wugong. Why not aim for those?
+
+@85.0
+Prime Minister, Cao Shuang has made camp on the south bank at Wugong. The north bank has only guard-duty troops and looks quite thin.
+
+@85.1
+Well done. Attacking Cao Shuang on the south bank is settled, but what to do about the troops on the north bank?
+
+@86.0
+Then, do we split the army in two?
+
+@86.1
+Yes. Or else attack the south bank with the whole army. It is one or the other.
+
+@86.2
+When you have decided on a plan, please tell me.
+
+@87
+Choose: split the army north and south, or concentrate on the south bank
+
+@88.0
+The enemy being scattered is to our advantage. Let us attack the south bank with the whole army.
+
+@89.0
+Let us send troops to the north bank too and seize all of the Wei army's food.
+
+@90.0
+I think we should attack the south bank with the whole army.
+
+@91.0
+It would be a pity to lose the north bank's provisions. Let us split the army between the north and south banks.
+
+@92.0
+Just one more step to Chang'an.
+
+@93.0
+Once we get past Wugong, Chang'an is right before us.
+
+@94.0
+I think we should attack the south bank with the whole army.
+
+@95.0
+Let us split our army in two as well.
+
+@96.0
+Cao Shuang commands the Wei army.
+
+@97.0
+For now, our supplies are sufficient.
+
+@98.0
+Please stock up on supplies and equipment at the weapon shop and item shop in Mei Castle.
+
+@99.0
+Chang'an is only a little way off. Let us do our best.
+
+@101
+Split north and south.\nMass on the south bank.
+
+@102.0
+Understood. We split the army between the north and south banks.
+
+@102.1
+Yes. Let us aim to seize their provisions. Then we march to Wugong.
+
+@103.0
+Understood. We concentrate on the south bank.
+
+@103.1
+Yes. We need not insist on the north bank's provisions. Then we march to Wugong.
+
+@104.0
+The old capital Chang'an is only a little way off...
+
+@105.0
+If we seize the granaries on both banks, the Wei army's supplies will run out. Chang'an is near, hang in there!
+
+@105.1
+If we lose here, nothing stands between us and Chang'an. I will hold on out of sheer stubbornness!
+
+@105.2
+It seems the Shu army has split north and south.
+
+@106
+1. Seize the granaries north and south\n2. Cao Shuang retreats
+
+@107.0
+Scatter the Shu army! Keep them away from the granaries!
+
+@108.0
+Enemy ambush has appeared!
+
+@108.1
+Heh heh... Lured by the provisions! Fools!
+
+@109.0
+Wait, Xiahou Wei! Do not run!
+
+@111.0
+Tch, he got away!
+
+@113.0
+Curse you, Guo Huai! Do not run!
+
+@115.0
+It seems we took the north granary neatly.
+
+@116.0
+We hold the south bank granary. We have won.
+
+@116.1
+What?! Both granaries taken! We cannot fight like this, retreat!
+
+@117.0
+I hope the north granary goes well too.
+
+@118.0
+We hold the north bank granary. We have won.
+
+@118.1
+What! Both granaries taken, you say! We cannot fight like this, retreat!
+
+@119.0
+R-run!
+
+@120.0
+Cao Shuang ran. Well, no matter, we are almost there.
+
+@122.0
+If we seize the granaries on both banks, the Wei army's supplies will run out, but... there is no need to force it. Cao Shuang is the real target. Chang'an is near, hang in there!
+
+@122.1
+If we lose here, nothing stands between us and Chang'an. I will hold on out of sheer stubbornness!
+
+@122.2
+It seems the Shu army has concentrated on the south bank.
+
+@123
+1. Seize the granaries north and south\n2. Cao Shuang retreats
+
+@124.0
+Damn! Defend the granaries!
+
+@125.0
+Enemy ambush has appeared!
+
+@125.1
+Heh heh... Lured here like fools by the food! Greedy idiots!
+
+@126.0
+Wait, Xiahou Wei! Do not run!
+
+@128.0
+Tch, he got away!
+
+@130.0
+Curse you, Guo Huai! Do not run!
+
+@132.0
+It seems we took the north granary neatly.
+
+@133.0
+We hold the south bank granary. We have won.
+
+@133.1
+What?! Both granaries taken! We cannot fight like this, retreat!
+
+@134.0
+I hope the north granary goes well too.
+
+@135.0
+We hold the north bank granary. We have won.
+
+@135.1
+What! Both granaries taken, you say! We cannot fight like this, retreat!
+
+@136.0
+R-run!
+
+@137.0
+Cao Shuang ran. Well, no matter, we are almost there.
+
+@139.0
+K-Kongming's command is this good...? To Chang'an! Retreat to Chang'an!
+
+@141.0
+What?! The Shu army has beaten the Wei army again?!
+
+@141.2
+Hmm... That is a bit troubling. If Shu swallows Wei, its strength will far surpass our Wu.
+
+@141.3
+Just as Your Majesty says.
+
+@141.4
+(Shu and Wei destroying each other is what I wish for. At this rate Shu will take the realm.)\n\n(Something must be done...)
+
+@144.0
+Your Majesty, I report. Lord Cao Shuang was defeated by the Shu army at Wugong. He has now retreated to Chang'an.
+
+@144.1
+Wh-what! Even Cao Shuang has lost?! Everything west of Chang'an has fallen into Shu hands?!
+
+@144.3
+Ah... Kongming again...
+
+@145.0
+Your Majesty!
+
+@146.0
+Your Majesty! Pull yourself together!
+
+@148
+Jiangling: Wu Camp
+
+@149.0
+(If Shu goes on to destroy Wei, Wu's fate is sealed too.)\n\n(Something must be done, but... I have no plan to speak of.)
+
+@150.0
+Hm? Who is there?!
+
+@151.0
+How did you get in?! Intruder!
+
+@152.0
+Ho ho ho... I am a man from a nearby village. I thought this old bone might tell Lord Lu Xun, Commander in Chief of Wu, something worth hearing...
+
+@153.0
+What nonsense! Throw him out at once!
+
+@153.1
+...Wait!
+
+@154.0
+Lord Lu Xun... is something wrong?
+
+@154.1
+An old man who slipped through my army's tight guard and into the camp... interesting. For that courage, I will hear him out. Now, old sir, this way.
+
+@155.0
+Yes. Then, if you will excuse me.
+
+@156.0
+Old sir, please, this way.
+
+@157.0
+You are no village elder. You must be a man of name from Wei or Shu.
+
+@157.1
+...As expected of Lord Lu Xun.
+
+@157.2
+A mere old man could not have entered the camp... Who are you? You will tell me your name, I trust?
+
+@157.3
+Quite right. Then...
+
+@158.0
+I am Sima Yi, styled Zhongda. This is our first meeting, Lord Lu Xun.
+
+@159.0
+Sima Yi...! I heard you were lying sick in bed in Luoyang...!?
+
+@159.1
+That is for show. Now, Lord Lu Xun, will you hear what I have to say?
+
+@160.1
+Then... Tell me, Lord Lu Xun, what do you make of the Shu army's recent string of victories?
+
+@160.2
+Why ask what is obvious... Wu and Shu are allied. How could we not rejoice at an ally's victory?
+
+@160.3
+Is that truly how you feel? You wanted Wei and Shu to destroy each other, and Shu winning one-sidedly is a problem... Do you not think so?
+
+@161.1
+No, no, forgive me. I am not testing you, Lord Lu Xun.
+
+@162.0
+But suppose Wei is destroyed by Shu. What do you think becomes of Wu? Only Shu and Wu would remain, with Shu's power immense. Wu would be swallowed by Shu.
+
+@162.1
+That... may be so.
+
+@162.2
+Shu winning any more is a great problem not only for Wei but for Wu. So I wish to give you a plan to avoid it.
+
+@162.3
+A plan to avoid it... I would gladly be instructed.
+
+@163.0
+Kongming has sent Shu's main force near Chang'an for the Northern Campaign, so Shu's homeland must be thinly held. Why not use that and attack from Baidi to Baxi, then Chengdu?
+
+@163.1
+You would have us Wu break the Wu-Shu alliance...!
+
+@163.2
+Well, for Wei, once Kongming turns back, your diplomacy afterward is up to you. Ally with Shu or ally with Wei, we will not complain. If Wu attacks Shu's homeland, Kongming will have no choice but to pull out of Wei. And Wu gains vast territory.
+
+@164.0
+And Wei loses its immediate threat... Neatly thought out.
+
+@164.1
+Exactly. And the balance of the three kingdoms is restored. Well, whether to carry out this plan is up to Lord Lu Xun.
+
+@164.3
+Then I take my leave...
+
+@165.0
+Lord Sima Yi... I have just one thing to ask.
+
+@166.0
+What is it?
+
+@166.1
+Why? Why did you take the risk of coming alone into an enemy camp?
+
+@166.2
+There is only one reason. To defeat Kongming.
+
+@167.0
+I must write to His Majesty. I must ask permission to invade Shu...
+
+@169.0
+Everyone, a letter has arrived from Lu Xun at Jiangling.
+
+@170.0
+What does Lord Lu Xun say?
+
+@170.1
+Hm... He says we should invade Shu while Kongming is away.
+
+@170.2
+Wh-what!
+
+@171.0
+Your Majesty, Wu and Shu are surely allied. To break that unilaterally and attack Shu, I cannot agree! However much it is Lord Lu Xun's opinion, I cannot accept it.
+
+@171.2
+However much it is Lord Lu Xun's opinion, I cannot accept it.
+
+@172.0
+Zhuge Jin, I understand how you feel. But this alliance was made only because Wei was so strong. Wu's threat today is not Wei. It is Shu, led by your younger brother Zhuge Liang.
+
+@172.2
+Shu growing strong is nothing but a calamity for Wu. As Emperor of Wu, We must remove that calamity.
+
+@172.4
+Quan Zong, send a messenger to Lu Xun. Tell him to invade Shu territory.
+
+@175.0
+His Majesty's order! Invade Shu territory!
+
+@176
+The Wu army invaded Shu territory and took Baidi in a fierce assault.\n\nBecause the alliance with Wu had lasted so long, only guard-duty troops were posted on the Shu-Wu border. The Shu soldiers at Baidi fled to Baxi.
+
+@179.0
+Y-Your Majesty! Wu, Wu has invaded our country!
+
+@179.2
+Yes. I am a guard of Baidi, and the Wu army suddenly attacked. Baidi had only guard-duty troops, and we could not stop them.
+
+@179.3
+Grr, at this rate Baxi is in danger too! Baxi's guard is small as well. Dong Yun, send reinforcements at once!
+
+@180.0
+But... most of our army is at Chang'an. Even if you say reinforcements, we have no one to send.
+
+@180.1
+Wh-what... Then what are we to do?!
+
+@180.2
+W-well... In any case, let us send a messenger to the Prime Minister at once.
+
+@180.3
+Y-yes. And what about reinforcements for Baxi? It will take time before the Prime Minister returns.
+
+@180.4
+Ah...
+
+@181.0
+Your Majesty. I am the son of Zhuge Liang, Zhuge Zhan, styled Siyuan. Hearing of the Han dynasty's peril, I have come to ask to join the reinforcements to Baxi.
+
+@183.0
+I am Zhao Guang, the second son of Zhao Yun. Your Majesty, please send us to Baxi.
+
+@184.0
+Oh! The sons of the Prime Minister and Zhao Yun! With you, I can send them out in peace.
+
+@185.0
+Yes, sir. Your Majesty, which unit should I lead?
+
+@185.1
+Oh, yes. But We know little of the army... Choose whichever unit you like from the units left in Chengdu.
+
+@186
+Grand Strategists\nImperial Guard\nRepeating Bows\nRoyal Guard\nGrand Chariots\nThunder Carts\nChief Strategists\nRation Corps\nMartial Masters\nBand
+
+@187.0
+Then I would like to command the Grand Strategists.
+
+@188.0
+Then I would like to command the Imperial Guard.
+
+@189.0
+Then I would like to command the Repeating Bows.
+
+@190.0
+Then I would like to command the Royal Guard.
+
+@191.0
+Then I would like to command the Grand Chariots.
+
+@192.0
+Then I would like to command the Thunder Carts.
+
+@193.0
+Then I would like to command the Chief Strategists.
+
+@194.0
+Then I would like to command the Ration Corps.
+
+@195.0
+Then I would like to command the Martial Masters.
+
+@196.0
+Then I would like to command the Band.
+
+@197.0
+Yes. Then go to Baxi at once!
+
+@199.0
+Your Majesty. You should also order the Prime Minister to return.
+
+@199.1
+Oh, so I should. I will send a messenger to Mei Castle at once.
+
+@200.0
+Defend Baxi! We will drive the Wu army back!
+
+@201.0
+There is no Kongming in Shu now! While he is away, seize Baxi!
+
+@204.0
+Your Majesty, I report. Lord Cao Shuang was defeated by the Shu army at Wugong. He has now retreated to Chang'an.
+
+@204.1
+Wh-what! Even Cao Shuang has lost?! Has everything west of Chang'an fallen into Shu hands?!
+
+@205.0
+What are We to do... Oh yes, what of Sima Yi?
+
+@205.1
+Lord Sima Yi is still lying in a sickbed with a grave illness. The strain seems to have caught up with him.
+
+@205.2
+Then who will face Kongming? Is there no one who can stand against Kongming?
+
+@206.0
+Your Majesty, I have something to tell you. A secret envoy has just arrived.
+
+@207.0
+What? A secret envoy? From where? Wu?
+
+@207.1
+No... Allow me a word in your ear.
+
+@208.1
+...What! Is that so! He is alive?!
+
+@208.2
+Indeed, Your Majesty. What will you do?
+
+@208.3
+Good. Tell him at once that if he attacks Chengdu, he will receive rewards and a noble title.
+
+@209.0
+Heh heh heh... Now Kongming will have no choice but to return to Chengdu.
+
+@210
+Kunming
+
+@211
+Kunming: Council Hall
+
+@212.0
+Ah, Dailai. How did it go?
+
+@212.1
+The Emperor of Wei ordered us to invade Chengdu. He says if we take Chengdu, rewards and titles are ours to have.
+
+@213.0
+Is that so! Kongming is careless after all. Forgetting I exist and going on a Northern Campaign! All right, this time I will wipe the smirk off Kongming's face! March on Chengdu!
+
+@214.0
+Now, a war of revenge! First, take Yongchang!
+
+@215
+Meng Huo made a sudden attack on Yongchang.\n\nSome troops were posted there, but they were guard units meant to keep order. Yongchang's governor, Wang Kang, fought well, but he was outnumbered. Yongchang fell in a few days.
+
+@218.0
+Y-Your Majesty! Nanman troops have invaded!
+
+@218.2
+Yes. I am a guard of Yongchang, and Meng Huo suddenly attacked. Yongchang had only a few soldiers, and it fell in a few days.
+
+@219.0
+Grr, no! If Yongchang falls, even Chengdu is in danger! Dong Yun! Have some general lead an army and take command of the defense!
+
+@220.0
+But... most of our army is at Chang'an. There are no named generals in Chengdu.
+
+@220.1
+Wh-what... Then what are we to do?!
+
+@220.2
+W-well... In any case, let us send a messenger to the Prime Minister at once.
+
+@220.3
+Y-yes. And who will command the defense for now? It will take time before the Prime Minister returns.
+
+@220.4
+Ah...
+
+@221.0
+Your Majesty. I am the son of Zhuge Liang, Zhuge Zhan, styled Siyuan. Hearing of the Han dynasty's present peril, I have come to volunteer for battle.
+
+@222.0
+I am Zhao Tong, the eldest son of Zhao Yun. We brothers also wish to march out.
+
+@223.0
+I am Zhao Guang, the second son of Zhao Yun. Your Majesty, please order us to defend Chengdu.
+
+@224.0
+Oh! The sons of the Prime Minister and Zhao Yun! With you, I can leave it in peace.
+
+@225.0
+Yes, sir. Your Majesty, which unit should I lead?
+
+@225.1
+Oh, yes. But We know little of the army... Choose whichever unit you like from the units left in Chengdu.
+
+@226
+Grand Strategists\nImperial Guard\nRepeating Bows\nRoyal Guard\nGrand Chariots\nThunder Carts\nChief Strategists\nRation Corps\nMartial Masters\nBand
+
+@227.0
+Then I would like to command the Grand Strategists.
+
+@228.0
+Then I would like to command the Imperial Guard.
+
+@229.0
+Then I would like to command the Repeating Bows.
+
+@230.0
+Then I would like to command the Royal Guard.
+
+@231.0
+Then I would like to command the Grand Chariots.
+
+@232.0
+Then I would like to command the Thunder Carts.
+
+@233.0
+Then I would like to command the Chief Strategists.
+
+@234.0
+Then I would like to command the Ration Corps.
+
+@235.0
+Then I would like to command the Martial Masters.
+
+@236.0
+Then I would like to command the Band.
+
+@237.0
+Yes. Then take up the defense at once!
+
+@239.0
+Your Majesty. You should also order the Prime Minister to return.
+
+@239.1
+Oh, so I should. Send a messenger to Mei Castle at once.
+
+@240
+Mei Castle
+
+@241
+Mei Castle: Council Hall
+
+@242.0
+The time is ripe. At last we march on Chang'an.
+
+@243.0
+We have finally come this far.
+
+@243.1
+Yes, it was a long road. Chang'an is now right before us, and there is no formidable foe like Sima Yi. All forces, prepare to march!
+
+@244.0
+Prime Minister, when preparations to march are complete, please tell me.
+
+@246.0
+Are your preparations to march complete?
+
+@247.0
+Then let us march!
+
+@248.0
+Advance on Chang'an!
+
+@249.0
+Chang'an is a strong castle, but it is not yet ready for defense. Take the old capital Chang'an and let the world know the might of Han!
+
+@249.1
+Cao Shuang has drawn up before Chang'an Castle and is ready for a decisive battle.
+
+@249.2
+The enemy is few. If we attack with the whole army, we have a chance.
+
+@249.3
+At last... they have pressed in as far as Chang'an. If this place falls, the soldiers and people will be badly shaken. Damn, can no miracle happen?
+
+@250
+1. Cao Shuang retreats
+
+@251.0
+N-no! Run! Just run!
+
+@251.1
+What a weakling. Chang'an has fallen.
+
+@253.0
+I-I cannot beat them! Run!
+
+@253.1
+He ran. Chang'an is ours.
+
+@255.0
+Run! Run!
+
+@255.1
+Lord Cao Shuang! Are you abandoning Chang'an?!
+
+@255.2
+Stop your yammering! Just run!
+
+@256.0
+Phew...
+
+@257.0
+Prime Minister. An edict from Chengdu has arrived. They say it cannot wait.
+
+@257.1
+It cannot wait? Has something happened in Chengdu? Let me see...
+
+@258.0
+Meng Huo... has led the Nanman and invaded, it says.
+
+@258.1
+What! Meng Huo, who had vanished?!
+
+@259.0
+(That is why I said to kill him! This is the Prime Minister's blunder.)
+
+@260.0
+Wu has broken the alliance and invaded. Baidi has already fallen, it says.
+
+@260.1
+Curse them! Wu has betrayed us yet again!
+
+@261.0
+At this rate even Chengdu is in danger. ...It cannot be helped. We will leave garrisons at Wugong and Mei Castle and withdraw.
+
+@261.1
+A withdrawal... Prime Minister, how regrettable.
+
+@261.2
+Do not grieve. The terrain around Mei Castle is rugged, and even a small force can hold it. If we keep the Wugong and Mei Castle region, attacking Chang'an again will not be hard.
+
+@261.3
+Oh... I am relieved to hear that.
+
+@262.0
+But time is pressing. Retreat at once to the southwest fort!
+
+@263
+1. Kongming enters the southwest fort\n2. Annihilate the enemy units
+
+@264.0
+Oh, the Shu army is pulling out! This is a miracle... Pursue! Pursue!
+
+@264.1
+Kongming is running away! After him!
+
+@266.0
+Waaah!
+
+@267.0
+We have slain the Shu general Liao Hua!
+
+@267.1
+Liao Hua is dead...
+
+@268.0
+Do not let Kongming return alive! Charge!
+
+@269.0
+Good! Retreat to Mei Castle!
+
+@270.0
+They cannot chase us for a while now. Good! Retreat!
+
+@272.0
+We head for Mei Castle for now.
+
+@273
+Mei Castle: Council Hall
+
+@274.0
+It is regrettable to turn back with Chang'an before our eyes, but... we withdraw to Chengdu for now.
+
+@274.1
+Prime Minister, does the whole army return to Chengdu?
+
+@274.2
+That cannot be. There are the garrisons of Mei Castle and Wugong as well. Let me see... I will leave six generals here. Jiang Wei, you will go to Chengdu with me.
+
+@274.3
+Then please decide which generals to leave as the garrison.
+
+@275
+Choose six generals to stay
+
+@276.0
+Leave the defense of Mei Castle to me. I will not lose to the young yet.
+
+@277.0
+I am to stay at Mei Castle?
+
+@278.0
+Understood. I will not lose to the young yet.
+
+@279.0
+Prime Minister, leave it to me. I will hold off the Wei army.
+
+@280.0
+I am to stay at this Mei Castle?
+
+@281.0
+Understood. I will hold off the Wei army.
+
+@282.0
+I know the geography of this region well. Leave it to me. I will make the Wei army tremble.
+
+@283.0
+I am to stay as the garrison?
+
+@284.0
+Understood. I will make the Wei army tremble.
+
+@285.0
+Leave the defense of Mei Castle to me. Please do not worry.
+
+@286.0
+I am to stay at Mei Castle?
+
+@287.0
+Understood. Please do not worry.
+
+@288.0
+Leave the defense of Mei Castle to me. I will defend it to the death.
+
+@289.0
+I am to stay?
+
+@290.0
+Understood. I will defend Mei Castle to the death.
+
+@291.0
+Leave the defense of Mei Castle to me. Prime Minister, rest easy.
+
+@292.0
+I am to stay here?
+
+@293.0
+Understood. Prime Minister, rest easy.
+
+@294.0
+Leave the defense of Mei Castle to me. I will defend it with all my strength.
+
+@295.0
+I am to stay at this Mei Castle?
+
+@296.0
+Understood. I will defend it with all my strength.
+
+@297.0
+Leave the defense of Mei Castle to me. Not one enemy soldier will pass.
+
+@298.0
+I am to stay as the garrison?
+
+@299.0
+Understood. Not one enemy soldier will pass.
+
+@300.0
+Leave the defense of Mei Castle to me. I will do my very best.
+
+@301.0
+I am to stay as the garrison?
+
+@302.0
+Understood. I will do my very best.
+
+@303.0
+Leave the defense of Mei Castle to me. Please do not worry.
+
+@304.0
+You want me to stay as the garrison?
+
+@305.0
+Understood. Please do not worry.
+
+@306.0
+Leave the defense of Mei Castle to me. Prime Minister, take care too.
+
+@307.0
+I am to stay at Mei Castle?
+
+@308.0
+Understood. Prime Minister, take care too.
+
+@309.0
+Leave the defense of Mei Castle to me. No matter who attacks, I will not lose.
+
+@310.0
+I am to stay as the garrison?
+
+@311.0
+Understood. No matter who attacks, I will not lose.
+
+@312.0
+Leave the defense of Mei Castle to me. I will do all I can.
+
+@313.0
+I am to stay at Mei Castle?
+
+@314.0
+Understood. I will do all I can.
+
+@315.0
+Leave the defense of Mei Castle to me. I will not lose to the likes of Wei generals.
+
+@316.0
+I am to stay as the garrison?
+
+@317.0
+Understood. I will not lose to the likes of Wei generals.
+
+@318.0
+Prime Minister, were you not going to leave six generals at Mei Castle?
+
+@319.0
+So that makes six at last... We cannot spare any more strength than this.
+
+@320.0
+Then let us hurry back to Chengdu.
+
+@321.0
+Hurry! At this rate Chengdu is in danger!
+
+@322
+F-2: Kongming Returns
+
+@323
+Act 2: Kongming Returns
+
+@325.0
+Lord Cao Shuang, grave news. The Shu army has begun to retreat to Mei Castle.
+
+@325.1
+What! Did something happen to the Shu army? A true miracle! Right, we pursue at once!
+
+@326.0
+Brother, that is unwise. Our army has had defeat after defeat, and the men are tired. Please refrain from marching out here.
+
+@326.1
+Kongming has left a considerable force at Mei Castle and Wugong. A pursuit will be difficult...
+
+@326.2
+Hmm... Then it cannot be helped. We will hold off on marching out.
+
+@327.1
+Oh, a messenger from Luoyang. What is it?
+
+@327.2
+His Majesty is gravely ill! Please return to Luoyang at once!
+
+@327.3
+What!? That will not do! Xiahou Ba, Guo Huai. I leave the defense of Chang'an to you. I return to Luoyang now!
+
+@329
+Luoyang: Cao Rui's Residence
+
+@330.0
+Your Majesty, it is Cao Shuang. I have just come back from Chang'an.
+
+@330.1
+Oh, Cao Shuang. To think I could see you... It seems I still had a little life left.
+
+@330.2
+What are you saying? You are being faint-hearted.
+
+@330.3
+No, We are done for. I wanted to give you Our last wishes.
+
+@331.0
+Your last wishes...
+
+@331.1
+After Us... Cao Fang shall succeed. Cao Shuang, join forces with Sima Yi and assist Cao Fang.
+
+@331.2
+Yes, sir. I have received your last wishes.
+
+@331.3
+Hearing that... I am at ease. Cao Fang... I leave... to you...
+
+@332.0
+Your Majesty! Your Majesty!\n\n...\n\nHe has passed away...
+
+@333.0
+We shall hold His Majesty's funeral and Prince Cao Fang's enthronement. Zhong Yao, prepare the enthronement at once.
+
+@334.0
+Yes, sir. I will prepare it at once.
+
+@335.0
+His Majesty said to assist Lord Cao Fang together with Sima Yi. Sima Yi, hmm... I do not like that man. He has something black in his heart.
+
+@335.1
+I hear a rumor that his illness has not healed.
+
+@335.2
+What shall we do, brother? Then why not simply assassinate Sima Yi...
+
+@335.3
+No, I do not want to stir up too much trouble. I know! Let us visit his house. We will decide after seeing how he is. If he is truly gravely ill, there is no need to hurry.
+
+@336
+Luoyang: Sima Yi's Residence
+
+@337.0
+Cao Shuang surely finds me in the way. He will probably be coming here soon.
+
+@337.1
+Father, what will you do?
+
+@337.2
+I will pretend my illness is grave. You two play along with my act.
+
+@337.4
+Hm, Cao Shuang seems to have come already. Make no mistakes.
+
+@338.0
+Oh, Lord Sima Yi. Are you heading somewhere?
+
+@338.1
+Oh, is it Lord Cao Shuang? I heard that Lord Cao Cao has passed away, and I thought to go to the palace.
+
+@338.2
+I see... Hm? Lord Cao Cao...? Lord Sima Yi, what are you saying?
+
+@339.0
+W-well... My father has become terribly forgetful lately... He is always like this.
+
+@340.0
+Father. The one who passed away is Lord Cao Rui. Not Lord Cao Cao.
+
+@340.1
+Yes, yes, so he is. Lord Cao Cao was so kind to me.
+
+@341.0
+Brother, what is wrong with Sima Yi?
+
+@341.1
+Hmm... Sima Yi is quite old. He seems to have gone senile.
+
+@342.0
+Then I will go on ahead to the palace.
+
+@342.1
+Y-yes. Take care.
+
+@343.0
+Phew, walking has become so hard... Oof!
+
+@344.0
+Ah! Father!
+
+@345.0
+Father, are you all right?
+
+@345.1
+Nonsense, I am fine. Shi, do not treat me like such an old man. Let us go.
+
+@346.0
+Father, you cannot manage in that condition. We will go to the palace, so please rest.
+
+@346.1
+I-is that so? Sorry to trouble you.
+
+@346.2
+Then, Father, please rest.
+
+@347.0
+Forgive us for letting you see such a shameful sight. We are very sorry.
+
+@347.1
+N-no. Is Lord Sima Yi always like that?
+
+@347.2
+Yes. Lately he is hard of hearing too...
+
+@347.3
+I see... Sorry to have disturbed you. I will take my leave. Take good care of your father.
+
+@347.4
+Thank you for your kind thought.
+
+@349.0
+I heard he was ill, but not that ill. Sima Yi is as good as dead now.
+
+@349.1
+Brother, then you can seize real power, can you not?
+
+@350.0
+Yes. It seems our time has come. Now, let us go to Lord Cao Fang's enthronement!
+
+@351.0
+(But... was Sima Yi really sick?)
+
+@352
+Yongchang
+
+@354.0
+You owe your life to the Prime Minister, who spared you and let you go. Have you forgotten that debt, to defy the Prime Minister again?!
+
+@354.1
+It is not defiance! I have my pride. If I stay defeated, I cannot keep face as King of the Nanman!
+
+@354.2
+Hmph, you will only lose again. Captured seven times and released seven times, and you still do not understand?! You fool!
+
+@354.3
+Wh-what did you say! You!
+
+@355.0
+Aaargh!
+
+@356.0
+Damn... I did not mean to kill him. Just watch, this time I will beat Kongming! All forces, march on Chengdu!
+
+@357.0
+Forward! Forward!
+
+@358
+Having taken Yongchang, Meng Huo marched north without rest. He took Jianning and Yuesui in a short time and soon closed in on Shu's capital, Chengdu.\n\nBut Kongming too was rushing his army toward Chengdu.
+
+@359.0
+Hurry to Chengdu!
+
+@362.0
+Lord Zhuge! The Prime Minister has reached Jiameng Pass, they say!
+
+@362.1
+Is that so! Everyone, reinforcements will arrive soon! Hold on until then!
+
+@363.0
+I report! Meng Huo's army has finally approached the outskirts of Chengdu!
+
+@363.1
+What! Right, all forces sortie! We defend Chengdu to the death until reinforcements come!
+
+@365.0
+The Prime Minister will return soon! Hold Chengdu until then!
+
+@365.1
+Brother, let us pull back here. We have repaid our debt to Wei enough.
+
+@365.2
+What are you saying! Wei is nothing to me. I cannot rest until I beat Kongming!
+
+@365.3
+Meng Huo... Probably Wei egged him on, but...
+
+@366
+1. Meng Huo retreats\n2. 20 turns pass
+
+@367.0
+What a hopeless man! I win!
+
+@368.0
+Y-you... You were still alive...
+
+@368.1
+We have captured Meng You, Meng Huo's younger brother!
+
+@370.0
+D-damn! Again?!
+
+@372.0
+Is that not Meng Huo? Why have you raised the banner of rebellion against the Han again?
+
+@372.1
+Hmph. I thought a Chengdu without you, Kongming, could be taken with one push.
+
+@372.2
+I see. But I am right here. How about it, Meng Huo, will you not surrender gracefully?
+
+@372.3
+I have my pride! Until I beat you even once, I cannot withdraw!
+
+@372.4
+Oh dear... Stubborn as ever.
+
+@373.0
+Waah! D-damn! Again?!
+
+@374.0
+Hmm, Chengdu will not fall... Fighting more is pointless! Pull out!
+
+@374.1
+Meng Huo, you never learn. Did you think we would let you go so easily?
+
+@374.2
+D-damn! An ambush?!
+
+@375.0
+At last we have captured Meng Huo.
+

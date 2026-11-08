@@ -1,0 +1,398 @@
+PROG:8001003c	-
+PROG:8001005c	Enter %s?
+PROG:80010178	Got %s
+PROG:80010188	Obtained %s and sent it\nto the storehouse.
+PROG:800101a4	The storehouse is full!!\nGave up %s
+PROG:800101d4	Eligible units that use it\nbecome 'Strategist' type.
+PROG:8001020c	Infantry units that use it\nbecome 'Band' type.
+PROG:80010240	Infantry units that use it\nbecome 'Supply Corps' type.
+PROG:80010274	Strategist units that use it\nbecome 'Chief Strategist'.
+PROG:800102ac	Archer units that use it\nbecome 'Mini Cannon' type.
+PROG:800102e0	Cavalry units that use it\nbecome 'Horse Archers'.
+PROG:80010314	Cavalry units that use it\nbecome 'Light Chariot'.
+PROG:80010348	Outlaw units that use it\nbecome 'Martial Artist'.
+PROG:8001037c	Outlaw units that use it\nbecome 'Tiger Tamer'.
+PROG:800103b0	Eligible units that use it\nbecome 'Archers' type.
+PROG:800103e8	Eligible units that use it\nbecome 'Light Cavalry'.
+PROG:80010420	Eligible units that use it\nbecome 'Bandits' type.
+PROG:80010458	Eligible units that use it\nbecome 'Short Arms' type.
+PROG:80010490	Raises Int.
+PROG:800104a4	Raises Int a little.
+PROG:800104bc	Raises Str.
+PROG:800104d0	Raises Str a little.
+PROG:800104e8	Raises Ldr.
+PROG:800104fc	Raises Ldr a little.
+PROG:80010514	Promotes a unit that\nmeets the conditions.
+PROG:80010540	Seals enemy strategies,\nblocking their use.
+PROG:80010570	Reduces enemy strategy damage.
+PROG:80010598	Lets a unit that has\nacted act again.
+PROG:800105c4	Raises Def of several units.
+PROG:800105e8	Raises Def of one unit.
+PROG:80010608	Raises Atk of several units.
+PROG:8001062c	Raises Atk of one unit.
+PROG:8001064c	Greatly restores the\nuser's SP.
+PROG:80010674	Restores the user's SP.
+PROG:80010698	Slightly restores user's SP.
+PROG:800106c0	Returns user's status to normal.
+PROG:800106e4	Restores HP of several\nunits to maximum.
+PROG:80010714	Restores HP of several units.
+PROG:80010738	Restores the user's HP\nto maximum.
+PROG:80010764	Restores the user's HP.
+PROG:80010788	Slightly restores user's HP.
+PROG:800107b0	Lowers enemy unit Mov.
+PROG:800107cc	Slows enemy unit attack speed.
+PROG:800107ec	Confuses several enemy\nunits, disabling them.
+PROG:80010818	Confuses an enemy, disabling it.
+PROG:80010840	Lowers Def of several enemies.
+PROG:80010864	Lowers an enemy's Def.
+PROG:80010880	Lowers Atk of several enemies.
+PROG:800108a4	Lowers an enemy's Atk.
+PROG:800108c0	Greatly reduces enemy SP.
+PROG:800108e4	Reduces enemy SP.
+PROG:80010900	Slightly reduces enemy SP.
+PROG:80010920	Gusts reduce the HP of several\nenemy units.
+PROG:80010954	Gusts reduce the HP of an\nenemy unit.
+PROG:80010980	A torrent greatly reduces the\nHP of several enemy units.
+PROG:800109b8	A torrent reduces the HP of\nseveral enemy units.
+PROG:800109ec	A torrent slightly reduces the\nHP of several enemy units.
+PROG:80010a24	A torrent greatly reduces\nthe HP of an enemy unit.
+PROG:80010a58	A torrent reduces the HP\nof an enemy unit.
+PROG:80010a84	A torrent slightly reduces\nthe HP of an enemy unit.
+PROG:80010ab4	Rocks greatly reduce the HP of\nseveral enemy units.
+PROG:80010aec	Rocks reduce the HP of several\nenemy units.
+PROG:80010b20	Rocks slightly reduce the HP of\nseveral enemy units.
+PROG:80010b58	Rocks greatly reduce the\nHP of an enemy unit.
+PROG:80010b8c	Rocks reduce the HP of an\nenemy unit.
+PROG:80010bb8	Rocks slightly reduce the\nHP of an enemy unit.
+PROG:80010be8	Flames greatly reduce the HP\nof several enemy units.
+PROG:80010c20	Flames reduce the HP of several\nenemy units.
+PROG:80010c54	Flames slightly reduce the HP\nof several enemy units.
+PROG:80010c8c	Flames greatly reduce the\nHP of an enemy unit.
+PROG:80010cc0	Flames reduce the HP of an\nenemy unit.
+PROG:80010cec	Flames slightly reduce the\nHP of an enemy unit.
+PROG:80010d1c	Restores holder's HP every turn.
+PROG:80010d44	A cart said to fly like the wind.
+PROG:80010d68	A cart lightened for speed.
+PROG:80010d8c	A cart made to carry soldiers.
+PROG:80010dac	A famed horse, red as fire,\neight feet tall.
+PROG:80010dd8	Ill-omened, yet it runs 1,000 li.
+PROG:80010dfc	A steed fast as lightning.
+PROG:80010e20	A horse said to leave no shadow.
+PROG:80010e44	A speedy horse.\n
+PROG:80010e58	A huge shield with wheels.
+PROG:80010e7c	A large shield with a ground post.
+PROG:80010ea0	Big square
+PROG:80010eb4	Medium square shield with a\npointed ground spike.
+PROG:80010ee4	Buckler.
+PROG:80010ef0	Small shield.
+PROG:80010f04	Legendary shield of myth.
+PROG:80010f20	Covers many troops.
+PROG:80010f38	A fine iron shield.
+PROG:80010f50	A bronze shield.
+PROG:80010f64	Wooden shield.
+PROG:80010f78	Light shield of beast hide.
+PROG:80010f98	Fine, costly armor.
+PROG:80010fb0	Many layers laced together.\nSturdy armor with sleeves.
+PROG:80010fe8	Armor with oval iron\nplates front and back.
+PROG:80011010	Armor of linked rings.\n
+PROG:8001102c	Iron mail.\n
+PROG:80011038	Bronze mail.\n
+PROG:80011048	Made of interlocked steel rings.\nLight and sturdy armor.
+PROG:8001107c	Many plates laced with cords.
+PROG:800110a0	Breast/back plates tied by straps.
+PROG:800110c4	Red-painted sturdy armor
+PROG:800110e0	Iron plate sandwiched in\nthick silk padding.
+PROG:80011108	Leather armor.\n
+PROG:8001111c	Crane-feather robe.
+PROG:80011138	Robe said to hold sage power.
+PROG:80011158	Worn by Taoists.\nSome defense.
+PROG:80011180	Taoist garb.
+PROG:80011190	Black garb.
+PROG:800111a0	A scholar's fan; adds to\na scholar-general's air.
+PROG:800111d0	Fan of white hawk feathers.
+PROG:800111f0	Eagle-feather fan.
+PROG:80011208	A folding fan.
+PROG:8001121c	Self-defense fan.
+PROG:80011230	A fan used to command.
+PROG:8001124c	Fan made of iron plates.
+PROG:80011268	Cart with shields on both sides
+PROG:8001128c	Cart with a shield on one side.
+PROG:800112b0	Improved for transport.\nA wheelbarrow with tricks.
+PROG:800112e4	Transport wheelbarrow.
+PROG:80011300	Cart with iron shield.
+PROG:80011318	Cart with wood shield.
+PROG:80011330	Fires strong explosive shells.\nSometimes a huge blast.
+PROG:8001136c	Five independent barrels, each\ncan fire in its own direction.
+PROG:800113a8	A cannon on a rotating pillar.
+PROG:800113cc	Fires fireballs that persist.
+PROG:800113ec	Fires poison shells.
+PROG:8001140c	Small, mobile cannon.
+PROG:80011424	Multishot gun.
+PROG:80011434	Simple stone cannon.
+PROG:80011450	Fabled 10-shot xbow.
+PROG:80011468	Strongly improved repeater.
+PROG:80011488	Pierces heavy armor.
+PROG:800114a8	Strong volley xbow.
+PROG:800114c0	Fires ten arrows in a row.
+PROG:800114dc	Fires several arrows.
+PROG:800114f8	Rare, strong xbow.
+PROG:8001150c	Legendary strong xbow.
+PROG:80011524	Made by Qin of Chu, inventor.
+PROG:80011548	Better arrows.
+PROG:8001155c	Strong xbow.
+PROG:8001156c	Trigger-fired bow on a stand.
+PROG:80011594	Li Guang's treasure bow.
+PROG:800115b0	Bow of Yang Youji of Chu.
+PROG:800115d4	Pierces even iron armor.
+PROG:800115f0	Composite bow of many materials.
+PROG:80011614	Strong, straight bow.
+PROG:8001162c	Simple bow.
+PROG:80011640	Mighty beast, a god's envoy.
+PROG:80011664	Big, fierce tiger.
+PROG:8001167c	Well-trained fine tiger.
+PROG:80011698	Pipa-shaped weapon.
+PROG:800116b4	Iron flute; can strike.
+PROG:800116d0	Zither-like.
+PROG:800116e0	Gong and drum for signals.
+PROG:800116fc	Metal tray gong.
+PROG:80011714	Bamboo flute.
+PROG:80011724	Iron hand claws.
+PROG:8001173c	Metal ring with blades.
+PROG:8001175c	Small iron rod pointed at both\nends. Held in the hand.
+PROG:80011790	Saw-bladed curved sword.\n
+PROG:800117ac	Compound clubs with ball knobs\non the hilt. Comes as a pair.
+PROG:800117e4	Very sturdy metal rod, not long.\nA two-handed striking weapon.
+PROG:80011824	Weapon: iron claws on a rope.\nIt packs power too.
+PROG:80011850	Ring weapon with an inner\ncrescent blade. Fast attack.
+PROG:80011884	Single-edged bronze\nstraight sword.\nNot very strong.
+PROG:800118ac	Slashes more than stabs.\nMid-size curved sword.
+PROG:800118d4	Ring-hilt sword.\nEasy to use.
+PROG:800118f8	Short wood clubs on\nan iron chain.
+PROG:80011920	Hook with a hand guard to\nparry enemy weapons.
+PROG:8001195c	Fine steel sword by Pu Yuan.\nSharp and sturdy.
+PROG:80011990	High-quality bronze sword,\nmade very sharp.
+PROG:800119c4	Common spear.\nBasic gear.
+PROG:800119e0	Cavalry long spear.\nLong-arm units too.
+PROG:80011a04	Anti-cavalry arm: a big\ndouble-edged blade on a pole.
+PROG:80011a34	T-shaped rod with grip.\nA striking weapon.
+PROG:80011a60	Bronze blade set upright.\nHooks enemies to topple them.
+PROG:80011a9c	Long wooden clubs joined\nby an iron chain.
+PROG:80011ac8	Wide one-edged blade on a long pole.
+PROG:80011af0	Short axe, crescent blade.\n
+PROG:80011b0c	Metal rods joined by a chain.\n
+PROG:80011b2c	Spiked spindle-shaped club.\n
+PROG:80011b50	Mace set with iron spikes.\n
+PROG:80011b70	Trident-bladed glaive, 50 jin.\n
+PROG:80011b94	Metal hammer on a rope end.\n
+PROG:80011bb8	Twin male-and-female swords.\nHolder gets divine protection.
+PROG:80011bf8	Serpent spear, 1 zhang 8 chi.\nMighty if mastered.
+PROG:80011c34	An 82-jin great glaive.\nTrue power cleaves war horses.
+PROG:80011c6c	Sword set with seven gems.\nIts gleam cuts enemies.
+PROG:80011ca0	Twin of the Yitian Sword.\nZhao Yun took it from Xiahou\nEn at Changban.
+PROG:80011cdc	Halberd with a moon\nblade at its tip.\nAmazing power.
+PROG:80011d08	Twin of the Qinggang Sword.\nThe strongest weapon.
+PROG:80011d38	Type Chg
+PROG:80011d44	Type Up
+PROG:80011d50	Stat Up
+PROG:80011d5c	Strategy
+PROG:80011d68	Wpn Spare
+PROG:80011d74	Spec Wpn
+PROG:80011d80	Move Spd
+PROG:80011d8c	Atk Spd
+PROG:80011d98	Move/Atk Spd
+PROG:80011da8	Wpn/%s/%s+%u
+PROG:80011db8	Armor/%s/Def+%u
+PROG:80011dcc	Ride/%s/Mov+%u
+PROG:80011de0	 All units
+PROG:8001204c	-
+PROG:8001205c	-
+PROG:800124e4	Sort done
+PROG:800124f0	Sort by which item?
+PROG:8001250c	Type
+PROG:80012518	Items
+PROG:80012524	Sort
+PROG:80012530	Select officers to deploy.
+PROG:80012550	Units %2d/%2d  Info  All  End
+PROG:80012578	Are you sure?          Yes    No
+PROG:800125f4	Loading from Memory Card %s.\nDo not remove the Memory Card.
+PROG:8001263c	Load complete.\n
+PROG:80012650	Load failed.
+PROG:8001269c	None
+PROG:800126a8	Subs On
+PROG:800126b4	Subtitles
+PROG:800126c0	Difficulty
+PROG:800126cc	Foe Window
+PROG:800126d8	Own Window
+PROG:800126e4	Command
+PROG:800126f0	Sound
+PROG:800126fc	-
+PROG:8001271c	Ending
+PROG:8001272c	Opening
+PROG:8001273c	KoeiLogo
+PROG:80012748	Sheer Genius(71)
+PROG:8001275c	Wind(70)
+PROG:80012768	MaSu(69)
+PROG:80012774	JWei(68)
+PROG:80012780	Chu(67)
+PROG:8001278c	Meng(66)
+PROG:80012798	Bdi(65)
+PROG:800127a4	Chbi(64)
+PROG:800127b0	Visits(63)
+PROG:800127bc	Zhong War(62)
+PROG:800127cc	Zhong-Guan 2(61)
+PROG:800127e0	Zhong-Guan(60)
+PROG:800127f0	Zhong Name(59)
+PROG:80012800	Nanman(11)
+PROG:80012810	Gen B(10)
+PROG:8001281c	Gen A(9)
+PROG:80012828	Fei's Son(4)
+PROG:80012864	-
+PROG:800128c4	%s reached Lv%2u!
+PROG:800128dc	Str rose to %3u (+ %2u )\nInt rose to %3u (+ %2u )\nLdr rose to %3u (+ %2u )\nHP rose to  %3u (+ %2u )\nSP rose to  %3u (+ %2u )
+PROG:80012970	Learned %s!
+PROG:8001391c	Input
+PROG:80013928	Ending
+PROG:80013938	Wei Mtg
+PROG:80013944	Shu Mtg
+PROG:80013950	Defeat
+PROG:8001395c	Victory
+PROG:80013968	Ev Prologue II
+PROG:80013978	Ev Prologue I
+PROG:80013988	Duel
+PROG:80013994	Army Mov
+PROG:800139a0	Solo Mov
+PROG:800139ac	Pitfall x5
+PROG:800139bc	Pitfall
+PROG:800139c8	Cymbals
+PROG:800139d4	Door Knock
+PROG:800139e0	Swing
+PROG:800139ec	Cursor Snd
+PROG:800139f8	Recover
+PROG:80013a04	Wind Snd
+PROG:80013a10	Appear
+PROG:80013a1c	Fire #2
+PROG:80013a28	Move End
+PROG:80013a34	Stat Dn
+PROG:80013a40	Full SP
+PROG:80013a4c	Big SP
+PROG:80013a58	Small SP
+PROG:80013a64	Beast (charge)
+PROG:80013a7c	Catapult (hit)
+PROG:80013a90	Catapult (fire)
+PROG:80013aa4	Bow (hit)
+PROG:80013ab4	Bow (shoot)
+PROG:80013ac4	Normal (charge)
+PROG:80013adc	Cavalry (charge)
+PROG:80013af4	Cav Move
+PROG:80013b00	Cart Move
+PROG:80013b0c	Inf Move
+PROG:80013b18	Reinf
+PROG:80013b24	Fire Event
+PROG:80013b34	Water Event
+PROG:80013b44	Invalid
+PROG:80013b68	Gate
+PROG:80013b74	Stereo
+PROG:80013b80	Mono
+PROG:80013b8c	BGM Test
+PROG:80013b9c	SE Test
+PROG:80013ba8	Movie
+PROG:80013bb4	D-Pad
+PROG:80013bc0	Horiz
+PROG:80013bcc	Save here?
+PROG:80013be4	Continue without saving?
+PROG:80013c04	Cannot show now.
+PROG:80013c1c	Story
+PROG:80013c28	The storehouse has\nbeen tidied up.
+PROG:80013c50	Spies can only be used on\nthe overall map.
+PROG:800142d8	For %s,
+PROG:800142e8	it's %u gold.
+PROG:800142fc	Is that OK?
+PROG:80014310	Can Equip
+PROG:80014320	Can Use
+PROG:80014330	In Stock
+PROG:8001433c	Details
+PROG:80014348	You seem short on funds.
+PROG:80014368	You can't carry any more, I'm afraid.
+PROG:80014394	The war is raging, so\nI can't stock anything.\nMy apologies.
+PROG:800143d8	The storehouse seems\nto be empty...
+PROG:800143fc	Welcome!\nWhat can I do\nfor you today?!
+PROG:80014444	Please come again soon.\nWe'll be waiting.
+PROG:80014818	-
+PROG:8001484c	-
+PROG:80014868	-
+PROG:8001488c	......
+PROG:80014898	Shall I go out?
+PROG:80014a34	Chief Strategist
+PROG:80014a40	Viper Tamer
+PROG:80014a4c	Commander
+PROG:80014a58	Nanman Cavalry
+PROG:80014a64	Tiger Master
+PROG:80014a70	Martial Master
+PROG:80014a7c	MSG Wait
+PROG:80014a88	Diff Lvl
+PROG:80014a94	Cursor
+PROG:80014aa0	Mov Size
+PROG:80014aac	WinColor
+PROG:80014ab8	SFX
+PROG:80014ac4	BGM
+PROG:80014ad0	Off Info
+PROG:80014adc	Save
+PROG:80014ae8	Load
+PROG:80014af4	Quit
+PROG:80014b00	-
+PROG:80014b34	-
+PROG:80014b7c	Are you sure?
+PROG:80014b90	  Yes    No
+PROG:80014bc8	ended
+PROG:80014bd4	weakened
+PROG:80014be0	%s: %s-down effect %s
+PROG:80014bf4	%s: %s rose
+PROG:80014c08	%s: %s-up effect %s
+PROG:80014c1c	%s: %s fell
+PROG:80014c30	%s took %u damage
+PROG:80014c48	%s: Mov recovered
+PROG:80014c60	%s: Mov was halved
+PROG:80014c78	%s: Atk Spd recovered
+PROG:80014c90	%s: Atk Spd was halved
+PROG:80014ca8	%s: Strategy seal wore off
+PROG:80014cc8	%s: Strategies were sealed
+PROG:80014ce0	%s: Countermeasure wore off
+PROG:80014cfc	%s took less strategy damage
+PROG:80014d1c	%s recovered from confusion
+PROG:80014d30	%s is confused
+PROG:80014d40	%s recovered from HP Down
+PROG:80014d60	%s suffers HP Down
+PROG:80014d7c	%s unleashed a critical hit!
+PROG:80014d98	HP cannot be restored further!
+PROG:80014dbc	%s recovered %u HP!
+PROG:80014dd4	SP cannot be restored further!
+PROG:80014df8	%s recovered %u SP!
+PROG:80014e10	Kongming lost the battle.\nWas there a better strategy?\nHe asked himself...
+PROG:80014e60	%s retreated!
+PROG:80014e70	%s was slain!
+PROG:80014e84	-
+PROG:80014ff8	All foes: minor dmg
+PROG:80015010	Retreat 1 foe
+PROG:80015028	Ally: promote 1 unit
+PROG:80015044	1 foe: seal strats
+PROG:80015058	Allies: less strat damage
+PROG:80015074	1 ally: act again
+PROG:8001508c	Allies: Def up
+PROG:800150a8	1 ally: Def up
+PROG:800150c0	Allies: Atk up
+PROG:800150dc	1 ally: Atk up
+PROG:800150f4	1 ally: big SP heal
+PROG:80015110	1 ally: mid SP heal
+PROG:8001512c	1 ally: small SP heal
+PROG:80015148	1 ally: Mov up
+PROG:80015160	Any unit: cure status
+PROG:80015178	Far ally: big HP heal
+PROG:80015194	Far ally: HP heal
+PROG:800151b0	Allies: full heal
+PROG:800151c8	Allies: big heal
+PROG:800151e0	1 ally: full HP
+PROG:800151f8	1 ally: big HP heal
+PROG:80015210	1 ally: HP heal
+PROG:80015228	Mov down
+PROG:80015234	AtkSpd down
+PROG:80015244	Confuse foes
