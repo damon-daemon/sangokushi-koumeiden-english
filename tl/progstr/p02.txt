@@ -128,8 +128,8 @@ PROG:8001643c	Enemy Phase
 PROG:8001644c	Leaving 0-player mode.
 PROG:80016464	Allied Phase
 PROG:80016474	The battle dragged on.\nRetreating.\n
-PROG:80016498	Turn %w  %s
-PROG:800164a8	Each surviving unit got\n{C5}%w{C7} bonus Exp points!
+PROG:80016498	Turn %u  %s
+PROG:800164a8	Each surviving unit got\n{C5}%u{C7} bonus Exp points!
 PROG:800164ec	Turn %2d/%2d
 PROG:80016790	-
 PROG:80016ad8	-
@@ -258,7 +258,7 @@ PROG:80017c78	Change class?
 PROG:80017c94	%s changed class to %s.
 PROG:80017cb0	This won't change the type!
 PROG:80017cd4	Raise %s's max %s.
-PROG:80017cf0	%s's max %s is now %w.
+PROG:80017cf0	%s's max %s is now %u.
 PROG:80017d08	This item can't be used!
 PROG:80017d28	Not enough SP!
 PROG:80017d40	%s used the %s ploy!
