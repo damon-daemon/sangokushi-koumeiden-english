@@ -93,6 +93,34 @@ def _wrap(words, width, kind=None):
     return [' '.join(x) for x in out]
 
 
+SENTENCE = re.compile(r'(?<=[.!?])[)"\']*(?=\s+[^a-z\s])')
+SMART = ('talk', 'npc', 'narr')         # paragraphs longer than a page: page breaks at sentence ends
+
+
+def _pages(n, page):
+    return -(-n // page)
+
+
+def _paginate(words, width, kind, page):
+    """wrap a paragraph; when it spans pages, start a page at a sentence end where that does not add a
+    page to the sentences gathered so far (the game would otherwise page mid-sentence)"""
+    plain = _wrap(words, width, kind)
+    if len(plain) <= page:
+        return plain
+    text = ' '.join(words)
+    cut = [m.end() for m in SENTENCE.finditer(text)]
+    sents = [x.split() for x in (text[a:b] for a, b in zip([0] + cut, cut + [len(text)])) if x.split()]
+    out, cur = [], []
+    for w in sents:
+        if cur and _pages(len(_wrap(cur + w, width, kind)), page) > _pages(len(_wrap(cur, width, kind)), page):
+            got = _wrap(cur, width, kind)
+            out += got + [' '] * (-len(got) % page)
+            cur = []
+        cur += w
+    out += _wrap(cur, width, kind)
+    return out if _pages(len(out), page) <= _pages(len(plain), page) else plain
+
+
 def lines(en, kind):
     """one tl record -> display lines (pad lines ' ')"""
     s = fold(en)
@@ -106,7 +134,10 @@ def lines(en, kind):
         if not words:
             out += [' '] * (-len(out) % page)
             continue
-        out += _wrap(words, WIDTH[kind], kind)
+        if kind in SMART and not len(out) % page:
+            out += _paginate(words, WIDTH[kind], kind, page)
+        else:
+            out += _wrap(words, WIDTH[kind], kind)
     while out and out[-1] == ' ':
         out.pop()
     return out
