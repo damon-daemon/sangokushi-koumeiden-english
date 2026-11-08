@@ -315,7 +315,7 @@ PROG:80014348	You seem short on funds.
 PROG:80014368	You can't carry any more, I'm afraid.
 PROG:80014394	The war is raging, so\nI can't stock anything.\nMy apologies.
 PROG:800143d8	The storehouse seems\nto be empty...
-PROG:800143fc	Welcome!\nWhat can I do\nfor you today?!
+PROG:800143fc	Welcome!\nWhat can I do\nfor you today?
 PROG:80014444	Please come again soon.\nWe'll be waiting.
 PROG:80014818	-
 PROG:8001484c	-

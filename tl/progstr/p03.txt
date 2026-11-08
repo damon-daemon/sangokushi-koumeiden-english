@@ -229,8 +229,8 @@ PROG:800dd4c4	Info
 PROG:800dd4cc	Func.
 PROG:800dd4d4	Items
 PROG:800dd4dc	Equip
-PROG:800dd4f8	Sell $
-PROG:800dd510	Buy $
+PROG:800dd4f8	Price
+PROG:800dd510	Offer
 PROG:800dd518	Yes
 PROG:800dd520	No
 PROG:800dd530	End
@@ -423,7 +423,7 @@ PROG:800ddb8c	+%d
 PROG:800ddb94	Heal
 PROG:800ddba8	Rain
 PROG:800ddbac	Cloudy
-PROG:800ddbb0	Clear
+PROG:800ddbb0	Sunny
 PROG:800ddbb4	Lifespan
 PROG:800ddbc4	Turn+5
 PROG:800ddbcc	Adv.
@@ -485,7 +485,7 @@ PROG:800dde14	Str
 PROG:800dde1c	Ldr
 PROG:800dde28	%s Ploy
 PROG:800dde30	Rain
-PROG:800dde38	Clear
+PROG:800dde38	Sunny
 PROG:800dde48	-
 PROG:800dde4c	Attendant
 PROG:800dde74	Foe

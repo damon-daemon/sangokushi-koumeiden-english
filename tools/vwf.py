@@ -825,3 +825,8 @@ def patch(exe, lab, put, expect):
     # at cell 11: right / 8 - 13 leaves ~12 px left / ~24 px right in the narrowest box.
     expect(exe, 0x8003d574, [0x2484fff0])
     put(exe, 0x8003d574, asm.assemble(0x8003d574, [('addiu', 'a0', 'a0', -13)]))
+    # shop price prompt (0x80032540..): lines 2-3 at x 10, line 1 ("「%sでしたら") at x 8 -> the JP indent past the
+    # quote mark; English has no quote -> all at x 8
+    for va in (0x80032580, 0x800325d0):
+        expect(exe, va, [0x3405000a])
+        put(exe, va, asm.assemble(va, [('ori', 'a1', 'zero', 8)]))
