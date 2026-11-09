@@ -51,7 +51,9 @@ SLOTS, LB, RUN_ROWS = 4, 64, 17    # 64 B = 512 px per row
 HEAD = 0x20                        # ctx, y, ecol, pen, bcol, spaces, base px, lead
 S_CTX, S_Y, S_ECOL, S_PEN, S_BCOL, S_SPACES, S_BASE, S_LEAD = range(0, 32, 4)
 SLOT_SIZE = HEAD + LB * RUN_ROWS
-RUNS = ((WIDTHS + 95 + 3) & ~3) + 4 # u32 round-robin counter, then the slots
+RUNS = ((WIDTHS + 95 + 3) & ~3) + 12  # u32 start offset, u32 last width, u32 round-robin counter, then the slots
+VOFF = RUNS - 12                   # px (0-7) added to the pen of the next fresh run (vplace), then cleared
+VPX = RUNS - 8                     # px of the widest line of the last vstrlen
 RR = RUNS - 4
 DATA_END = RUNS + SLOTS * SLOT_SIZE
 CHUNK = 32                         # px per upload (4bpp buffer on the stack: 16 rows x 16 B)
@@ -139,9 +141,13 @@ def lines(tok_label):
         ('sw', 'a2', S_Y, 'v0'),
         ('sw', 'a1', S_ECOL, 'v0'),
         ('sll', 't0', 'a1', 3),
+        ('addiu', 't1', 't0', -8),
+        ('sw', 't1', S_BASE, 'v0'),
+        ('lui', 't1', H(VOFF)),             # pen = col * 8 + the offset vplace left (0-7, once)
+        ('lw', 't2', L(VOFF), 't1'),
+        ('sw', 'zero', L(VOFF), 't1'),
+        ('addu', 't0', 't0', 't2'),
         ('sw', 't0', S_PEN, 'v0'),
-        ('addiu', 't0', 't0', -8),
-        ('sw', 't0', S_BASE, 'v0'),
         ('sw', 'a1', S_BCOL, 'v0'),
         ('sw', 'zero', S_SPACES, 'v0'),
         ('ori', 't0', 'zero', 1),
@@ -522,6 +528,8 @@ def lines(tok_label):
         'w_lf2:',
         ('bnez', 't4', 'w_line'),
         ('nop',),
+        ('lui', 't5', H(VPX)),
+        ('sw', 's2', L(VPX), 't5'),
         ('addiu', 'v0', 's2', 7),
         ('srl', 'v0', 'v0', 3),
         ('lw', 'ra', 0x1c, 'sp'),
@@ -530,6 +538,13 @@ def lines(tok_label):
         ('lw', 's2', 0x10, 'sp'),
         ('jr', 'ra'),
         ('addiu', 'sp', 'sp', 0x20),
+
+        'vplace:',                           # set position (a0 ctx, a1 x in px, a2 y): col = x / 8, the next run
+        ('andi', 't0', 'a1', 7),             # starts x % 8 px into it
+        ('lui', 't1', H(VOFF)),
+        ('sw', 't0', L(VOFF), 't1'),
+        ('j', SET_POS),
+        ('srl', 'a1', 'a1', 3),
 
         'vtokw:',                            # (a3 token) -> v0 px of its English (t0, t1, t4, t5)
         ('addiu', 'sp', 'sp', -0x18),
@@ -707,6 +722,23 @@ def lines(tok_label):
 
 H, L = asm.hi, asm.lo
 
+EQUIP_BMP = 0x800a5244             # 32 x 16 px 4bpp bitmap 装備可 ("can equip"), LoadImage'd by 0x80020f70
+
+
+def bitmap(text, w=32, h=16, ink=7):
+    """4bpp bitmap (2 px per byte, low nibble first) of text in our font, colour index ink on 0"""
+    px = [[0] * w for _ in range(h)]
+    x = FONT_LEFT
+    for c in text:
+        rows, adv = (bytes(12), SPACE_ADV) if c == ' ' else _G[c]
+        for y, r in enumerate(rows):
+            for k in range(8):
+                if r & (0x80 >> k) and x + k < w:
+                    px[FONT_TOP + y][x + k] = ink
+        x += adv
+    assert x <= w + 1, 'bitmap %r: %d px' % (text, x)
+    return bytes(row[i] | row[i + 1] << 4 for row in px for i in range(0, w, 2))
+
 
 def patch(exe, lab, put, expect):
     """message box line cutter -> vcut; message box width from the widest line in pixels"""
@@ -825,6 +857,35 @@ def patch(exe, lab, put, expect):
     # at cell 11: right / 8 - 13 leaves ~12 px left / ~24 px right in the narrowest box.
     expect(exe, 0x8003d574, [0x2484fff0])
     put(exe, 0x8003d574, asm.assemble(0x8003d574, [('addiu', 'a0', 'a0', -13)]))
+    # officer list page 3 (Info > Officer / Equip / Items > Use, Sort; R1 twice; rows 0x80076780..): equipment icons
+    # at cells 9 + 2i (i < 3), items at 10 + 2i -> 11 + 2i as the battle Units list (ends at cell 37); headers
+    # "Equip" / "Items" 9 / 22 -> 12 / 25; the cursor bar (0x800761e8(row, width)) 48 -> 72 px over the name
+    # (issue #3: "Zhuge Liang" ran into the first icon, the bar was shorter than the name)
+    for va, old in ((0x800767d0, 0x24620009), (0x800767d4, 0x2462000a), (0x80076800, 0x24a50009),
+                    (0x80076804, 0x24a5000a)):
+        expect(exe, va, [old])
+        put(exe, va, struct.pack('<I', old & 0xffff0000 | 11))
+    for va, old, new in ((0x800768e4, 9, 12), (0x80076910, 0x16, 25), (0x80076b18, 0x30, 72)):
+        expect(exe, va, [0x34050000 | old])
+        put(exe, va, asm.assemble(va, [('ori', 'a1', 'zero', new)]))
+    # ring-menu labels (Info / Equip / Items ...; 0x80030060 0x80030524 hub, 0x8005f2c4 0x8005f714 battle): centred
+    # under the icon at x (s1/s3) by col = x / 8 - (len / 2 - 2), i.e. in whole cells -> centred to the pixel:
+    # left = x + 16 - width / 2 via vplace (issue #3: labels sat left, centred or right of their icons)
+    for va, x, y, keep in ((0x80030060, 's1', 's2', 0x26730001), (0x80030524, 's3', 's2', 0x26310001),
+                           (0x8005f2c4, 's1', 's2', 0x26730001), (0x8005f714, 's3', 's1', 0x26520001)):
+        expect(exe, va, [0x0c0250c8, keep])
+        n = next(i for i in range(8, 14) if struct.unpack_from('<I', exe, va + 4 * i - 0x8000f800)[0] == 0x0c008b08)   # jal set position
+        put(exe, va, asm.assemble(va, [
+            ('jal', lab['vstrlen']), ('nop',),
+            ('lui', 't0', H(VPX)), ('lw', 'v0', L(VPX), 't0'), ('lui', 'a0', H(CTX)),
+            ('srl', 'v0', 'v0', 1), ('subu', 'a1', x, 'v0'), ('addiu', 'a1', 'a1', 16),
+            ('addiu', 'a0', 'a0', L(CTX))] + [('nop',)] * (n - 9) + [
+            ('jal', lab['vplace']), ('addiu', 'a2', y, 0x18)]))
+        put(exe, va + 4, struct.pack('<I', keep))
+    # item details (Square on an item): the "can equip" label before the class icons is a bitmap, not text
+    # (issue #3: 装備可 showed); the item-type-3 variant prints "Usable" (0x800dc848) as text
+    expect(exe, EQUIP_BMP + 16, [0, 0, 0x7007, 0, 0x70070000, 0x7000000, 0x77007007, 0x7777777])
+    put(exe, EQUIP_BMP, bitmap('Equip'))
     # shop price prompt (0x80032540..): lines 2-3 at x 10, line 1 ("「%sでしたら") at x 8 -> the JP indent past the
     # quote mark; English has no quote -> all at x 8
     for va in (0x80032580, 0x800325d0):

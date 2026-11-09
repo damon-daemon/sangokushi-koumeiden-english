@@ -497,7 +497,7 @@ Ah, the decisive battle!
 I will take that Cao Cao alive, I swear it!
 
 @81.0
-Then everyone, we march at once! We will meet Cao Cao at Red Cliffs!
+Then everyone, we march at once! We will meet Cao Cao at Chibi!
 
 @81.1
 Yes, sir!
@@ -512,7 +512,7 @@ I hesitate no longer. I will challenge Cao Cao to a decisive battle!
 Even Zhou Yu... But if it is my lord's will, it cannot be helped.
 
 @85.0
-Master Kongming, please do come to Red Cliffs as well. Wu's navy is stationed there.\n\nPlease lend your strength to Zhou Yu.
+Master Kongming, please do come to Chibi as well. Wu's navy is stationed there.\n\nPlease lend your strength to Zhou Yu.
 
 @85.1
 Understood. Then let us go.
@@ -521,25 +521,25 @@ Understood. Then let us go.
 Then I must make my preparations.
 
 @86
-Go to the camp at Red Cliffs
+Go to the camp at Chibi
 
 @87.0
-Master Kongming, I ask you too: please help Zhou Yu at Red Cliffs.
+Master Kongming, I ask you too: please help Zhou Yu at Chibi.
 
 @88.0
 Since it has come to this, there is nothing for it. Master Kongming, I trust you to do your best for Wu.
 
 @89
-Red Cliffs: Camp
+Chibi: Camp
 
 @90.0
-Ah, Master Kongming. Thank you for troubling yourself to come all the way to Red Cliffs.\n\nI will have many things to ask you from now on. I count on you when the time comes.
+Ah, Master Kongming. Thank you for troubling yourself to come all the way to Chibi.\n\nI will have many things to ask you from now on. I count on you when the time comes.
 
 @91.0
 Of course. For Wu and for my lord, I do not mind such hardship.
 
 @92.0
-Master Kongming, we have prepared a residence for you here at Red Cliffs.\n\nPlease use it as you wish.
+Master Kongming, we have prepared a residence for you here at Chibi.\n\nPlease use it as you wish.
 
 @92.1
 Thank you.
@@ -548,7 +548,7 @@ Thank you.
 Then let us go to the residence at once.
 
 @93
-Go to the residence at Red Cliffs
+Go to the residence at Chibi
 
 @94.0
 Battle will not come right away. Please rest at the residence.
@@ -557,7 +557,7 @@ Battle will not come right away. Please rest at the residence.
 Once you step outside, you will easily find the residence.
 
 @96
-Red Cliffs: Residence
+Chibi: Residence
 
 @97.0
 If you need anything, please tell me.
@@ -593,19 +593,19 @@ Yes! It is time to march and make Wu feel our strength!
 ...Very well, we march! The whole army will attack and destroy Wu!
 
 @106.0
-The whole army, march for Red Cliffs!
+The whole army, march for Chibi!
 
 @107
-Red Cliffs: Residence
+Chibi: Residence
 
 @108.0
 Now then... I have no particular business. Perhaps I will take a walk outside.
 
 @109
-Look around Red Cliffs
+Look around Chibi
 
 @110
-Red Cliffs: Assembly Hall
+Chibi: Assembly Hall
 
 @111.0
 This is the assembly hall. ...Oh?\n\nIs that not Brother Pang Tong over there? No mistake, it is Brother Pang Tong.
@@ -626,7 +626,7 @@ Yes, Zhou Yu invited me. I have been imposing on him for a while now.
 Kongming, have you seen Cao Cao's fleet yet? It is a great fleet like none I have ever seen.
 
 @114.0
-I heard you had come to Red Cliffs, so I thought I would come and see.
+I heard you had come to Chibi, so I thought I would come and see.
 
 @114.2
 I saw Cao Cao's army on my way here. It is a great fleet like none I have ever seen.
@@ -680,7 +680,7 @@ Oh, I mean to chain Cao Cao's ships together before the fire attack.
 Ah, the Chain Stratagem!
 
 @117.8
-It will help you, too. And if Xu Shu is in Cao Cao's camp, I must get him out.\n\nBefore Red Cliffs becomes a sea of fire...
+It will help you, too. And if Xu Shu is in Cao Cao's camp, I must get him out.\n\nBefore Chibi becomes a sea of fire...
 
 @117.9
 Yes, indeed. Then take care.
@@ -692,10 +692,10 @@ Yes, thank you. I will go at once. Until we meet again, Kongming.
 I never thought I would see Brother Pang Tong here. The Chain Stratagem, is it...\n\n(It will cause trouble if I leave the residence empty too long. I had better go back.)
 
 @119
-Return to the Red Cliffs residence
+Return to the Chibi residence
 
 @120
-Red Cliffs: Residence
+Chibi: Residence
 
 @121.0
 Ah, Master Kongming. Where have you been? I have been looking for you.
@@ -710,13 +710,13 @@ Zhou Yu would like you to come. Would you be so kind as to go to the camp?
 Zhou Yu... Understood. Let us go at once.
 
 @123
-Go to the camp at Red Cliffs
+Go to the camp at Chibi
 
 @124.0
 Zhou Yu would like you to come. Please go to the camp.
 
 @125
-Red Cliffs: Camp
+Chibi: Camp
 
 @126.0
 Ah, Master Kongming. I have been waiting for you.
@@ -1058,7 +1058,7 @@ Before the pursuers arrive. Come, quickly!
 1. Pursue Cao Cao
 
 @174.0
-No, we cannot neglect the defense of Jiangxia.\n\nIt is not the defeated Cao Cao but Wu, Zhou Yu, who may attack Jiangxia.
+No, we cannot neglect the defense of Jiangxia.\n\nIt is not the defeated Cao Cao but Wu, that is, Zhou Yu, who may attack Jiangxia.
 
 @174.1
 True... They say Zhou Yu tried to take Kongming's life as well.
@@ -1340,7 +1340,7 @@ No, it is not yet decided. ...Jing Province. Now that Cao Cao's army is weakened
 Jing Province...
 
 @218.5
-If we take Jing Province, Wu will gain a foothold toward the realm.
+If we take Jing Province, Wu will gain a foothold for taking the whole realm.
 
 @218.6
 Yes. The fighting looks set to go on. Zhou Yu, I rely on you hereafter as well.
@@ -1355,7 +1355,7 @@ Yes, my lord!
 ......\n\n\nBecause of me, I let so many of my men die...
 
 @221.1
-True... Red Cliffs was bitter. But you are alive, Prime Minister. It is not over yet.
+True... Chibi was bitter. But you are alive, Prime Minister. It is not over yet.
 
 @221.2
 Cao Ren is right. Let us rebuild the army and march south again.
@@ -1367,7 +1367,7 @@ Yes... you are right. First we must hurry to recover our national strength.\n\nI
 Yes, sir. Leave it to me.
 
 @223.0
-I leave Xiahou Dun at this Xiangyang. Xiahou Dun, I count on you.
+I leave Xiahou Dun here at Xiangyang. Xiahou Dun, I count on you.
 
 @224.0
 Yes, sir! No matter what great army comes, I will hold it to the death.
@@ -1382,7 +1382,7 @@ Hold Jiangling to the death!
 Now, we withdraw to Xuchang. ...I will never forget this bitterness.
 
 @230.0
-Your Majesty. Concerning Prime Minister Cao, who marched to Red Cliffs...
+Your Majesty. Concerning Prime Minister Cao, who marched to Chibi...
 
 @230.1
 What of him? Do you mean he has finally defeated Liu Bei?

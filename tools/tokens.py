@@ -63,7 +63,7 @@ STRLEN_CALLS = [
     0x8003d0bc,   # caption box (message box mode 3, 0x8003d0a4): col = 20 - len / 2, width len * 8 + 32
     0x800234c4,   # centred printer 0x800234a4(ctx, width, text)
     0x8001cbcc, 0x8001cbf0, 0x8001e3d4, 0x8001e404, 0x8001e590, 0x8001e5c0,   # right-aligned: col = x / 8 - len
-    0x80030060, 0x80030524, 0x8005f2c4, 0x8005f714,   # centred: col = x / 8 - (len / 2 - 2)
+    # (ring-menu labels 0x80030060 0x80030524 0x8005f2c4 0x8005f714: vwf.patch centres them to the pixel)
     0x80058c14, 0x800624b4,   # centred in 8 cells: col = (8 - len) / 2
 ]
 

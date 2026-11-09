@@ -1097,7 +1097,7 @@ Zhuge Zhan leveled up!
 We cannot fight on any longer... Retreat! Retreat!
 
 @260.0
-Ah, Kongming. We meet for the first time since the eve of Red Cliffs.
+Ah, Kongming. We meet for the first time since the eve of Chibi.
 
 @260.1
 It has been a long time, Lord Sun Quan. How about it? Would this be a good time to withdraw your troops?
@@ -1115,7 +1115,7 @@ You want nothing more than an alliance? Is that truly your heart?
 ...For now.
 
 @260.6
-Heh... ha ha ha ha. ...You are the same as ever, Kongming. Not a bit changed since Red Cliffs.
+Heh... ha ha ha ha. ...You are the same as ever, Kongming. Not a bit changed since Chibi.
 
 @260.7
 I am honored.

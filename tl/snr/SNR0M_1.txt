@@ -1148,7 +1148,7 @@ Zhao Yun leveled up!
 To think this great army was beaten... I cannot face the Prime Minister.
 
 @149.1
-Xu Shu's words were no lie. We have to call it a splendid command.
+Xu Shu's words were no lie. I must admit, that was masterful generalship.
 
 @149.2
 Zhuge Liang... Remember this!!
@@ -1232,7 +1232,7 @@ Eh?! B-but that's... Cai Mao, what should I do?
 I do not think Jing's forces can beat Cao Cao's great army. Let us surrender honorably. Then Jing Province will be safe.
 
 @167.0
-Surrender is out of the question!\n\nIf we surrender to a rebel like that, we will not have lives enough to pay for it!
+Surrender is out of the question!\n\nIf we surrender to a rebel like that, we would need a dozen lives to come out of it alive!
 
 @167.1
 Eh... is that so?
