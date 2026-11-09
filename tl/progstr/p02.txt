@@ -103,10 +103,12 @@ PROG:800161c4	End commands for all units?
 PROG:800161e8	View Chg
 PROG:800161f4	End Turn
 PROG:80016210	-
-PROG:80016230	Items
+# trailing space: as wide as "Strats", which it overwrites when the header toggles (issue #3)
+PROG:80016230	Items 
 PROG:8001623c	Strats
 PROG:80016248	-----
-PROG:80016254	Items
+# trailing space: as wide as "Strats", which it overwrites when the header toggles (issue #3)
+PROG:80016254	Items 
 PROG:80016260	Strats
 PROG:80016278	No units can act.\n\n%s
 PROG:800162c4	%s promoted to %s!
@@ -342,10 +344,10 @@ PROG:80018e14	Yes.
 PROG:80018e20	If he does have the makings of an emperor, then please assist him.
 PROG:80018e60	Kongming, I entrust my son Liu Shan to you.
 PROG:80018e8c	Your Majesty...
-PROG:80018e98	This is what is known as the Battle of Red Cliffs.
+PROG:80018e98	This is what is known as the Battle of Chibi.
 PROG:80018ed4	Cao Cao's great fleet was burned to ashes.
 PROG:80018f14	The flames Huang Gai set rode the southeast wind and spread in an instant.
-PROG:80018f5c	What?! Fengchu's scheme has backfired here!
+PROG:80018f5c	What?! The Young Phoenix's scheme has backfired here!
 PROG:80018f9c	It's no use. The ships are chained together, so they cannot scatter.
 PROG:80018fe4	Damn it, scatter the ships! Flee the burning ones!
 PROG:80019020	That's right, it was the Self-Injury Ploy. You fool, you only now realize it?

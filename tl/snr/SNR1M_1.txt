@@ -5,7 +5,7 @@
 Act 2: The Realm in Three
 
 @3.0
-My lord, we beat Cao Cao at Red Cliffs, but this alone cannot be called a complete victory.
+My lord, we beat Cao Cao at Chibi, but this alone cannot be called a complete victory.
 
 @3.1
 Yes. You mean Jing Province.
@@ -26,7 +26,7 @@ Yes, understood. Then I will petition the throne to recognize Liu Qi as Governor
 Kongming. I leave the details to you.
 
 @6
-Wu's army, in high spirits after its great victory at Red Cliffs, turned to the offensive. Sun Quan himself besieged Hefei, while Zhou Yu set about taking Jiangling. Zhou Yu marched because Liu Bei showed signs of aiming at Jiangling, and Wu felt it urgent to seize Jing Province's key stronghold first.\n\nBut Jiangling, held by Cao Ren, was strongly defended and not easily taken. In the midst of the siege, Zhou Yu was struck in the body by a poisoned arrow shot by the garrison.
+Wu's army, in high spirits after its great victory at Chibi, turned to the offensive. Sun Quan himself besieged Hefei, while Zhou Yu set about taking Jiangling. Zhou Yu marched because Liu Bei showed signs of aiming at Jiangling, and Wu felt it urgent to seize Jing Province's key stronghold first.\n\nBut Jiangling, held by Cao Ren, was strongly defended and not easily taken. In the midst of the siege, Zhou Yu was struck in the body by a poisoned arrow shot by the garrison.
 
 @7
 Jiangling: Wu Camp
@@ -572,7 +572,7 @@ Prime Minister, please wait.
 What is it, Cheng Yu? Do you oppose the march?
 
 @130.1
-Yes. Our army has not yet healed from Red Cliffs. If we meet Liu Bei in this state...
+Yes. Our army has not yet healed from Chibi. If we meet Liu Bei in this state...
 
 @130.2
 ...Are you saying we would lose?
@@ -584,7 +584,7 @@ No, I do not say we would lose... but neither can I say we would win. Either way
 What is it, Xun You? Do you oppose the march?
 
 @131.1
-Yes. Our army has only just healed from Red Cliffs... If we meet Liu Bei in this state...
+Yes. Our army has only just healed from Chibi... If we meet Liu Bei in this state...
 
 @131.2
 ...Are you saying we would lose?
@@ -686,7 +686,7 @@ Hm?
 I hear Liu Qi died of illness and Liu Bei has become Governor of Jing.
 
 @159.0
-It was we of Wu who burned Cao Cao's army at Red Cliffs and drove it back north. Liu Bei merely watched from the heights, and chased Cao Cao only once the outcome was decided!\n\nNaturally, should Jing Province not return to us of Wu?!
+It was we of Wu who burned Cao Cao's army at Chibi and drove it back north. Liu Bei merely watched from the heights, and chased Cao Cao only once the outcome was decided!\n\nNaturally, should Jing Province not return to us of Wu?!
 
 @160.0
 And yet... At this rate, it is as if we fought for Liu Bei's sake.
@@ -707,7 +707,7 @@ Please wait!
 Lu Su...
 
 @164.0
-Though we beat Cao Cao at Red Cliffs, he is alive and his power is still great. Even if we take Jing Province now, if Cao Cao attacks again we could not hold it.
+Though we beat Cao Cao at Chibi, he is alive and his power is still great. Even if we take Jing Province now, if Cao Cao attacks again we could not hold it.
 
 @165.0
 Worse, if Cao Cao attacks from both Jing and Yang Provinces, Wu will fall!
@@ -788,7 +788,7 @@ Gasp, gasp... Ugh. On the eve of taking Yi Province... my life is spent...\n\nYi
 Zhou Yu!!
 
 @189
-In the fifteenth year of Jian'an (210 AD), Wu's Commander in Chief Zhou Yu finally passed away. Two years after the "Battle of Red Cliffs," he was only thirty-six years old.
+In the fifteenth year of Jian'an (210 AD), Wu's Commander in Chief Zhou Yu finally passed away. Two years after the "Battle of Chibi," he was only thirty-six years old.
 
 @191.0
 My lord, Wu's Commander in Chief Zhou Yu has died of illness!
@@ -887,7 +887,7 @@ Ma Su... He is quite a sharp man.
 Kongming, are you in?
 
 @207.0
-Thank you for Red Cliffs. Thanks to you we won a great victory.
+Thank you for Chibi. Thanks to you we won a great victory.
 
 @207.1
 Oh, it was nothing. I got Xu Shu out safely too. It would be a pity to see him roasted whole.\n\nMore than that... there is someone I want you to meet.
@@ -1286,7 +1286,7 @@ My lord, Cao Cao will not do. He is a traitor to the Han, a treacherous schemer 
 Th-then what will happen about the reinforcements?
 
 @307.2
-My lord, I have an idea.\n\nThe Imperial Uncle in Jing Province is, like you, of the Han line, and a man famed for benevolence. Besides, since Red Cliffs even Cao Cao has been thoroughly afraid of him.\n\nIf we ally with the Imperial Uncle in Jing Province, we need fear neither Cao Cao nor Zhang Lu.
+My lord, I have an idea.\n\nThe Imperial Uncle in Jing Province is, like you, of the Han line, and a man famed for benevolence. Besides, since Chibi even Cao Cao has been thoroughly afraid of him.\n\nIf we ally with the Imperial Uncle in Jing Province, we need fear neither Cao Cao nor Zhang Lu.
 
 @308.0
 Oh, that is good. Yes, I was just thinking the same.

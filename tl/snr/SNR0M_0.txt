@@ -893,7 +893,7 @@ I earnestly wish you to lend your talent to saving the nation and relieving the 
 I am Liu Bei of Xinye. Out of admiration for your great name I have called on you twice, and I regret that I could not meet you.\n\nAs one of the imperial house of Han, I am filled with grief and anger at the present age, when the court's power has faded, the realm has no law, and warlords contend.
 
 @190
-I hold the aim of setting the nation right, but I lack talent and have no plan to save the world.\n\nIf you would bring the great ability of Taigong Wang and the grand strategy of Zhang Liang to bear, with benevolence and loyalty, no happiness for all under heaven could surpass it.\n\nI will call on you after fasting and bathing. I would be grateful if you would grant me an audience then.  Liu Bei
+I hold the aim of setting the nation right, but I lack talent and have no plan to save the world.\n\nIf you would lend me your benevolence and loyalty and bring the great ability of Taigong Wang and the grand strategy of Zhang Liang to bear, there could be no greater blessing for all the people of the realm.\n\nI will call on you after fasting and bathing. I would be grateful if you would grant me an audience then.  Liu Bei
 
 @191.0
 We spoke only briefly, but he was a very pleasant man.

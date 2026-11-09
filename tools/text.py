@@ -21,10 +21,11 @@ sys.path.insert(0, os.path.dirname(__file__))
 import vwf
 
 CHAR_PX = 8
+NARR_MARGIN = 6                          # right gap in the narration box (issue #3: text touched the border)
 NPC_COLS = 36
 DMES_COLS, DMES_LINES = 29, 3          # the talk box (seen in battle, session 13: 32 overflowed)
 DMES_BREAK = 0x01                        # build.py patches the reader's break byte (was 0x73) to this
-WIDTH = {'talk': 29 * CHAR_PX, 'narr': 36 * CHAR_PX, 'choice': 29 * CHAR_PX, 'plain': 36 * CHAR_PX,
+WIDTH = {'talk': 29 * CHAR_PX, 'narr': 36 * CHAR_PX - NARR_MARGIN, 'choice': 29 * CHAR_PX, 'plain': 36 * CHAR_PX,
          'npc': NPC_COLS * CHAR_PX, 'dmes': DMES_COLS * CHAR_PX}
 PAGE = {'talk': 3, 'narr': 6, 'choice': 0, 'plain': 0, 'npc': 3, 'dmes': DMES_LINES}
 EOL = {'talk': '\n', 'narr': '\r\n', 'choice': '\r\n', 'plain': '\r\n', 'npc': '\n', 'dmes': ''}
