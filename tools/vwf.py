@@ -309,7 +309,9 @@ def lines(tok_label):
         ('jr', 'ra'),
         ('addiu', 'sp', 'sp', 0x150),
 
-        'vsetpos:',                          # set position 0x80022c20(ctx, col, y): the run of this ctx ends
+        'vsetpos:',                          # set position 0x80022c20(ctx, col, y): the run of this ctx ends,
+        ('lui', 't0', H(VOFF)),              # a pending vplace offset is dropped
+        ('sw', 'zero', L(VOFF), 't0'),
         ('lui', 't0', H(RUNS)),
         ('addiu', 't0', 't0', L(RUNS)),
         ('ori', 't1', 'zero', SLOTS),
@@ -540,11 +542,18 @@ def lines(tok_label):
         ('addiu', 'sp', 'sp', 0x20),
 
         'vplace:',                           # set position (a0 ctx, a1 x in px, a2 y): col = x / 8, the next run
-        ('andi', 't0', 'a1', 7),             # starts x % 8 px into it
+        ('addiu', 'sp', 'sp', -0x18),        # starts x % 8 px into it (set after the set position, which clears it)
+        ('sw', 'ra', 0x14, 'sp'),
+        ('sw', 'a1', 0x10, 'sp'),
+        ('jal', SET_POS),
+        ('srl', 'a1', 'a1', 3),
+        ('lw', 't0', 0x10, 'sp'),
+        ('lw', 'ra', 0x14, 'sp'),
+        ('andi', 't0', 't0', 7),
         ('lui', 't1', H(VOFF)),
         ('sw', 't0', L(VOFF), 't1'),
-        ('j', SET_POS),
-        ('srl', 'a1', 'a1', 3),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 0x18),
 
         'vtokw:',                            # (a3 token) -> v0 px of its English (t0, t1, t4, t5)
         ('addiu', 'sp', 'sp', -0x18),
@@ -874,7 +883,8 @@ def patch(exe, lab, put, expect):
     for va, x, y, keep in ((0x80030060, 's1', 's2', 0x26730001), (0x80030524, 's3', 's2', 0x26310001),
                            (0x8005f2c4, 's1', 's2', 0x26730001), (0x8005f714, 's3', 's1', 0x26520001)):
         expect(exe, va, [0x0c0250c8, keep])
-        n = next(i for i in range(8, 14) if struct.unpack_from('<I', exe, va + 4 * i - 0x8000f800)[0] == 0x0c008b08)   # jal set position
+        n = next(i for i in range(8, 14)    # the jal set position ends the replaced code
+                 if struct.unpack_from('<I', exe, va + 4 * i - (0x80010000 - 0x800))[0] == 0x0c008b08)
         put(exe, va, asm.assemble(va, [
             ('jal', lab['vstrlen']), ('nop',),
             ('lui', 't0', H(VPX)), ('lw', 'v0', L(VPX), 't0'), ('lui', 'a0', H(CTX)),
