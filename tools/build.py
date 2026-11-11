@@ -208,6 +208,7 @@ def map_quad():
             ('mult', reg, 'v0'),
             ('sw', 'v1', o_len, 'sp'),
             ('mflo', reg),
+            ('nop',), ('nop',),                      # R3000: no mult/div within two instructions of mflo
             ('div', reg, 't0'),
             ('mflo', reg),
             ('addiu', reg, reg, 1)]
