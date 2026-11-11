@@ -83,16 +83,26 @@ def main():
             out += [textwrap.fill(' '.join(plain(m.group(0)).split()), 78), '']
     out += [heading("What's translated"), plain(section(md, "What's translated")), '']
     out += [heading('How to patch'),
-            'You need an unmodified image of the Japanese disc (serial %s), in the' % GAME_CODE,
-            'usual two-track BIN/CUE form. Only track 1 is patched:', '',
-            '  %s' % JP_TRACK1, table(sums(clean)), '',
-            'Apply %s to it with an xdelta tool, e.g. Delta Patcher' % patch_name,
-            '(https://github.com/marco-calautti/DeltaPatcher), or on the command line:', '',
+            'You need your own unmodified image of the Japanese disc (serial %s): two' % GAME_CODE,
+            '.bin files (Track 1 and Track 2). Only track 1 is patched.', '',
+            '1. Make a copy of your Track 1 .bin file and name the copy exactly:', '',
+            '     %s' % en_track1, '',
+            '   Keep the original file as it is.', '',
+            '2. Open Delta Patcher (https://github.com/marco-calautti/DeltaPatcher).',
+            '   Under "Original file" choose the copy, under "XDelta patch" choose',
+            '   %s, and click "Apply patch".' % patch_name,
+            '   A checksum error means your disc image is not the one the patch was',
+            '   made for (compare with the values below).', '',
+            '3. Track 2 (CD audio, not changed) must be named exactly:', '',
+            '     %s' % JP_TRACK2, '',
+            '4. Put the patched track 1, track 2 and "%s"' % en_cue,
+            '   (in this zip) in one folder and open the .cue in your emulator.', '',
+            'Command line instead of steps 1 and 2:', '',
             '  xdelta3 -d -s "%s" %s "%s"' % (JP_TRACK1, patch_name, en_track1), '',
+            'The original track 1 should match:', '',
+            '  %s' % JP_TRACK1, table(sums(clean)), '',
             'The patched track 1 should match:', '', table(sums(built)), '',
-            'Track 2 (CD audio) is not changed:', '', '  %s' % JP_TRACK2, table(sums(track2)), '',
-            'Put "%s" (in this zip) in the same folder as' % en_cue,
-            'the patched track 1 and the original track 2, and open the .cue in your emulator.', '']
+            'Track 2:', '', '  %s' % JP_TRACK2, table(sums(track2)), '']
     out += [heading('Known issues'), plain(section(md, 'Known issues')), '']
     out += [heading('Credits'), plain(section(md, 'Credits')), '']
     readme = '\n'.join(out).replace('\n\n\n', '\n\n')
