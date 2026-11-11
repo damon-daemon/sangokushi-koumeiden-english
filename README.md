@@ -137,6 +137,13 @@ No disc data is ever packaged.
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, DuckStation automation) |
 | `docs/screenshots/` | README screenshots |
 
+## HD texture pack (optional)
+
+For DuckStation there is a separate, optional
+[HD texture pack builder](https://github.com/damon-daemon/sangokushi-koumeiden-hd-textures): it
+shows the higher-resolution art of the game's Windows 95 release in the PlayStation game. It
+needs your own Windows 95 disc and this patch v0.9.4 or later.
+
 ## Known issues
 
 - The title logo, the loading screen art, the Koei slogan logo and the movies are unchanged.
