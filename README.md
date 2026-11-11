@@ -45,29 +45,60 @@ Long labels are shortened where the game's boxes are too small.
 
 ## Applying the patch (players)
 
-1. Download the release zip (`Sangokushi_Koumeiden_English_v<version>.zip`) from the Releases
-   page. It contains the patch `sangokushi_koumeiden_en_v<version>.xdelta`, a `.cue` file and
-   a README.txt.
-2. You need an unmodified image of the Japanese disc (serial `SLPS-00688`) in the usual two-track
-   BIN/CUE form. Only track 1 is patched:
+You need:
 
-   | Track 1 | |
-   |---|---|
-   | Size  | 678,086,304 bytes |
-   | CRC32 | `33EAE625` |
-   | MD5   | `b49f73f3fe4936d58fb5a9adb99b1306` |
-   | SHA-1 | `db5e32a8b879924862e72e3337be2c710da687e2` |
+- **Your own copy of the Japanese disc as a disc image** (serial `SLPS-00688`): two `.bin` files
+  (Track 1 and Track 2) and a `.cue` file. The patch does not contain the game.
+- **A patching program.** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) is
+  free and needs no installation.
+- **A PlayStation emulator.** The patch was tested in [DuckStation](https://www.duckstation.org/).
 
-   Track 2 (CD audio, 37,810,752 bytes, CRC32 `40E86050`) is used unchanged.
-3. Apply the patch to track 1 with an xdelta tool, e.g.
-   [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or the command line:
+Steps:
 
-   ```
-   xdelta3 -d -s "Sangokushi Koumeiden (Japan) (Track 1).bin" sangokushi_koumeiden_en_v<version>.xdelta "Sangokushi Koumeiden (English v<version>) (Track 1).bin"
-   ```
+1. **Download the patch.** Get `Sangokushi_Koumeiden_English_v<version>.zip` from the
+   [Releases page](https://github.com/damon-daemon/sangokushi-koumeiden-english/releases) and
+   unzip it. Inside are the patch (`.xdelta`), a `.cue` file and a README.txt.
+2. **Copy Track 1.** Make a copy of your Track 1 `.bin` file and give the copy exactly this
+   name, with the version number of the zip you downloaded (for example `v0.9.4`):
 
-4. Put the zip's `Sangokushi Koumeiden (English v<version>).cue` next to the patched track 1
-   and the original track 2, and open the `.cue` in your emulator.
+   `Sangokushi Koumeiden (English v<version>) (Track 1).bin`
+
+   Keep the original file as it is.
+3. **Patch the copy.** Open Delta Patcher. Under **Original file** choose the copy you just
+   made, under **XDelta patch** choose the `.xdelta` file from the zip, and click
+   **Apply patch**.
+
+   If it reports a checksum error, your disc image is not the one the patch was made for:
+   compare it with the table below.
+4. **Check the name of Track 2.** It must be named exactly
+   `Sangokushi Koumeiden (Japan) (Track 2).bin`. Rename it if yours is named differently.
+   Track 2 is the game's CD audio and is not changed.
+5. **Put three files in one folder:** the patched Track 1, Track 2, and
+   `Sangokushi Koumeiden (English v<version>).cue` from the zip.
+6. **Play.** Open that `.cue` file in your emulator.
+
+If the emulator says it cannot find a file, a name in step 2 or 4 does not match exactly.
+
+### Is my disc image the right one?
+
+The patch fits an unmodified image of the Japanese disc. Track 1 must match:
+
+| Track 1 | |
+|---|---|
+| Size  | 678,086,304 bytes |
+| CRC32 | `33EAE625` |
+| MD5   | `b49f73f3fe4936d58fb5a9adb99b1306` |
+| SHA-1 | `db5e32a8b879924862e72e3337be2c710da687e2` |
+
+Track 2 is 37,810,752 bytes, CRC32 `40E86050`.
+
+### Command line
+
+Instead of Delta Patcher (steps 2 and 3) you can use `xdelta3`:
+
+```
+xdelta3 -d -s "Sangokushi Koumeiden (Japan) (Track 1).bin" sangokushi_koumeiden_en_v<version>.xdelta "Sangokushi Koumeiden (English v<version>) (Track 1).bin"
+```
 
 ## Building from source
 
