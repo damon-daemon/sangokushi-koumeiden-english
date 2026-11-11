@@ -7,9 +7,10 @@ D = os.path.dirname(os.path.abspath(__file__))
 
 def boxed(path):
     im = Image.open(path).convert('RGB')
+    k = im.width // 320                      # screenshots are internal resolution (4x with the hardware renderer)
     for y in (79, 80, 81, 159, 160, 161):
-        r, g, b = im.getpixel((160, y))
-        if r == g == b and 60 < r < 200:
+        r, g, b = im.getpixel((160 * k + k // 2, y * k + k // 2))
+        if max(r, g, b) - min(r, g, b) <= 2 and 60 < r < 200:
             return True
     return False
 
