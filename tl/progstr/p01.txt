@@ -212,7 +212,7 @@ PROG:8001250c	Type
 PROG:80012518	Items
 PROG:80012524	Sort
 PROG:80012530	Select officers to deploy.
-PROG:80012550	Units %2d/%2d  Info  All  End
+PROG:80012550	Units %2d/%2d   Info       All    End
 PROG:80012578	Are you sure?          Yes    No
 PROG:800125f4	Loading from Memory Card %s.\nDo not remove the Memory Card.
 PROG:8001263c	Load complete.\n

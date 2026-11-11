@@ -172,6 +172,54 @@ def grow_talk_frame(exe):
         poke(exe, va, [w & 0xffff0000 | imm])
 
 
+SPRITE_SET, SPRITE_HIDE = 0x8006893c, 0x8006902c
+MAP_COLS, MAP_ROWS = 0x800de114, 0x800de115      # u8 map size in cells (8 texels each)
+MAP_QUADS = (0x80057d38, 0x80057d88, 0x80057ddc, 0x80057e3c, 0x80057e88, 0x80057edc,
+             0x80057f58, 0x80057fa4, 0x80058004, 0x80058050, 0x800580d0, 0x8005811c)
+
+
+def map_quad():
+    """sprite_set(slot, x, y, w, h, vram x, vram y, tw, th, ...) for the battle map picture (uploaded at VRAM
+    864,256; 8bpp). The game draws the right-hand quads over a whole 256-texel page and all quads over
+    96/192 rows whatever the map size; the texels beyond the map are transparent. Limit each quad to the
+    map (hide it when nothing is left), so the quad's texture area stays inside the map upload: DuckStation's
+    texture cache (texture replacements) is bypassed when that area touches VRAM that was drawn to."""
+    def clamp(size, org, shift, o_pos, o_len, reg, o_reg):
+        """reg / o_reg: the screen length in a register or in a stack slot"""
+        out = [
+            ('lui', 'v0', asm.hi(size)),
+            ('lbu', 'v0', asm.lo(size), 'v0'),
+            ('lw', 'v1', o_pos, 'sp'),
+            ('lw', 't0', o_len, 'sp'),
+            ('sll', 'v0', 'v0', 3),
+            ('addiu', 'v1', 'v1', -org),
+            ('sll', 'v1', 'v1', shift),
+            ('subu', 'v0', 'v0', 'v1'),              # texels left from this quad's origin
+            ('blez', 'v0', 'hide'),
+            ('addiu', 't0', 't0', -1),               # the quad spans len - 1 texels over length - 1 pixels
+            ('slt', 'v1', 'v0', 't0'),
+            ('beqz', 'v1', 'ok%d' % o_pos),
+            ('addiu', 'v1', 'v0', 1)]                # -> texels 0..left: the same scale, last texel = map edge
+        if reg is None:
+            out += [('lw', 't1', o_reg, 'sp'), ('nop',)]
+            reg = 't1'
+        out += [
+            ('addiu', reg, reg, -1),
+            ('mult', reg, 'v0'),
+            ('sw', 'v1', o_len, 'sp'),
+            ('mflo', reg),
+            ('nop',), ('nop',),                      # R3000: no mult/div within two instructions of mflo
+            ('div', reg, 't0'),
+            ('mflo', reg),
+            ('addiu', reg, reg, 1)]
+        if o_reg is not None:
+            out += [('sw', reg, o_reg, 'sp')]
+        return out + ['ok%d:' % o_pos]
+    return (['mapquad:'] + clamp(MAP_COLS, 0x360, 1, 0x14, 0x1c, 'a3', None)
+            + clamp(MAP_ROWS, 0x100, 0, 0x18, 0x20, None, 0x10)
+            + [('j', SPRITE_SET), ('nop',), 'hide:', ('j', SPRITE_HIDE), ('nop',)])
+
+
 def patch_exe(exe, bak):
     # decompressor 0x80023cf4: single bytes 0x20-0x72 stood for hiragana, 0x73-0x76 for
     # punctuation; copy every single byte < 0x80 so ASCII reaches the printer
@@ -182,6 +230,13 @@ def patch_exe(exe, bak):
     lab = asm.labels(POOL, lines)
     put(exe, POOL, code)
     at = tokens.patch(exe, bak, POOL + len(code), put, expect, peek, STRINGS)
+    lines = map_quad()
+    for a in MAP_QUADS:
+        expect(exe, a, [0x0c000000 | (SPRITE_SET >> 2 & 0x3ffffff)])
+        put(exe, a, asm.assemble(a, [('jal', at)]))
+    code = asm.assemble(at, lines)
+    put(exe, at, code)
+    at += len(code)
     assert at <= POOL_END
     # text read 0x80023c64(ctx, offset, dst): was base (u16 at ctx+0x920) + offset, 0x400 B
     expect(exe, 0x80023c64, [0x27bdffc0, 0xafbf003c])
