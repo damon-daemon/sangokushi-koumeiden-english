@@ -119,7 +119,7 @@ His Majesty has sent us to assist you, Prime Minister.
 We left affairs in Chengdu to Lord Dong Yun and Lord Guo Youzhi. Please rest assured.
 
 @28.0
-Good. It is reassuring that you have come. I count on you both.
+Good. It is reassuring that you have come. I am counting on you both.
 
 @28.1
 By the way, Prime Minister, do you know that Cao Xiu of Wei suffered a great defeat at the hands of Wu?
@@ -167,7 +167,7 @@ His Majesty has sent us to assist you, Prime Minister.
 We left affairs in Chengdu to Lord Dong Yun and Lord Guo Youzhi. Please rest assured.
 
 @38.0
-Good. It is reassuring that you have come. I count on you both.
+Good. It is reassuring that you have come. I am counting on you both.
 
 @39.0
 We are at your service, Prime Minister.
@@ -443,7 +443,7 @@ Yes. The whole army turns toward Hanzhong.
 Understood. So we are to make it look like we turn toward Mount Qi.
 
 @98.1
-Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I count on you.
+Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I am counting on you.
 
 @98.2
 Rest assured. I will take down this Wang Shuang or whatever his name is.
@@ -506,7 +506,7 @@ Yes. The whole army turns toward Hanzhong.
 Understood. So we are to make it look like we turn toward Mount Qi.
 
 @115.1
-Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I count on you.
+Yes. And then we will pick off Cao Zhen. Wei Yan, I give you the rear guard. I am counting on you.
 
 @115.2
 Rest assured. I will take down this Wang Shuang or whatever his name is.

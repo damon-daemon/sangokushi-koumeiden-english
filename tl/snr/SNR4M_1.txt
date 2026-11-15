@@ -590,7 +590,7 @@ His Majesty commands that you defeat Kongming as soon as possible.
 I humbly accept the decree. I will surely avenge Lord Cao Zhen.
 
 @158.3
-I count on you. His Majesty has high hopes as well.
+I am counting on you. His Majesty has high hopes as well.
 
 @159.0
 Someone, send an envoy to Kongming with a letter of challenge from me.

@@ -533,7 +533,7 @@ Since it has come to this, there is nothing for it. Master Kongming, I trust you
 Chibi: Camp
 
 @90.0
-Ah, Master Kongming. Thank you for troubling yourself to come all the way to Chibi.\n\nI will have many things to ask you from now on. I count on you when the time comes.
+Ah, Master Kongming. Thank you for troubling yourself to come all the way to Chibi.\n\nI will have many things to ask you from now on. I am counting on you when the time comes.
 
 @91.0
 Of course. For Wu and for my lord, I do not mind such hardship.
@@ -764,7 +764,7 @@ Pray?! You mean to say that can change the wind?
 Yes. Leave it to me.
 
 @129.4
-...Very well. I will have an altar built at once.\n\nIt was good to hear this today. ...Master Kongming, I count on you.
+...Very well. I will have an altar built at once.\n\nIt was good to hear this today. ...Master Kongming, I am counting on you.
 
 @130.0
 Yes. Then, if you will excuse me.
@@ -1298,7 +1298,7 @@ Guan Yu, thank you for guarding the rear.\n\nBecause you protected our back, we 
 Thank you. The troops left in the castle will be glad to hear it.
 
 @210.0
-Yes. A war is never won by frontal battle alone. ...You understand that, Zhang Fei.
+Yes. A war is never won by frontal battle alone. ...Do you understand, Zhang Fei?
 
 @211.0
 Why say that to me, Brother?!
@@ -1361,13 +1361,13 @@ True... Chibi was bitter. But you are alive, Prime Minister. It is not over yet.
 Cao Ren is right. Let us rebuild the army and march south again.
 
 @221.3
-Yes... you are right. First we must hurry to recover our national strength.\n\nI shall return to Xuchang. Cao Ren, you go to Jiangling. Jiangling is the keystone of Jing Province.\n\nWhen I am gone from Jing Province, Liu Bei and Sun Quan will surely move. I count on you.
+Yes... you are right. First we must hurry to recover our national strength.\n\nI shall return to Xuchang. Cao Ren, you go to Jiangling. Jiangling is the keystone of Jing Province.\n\nWhen I am gone from Jing Province, Liu Bei and Sun Quan will surely move. I am counting on you.
 
 @222.0
 Yes, sir. Leave it to me.
 
 @223.0
-I leave Xiahou Dun here at Xiangyang. Xiahou Dun, I count on you.
+I leave Xiahou Dun here at Xiangyang. Xiahou Dun, I am counting on you.
 
 @224.0
 Yes, sir! No matter what great army comes, I will hold it to the death.

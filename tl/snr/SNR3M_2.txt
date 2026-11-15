@@ -74,7 +74,7 @@ Then, Cao Zhen. Will you go to Chang'an?
 Yes. I, Cao Zhen, will face the Shu army with all the strength I have.
 
 @16.1
-We will make Wang Lang your strategist and Guo Huai your deputy commander.\n\nCao Zhen, We entrust the fate of Wei to you. We count on you.
+We will make Wang Lang your strategist and Guo Huai your deputy commander.\n\nCao Zhen, We entrust the fate of Wei to you. We are counting on you.
 
 @17.0
 Yes, sir! Please await good news.
@@ -995,7 +995,7 @@ Key point though it is, the Prime Minister and General Zhao cannot leave Mount Q
 True... Zhao Yun cannot be sent, and Jiang Wei is not yet used to the army.\n\nAny man will not do. Very well, I leave it to Ma Su. Take Wang Ping with you as deputy.
 
 @240.0
-Ma Su, I count on you, truly.\n\nWhether Jieting can be held decides the outcome of this whole war.
+Ma Su, I am counting on you, truly.\n\nWhether Jieting can be held decides the outcome of this whole war.
 
 @240.1
 Leave it to me. I will surely live up to your expectations.\n\nNow, Prime Minister, please prepare to march out too.
@@ -1046,7 +1046,7 @@ As expected of Zhao Yun, that is right.\n\nMa Su, make camp on the mountain road
 Yes. Then I will march out at once.
 
 @254.3
-Wang Ping, I count on you as well. Assist Ma Su.
+Wang Ping, I am counting on you as well. Assist Ma Su.
 
 @255.1
 Prime Minister, what is the matter?
@@ -1229,7 +1229,7 @@ Zhao Yun, lead an army and withdraw by the Xiegu Road.\n\nIf Hanzhong is attacke
 ...Yes, sir. Even if I die... no, I will surely live and make the retreat succeed.
 
 @282.2
-Zhao Yun... forgive me. I count on you!
+Zhao Yun... forgive me. I am counting on you!
 
 @283.0
 Finish Kongming off! All forces, advance!

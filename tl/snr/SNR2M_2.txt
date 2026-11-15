@@ -542,7 +542,7 @@ What! The supply units were raided!?\n\nAt this rate we will starve. ...Younger 
 Brother, what is it?
 
 @125.2
-Go and scatter them. I count on you!
+Go and scatter them. I am counting on you!
 
 @126.0
 Enemy reinforcements. Who is their commander?

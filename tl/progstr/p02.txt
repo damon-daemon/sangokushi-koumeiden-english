@@ -56,7 +56,7 @@ PROG:80015c30	-Retreated-
 PROG:80015c3c	Type
 PROG:80015c48	Items
 PROG:80015c54	Sort
-PROG:80015c60	 Officer Info  Ally/Foe
+PROG:80015c60	  Officer    Ally/Foe
 PROG:80015c7c	End Sort
 PROG:80015c88	Sort by which item?
 PROG:80015ca4	No allied units in range.

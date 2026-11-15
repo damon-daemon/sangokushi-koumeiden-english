@@ -398,7 +398,7 @@ We will not kill Lord Liu Zhang. When the Han is restored, we intend to reward h
 Is the Imperial Uncle truly a man of benevolence and righteousness, as rumor says?
 
 @114.0
-Indeed! Meet him once, and you will know at once.
+Indeed! Meet him just once, and you will know right away.
 
 @115.0
 ...I understand. I will surrender to Liu Bei.\n\nIf you place me in the vanguard, I will make the commanders of the passes ahead surrender.
@@ -716,7 +716,7 @@ Lord Liu Zhang cannot defend Yi Province. To defend Yi Province, we need someone
 Gao Xiang joined Liu Bei's army.
 
 @163.0
-You are the Imperial Uncle Liu. I, Li Hui, surrender to the Imperial Uncle.
+You are Imperial Uncle Liu Bei. I, Li Hui, surrender to the Imperial Uncle.
 
 @163.1
 You are Lord Li Hui? Why do you wish to surrender to me...?
@@ -728,7 +728,7 @@ The good bird chooses its tree, and the wise minister chooses his lord... Lord L
 Li Hui joined Liu Bei's army.
 
 @166.0
-Imperial Uncle Liu... I, Gao Xiang, surrender to the Imperial Uncle.
+Imperial Uncle Liu Bei... I, Gao Xiang, surrender to the Imperial Uncle.
 
 @166.1
 You are Lord Gao Xiang? I would like to hear your reason.
@@ -905,7 +905,7 @@ Lord Liu Bei, I look forward to serving you. I, Ma Chao, together with Ma Dai, w
 I am Ma Dai, Ma Chao's cousin. I look forward to serving you.
 
 @217.2
-Good. It is reassuring to have such stalwart men. I count on you both.
+Good. It is reassuring to have such stalwart men. I am counting on you both.
 
 @218.0
 Now, as a gift for our surrender, so to speak... I would like to go to Chengdu and make Liu Zhang surrender.
@@ -1049,7 +1049,7 @@ I see. Well done, Guan Xing.
 It was nothing. With Jing Province to defend, I will take my leave and return.
 
 @248.3
-Yes, I count on you.
+Yes, I am counting on you.
 
 @249
 Talk to Huang Yueying

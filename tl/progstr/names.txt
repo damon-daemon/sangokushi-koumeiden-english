@@ -25,7 +25,7 @@ PROG:800dcaf4	Old Woman
 PROG:800dcafc	Old Man
 PROG:800dcb04	Villager
 PROG:800dcb0c	Court Lady
-PROG:800dcb14	Catapult Corps
+PROG:800dcb14	Catapults
 PROG:800dcb1c	Soldier
 PROG:800dcb24	Liu Chen
 PROG:800dcb2c	Zhuge Xuan
@@ -36,7 +36,7 @@ PROG:800dcb4c	Pang Shanmin
 PROG:800dcb54	Meng Gongwei
 PROG:800dcb64	Fu Wan
 PROG:800dcb8c	Qiang Soldier
-PROG:800dcb9c	Nanman Soldier
+PROG:800dcb9c	Nanman Men
 PROG:800dcba4	Ration Corps
 PROG:800dcbbc	Band
 PROG:800dcbcc	Martial Artist

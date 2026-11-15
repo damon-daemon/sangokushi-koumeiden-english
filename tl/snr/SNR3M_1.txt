@@ -26,7 +26,7 @@ Xiliang? You wish to go to such a remote frontier?
 Kongming of Shu pacified the remote Nanman as well. I believe he did it to remove any worry at his back.\n\nXiliang is to Wei what the Nanman are to Shu. I wish to improve order in Xiliang and remove any worry at Wei's back.
 
 @9.1
-I see. Then We leave Xiliang to you. Sima Yi, We count on you.
+I see. Then We leave Xiliang to you. Sima Yi, We are counting on you.
 
 @10.0
 Thank you, Your Majesty. I will begin preparing to depart at once.
@@ -347,7 +347,7 @@ Very well, Xiahou Mao. Go to Chang'an at once and face the Shu army.
 Your Majesty, please wait. With respect, Lord Xiahou Mao has no battle experience.\n\nThis should be given to a man with ample experience in real combat.
 
 @84.1
-No. Xiahou Mao volunteered himself.\n\nWe value Xiahou Mao's spirit. Xiahou Mao, We count on you.
+No. Xiahou Mao volunteered himself.\n\nWe value Xiahou Mao's spirit. Xiahou Mao, We are counting on you.
 
 @85.0
 Leave it to me. Then I will march out at once.
@@ -803,7 +803,7 @@ I will go back once to the Shu camp and bring that Kongming here.
 And we capture Kongming inside the castle. I see, this is a fine plan.
 
 @190.7
-Good! Cui Liang, I count on you. Yang Ling, make preparations inside the castle.
+Good! Cui Liang, I am counting on you. Yang Ling, make preparations inside the castle.
 
 @191.0
 ...I see. You say that because he has many attendants, it is hard to capture Xiahou Mao.
