@@ -662,7 +662,7 @@ I see. Then we will take Sanjiang Castle first. The whole army, prepare to march
 First we take Sanjiang Castle.
 
 @162.0
-King Duosi! I count on you until King Mulu arrives!
+King Duosi! I am counting on you until King Mulu arrives!
 
 @162.1
 Understood. Leave this place to me.
@@ -920,7 +920,7 @@ Prime Minister, shall we march?
 Now we attack the Nanman stronghold. They say the enemy has a beast corps as well. Do not let your guard down!
 
 @217.0
-King Mulu, I count on you!
+King Mulu, I am counting on you!
 
 @217.1
 Ha ha ha, leave it to me! I will make the Shu army learn the power of our beast corps.

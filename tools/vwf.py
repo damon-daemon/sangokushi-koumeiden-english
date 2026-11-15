@@ -555,6 +555,17 @@ def lines(tok_label):
         ('jr', 'ra'),
         ('addiu', 'sp', 'sp', 0x18),
 
+        'lvpos:',                            # attack result panel: position of the level number (s0 panel cell,
+        ('sll', 'a1', 's0', 3),              # s3 = portrait on the right, s1 y): cells 16 / 10 + 4 px
+        ('bnez', 's3', 'lv_right'),
+        ('addiu', 'a1', 'a1', 16 * 8 + 4),
+        ('addiu', 'a1', 'a1', -6 * 8),
+        'lv_right:',
+        ('lui', 'a0', H(CTX)),
+        ('addiu', 'a0', 'a0', L(CTX)),
+        ('j', 'vplace'),
+        ('addiu', 'a2', 's1', 8),
+
         'vtokw:',                            # (a3 token) -> v0 px of its English (t0, t1, t4, t5)
         ('addiu', 'sp', 'sp', -0x18),
         ('sw', 'ra', 0x14, 'sp'),
@@ -901,3 +912,28 @@ def patch(exe, lab, put, expect):
     for va in (0x80032580, 0x800325d0):
         expect(exe, va, [0x3405000a])
         put(exe, va, asm.assemble(va, [('ori', 'a1', 'zero', 8)]))
+    # issue #9 (tester report, stages 7-10):
+    # battle Units list page 1: the cursor bar (0x8003bf20(x, y, w, h) from 0x80055354) is 280 px on page 1 and 288
+    # on the others; the defence column moved one cell right (above) -> 288 on page 1 too
+    expect(exe, 0x8005534c, [0x34060118])
+    put(exe, 0x8005534c, asm.assemble(0x8005534c, [('ori', 'a2', 'zero', 0x120)]))
+    # "who to talk to" menu of halls and towns (0x8003861c; column 0x80038568 = 29 or 1): the window is 80 px with
+    # the labels at +16 (JP: 4 kanji) -> 112 px, column 25 or 1 (labels reach 70 px, officer names 81): window
+    # 0x50 -> 0x70 (also the redraw at 0x80038bb0), frame 0x52 -> 0x72, cursor bar right edge +72 -> +104, the
+    # scroll arrows two cells right
+    for va, old, new in ((0x800385a8, 0x3403001d, 0x34030019), (0x8003867c, 0x34060050, 0x34060070),
+                         (0x80038bb0, 0x34060050, 0x34060070), (0x80038604, 0x34070052, 0x34070072),
+                         (0x800387bc, 0x2442ffa0, 0x2442ffc0), (0x8003886c, 0x24510008, 0x2451000a)):
+        expect(exe, va, [old])
+        put(exe, va, struct.pack('<I', new))
+    # attack result panels (0x80051700.. and the refresh 0x80051b40..): name at cell +1 / +7, "Lv" plate at +8 /
+    # +14, level "%d" at +10 / +16; the panel ends 4 px after a two-digit level -> plate and level 4 px right: the
+    # name gets 60 px (was 56: "Zhuge Liang" 58 touched the plate; a whole cell would put "10" on the frame)
+    for va, col, flag, y in ((0x800519dc, 's0', 's3', 's1'), (0x80051ca8, 's2', 's4', 's3')):
+        expect(exe, va, [0x14000002 | asm.R[flag] << 21, 0x2400000e | asm.R[col] << 21 | 5 << 16,
+                         0x24000008 | asm.R[col] << 21 | 5 << 16, 0x000528c0])
+        put(exe, va, asm.assemble(va, [
+            ('sll', 'a1', col, 3), ('bnez', flag, va + 16), ('addiu', 'a1', 'a1', 14 * 8 + 4),
+            ('addiu', 'a1', 'a1', -6 * 8)]))
+    expect(exe, 0x800518c8, [0x16600002, 0x26050010, 0x2605000a, 0x3c048013, 0x2484ec74, 0x0c008b08, 0x26260008])
+    put(exe, 0x800518c8, asm.assemble(0x800518c8, [('jal', lab['lvpos'])] + [('nop',)] * 6))

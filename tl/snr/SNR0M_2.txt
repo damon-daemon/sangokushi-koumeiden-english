@@ -398,7 +398,7 @@ Right! Leave it to me!
 Then I will go to Jiangxia to request reinforcements, together with Guan Ping and Zhou Cang. Please await good news.
 
 @80.1
-Yes... I count on you, Guan Yu.
+Yes... I am counting on you, Guan Yu.
 
 @81.0
 Kongming, would you go to Jiangxia as well?\n\nWith you there, it will be easier to persuade Lord Liu Qi.\n\nAlso, if Guan Yu's force alone meets Cao Cao's army, I would be rather uneasy... Please.
@@ -941,7 +941,7 @@ True, Jing Province has already surrendered, and neither Liu Zhang of Yi Provinc
 I see. Intelligence on Cao Cao's army, and tens of thousands of troops... is that it.
 
 @184.0
-Very well, Lu Su. Go and sound out Liu Bei.\n\nThe survival of Wu is at stake. I count on you.
+Very well, Lu Su. Go and sound out Liu Bei.\n\nThe survival of Wu is at stake. I am counting on you.
 
 @185.0
 Yes, my lord. Then, at once...
@@ -1085,7 +1085,7 @@ In Wu, the surrender faction probably holds the majority.\n\nWe must turn that i
 Please, give the order. There is no need for worry.
 
 @220.2
-I see... Understood. I count on you. Kongming, be very careful.
+I see... Understood. I am counting on you. Kongming, be very careful.
 
 @220.3
 Thank you. Then I will go and tell Lord Lu Su.

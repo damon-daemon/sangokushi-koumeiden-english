@@ -149,7 +149,7 @@ It's the Strategist's celebration. I'll drink everything dry!
 Talk to everyone
 
 @37.0
-Congratulations, Kongming. I count on you from now on too.
+Congratulations, Kongming. I am counting on you from now on too.
 
 @38.0
 Kongming, this is a gift to celebrate. Please accept it.
@@ -191,7 +191,7 @@ Master Kongming... I will go back to the room ahead of you.
 Then... I will be waiting for you...
 
 @51.0
-Congratulations, Kongming. I count on you from now on too.
+Congratulations, Kongming. I am counting on you from now on too.
 
 @52.0
 Oh, right, Kongming. A gift of celebration has arrived from Guan Yu in Jing Province too.
@@ -317,7 +317,7 @@ It will be a difficult task, but I ask it of you.
 ...Understood. I accept that task. However, I cannot guarantee that I can persuade Guan Yu. Please understand that.
 
 @81.1
-Yes... I understand. I count on you.
+Yes... I understand. I am counting on you.
 
 @82.0
 Guan Yu is not in Jiangling! Take Jiangling in one stroke!
@@ -401,7 +401,7 @@ Rest easy. We will send you to Wu with an escort. Be on your way.
 Th-Thank you. Mi Fang, let's go.
 
 @97.0
-Fu Shiren... what a small man. Useless. Mi Fang at least still knows shame.
+Fu Shiren... a man of no account. Useless. Mi Fang at least still knows shame.
 
 @97.1
 Lord Lu Meng. When Guan Yu learns that Jiangling has fallen, he will surely come to take it back.
@@ -473,7 +473,7 @@ I see.
 Then let us go at once.
 
 @110.0
-Liao Hua, I count on you. Be sure to bring reinforcements.
+Liao Hua, I am counting on you. Be sure to bring reinforcements.
 
 @110.1
 Yes, sir. ...Lord Guan Yu, please stay safe.

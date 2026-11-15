@@ -53,7 +53,7 @@ C-Commander!
 Commander, are you all right?
 
 @14.1
-Pah, I will not fall for a wound like this. I cannot hand Jiangling to Kongming.\n\n...Call a council of war. I have a secret plan, one that uses this arrow wound.
+Pah, I will not fall for a wound like this. I cannot hand Jiangling to Kongming.\n\n...Call a war council. I have a secret plan, one that uses this arrow wound.
 
 @15
 A few days after Zhou Yu was hit by the poisoned arrow, Cao Ren's army, expecting Zhou Yu to be ill, advanced on Wu's camp. The plan was to taunt Zhou Yu and excite him so the poison would spread faster. Cao Ren believed that if only Zhou Yu fell, Wu's army would collapse.
@@ -95,7 +95,7 @@ But if I back down now, I will be a laughingstock!
 Please, please hold your anger.
 
 @25.0
-Zhou Yu! What is it?! Are you too afraid of me to come out?!\n\nHas the coward's wind blown on you? Ha ha ha, Zhou Yu is a coward! Come, everyone, laugh at him!
+Zhou Yu! What is it?! Are you too afraid of me to come out?!\n\nHave you lost your nerve? Ha ha ha, Zhou Yu is a coward! Come, everyone, laugh at him!
 
 @25.1
 As expected of Lord Zhou! Hey, coward commander! Wa ha ha ha!
@@ -284,7 +284,7 @@ I hear Ma Liang is the fourth son of the Ma family and Ma Su the fifth. Five bro
 I am ashamed to say I had not heard of Ma Liang.
 
 @76.0
-"Of the Five Constants of the Ma family, White Brows is the best." Ma Liang's talent is the talk of the people.
+"Of the five Changs of the Ma family, White Brows is the finest." Ma Liang's talent is the talk of the people.
 
 @77.0
 My brother says he has an excellent plan to pacify Jing Province. Please do hear him.
@@ -299,7 +299,7 @@ That is my intention from the start. Then...
 Lord Liu Bei, how much do you know of southern Jing Province?
 
 @79.1
-There are four commanderies, Changsha, Lingling, Guiyang, and Wuling, once under Liu Biao... Now each of the four is independent. Though I hear not a few of them watch Cao Cao's face. That is about all I know.
+There are four commanderies, Changsha, Lingling, Guiyang, and Wuling, once under Liu Biao... Now each of the four is independent. Though I hear quite a few of them take care not to displease Cao Cao. That is about all I know.
 
 @79.2
 That is correct. The four commanderies of southern Jing are fertile and rich in produce. To govern Jing Province, that land cannot be left out.
@@ -314,10 +314,10 @@ Lord Liu Bei. Do you know of a man named Huang Zhong of Changsha?
 ...No, the name is new to me.
 
 @80.2
-Changsha's governor, Han Xuan, is a small man, but his general Huang Zhong is a considerable figure. Though nearly sixty years old, he is a great martial artist, of good character and beloved by the people. You should bring him into your service.
+Changsha's governor, Han Xuan, is a man of no account, but his general Huang Zhong is a considerable figure. Though nearly sixty years old, he is a great martial artist, of good character and beloved by the people. You should bring him into your service.
 
 @80.3
-Understood. I will remember. Both Ma Liang and Ma Su are men as rumor says. What do you say? Will you go on lending me your strength?
+Understood. I will remember. Both Ma Liang and Ma Su are just as the rumors say. What do you say? Will you go on lending me your strength?
 
 @81.0
 I could ask for nothing better. Together with my brother, I wish to serve you.
@@ -440,7 +440,7 @@ Ho, old man there. Are you the Huang Zhong I have heard of?
 You know of me and still attack. Reckless fool. What is your name?
 
 @110.2
-I am Guan Yunchang, sworn younger brother of the Imperial Uncle Liu. Fight me, fight me!!
+I am Guan Yunchang, sworn younger brother of Imperial Uncle Liu Bei. Fight me, fight me!!
 
 @111.0
 What is this? A man like Huang Zhong comes riding such a nag!
@@ -539,7 +539,7 @@ What?! What are you talking about?!\n\nWh-what are you doing! S-stop it!!\n\nEek
 Damn you, Liu Bei... My Changsha Commandery... Guh!
 
 @119.0
-So that is... Liu Bei's army. Indeed, it is orderly. Quite unlike ours.\n\n(Han Xuan is a small man, and a tyrant. Many people weep. Changsha too would do better under Lord Liu Bei.)\n\nFrom now on, I, Chen Shi, will join Lord Liu Bei's ranks!
+So that is... Liu Bei's army. Indeed, it is orderly. Quite unlike ours.\n\n(Han Xuan is a mere nobody, and a tyrant besides. Many people weep. Changsha too would do better under Lord Liu Bei.)\n\nFrom now on, I, Chen Shi, will join Lord Liu Bei's ranks!
 
 @120
 Chen Shi defected.
@@ -638,13 +638,13 @@ Then let us send a messenger at once.
 Then let us send a messenger at once.
 
 @148.0
-Huang Zhong, Wei Yan. I am delighted to have you two on our side. I count on you from now on.
+Huang Zhong, Wei Yan. I am delighted to have you two on our side. I am counting on you from now on.
 
 @149.0
-Your words are too good for this old frame. I place what life remains in Lord Liu Bei's hands.
+Your words are too good for this old frame. I place what little life I have left in Lord Liu Bei's hands.
 
 @150.0
-To serve Lord Liu Bei is the joy of Wei Yan's life. I will prove myself without fail.
+To serve Lord Liu Bei is the joy of this Wei Yan's life. I will prove myself without fail.
 
 @151.0
 My lord... I oppose taking Wei Yan into service.
@@ -761,7 +761,7 @@ It is at last time, then.
 After we take Yi Province, we march out to the Central Plains and destroy Cao Cao.
 
 @180.0
-It will be a busy time! Pang Tong, I will have you work to the full as well.
+It will be a busy time! Pang Tong, I will have you work to your utmost as well.
 
 @181.0
 Ha ha ha, I look forward to it.
@@ -878,7 +878,7 @@ Yes, a good plan. Ma Su, arrange at once to receive Zhang Song.
 Yes. I will go to meet him at the provincial border.
 
 @203.1
-Yes, I count on you.
+Yes, I am counting on you.
 
 @204.0
 Ma Su... He is quite a sharp man.
@@ -992,7 +992,7 @@ Oh... I am sorry.\n\nBut now you and my husband need not quarrel over the conque
 Indeed, Zhou Yu is not the only famous general in the world!
 
 @234.0
-Liu Xuande, you mean? Well, I wonder.\n\nMy looks have been my curse. Apart from Zhou Yu and Lu Su, nobody would recognize me...
+Liu Xuande, you mean? Well, I wonder.\n\nMy looks have been my curse. Apart from Zhou Yu and Lu Su, nobody would acknowledge my worth...
 
 @235.0
 No! My lord is not a man to judge people by appearances.
@@ -1040,7 +1040,7 @@ A letter of introduction...? No, I have not seen one.
 ......Pang Tong hates above all to have his worth judged by his looks alone. He was probably testing you, my lord.
 
 @245.0
-Ah, what a blunder! The failure of Liu Bei's lifetime!
+Ah, what have I done! The greatest blunder of this Liu Bei's life!
 
 @246.0
 Hmm, now that I think of it, Xu Shu also said so... that Pang Tong of Xiangyang is the "Young Phoenix"...
@@ -1196,7 +1196,7 @@ Oh? Why? It would have been a chance to take Yi Province.
 You know that Ma Chao, whose father Ma Teng was murdered by Cao Cao's scheme, led the Xiliang army against Guanzhong?
 
 @291.5
-Yes. Cao Cao marched himself and defeated Ma Chao at Pang Tong Pass, I hear. Ma Chao escaped, it seems...
+Yes. Cao Cao marched himself and defeated Ma Chao at Tong Pass, I hear. Ma Chao escaped, it seems...
 
 @291.6
 Exactly. Cao Cao has only just mobilized a great army to pacify Guanzhong. He probably dislikes fighting battle after battle.\n\nMore importantly, my lord, Zhang Song, the envoy of Yi Province, has come to Jiangling. I had Ma Su invite him, so please speak with him.
@@ -1220,7 +1220,7 @@ As you may already know, Yi Province is now fighting Zhang Lu of Hanzhong.\n\nOu
 I see. Liu Zhang and I both belong to the Han imperial clan. I cannot overlook the hardship of my kinsman. If you wish, we will come to your aid.
 
 @296.0
-Oh! Truly? Thank you.\n\n(As rumored, the Imperial Uncle is a lord of benevolence... Here, to the Imperial Uncle...)
+Oh! Truly? Thank you.\n\n(As rumored, the Imperial Uncle is a lord of benevolence... Then it should be the Imperial Uncle...)
 
 @297.0
 Imperial Uncle. ...In fact I have one more request.
@@ -1271,7 +1271,7 @@ Yes. I thought you would say so.\n\nTomorrow I will persuade Liu Zhang to rely o
 Yes, understood. Leave it to us.
 
 @304.5
-Zhang Song, I count on you. The future of Yi Province depends on it.
+Zhang Song, I am counting on you. The future of Yi Province depends on it.
 
 @305
 Chengdu: Council Hall
@@ -1313,7 +1313,7 @@ Then we depart at once.
 Zhang Song, well done.
 
 @312.0
-Yes, my lord.\n\n\n(Heh heh heh... knowing nothing...)
+Yes, my lord.\n\n\n(Heh heh heh... he suspects nothing...)
 
 @313.0
 My lord, you must not trust Zhang Song's words. If you let Liu Bei into your territory, Yi Province will no longer be yours.
@@ -1403,7 +1403,7 @@ Pang Tong, Huang Zhong, Wei Yan, Liu Feng, Ma Su, and the others will go to Yi P
 Lord Liu Bei, I have been waiting for you. I am Meng Da, styled Ziqing.
 
 @333.1
-Ah, Meng Da. I count on you.
+Ah, Meng Da. I am counting on you.
 
 @333.2
 Yes, my lord. Then I will guide you.

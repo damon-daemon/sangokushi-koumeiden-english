@@ -149,7 +149,7 @@ Relying on strategies is fine, but think carefully about your SP when you use th
 Do you know who "White Brows" is? It's Lord Ma Liang!
 
 @50
-You know what? The lower your level is than your opponent's, the more experience you get.
+Did you know? The lower your level is than your opponent's, the more experience you get.
 
 @51
 How you win a battle is what matters. Merely winning will not give you experience.
@@ -176,7 +176,7 @@ The land in southern Jing Province is very fertile.
 Oh dear, I've gotten tipsy.
 
 @59
-They say the horse "Dilu" is an ill-omened horse. It brings misfortune to whoever rides it...
+They say the horse "Hex Mark" is an ill-omened horse. It brings misfortune to whoever rides it...
 
 @60
 They're called short weapon units because they use swords and other short weapons... What happens if they use long weapons?

@@ -185,19 +185,19 @@ An alliance with Wu is well enough... Kongming, can we manage the remaining enem
 Leave it to me, Your Majesty.\n\nNow, I will hold a war council in the Council Hall, so please excuse me.
 
 @53.0
-Yes. Prime Minister, I count on you.
+Yes. Prime Minister, I am counting on you.
 
 @54.0
-Yes. Kongming, I count on you.
+Yes. Kongming, I am counting on you.
 
 @55
 Head for the Council Hall in Chengdu
 
 @56.0
-Kongming, I count on you.
+Kongming, I am counting on you.
 
 @57.0
-Prime Minister, I count on you.
+Prime Minister, I am counting on you.
 
 @58.0
 We depend on you, Prime Minister. Please do your best.
@@ -656,7 +656,7 @@ Prime Minister. When you have pacified the Nanman, come back at once.
 Prime Minister, I would like to stay in Chengdu and handle domestic affairs while you are away.
 
 @172.1
-Yes. I can leave it to you with an easy mind. I count on you.
+Yes. I can leave it to you with an easy mind. I am counting on you.
 
 @172.2
 The rebels are said to be at Jianning. Near Jianning there is a place called Yuesui. I suggest making it your base.
@@ -668,7 +668,7 @@ I see. Then tell the generals to move to Yuesui. I will follow at once.
 Now, Your Majesty. Your servant Liang goes to subdue the Nanman. Please excuse me.
 
 @174.0
-Yes. Prime Minister, I count on you.
+Yes. Prime Minister, I am counting on you.
 
 @177.0
 The climate of the Nanman land is different from here. Please take care.
@@ -938,7 +938,7 @@ Yes... that is so. Lu Kai, do you have any objection?
 I too am a servant of the Han court. I have no objection at all.\n\nPrime Minister, I look forward to serving you.
 
 @235.0
-Now we head for the Nanman land. It will be hard on all of you, but I count on you.\n\nThe fate of the Han court hangs on this war.
+Now we head for the Nanman land. It will be hard on all of you, but I am counting on you.\n\nThe fate of the Han court hangs on this war.
 
 @238.0
 Brother! I hear Yong Kai's rebellion has been put down.

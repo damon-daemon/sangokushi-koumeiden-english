@@ -164,7 +164,7 @@ PROG:800117ac	Compound clubs with ball knobs\non the hilt. Comes as a pair.
 PROG:800117e4	Very sturdy metal rod, not long.\nA two-handed striking weapon.
 PROG:80011824	Weapon: iron claws on a rope.\nIt packs power too.
 PROG:80011850	Ring weapon with an inner\ncrescent blade. Fast attack.
-PROG:80011884	Single-edged bronze\nstraight sword.\nNot very strong.
+PROG:80011884	Single-edged bronze straight sword.\nNot very strong.
 PROG:800118ac	Slashes more than stabs.\nMid-size curved sword.
 PROG:800118d4	Ring-hilt sword.\nEasy to use.
 PROG:800118f8	Short wood clubs on\nan iron chain.
@@ -188,8 +188,8 @@ PROG:80011bb8	Twin male-and-female swords.\nHolder gets divine protection.
 PROG:80011bf8	Serpent spear, 1 zhang 8 chi.\nMighty if mastered.
 PROG:80011c34	An 82-jin great glaive.\nTrue power cleaves war horses.
 PROG:80011c6c	Sword set with seven gems.\nIts gleam cuts enemies.
-PROG:80011ca0	Twin of the Yitian Sword.\nZhao Yun took it from Xiahou\nEn at Changban.
-PROG:80011cdc	Halberd with a moon\nblade at its tip.\nAmazing power.
+PROG:80011ca0	Twin of the Yitian Sword. Zhao Yun\ntook it from Xiahou En at Changban.
+PROG:80011cdc	Halberd with a moon blade at its tip.\nAmazing power.
 PROG:80011d08	Twin of the Qinggang Sword.\nThe strongest weapon.
 PROG:80011d38	Type Chg
 PROG:80011d44	Type Up
