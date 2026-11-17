@@ -53,7 +53,7 @@ PROG:800dcc2c	Huang Quan
 PROG:800dcc34	Zhang Shao
 PROG:800dcc3c	Yang Xiu
 PROG:800dcc44	Wen Pin
-PROG:800dcc4c	Ke Bineng
+PROG:800dcc4c	Kebineng
 PROG:800dcc54	Yue Ji
 PROG:800dcc5c	Ya Dan
 PROG:800dcc64	Leng Bao

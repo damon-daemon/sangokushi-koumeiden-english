@@ -737,10 +737,71 @@ def lines(tok_label):
         ('lw', 's5', 0x60, 'sp'),
         ('jr', 'ra'),
         ('addiu', 'sp', 'sp', 0x80),
+        # plate (s0 town): the town overview's name plate, PLATE(12, 24, 56, 24) with the name at x 16, was
+        # sized for 3 kanji -> as wide as the English name (issue #11: "Yinkeng Cave" ran past it)
+        'plate:',
+        ('sltiu', 'v0', 's0', PLATE_TOWNS),
+        ('beq', 'v0', 'zero', 'pl_go'),
+        ('ori', 'a2', 'zero', 0x38),
+        ('addiu', 'sp', 'sp', -0x18),
+        ('sw', 'ra', 0x10, 'sp'),
+        ('sll', 'a0', 's0', 1),
+        ('addu', 'a0', 'a0', 's0'),
+        ('sll', 'a0', 'a0', 2),
+        ('lui', 'v0', asm.hi(PLATE_NAMES)),
+        ('addiu', 'v0', 'v0', asm.lo(PLATE_NAMES)),
+        ('jal', 'vstrlen'),
+        ('addu', 'a0', 'a0', 'v0'),
+        ('lui', 'v0', asm.hi(VPX)),
+        ('lw', 'a2', asm.lo(VPX), 'v0'),
+        ('lw', 'ra', 0x10, 'sp'),
+        ('addiu', 'a2', 'a2', 8),
+        ('sltiu', 'v0', 'a2', 0x38),
+        ('beq', 'v0', 'zero', 'pl_wide'),
+        ('addiu', 'sp', 'sp', 0x18),
+        ('ori', 'a2', 'zero', 0x38),
+        'pl_wide:',
+        ('ori', 'a0', 'zero', 0xc),
+        ('ori', 'a1', 'zero', 0x18),
+        ('ori', 'a3', 'zero', 0x18),
+        'pl_go:',
+        ('j', PLATE),
+        ('nop',),
     ]
 
 
 H, L = asm.hi, asm.lo
+# town overview (0x8001d03c(town)): name plate 0x8001cc78(x, y, w, h), names = 12-B records for towns < 28
+PLATE, PLATE_CALL, PLATE_NAMES, PLATE_TOWNS = 0x8001cc78, 0x8001d068, 0x801080e8, 0x1c
+# building labels (0x8001c928): 10 position bytes per town (0xff = none; x = code % 20 * 16 + 8, row = code / 20;
+# the cursor follows the code), label strings by pointer
+TOWN_POS, TOWN_LABELS, TOWN_COUNT, TOWN_RIGHT = 0x800aa450, 0x800aa428, 26, 316
+
+
+def town_labels(exe, put):
+    """move building labels that would pass the right screen edge in English left by whole 16-px columns
+    (issue #11: Hanzhong's "Meeting Hall")"""
+    def at(va):
+        return va - 0x80010000 + 0x800
+    names = []
+    for j in range(10):
+        p = at(struct.unpack_from('<I', exe, at(TOWN_LABELS) + 4 * j)[0])
+        names.append(bytes(exe[p:exe.index(0, p)]).decode('ascii'))
+    for t in range(TOWN_COUNT):
+        codes = list(exe[at(TOWN_POS) + t * 10:at(TOWN_POS) + t * 10 + 10])
+        spans = lambda j: (codes[j] % 20 * 16 + 8, codes[j] % 20 * 16 + 8 + width(names[j]))
+        for j, c in enumerate(codes):
+            if c == 0xff:
+                continue
+            while spans(j)[1] > TOWN_RIGHT:
+                assert codes[j] % 20, (t, names[j])
+                codes[j] -= 1
+            if codes[j] != c:
+                for k, c2 in enumerate(codes):       # no other label of the row may be touched
+                    if k != j and c2 != 0xff and c2 // 20 == codes[j] // 20:
+                        assert spans(k)[1] + 8 <= spans(j)[0] or spans(j)[1] + 8 <= spans(k)[0], (t, names[j], names[k])
+                print('town %d: %s moved %d px left' % (t, names[j], (c - codes[j]) * 16))
+        put(exe, TOWN_POS + t * 10, bytes(codes))
 
 EQUIP_BMP = 0x800a5244             # 32 x 16 px 4bpp bitmap 装備可 ("can equip"), LoadImage'd by 0x80020f70
 
@@ -764,6 +825,9 @@ def patch(exe, lab, put, expect):
     """message box line cutter -> vcut; message box width from the widest line in pixels"""
     expect(exe, SET_POS, [0x27bdffe0, 0xafbf0018])
     put(exe, SET_POS, asm.assemble(SET_POS, [('j', lab['vsetpos']), ('nop',)]))
+    expect(exe, PLATE_CALL, [0x0c000000 | (PLATE >> 2 & 0x3ffffff)])
+    put(exe, PLATE_CALL, asm.assemble(PLATE_CALL, [('jal', lab['plate'])]))
+    town_labels(exe, put)
     expect(exe, CUT, [0x27bdff80, 0xafbf0078])
     put(exe, CUT, asm.assemble(CUT, [('j', lab['vcut']), ('nop',)]))
     # 0x8003d19c: s1 = longest line in bytes of the formatted text 0x8011fc3c (box = s1 * 8 + 32 px)
