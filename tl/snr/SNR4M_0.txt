@@ -502,6 +502,9 @@ Prime Minister. The Wei army seems to have retreated to Chang'an.
 @128.0
 Prime Minister, let us march on Chang'an in one stroke.
 
+@128.1
+Yes... Indeed...
+
 @129.0
 ...Prime Minister? Are you not unwell? Your complexion is poor as well. You should not push yourself too hard...
 

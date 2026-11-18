@@ -71,13 +71,13 @@ What is it? Is something troubling you?
 Wu. With the attack on Fan Castle, Jing Province is thinly defended. Wu will surely not miss this chance.\n\nKnowing Lord Guan Yu, I am sure he has made proper preparations, but...
 
 @19.4
-You worry too much, Kongming. With others perhaps, but Guan Yu will be fine.
+You worry too much, Kongming. Anyone else might warrant concern, but not Guan Yu.
 
 @20.0
 ...But Lu Meng, Lu Su's successor, seems to intend to retake Jing Province. As for Yi Province, it will be fine with Pang Tong there.\n\nMy lord, please let me go and defend Jing Province.
 
 @20.1
-I see... If Kongming goes that far, let us be doubly careful. But considering Yi Province's defenses too, we cannot spare many units. Very well, take Huang Zhong and Ma Su with you.
+I see... If even you go that far, Kongming, let us be doubly careful. But considering Yi Province's defenses too, we cannot spare many units. Very well, take Huang Zhong and Ma Su with you.
 
 @21.0
 ...Yes.
@@ -392,7 +392,7 @@ Yes. Then, if you will excuse me.
 So you are Mi Fang and Fu Shiren?
 
 @96.2
-Is it true that you will guarantee our safety? ...Ah, no, that is... Is it true, sir?
+Y-You had better be telling the truth about guaranteeing our safety! ...Er, n-no, that is... It is true... is it not, sir?
 
 @96.3
 Rest easy. We will send you to Wu with an escort. Be on your way.
@@ -533,7 +533,7 @@ I am Zhuge Jin. I have come as an envoy of Wu.
 As an envoy of Wu, you say. And what is your business?
 
 @124.0
-I have come to urge Lord Guan Yu to surrender. My lord Sun Quan holds you in high regard. What say you? Will you not serve my Wu?
+I have come to urge Lord Guan Yu to surrender. My lord Sun Quan holds you in high regard. What say you? Will you not serve Wu, as I do?
 
 @125.0
 Don't be absurd!!
@@ -596,7 +596,7 @@ Y-Yes...
 Good. Then the whole army sorties!
 
 @136.0
-Guan Ping, are you sure? You could have gone to Chengdu like your brothers.
+Guan Ping, are you sure of this? You could have gone to Chengdu like your brothers.
 
 @136.1
 It is the eldest son's duty to die with his father. I do not regret becoming a son of the Guan house.
@@ -716,7 +716,7 @@ Guan Xing, Guan Suo. Head for the village to the southwest. Understood!
 Father...
 
 @161.3
-Guan Ping, are you sure? You could have gone to Chengdu with your brothers.
+Guan Ping, are you sure of this? You could have gone to Chengdu with your brothers.
 
 @161.4
 It is the eldest son's duty to die with his father. I do not regret becoming a son of the Guan house.
@@ -852,6 +852,9 @@ To think Kongming would come leading reinforcements...
 
 @188.1
 It is a pity we could not take Guan Yu's head, but Jing Province has fallen into Wu's hands.
+
+@188.2
+True enough...
 
 @190.0
 Lord Guan Yu, I have long wished to have a man of valor like you among my retainers.
@@ -1346,7 +1349,7 @@ Ah... Is there nothing We can do...
 Oh, you have decided! Then, Your Majesty the King, please, to the throne.
 
 @313.0
-Then, Han Emperor... no, Liu Xie. You are no longer the Son of Heaven. We enfeoff you as Duke of Shanyang of the Wei dynasty. Set out for your post at once.
+Then, Han Emperor... no, Liu Xie. You are no longer the Son of Heaven. We enfeoff you as Duke of Shanyang under the Wei dynasty. Set out for your post at once.
 
 @315.0
 ...Ugh.

@@ -718,6 +718,9 @@ Zhan... Very well. You will sortie as well.
 @186.1
 Yes! Then which unit should I lead?
 
+@186.2
+Let me see...
+
 @187
 Grand Strategist\nImperial Guard\nRepeating Bows\nRoyal Guard\nGrand Chariots\nThunder Carts\nChief Strategist\nMartial Masters\nSupply Corps\nBand
 
